@@ -1,8 +1,12 @@
 package dictionary
 
 import (
+	"encoding/json"
 	"io/fs"
+	"strings"
 	"testing"
+	"testing/fstest"
+	"unicode/utf8"
 
 	app "github.com/cookiengineer/words-with-learners-app"
 	"github.com/cookiengineer/words-with-learners-app/internal/game"
@@ -45,6 +49,128 @@ func TestValidationAcceptsWordsFromOtherLevelsButHintsStayInLevel(t *testing.T) 
 		if entry.Word == "HÖHE" {
 			t.Fatal("C1 entries should not include the A2 word HÖHE")
 		}
+	}
+}
+
+func TestSupplementWordsArePlayableAtEveryLevel(t *testing.T) {
+	root, err := fs.Sub(app.Files, "dictionaries")
+	if err != nil {
+		t.Fatal(err)
+	}
+	library, err := LoadLibrary(root)
+	if err != nil {
+		t.Fatal(err)
+	}
+	for _, language := range game.Languages {
+		seen := make(map[string]string)
+		for _, kind := range supplementKinds {
+			supplementPath := string(language) + "/" + kind + ".json"
+			raw, err := fs.ReadFile(root, supplementPath)
+			if err != nil {
+				t.Fatal(err)
+			}
+			var supplement SupplementFile
+			if err := json.Unmarshal(raw, &supplement); err != nil {
+				t.Fatal(err)
+			}
+			if supplement.Language != language || supplement.Kind != kind {
+				t.Fatalf("%s declares %s %s", supplementPath, supplement.Language, supplement.Kind)
+			}
+			if len(supplement.Words) == 0 {
+				t.Fatalf("%s is empty", supplementPath)
+			}
+			for _, entry := range supplement.Words {
+				word := strings.ToUpper(strings.TrimSpace(entry.Word))
+				if utf8.RuneCountInString(word) < 2 || utf8.RuneCountInString(word) > game.MaxRackSize {
+					t.Fatalf("%s: invalid word length for %q", supplementPath, entry.Word)
+				}
+				if strings.TrimSpace(entry.Hint) == "" {
+					t.Fatalf("%s: missing hint for %q", supplementPath, entry.Word)
+				}
+				if previous, exists := seen[word]; exists {
+					t.Fatalf("%s: duplicate supplement word %q (already in %s)", supplementPath, entry.Word, previous)
+				}
+				seen[word] = supplementPath
+				for _, level := range game.Levels {
+					dict, err := library.Get(language, level)
+					if err != nil {
+						t.Fatal(err)
+					}
+					if !dict.ContainsWord(word) {
+						t.Fatalf("%s %s does not accept supplement word %q", language, level, word)
+					}
+				}
+			}
+		}
+	}
+}
+
+func TestSupplementWordsProvideHints(t *testing.T) {
+	root, err := fs.Sub(app.Files, "dictionaries")
+	if err != nil {
+		t.Fatal(err)
+	}
+	library, err := LoadLibrary(root)
+	if err != nil {
+		t.Fatal(err)
+	}
+	cases := []struct {
+		language game.Language
+		word     string
+	}{
+		{game.LanguageDutch, "ROTTERDAM"},
+		{game.LanguageEnglish, "STONEHENGE"},
+		{game.LanguageGerman, "ZUGSPITZE"},
+		{game.LanguageSpanish, "TEIDE"},
+		{game.LanguageFrench, "VERSAILLES"},
+		{game.LanguageItalian, "ETNA"},
+		{game.LanguageRussian, "БАЙКАЛ"},
+	}
+	for _, testCase := range cases {
+		dict, err := library.Get(testCase.language, game.LevelA1)
+		if err != nil {
+			t.Fatal(err)
+		}
+		if !dict.ContainsWord(testCase.word) {
+			t.Fatalf("%s A1 does not accept %q", testCase.language, testCase.word)
+		}
+		if dict.HintFor(testCase.word) == "" {
+			t.Fatalf("%s A1 has no hint for %q", testCase.language, testCase.word)
+		}
+		found := false
+		for _, entry := range dict.Entries() {
+			if entry.Word == testCase.word {
+				found = true
+				break
+			}
+		}
+		if !found {
+			t.Fatalf("%s A1 entries do not include %q", testCase.language, testCase.word)
+		}
+	}
+}
+
+func TestLoadSupplementsRejectsDuplicates(t *testing.T) {
+	files := fstest.MapFS{
+		"nl/cities.json": &fstest.MapFile{Data: []byte(`{
+			"schemaVersion": 1,
+			"language": "nl",
+			"kind": "cities",
+			"words": [{"word": "AMSTERDAM", "hint": "city"}]
+		}`)},
+		"nl/sights.json": &fstest.MapFile{Data: []byte(`{
+			"schemaVersion": 1,
+			"language": "nl",
+			"kind": "sights",
+			"words": [{"word": "AMSTERDAM", "hint": "city"}]
+		}`)},
+	}
+	letters := make(map[string]bool)
+	for _, letter := range "AMSTERDAM" {
+		letters[string(letter)] = true
+	}
+	if _, err := loadSupplements(files, game.LanguageDutch, letters); err == nil {
+		t.Fatal("expected duplicate supplement words to be rejected")
 	}
 }
 

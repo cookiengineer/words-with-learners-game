@@ -796,6 +796,18 @@
       "hint": "somewhat equivalent to -teen (used to form cardinal numbers from 17 to 19)"
     },
     {
+      "word": "DICIANNOVE",
+      "hint": "nineteen (19)"
+    },
+    {
+      "word": "DICIASSETTE",
+      "hint": "seventeen (17)"
+    },
+    {
+      "word": "DICIOTTO",
+      "hint": "eighteen (18)"
+    },
+    {
       "word": "DICO",
       "hint": "first-person singular present indicative of dire"
     },
@@ -866,6 +878,10 @@
     {
       "word": "DOBBIAMO",
       "hint": "apocopic form of dobbiamo"
+    },
+    {
+      "word": "DODICI",
+      "hint": "twelve (12)"
     },
     {
       "word": "DOLLARI",
@@ -1888,6 +1904,10 @@
       "hint": "night"
     },
     {
+      "word": "NOVE",
+      "hint": "nine (9)"
+    },
+    {
       "word": "NULLA",
       "hint": "feminine singular of nullo"
     },
@@ -1986,6 +2006,10 @@
     {
       "word": "OTTIMO",
       "hint": "very good, very fine, excellent, perfect, splendid"
+    },
+    {
+      "word": "OTTO",
+      "hint": "eight (8)"
     },
     {
       "word": "OVVIAMENTE",
@@ -2500,6 +2524,10 @@
       "hint": "almost, nearly"
     },
     {
+      "word": "QUATTORDICI",
+      "hint": "fourteen (14)"
+    },
+    {
       "word": "QUATTRO",
       "hint": "four"
     },
@@ -2554,6 +2582,10 @@
     {
       "word": "QUINDI",
       "hint": "therefore, hence, thus; then, afterwards, thenceforth"
+    },
+    {
+      "word": "QUINDICI",
+      "hint": "fifteen (15)"
     },
     {
       "word": "RAGAZZA",
@@ -2750,6 +2782,10 @@
     {
       "word": "SECONDO",
       "hint": "second; the second"
+    },
+    {
+      "word": "SEDICI",
+      "hint": "sixteen (16)"
     },
     {
       "word": "SEGUITO",
@@ -3216,6 +3252,10 @@
       "hint": "three"
     },
     {
+      "word": "TREDICI",
+      "hint": "thirteen (13)"
+    },
+    {
       "word": "TROPPO",
       "hint": "too much, (in the plural) too many"
     },
@@ -3302,6 +3342,10 @@
     {
       "word": "UNA",
       "hint": "feminine singular of uno"
+    },
+    {
+      "word": "UNDICI",
+      "hint": "eleven (11)"
     },
     {
       "word": "UNICA",
@@ -3410,6 +3454,10 @@
     {
       "word": "VENIRE",
       "hint": "to come; to arrive"
+    },
+    {
+      "word": "VENTI",
+      "hint": "twenty (20)"
     },
     {
       "word": "VERA",

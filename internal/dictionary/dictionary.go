@@ -26,6 +26,15 @@ type WordFile struct {
 	Words         []WordEntry   `json:"words"`
 }
 
+type SupplementFile struct {
+	SchemaVersion int           `json:"schemaVersion"`
+	Language      game.Language `json:"language"`
+	Kind          string        `json:"kind"`
+	Words         []WordEntry   `json:"words"`
+}
+
+var supplementKinds = []string{"cities", "sights"}
+
 type WordEntry struct {
 	Word string `json:"word"`
 	Hint string `json:"hint"`
@@ -183,11 +192,80 @@ func LoadLibrary(fsys fs.FS) (*Library, error) {
 			library.byKey[Key(language, level)] = dict
 			languageDictionaries = append(languageDictionaries, dict)
 		}
+		supplements, err := loadSupplements(fsys, language, letterSet)
+		if err != nil {
+			return nil, err
+		}
+		mergeSupplements(languageDictionaries, supplements)
 		for _, dict := range languageDictionaries {
 			dict.validation = append(dict.validation, languageDictionaries...)
 		}
 	}
 	return library, nil
+}
+
+func loadSupplements(fsys fs.FS, language game.Language, letterSet map[string]bool) ([]Entry, error) {
+	entries := make([]Entry, 0)
+	seen := make(map[string]string)
+	for _, kind := range supplementKinds {
+		supplementPath := path.Join(string(language), kind+".json")
+		raw, err := fs.ReadFile(fsys, supplementPath)
+		if err != nil {
+			return nil, fmt.Errorf("read %s: %w", supplementPath, err)
+		}
+		var supplement SupplementFile
+		if err := json.Unmarshal(raw, &supplement); err != nil {
+			return nil, fmt.Errorf("parse %s: %w", supplementPath, err)
+		}
+		if supplement.Language != language {
+			return nil, fmt.Errorf("%s declares language %q", supplementPath, supplement.Language)
+		}
+		if supplement.Kind != kind {
+			return nil, fmt.Errorf("%s declares kind %q", supplementPath, supplement.Kind)
+		}
+		if len(supplement.Words) == 0 {
+			return nil, fmt.Errorf("%s: supplement is empty", supplementPath)
+		}
+		for _, entry := range supplement.Words {
+			word := strings.ToUpper(strings.TrimSpace(entry.Word))
+			hint := strings.TrimSpace(entry.Hint)
+			if utf8.RuneCountInString(word) < 2 {
+				return nil, fmt.Errorf("%s: word %q is too short", supplementPath, entry.Word)
+			}
+			if utf8.RuneCountInString(word) > game.MaxRackSize {
+				return nil, fmt.Errorf("%s: word %q is longer than the board", supplementPath, entry.Word)
+			}
+			for _, letter := range word {
+				if !letterSet[string(letter)] {
+					return nil, fmt.Errorf("%s: word %q uses unknown letter %q", supplementPath, entry.Word, string(letter))
+				}
+			}
+			if hint == "" {
+				return nil, fmt.Errorf("%s: word %q has no hint", supplementPath, entry.Word)
+			}
+			if previous, exists := seen[word]; exists {
+				return nil, fmt.Errorf("%s: duplicate supplement word %q (already in %s)", supplementPath, entry.Word, previous)
+			}
+			seen[word] = supplementPath
+			entries = append(entries, Entry{Word: word, Hint: hint})
+		}
+	}
+	return entries, nil
+}
+
+func mergeSupplements(dictionaries []*Dictionary, supplements []Entry) {
+	for _, dict := range dictionaries {
+		for _, supplement := range supplements {
+			if _, exists := dict.words[supplement.Word]; exists {
+				continue
+			}
+			dict.words[supplement.Word] = supplement.Hint
+			dict.entries = append(dict.entries, supplement)
+		}
+		sort.Slice(dict.entries, func(i, j int) bool {
+			return dict.entries[i].Word < dict.entries[j].Word
+		})
+	}
 }
 
 func validateAlphabet(alphabet AlphabetFile) ([]game.TileSpec, map[string]bool, error) {

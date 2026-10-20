@@ -416,6 +416,10 @@
       "hint": "case (situation or fact); case (instance of a medical condition)"
     },
     {
+      "word": "CATORCE",
+      "hint": "fourteen (14)"
+    },
+    {
       "word": "CAUSA",
       "hint": "cause; lawsuit"
     },
@@ -824,6 +828,22 @@
       "hint": "gerund of decir"
     },
     {
+      "word": "DIECINUEVE",
+      "hint": "nineteen (19)"
+    },
+    {
+      "word": "DIECIOCHO",
+      "hint": "eighteen (18)"
+    },
+    {
+      "word": "DIECISIETE",
+      "hint": "seventeen (17)"
+    },
+    {
+      "word": "DIECISÉIS",
+      "hint": "sixteen (16)"
+    },
+    {
       "word": "DIEZ",
       "hint": "ten"
     },
@@ -882,6 +902,10 @@
     {
       "word": "DIRECTOR",
       "hint": "director; conductor (of a musical ensemble)"
+    },
+    {
+      "word": "DOCE",
+      "hint": "twelve (12)"
     },
     {
       "word": "DOCTOR",
@@ -2216,6 +2240,10 @@
       "hint": "news, novelty"
     },
     {
+      "word": "NUEVE",
+      "hint": "nine (9)"
+    },
+    {
       "word": "NUEVO",
       "hint": "new; brand new, all-new"
     },
@@ -2270,6 +2298,10 @@
     {
       "word": "OK",
       "hint": "OK"
+    },
+    {
+      "word": "ONCE",
+      "hint": "eleven (11)"
     },
     {
       "word": "OPINIÓN",
@@ -2746,6 +2778,10 @@
     {
       "word": "QUIERO",
       "hint": "first-person singular present indicative of querer"
+    },
+    {
+      "word": "QUINCE",
+      "hint": "fifteen (15)"
     },
     {
       "word": "QUIZÁ",
@@ -3336,6 +3372,10 @@
       "hint": "bend, turn"
     },
     {
+      "word": "TRECE",
+      "hint": "thirteen (13)"
+    },
+    {
       "word": "TRES",
       "hint": "three"
     },
@@ -3442,6 +3482,10 @@
     {
       "word": "VECES",
       "hint": "by, times (multiplication)"
+    },
+    {
+      "word": "VEINTE",
+      "hint": "twenty (20)"
     },
     {
       "word": "VEMOS",

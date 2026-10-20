@@ -28,6 +28,10 @@
       "hint": "eight (numerical value represented by the Arabic numeral 8; or describing a set with eight elements)"
     },
     {
+      "word": "ACHTZEHN",
+      "hint": "eighteen (18)"
+    },
+    {
       "word": "AHNUNG",
       "hint": "anticipation, inkling; clue, idea, notion"
     },
@@ -624,6 +628,10 @@
       "hint": "three (numerical value represented by the Arabic numeral 3; or describing a set with three elements)"
     },
     {
+      "word": "DREIZEHN",
+      "hint": "thirteen (13)"
+    },
+    {
       "word": "DRIN",
       "hint": "inside"
     },
@@ -718,6 +726,10 @@
     {
       "word": "EINZIGE",
       "hint": "only, sole; unique"
+    },
+    {
+      "word": "ELF",
+      "hint": "eleven (11)"
     },
     {
       "word": "ELTERN",
@@ -986,6 +998,10 @@
     {
       "word": "FÜNF",
       "hint": "five (numerical value represented by the Arabic numeral 5; or describing a set with five elements)"
+    },
+    {
+      "word": "FÜNFZEHN",
+      "hint": "fifteen (15)"
     },
     {
       "word": "FÜR",
@@ -2248,6 +2264,14 @@
       "hint": "strong/mixed nominative/accusative neuter singular of neu"
     },
     {
+      "word": "NEUN",
+      "hint": "nine (9)"
+    },
+    {
+      "word": "NEUNZEHN",
+      "hint": "nineteen (19)"
+    },
+    {
       "word": "NEW",
       "hint": "obsolete spelling of neu"
     },
@@ -2620,6 +2644,10 @@
       "hint": "six (numerical value represented by the Arabic numeral 6; or describing a set with six elements)"
     },
     {
+      "word": "SECHZEHN",
+      "hint": "sixteen (16)"
+    },
+    {
       "word": "SEHE",
       "hint": "inflection of sehen"
     },
@@ -2714,6 +2742,10 @@
     {
       "word": "SIEBEN",
       "hint": "seven (numerical value represented by the Arabic numeral 7; or describing a set with seven elements)"
+    },
+    {
+      "word": "SIEBZEHN",
+      "hint": "seventeen (17)"
     },
     {
       "word": "SIEHST",
@@ -3176,6 +3208,10 @@
       "hint": "four (numerical value represented by the Arabic numeral 4; or describing a set with four elements)"
     },
     {
+      "word": "VIERZEHN",
+      "hint": "fourteen (14)"
+    },
+    {
       "word": "VOLL",
       "hint": "full; filled; full (not hungry anymore)"
     },
@@ -3552,6 +3588,10 @@
       "hint": "together, jointly"
     },
     {
+      "word": "ZWANZIG",
+      "hint": "twenty (20)"
+    },
+    {
       "word": "ZWAR",
       "hint": "Signals a following contrary clause, which is usually introduced with aber (“but”), stressing that the speaker is aware of the contradiction, but that it does not invalidate the"
     },
@@ -3570,6 +3610,10 @@
     {
       "word": "ZWISCHEN",
       "hint": "between; among, amongst"
+    },
+    {
+      "word": "ZWÖLF",
+      "hint": "twelve (12)"
     },
     {
       "word": "ÄNDERN",

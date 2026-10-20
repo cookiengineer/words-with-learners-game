@@ -64,13 +64,15 @@ go run ./cmd/server -dev -addr :8080
 
 ## Dictionaries
 
-Each language has an `alphabet.json` with tile values and counts, plus one word file per CEFR level:
+Each language has an `alphabet.json` with tile values and counts, one word file per CEFR level, and two curated supplement files:
 
 ```text
 dictionaries/nl/alphabet.json
 dictionaries/nl/a1.json
 dictionaries/nl/a2.json
 ...
+dictionaries/nl/cities.json
+dictionaries/nl/sights.json
 ```
 
 Word files use this format:
@@ -86,9 +88,24 @@ Word files use this format:
 }
 ```
 
+City and sight supplements use the same word format with a `kind` field:
+
+```json
+{
+  "schemaVersion": 1,
+  "language": "nl",
+  "kind": "cities",
+  "words": [
+    { "word": "ROTTERDAM", "hint": "major port city in South Holland" }
+  ]
+}
+```
+
 The bundled dictionaries for Dutch, English, German, Spanish, French, Italian, and Russian are generated from the Lingvoberry A0–C2 word lists. A0 is merged into A1.
 
-Hints, suggestions, and automatic reshuffles use words from the selected level only. Move validation accepts any legitimate word from any level of that language, so an A1 game can use a C2 word if the player finds one.
+The city and sight supplements cover the target countries: the Netherlands, the United Kingdom, Germany, Spain, France, Italy, and Russia. They contain localized single-token names with English hints. Names that require spaces or hyphens are omitted because the board only accepts single words.
+
+Hints, suggestions, and automatic reshuffles use words from the selected level plus the city and sight supplements. Move validation accepts any legitimate word from any level of that language, so an A1 game can use a C2 word or a city name if the player finds one.
 
 Hints are taken from the English definitions for each word's language section in English Wiktionary. The importer reads a ZIM file through the external `zimdump` and `zimsearch` commands, so the server itself does not need the ZIM at runtime.
 

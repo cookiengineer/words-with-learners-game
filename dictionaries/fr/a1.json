@@ -956,6 +956,18 @@
       "hint": "ten"
     },
     {
+      "word": "DIXHUIT",
+      "hint": "eighteen (18; normally spelled dix-huit)"
+    },
+    {
+      "word": "DIXNEUF",
+      "hint": "nineteen (19; normally spelled dix-neuf)"
+    },
+    {
+      "word": "DIXSEPT",
+      "hint": "seventeen (17; normally spelled dix-sept)"
+    },
+    {
       "word": "DOCTEUR",
       "hint": "a doctor (physician); a doctor (person who has attained a doctorate), especially a male doctor"
     },
@@ -1006,6 +1018,10 @@
     {
       "word": "DOUTE",
       "hint": "doubt"
+    },
+    {
+      "word": "DOUZE",
+      "hint": "twelve (12)"
     },
     {
       "word": "DROIT",
@@ -2144,6 +2160,10 @@
       "hint": "third-person plural present indicative of avoir"
     },
     {
+      "word": "ONZE",
+      "hint": "eleven (11)"
+    },
+    {
       "word": "OR",
       "hint": "gold; or (yellow in heraldry)"
     },
@@ -2636,6 +2656,10 @@
       "hint": "when (at what time)"
     },
     {
+      "word": "QUATORZE",
+      "hint": "fourteen (14)"
+    },
+    {
       "word": "QUATRE",
       "hint": "four"
     },
@@ -2670,6 +2694,10 @@
     {
       "word": "QUI",
       "hint": "who, whom; who, which, that"
+    },
+    {
+      "word": "QUINZE",
+      "hint": "fifteen (15)"
     },
     {
       "word": "QUOI",
@@ -2894,6 +2922,10 @@
     {
       "word": "SEIGNEUR",
       "hint": "lord (aristocrat, man of high rank); lord (master)"
+    },
+    {
+      "word": "SEIZE",
+      "hint": "sixteen (16)"
     },
     {
       "word": "SELON",
@@ -3244,6 +3276,10 @@
       "hint": "outside (the external part of); wide side (the side of which the width is measured)"
     },
     {
+      "word": "TREIZE",
+      "hint": "thirteen (13)"
+    },
+    {
       "word": "TROIS",
       "hint": "three"
     },
@@ -3398,6 +3434,10 @@
     {
       "word": "VILLE",
       "hint": "town, city"
+    },
+    {
+      "word": "VINGT",
+      "hint": "twenty (20)"
     },
     {
       "word": "VISAGE",
