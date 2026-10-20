@@ -1,0 +1,142 @@
+{
+  "schemaVersion": 1,
+  "language": "es",
+  "letters": [
+    {
+      "letter": "A",
+      "value": 1,
+      "count": 11
+    },
+    {
+      "letter": "B",
+      "value": 3,
+      "count": 3
+    },
+    {
+      "letter": "C",
+      "value": 3,
+      "count": 4
+    },
+    {
+      "letter": "D",
+      "value": 2,
+      "count": 5
+    },
+    {
+      "letter": "E",
+      "value": 1,
+      "count": 11
+    },
+    {
+      "letter": "F",
+      "value": 4,
+      "count": 2
+    },
+    {
+      "letter": "G",
+      "value": 2,
+      "count": 2
+    },
+    {
+      "letter": "H",
+      "value": 4,
+      "count": 2
+    },
+    {
+      "letter": "I",
+      "value": 1,
+      "count": 6
+    },
+    {
+      "letter": "J",
+      "value": 8,
+      "count": 2
+    },
+    {
+      "letter": "K",
+      "value": 5,
+      "count": 1
+    },
+    {
+      "letter": "L",
+      "value": 1,
+      "count": 4
+    },
+    {
+      "letter": "M",
+      "value": 3,
+      "count": 3
+    },
+    {
+      "letter": "N",
+      "value": 1,
+      "count": 6
+    },
+    {
+      "letter": "O",
+      "value": 1,
+      "count": 8
+    },
+    {
+      "letter": "P",
+      "value": 3,
+      "count": 2
+    },
+    {
+      "letter": "Q",
+      "value": 5,
+      "count": 1
+    },
+    {
+      "letter": "R",
+      "value": 1,
+      "count": 5
+    },
+    {
+      "letter": "S",
+      "value": 1,
+      "count": 7
+    },
+    {
+      "letter": "T",
+      "value": 1,
+      "count": 4
+    },
+    {
+      "letter": "U",
+      "value": 1,
+      "count": 6
+    },
+    {
+      "letter": "V",
+      "value": 4,
+      "count": 2
+    },
+    {
+      "letter": "W",
+      "value": 4,
+      "count": 1
+    },
+    {
+      "letter": "X",
+      "value": 8,
+      "count": 1
+    },
+    {
+      "letter": "Y",
+      "value": 4,
+      "count": 1
+    },
+    {
+      "letter": "Z",
+      "value": 10,
+      "count": 1
+    },
+    {
+      "letter": "Ñ",
+      "value": 8,
+      "count": 2
+    }
+  ],
+  "blankCount": 2
+}

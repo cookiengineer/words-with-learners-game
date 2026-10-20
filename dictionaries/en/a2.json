@@ -1,0 +1,231 @@
+{
+  "schemaVersion": 1,
+  "language": "en",
+  "level": "A2",
+  "words": [
+    {
+      "word": "AN",
+      "hint": "a or an"
+    },
+    {
+      "word": "ANIMAL",
+      "hint": "living creature"
+    },
+    {
+      "word": "ANSWER",
+      "hint": "a reply"
+    },
+    {
+      "word": "AS",
+      "hint": "like or because"
+    },
+    {
+      "word": "AT",
+      "hint": "at"
+    },
+    {
+      "word": "BE",
+      "hint": "to exist"
+    },
+    {
+      "word": "BIG",
+      "hint": "large"
+    },
+    {
+      "word": "BLUE",
+      "hint": "color of the sky"
+    },
+    {
+      "word": "BOOK",
+      "hint": "pages to read"
+    },
+    {
+      "word": "BREAD",
+      "hint": "food made from flour"
+    },
+    {
+      "word": "BY",
+      "hint": "next to"
+    },
+    {
+      "word": "CAT",
+      "hint": "a small pet animal"
+    },
+    {
+      "word": "DAY",
+      "hint": "time with sunlight"
+    },
+    {
+      "word": "DO",
+      "hint": "to perform"
+    },
+    {
+      "word": "DOG",
+      "hint": "a pet that barks"
+    },
+    {
+      "word": "FAMILY",
+      "hint": "parents and children"
+    },
+    {
+      "word": "FISH",
+      "hint": "an animal in water"
+    },
+    {
+      "word": "FRIEND",
+      "hint": "person you like"
+    },
+    {
+      "word": "GO",
+      "hint": "to move away"
+    },
+    {
+      "word": "GREEN",
+      "hint": "color of grass"
+    },
+    {
+      "word": "HAPPY",
+      "hint": "feeling good"
+    },
+    {
+      "word": "HE",
+      "hint": "a male person"
+    },
+    {
+      "word": "HEALTHY",
+      "hint": "feeling well"
+    },
+    {
+      "word": "HOLIDAY",
+      "hint": "time off from work"
+    },
+    {
+      "word": "HOUSE",
+      "hint": "a building to live in"
+    },
+    {
+      "word": "IF",
+      "hint": "in that case"
+    },
+    {
+      "word": "IN",
+      "hint": "inside"
+    },
+    {
+      "word": "IS",
+      "hint": "exists"
+    },
+    {
+      "word": "IT",
+      "hint": "a thing"
+    },
+    {
+      "word": "KITCHEN",
+      "hint": "room for cooking"
+    },
+    {
+      "word": "LARGE",
+      "hint": "big"
+    },
+    {
+      "word": "MARKET",
+      "hint": "place to buy things"
+    },
+    {
+      "word": "ME",
+      "hint": "myself"
+    },
+    {
+      "word": "MILK",
+      "hint": "a white drink"
+    },
+    {
+      "word": "MORNING",
+      "hint": "early part of the day"
+    },
+    {
+      "word": "MY",
+      "hint": "belonging to me"
+    },
+    {
+      "word": "NIGHT",
+      "hint": "time with darkness"
+    },
+    {
+      "word": "NO",
+      "hint": "not any"
+    },
+    {
+      "word": "OF",
+      "hint": "belonging to"
+    },
+    {
+      "word": "ON",
+      "hint": "on top"
+    },
+    {
+      "word": "OR",
+      "hint": "as an alternative"
+    },
+    {
+      "word": "QUESTION",
+      "hint": "something to ask"
+    },
+    {
+      "word": "RED",
+      "hint": "color of blood"
+    },
+    {
+      "word": "RUN",
+      "hint": "to move quickly"
+    },
+    {
+      "word": "SCHOOL",
+      "hint": "place to learn"
+    },
+    {
+      "word": "SMALL",
+      "hint": "not big"
+    },
+    {
+      "word": "SO",
+      "hint": "therefore"
+    },
+    {
+      "word": "SUN",
+      "hint": "the star in our sky"
+    },
+    {
+      "word": "TO",
+      "hint": "towards"
+    },
+    {
+      "word": "TRAVEL",
+      "hint": "go somewhere"
+    },
+    {
+      "word": "TREE",
+      "hint": "a tall plant"
+    },
+    {
+      "word": "UP",
+      "hint": "towards the sky"
+    },
+    {
+      "word": "US",
+      "hint": "you and me"
+    },
+    {
+      "word": "WATER",
+      "hint": "liquid we drink"
+    },
+    {
+      "word": "WE",
+      "hint": "I and others"
+    },
+    {
+      "word": "WEATHER",
+      "hint": "rain or sunshine"
+    }
+  ]
+}

@@ -1,0 +1,387 @@
+{
+  "schemaVersion": 1,
+  "language": "es",
+  "level": "C2",
+  "words": [
+    {
+      "word": "AGUA",
+      "hint": "water"
+    },
+    {
+      "word": "AMBIGUO",
+      "hint": "ambiguous"
+    },
+    {
+      "word": "AMIGO",
+      "hint": "friend"
+    },
+    {
+      "word": "ARBOL",
+      "hint": "tree"
+    },
+    {
+      "word": "AZUL",
+      "hint": "blue"
+    },
+    {
+      "word": "BEBER",
+      "hint": "to drink"
+    },
+    {
+      "word": "CASA",
+      "hint": "house"
+    },
+    {
+      "word": "COMER",
+      "hint": "to eat"
+    },
+    {
+      "word": "COMPARAR",
+      "hint": "to compare"
+    },
+    {
+      "word": "COMPRAR",
+      "hint": "to buy"
+    },
+    {
+      "word": "COMUNIDAD",
+      "hint": "community"
+    },
+    {
+      "word": "CON",
+      "hint": "with"
+    },
+    {
+      "word": "CULTURA",
+      "hint": "culture"
+    },
+    {
+      "word": "DE",
+      "hint": "of or from"
+    },
+    {
+      "word": "DECISION",
+      "hint": "decision"
+    },
+    {
+      "word": "DESARROLLAR",
+      "hint": "to develop"
+    },
+    {
+      "word": "DESARROLLO",
+      "hint": "development"
+    },
+    {
+      "word": "DIA",
+      "hint": "day"
+    },
+    {
+      "word": "DIFICIL",
+      "hint": "difficult"
+    },
+    {
+      "word": "ECONOMIA",
+      "hint": "economy"
+    },
+    {
+      "word": "EDUCACION",
+      "hint": "education"
+    },
+    {
+      "word": "EFIMERO",
+      "hint": "ephemeral"
+    },
+    {
+      "word": "EL",
+      "hint": "the"
+    },
+    {
+      "word": "EN",
+      "hint": "in or on"
+    },
+    {
+      "word": "ES",
+      "hint": "is"
+    },
+    {
+      "word": "ESCUELA",
+      "hint": "school"
+    },
+    {
+      "word": "EXHAUSTIVO",
+      "hint": "exhaustive"
+    },
+    {
+      "word": "EXPERIENCIA",
+      "hint": "experience"
+    },
+    {
+      "word": "FACIL",
+      "hint": "easy"
+    },
+    {
+      "word": "FAMILIA",
+      "hint": "family"
+    },
+    {
+      "word": "FIABLE",
+      "hint": "reliable"
+    },
+    {
+      "word": "FUTURO",
+      "hint": "future"
+    },
+    {
+      "word": "GATO",
+      "hint": "cat"
+    },
+    {
+      "word": "GOBIERNO",
+      "hint": "government"
+    },
+    {
+      "word": "GREGARIO",
+      "hint": "gregarious"
+    },
+    {
+      "word": "HISTORIA",
+      "hint": "history"
+    },
+    {
+      "word": "IDIOSINCRATICO",
+      "hint": "idiosyncratic"
+    },
+    {
+      "word": "IMPORTANTE",
+      "hint": "important"
+    },
+    {
+      "word": "INDEPENDIENTE",
+      "hint": "independent"
+    },
+    {
+      "word": "INESCRUTABLE",
+      "hint": "inscrutable"
+    },
+    {
+      "word": "INEVITABLE",
+      "hint": "inevitable"
+    },
+    {
+      "word": "JUGAR",
+      "hint": "to play"
+    },
+    {
+      "word": "JUNTOS",
+      "hint": "together"
+    },
+    {
+      "word": "LA",
+      "hint": "the"
+    },
+    {
+      "word": "LAS",
+      "hint": "the"
+    },
+    {
+      "word": "LEER",
+      "hint": "to read"
+    },
+    {
+      "word": "LIBRO",
+      "hint": "book"
+    },
+    {
+      "word": "LO",
+      "hint": "it"
+    },
+    {
+      "word": "LOS",
+      "hint": "the"
+    },
+    {
+      "word": "LUZ",
+      "hint": "light"
+    },
+    {
+      "word": "MAGNANIMO",
+      "hint": "magnanimous"
+    },
+    {
+      "word": "MAR",
+      "hint": "sea"
+    },
+    {
+      "word": "MAÑANA",
+      "hint": "morning or tomorrow"
+    },
+    {
+      "word": "MEDIOAMBIENTE",
+      "hint": "environment"
+    },
+    {
+      "word": "MEJORAR",
+      "hint": "to improve"
+    },
+    {
+      "word": "MI",
+      "hint": "my"
+    },
+    {
+      "word": "NO",
+      "hint": "no"
+    },
+    {
+      "word": "NOCHE",
+      "hint": "night"
+    },
+    {
+      "word": "OSCURECER",
+      "hint": "to obscure"
+    },
+    {
+      "word": "OSO",
+      "hint": "bear"
+    },
+    {
+      "word": "PAN",
+      "hint": "bread"
+    },
+    {
+      "word": "PARA",
+      "hint": "for"
+    },
+    {
+      "word": "PERFUNCTORIO",
+      "hint": "perfunctory"
+    },
+    {
+      "word": "PERRO",
+      "hint": "dog"
+    },
+    {
+      "word": "PERSPECTIVA",
+      "hint": "perspective"
+    },
+    {
+      "word": "PEZ",
+      "hint": "fish"
+    },
+    {
+      "word": "POR",
+      "hint": "by or through"
+    },
+    {
+      "word": "POSIBILIDAD",
+      "hint": "possibility"
+    },
+    {
+      "word": "PREGUNTA",
+      "hint": "question"
+    },
+    {
+      "word": "QUE",
+      "hint": "that or what"
+    },
+    {
+      "word": "QUINTAESENCIA",
+      "hint": "quintessence"
+    },
+    {
+      "word": "RELACION",
+      "hint": "relationship"
+    },
+    {
+      "word": "REQUISITO",
+      "hint": "requirement"
+    },
+    {
+      "word": "RESPONSABLE",
+      "hint": "responsible"
+    },
+    {
+      "word": "RIO",
+      "hint": "river"
+    },
+    {
+      "word": "ROJO",
+      "hint": "red"
+    },
+    {
+      "word": "SALUD",
+      "hint": "health"
+    },
+    {
+      "word": "SERENDIPIA",
+      "hint": "serendipity"
+    },
+    {
+      "word": "SI",
+      "hint": "if or yes"
+    },
+    {
+      "word": "SIGNIFICATIVO",
+      "hint": "significant"
+    },
+    {
+      "word": "SOCIEDAD",
+      "hint": "society"
+    },
+    {
+      "word": "SOFISTICADO",
+      "hint": "sophisticated"
+    },
+    {
+      "word": "SOL",
+      "hint": "sun"
+    },
+    {
+      "word": "SU",
+      "hint": "his or her"
+    },
+    {
+      "word": "SUSTANCIAL",
+      "hint": "substantial"
+    },
+    {
+      "word": "TECNOLOGIA",
+      "hint": "technology"
+    },
+    {
+      "word": "TIEMPO",
+      "hint": "weather or time"
+    },
+    {
+      "word": "TRABAJO",
+      "hint": "work"
+    },
+    {
+      "word": "TU",
+      "hint": "your"
+    },
+    {
+      "word": "UN",
+      "hint": "a or one"
+    },
+    {
+      "word": "UNA",
+      "hint": "a or one"
+    },
+    {
+      "word": "VERDE",
+      "hint": "green"
+    },
+    {
+      "word": "VIAJAR",
+      "hint": "to travel"
+    },
+    {
+      "word": "VICISITUD",
+      "hint": "vicissitude"
+    },
+    {
+      "word": "YO",
+      "hint": "I"
+    }
+  ]
+}

@@ -1,0 +1,199 @@
+{
+  "schemaVersion": 1,
+  "language": "de",
+  "level": "A1",
+  "words": [
+    {
+      "word": "AM",
+      "hint": "at the"
+    },
+    {
+      "word": "AN",
+      "hint": "on or to"
+    },
+    {
+      "word": "AUF",
+      "hint": "on or open"
+    },
+    {
+      "word": "AUS",
+      "hint": "out of"
+    },
+    {
+      "word": "BEI",
+      "hint": "at or with"
+    },
+    {
+      "word": "BLAU",
+      "hint": "blue"
+    },
+    {
+      "word": "BROT",
+      "hint": "bread"
+    },
+    {
+      "word": "DAS",
+      "hint": "the"
+    },
+    {
+      "word": "DER",
+      "hint": "the"
+    },
+    {
+      "word": "DIE",
+      "hint": "the"
+    },
+    {
+      "word": "DU",
+      "hint": "you"
+    },
+    {
+      "word": "EIN",
+      "hint": "a or an"
+    },
+    {
+      "word": "ER",
+      "hint": "he"
+    },
+    {
+      "word": "ES",
+      "hint": "it"
+    },
+    {
+      "word": "ESSEN",
+      "hint": "to eat"
+    },
+    {
+      "word": "FAMILIE",
+      "hint": "family"
+    },
+    {
+      "word": "FREUND",
+      "hint": "friend"
+    },
+    {
+      "word": "GRUEN",
+      "hint": "green"
+    },
+    {
+      "word": "HAT",
+      "hint": "has"
+    },
+    {
+      "word": "HAUS",
+      "hint": "house"
+    },
+    {
+      "word": "HUND",
+      "hint": "dog"
+    },
+    {
+      "word": "ICH",
+      "hint": "I"
+    },
+    {
+      "word": "IM",
+      "hint": "in the"
+    },
+    {
+      "word": "IN",
+      "hint": "inside"
+    },
+    {
+      "word": "IST",
+      "hint": "is"
+    },
+    {
+      "word": "JA",
+      "hint": "yes"
+    },
+    {
+      "word": "KATZE",
+      "hint": "cat"
+    },
+    {
+      "word": "LESEN",
+      "hint": "to read"
+    },
+    {
+      "word": "MIT",
+      "hint": "with"
+    },
+    {
+      "word": "MOND",
+      "hint": "moon"
+    },
+    {
+      "word": "NACHT",
+      "hint": "night"
+    },
+    {
+      "word": "NIE",
+      "hint": "never"
+    },
+    {
+      "word": "OB",
+      "hint": "whether"
+    },
+    {
+      "word": "ROT",
+      "hint": "red"
+    },
+    {
+      "word": "SCHULE",
+      "hint": "school"
+    },
+    {
+      "word": "SO",
+      "hint": "so"
+    },
+    {
+      "word": "SONNE",
+      "hint": "sun"
+    },
+    {
+      "word": "SPIELEN",
+      "hint": "to play"
+    },
+    {
+      "word": "TAG",
+      "hint": "day"
+    },
+    {
+      "word": "TRINKEN",
+      "hint": "to drink"
+    },
+    {
+      "word": "UM",
+      "hint": "around"
+    },
+    {
+      "word": "UND",
+      "hint": "and"
+    },
+    {
+      "word": "VON",
+      "hint": "from"
+    },
+    {
+      "word": "WAR",
+      "hint": "was"
+    },
+    {
+      "word": "WAS",
+      "hint": "what"
+    },
+    {
+      "word": "WASSER",
+      "hint": "water"
+    },
+    {
+      "word": "WIR",
+      "hint": "we"
+    },
+    {
+      "word": "ZU",
+      "hint": "to"
+    }
+  ]
+}

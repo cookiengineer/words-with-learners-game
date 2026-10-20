@@ -1,0 +1,231 @@
+{
+  "schemaVersion": 1,
+  "language": "fr",
+  "level": "A2",
+  "words": [
+    {
+      "word": "ACHETER",
+      "hint": "to buy"
+    },
+    {
+      "word": "AMI",
+      "hint": "friend"
+    },
+    {
+      "word": "ARBRE",
+      "hint": "tree"
+    },
+    {
+      "word": "AU",
+      "hint": "at the"
+    },
+    {
+      "word": "BLEU",
+      "hint": "blue"
+    },
+    {
+      "word": "BOIRE",
+      "hint": "to drink"
+    },
+    {
+      "word": "CE",
+      "hint": "this"
+    },
+    {
+      "word": "CHAT",
+      "hint": "cat"
+    },
+    {
+      "word": "CHIEN",
+      "hint": "dog"
+    },
+    {
+      "word": "DE",
+      "hint": "of or from"
+    },
+    {
+      "word": "DIFFICILE",
+      "hint": "difficult"
+    },
+    {
+      "word": "DU",
+      "hint": "of the"
+    },
+    {
+      "word": "EAU",
+      "hint": "water"
+    },
+    {
+      "word": "ECOLE",
+      "hint": "school"
+    },
+    {
+      "word": "EN",
+      "hint": "in"
+    },
+    {
+      "word": "ET",
+      "hint": "and"
+    },
+    {
+      "word": "FACILE",
+      "hint": "easy"
+    },
+    {
+      "word": "FAMILLE",
+      "hint": "family"
+    },
+    {
+      "word": "IL",
+      "hint": "he"
+    },
+    {
+      "word": "IMPORTANT",
+      "hint": "important"
+    },
+    {
+      "word": "JE",
+      "hint": "I"
+    },
+    {
+      "word": "JOUER",
+      "hint": "to play"
+    },
+    {
+      "word": "JOUR",
+      "hint": "day"
+    },
+    {
+      "word": "LA",
+      "hint": "the"
+    },
+    {
+      "word": "LE",
+      "hint": "the"
+    },
+    {
+      "word": "LIRE",
+      "hint": "to read"
+    },
+    {
+      "word": "LIVRE",
+      "hint": "book"
+    },
+    {
+      "word": "LUNE",
+      "hint": "moon"
+    },
+    {
+      "word": "MA",
+      "hint": "my"
+    },
+    {
+      "word": "MAISON",
+      "hint": "house"
+    },
+    {
+      "word": "MANGER",
+      "hint": "to eat"
+    },
+    {
+      "word": "MATIN",
+      "hint": "morning"
+    },
+    {
+      "word": "ME",
+      "hint": "me"
+    },
+    {
+      "word": "MER",
+      "hint": "sea"
+    },
+    {
+      "word": "NE",
+      "hint": "not"
+    },
+    {
+      "word": "NI",
+      "hint": "neither"
+    },
+    {
+      "word": "NO",
+      "hint": "no"
+    },
+    {
+      "word": "NUIT",
+      "hint": "night"
+    },
+    {
+      "word": "ON",
+      "hint": "one or we"
+    },
+    {
+      "word": "OU",
+      "hint": "or"
+    },
+    {
+      "word": "PAIN",
+      "hint": "bread"
+    },
+    {
+      "word": "QUESTION",
+      "hint": "question"
+    },
+    {
+      "word": "ROUGE",
+      "hint": "red"
+    },
+    {
+      "word": "SA",
+      "hint": "his or her"
+    },
+    {
+      "word": "SANTE",
+      "hint": "health"
+    },
+    {
+      "word": "SE",
+      "hint": "oneself"
+    },
+    {
+      "word": "SI",
+      "hint": "if"
+    },
+    {
+      "word": "SOLEIL",
+      "hint": "sun"
+    },
+    {
+      "word": "TA",
+      "hint": "your"
+    },
+    {
+      "word": "TEMPS",
+      "hint": "weather or time"
+    },
+    {
+      "word": "TRAVAIL",
+      "hint": "work"
+    },
+    {
+      "word": "TU",
+      "hint": "you"
+    },
+    {
+      "word": "UN",
+      "hint": "a or one"
+    },
+    {
+      "word": "VA",
+      "hint": "goes"
+    },
+    {
+      "word": "VERT",
+      "hint": "green"
+    },
+    {
+      "word": "VOYAGER",
+      "hint": "to travel"
+    }
+  ]
+}

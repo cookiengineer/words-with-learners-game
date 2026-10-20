@@ -1,0 +1,137 @@
+{
+  "schemaVersion": 1,
+  "language": "nl",
+  "letters": [
+    {
+      "letter": "A",
+      "value": 1,
+      "count": 6
+    },
+    {
+      "letter": "B",
+      "value": 3,
+      "count": 2
+    },
+    {
+      "letter": "C",
+      "value": 5,
+      "count": 2
+    },
+    {
+      "letter": "D",
+      "value": 2,
+      "count": 5
+    },
+    {
+      "letter": "E",
+      "value": 1,
+      "count": 18
+    },
+    {
+      "letter": "F",
+      "value": 4,
+      "count": 2
+    },
+    {
+      "letter": "G",
+      "value": 3,
+      "count": 3
+    },
+    {
+      "letter": "H",
+      "value": 4,
+      "count": 2
+    },
+    {
+      "letter": "I",
+      "value": 1,
+      "count": 4
+    },
+    {
+      "letter": "J",
+      "value": 4,
+      "count": 2
+    },
+    {
+      "letter": "K",
+      "value": 3,
+      "count": 3
+    },
+    {
+      "letter": "L",
+      "value": 3,
+      "count": 3
+    },
+    {
+      "letter": "M",
+      "value": 3,
+      "count": 3
+    },
+    {
+      "letter": "N",
+      "value": 1,
+      "count": 10
+    },
+    {
+      "letter": "O",
+      "value": 1,
+      "count": 6
+    },
+    {
+      "letter": "P",
+      "value": 3,
+      "count": 2
+    },
+    {
+      "letter": "Q",
+      "value": 10,
+      "count": 1
+    },
+    {
+      "letter": "R",
+      "value": 2,
+      "count": 5
+    },
+    {
+      "letter": "S",
+      "value": 2,
+      "count": 2
+    },
+    {
+      "letter": "T",
+      "value": 2,
+      "count": 5
+    },
+    {
+      "letter": "U",
+      "value": 2,
+      "count": 3
+    },
+    {
+      "letter": "V",
+      "value": 4,
+      "count": 2
+    },
+    {
+      "letter": "W",
+      "value": 5,
+      "count": 2
+    },
+    {
+      "letter": "X",
+      "value": 8,
+      "count": 1
+    },
+    {
+      "letter": "Y",
+      "value": 8,
+      "count": 1
+    },
+    {
+      "letter": "Z",
+      "value": 4,
+      "count": 2
+    }
+  ],
+  "blankCount": 2
+}

@@ -1,0 +1,204 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <title>Words with Learners</title>
+  <link rel="icon" href="/favicon.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="/app.css">
+</head>
+<body>
+  <main id="app"></main>
+  <div id="toast" role="status" aria-live="polite"></div>
+
+  <dialog id="invite-dialog" class="dialog">
+    <form id="invite-form">
+      <header>
+        <h2>Create a game</h2>
+        <button type="button" class="icon" data-close-invite aria-label="Close">×</button>
+      </header>
+      <section class="settings">
+        <label>Play in
+          <select id="invite-language">
+            <option value="nl">Dutch</option>
+            <option value="en">English</option>
+            <option value="de">German</option>
+            <option value="es">Spanish</option>
+            <option value="fr">French</option>
+          </select>
+        </label>
+        <label>Skill level
+          <select id="invite-level">
+            <option value="A1">A1</option>
+            <option value="A2" selected>A2</option>
+            <option value="B1">B1</option>
+            <option value="B2">B2</option>
+            <option value="C1">C1</option>
+            <option value="C2">C2</option>
+          </select>
+        </label>
+        <label>Maximum word length / tiles
+          <output id="invite-length-output">7</output>
+          <input id="invite-length" type="range" min="5" max="15" step="1" value="7">
+        </label>
+        <label>Players
+          <output id="invite-players-output">2</output>
+          <input id="invite-players" type="range" min="2" max="4" step="1" value="2">
+        </label>
+      </section>
+      <section class="invite-players">
+        <h3>Invite players</h3>
+        <div id="invite-selected" class="chips"></div>
+        <player-picker id="invite-picker" max="1" placeholder="Search players by name"></player-picker>
+        <p id="invite-hint" class="muted">Select 1 player for a 2 player game.</p>
+      </section>
+      <footer>
+        <button type="button" data-close-invite>Cancel</button>
+        <button type="submit" class="primary" id="invite-create">Create game</button>
+      </footer>
+    </form>
+  </dialog>
+
+  <dialog id="players-dialog" class="dialog">
+    <header>
+      <h2>Players</h2>
+      <button type="button" class="icon" data-close-players aria-label="Close">×</button>
+    </header>
+    <p class="muted">Everyone registered on this server. Select players to invite them.</p>
+    <player-picker id="players-picker" max="3" placeholder="Search players by name"></player-picker>
+    <footer>
+      <button type="button" data-close-players>Close</button>
+      <button type="button" class="primary" id="players-invite" disabled>Invite selected</button>
+    </footer>
+  </dialog>
+
+  <dialog id="hint-dialog" class="dialog">
+    <header>
+      <h2>Hint</h2>
+      <button type="button" class="icon" data-close-hint aria-label="Close">×</button>
+    </header>
+    <p id="hint-text"></p>
+    <p id="hint-meta" class="muted"></p>
+    <footer>
+      <button type="button" class="primary" data-close-hint>Got it</button>
+    </footer>
+  </dialog>
+
+  <dialog id="blank-dialog" class="dialog">
+    <form id="blank-form">
+      <header>
+        <h2>Choose a letter</h2>
+      </header>
+      <p class="muted">Blank tiles stay worth zero points.</p>
+      <input id="blank-letter" type="text" maxlength="1" autocomplete="off" autocapitalize="characters" required>
+      <footer>
+        <button type="button" id="blank-cancel">Cancel</button>
+        <button type="submit" class="primary">Place blank</button>
+      </footer>
+    </form>
+  </dialog>
+
+  <dialog id="exchange-dialog" class="dialog">
+    <header>
+      <h2>Exchange tiles</h2>
+      <button type="button" class="icon" data-close-exchange aria-label="Close">×</button>
+    </header>
+    <p class="muted">Select the tiles you want to exchange. You lose this turn.</p>
+    <div id="exchange-rack" class="rack"></div>
+    <footer>
+      <button type="button" data-close-exchange>Cancel</button>
+      <button type="button" class="primary" id="exchange-confirm" disabled>Exchange</button>
+    </footer>
+  </dialog>
+
+  <template id="auth-template">
+    <section class="auth">
+      <header class="brand">
+        <h1>Words with Learners</h1>
+        <p>A multiplayer word game for language learners.</p>
+      </header>
+      <div class="auth-card">
+        <div class="tabs" role="tablist">
+          <button type="button" data-auth-tab="login" class="active">Log in</button>
+          <button type="button" data-auth-tab="register">Register</button>
+        </div>
+        <form id="login-form">
+          <label>Username <input name="username" autocomplete="username" required></label>
+          <label>Password <input name="password" type="password" autocomplete="current-password" required></label>
+          <button type="submit" class="primary">Log in</button>
+        </form>
+        <form id="register-form" hidden>
+          <label>Username <input name="username" autocomplete="username" required></label>
+          <label>Display name <input name="displayName" autocomplete="nickname"></label>
+          <label>Password <input name="password" type="password" autocomplete="new-password" minlength="8" required></label>
+          <button type="submit" class="primary">Create account</button>
+        </form>
+        <p id="auth-error" class="error" role="alert"></p>
+      </div>
+    </section>
+  </template>
+
+  <template id="overview-template">
+    <section class="overview">
+      <header class="overview-top">
+        <div class="brand-small">
+          <h1>Words with Learners</h1>
+          <p id="overview-user" class="muted"></p>
+        </div>
+        <div class="overview-actions">
+          <button type="button" id="open-players">Players</button>
+          <button type="button" class="primary" id="open-invite">Create game</button>
+          <button type="button" id="logout">Log out</button>
+        </div>
+      </header>
+      <div class="overview-main">
+        <h2>Your games</h2>
+        <p class="muted">Games you created or were invited to.</p>
+        <div id="game-list" class="game-list"></div>
+        <p id="games-empty" class="empty" hidden>No games yet. Create one and invite a friend.</p>
+      </div>
+    </section>
+  </template>
+
+  <template id="game-template">
+    <section class="game">
+      <header class="game-top">
+        <img id="game-flag" class="flag" src="/flags/nl.svg" alt="Dutch flag">
+        <div class="game-meta">
+          <strong id="game-language"></strong>
+          <span id="game-level" class="muted"></span>
+        </div>
+        <ol id="scoreboard" class="scoreboard"></ol>
+        <button type="button" id="leave-game">Games</button>
+      </header>
+      <div class="board-wrap">
+        <div id="board-viewport" class="viewport">
+          <div id="board" class="board"></div>
+        </div>
+        <div class="zoom-controls" aria-label="Board zoom">
+          <button type="button" id="zoom-out" aria-label="Zoom out">−</button>
+          <button type="button" id="zoom-fit" aria-label="Fit board">Fit</button>
+          <button type="button" id="zoom-in" aria-label="Zoom in">+</button>
+        </div>
+        <div id="turn-banner" class="turn-banner"></div>
+      </div>
+      <footer class="game-bottom">
+        <div class="rack-panel">
+          <p id="turn-state" class="turn-state"></p>
+          <div id="rack" class="rack"></div>
+        </div>
+        <div class="game-actions">
+          <span id="preview" class="preview"></span>
+          <button type="button" id="recall" disabled>Recall</button>
+          <button type="button" id="pass" disabled>Pass</button>
+          <button type="button" id="exchange" disabled>Exchange</button>
+          <button type="button" id="submit" class="primary" disabled>Submit</button>
+          <button type="button" id="hint" class="hint-button" aria-label="Show hint" disabled>?</button>
+        </div>
+      </footer>
+    </section>
+  </template>
+
+  <script type="module" src="/js/app.js"></script>
+</body>
+</html>

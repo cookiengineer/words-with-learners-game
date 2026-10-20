@@ -1,0 +1,399 @@
+{
+  "schemaVersion": 1,
+  "language": "de",
+  "level": "C2",
+  "words": [
+    {
+      "word": "AM",
+      "hint": "at the"
+    },
+    {
+      "word": "AN",
+      "hint": "on or to"
+    },
+    {
+      "word": "ARBEIT",
+      "hint": "work"
+    },
+    {
+      "word": "AUF",
+      "hint": "on or open"
+    },
+    {
+      "word": "AUS",
+      "hint": "out of"
+    },
+    {
+      "word": "BEDEUTEND",
+      "hint": "significant"
+    },
+    {
+      "word": "BEI",
+      "hint": "at or with"
+    },
+    {
+      "word": "BEMERKENSWERT",
+      "hint": "remarkable"
+    },
+    {
+      "word": "BEZIEHUNG",
+      "hint": "relationship"
+    },
+    {
+      "word": "BILDUNG",
+      "hint": "education"
+    },
+    {
+      "word": "BLAU",
+      "hint": "blue"
+    },
+    {
+      "word": "BROT",
+      "hint": "bread"
+    },
+    {
+      "word": "DAS",
+      "hint": "the"
+    },
+    {
+      "word": "DER",
+      "hint": "the"
+    },
+    {
+      "word": "DIE",
+      "hint": "the"
+    },
+    {
+      "word": "DU",
+      "hint": "you"
+    },
+    {
+      "word": "EIN",
+      "hint": "a or an"
+    },
+    {
+      "word": "EINDEUTIG",
+      "hint": "clear"
+    },
+    {
+      "word": "ENTSCHEIDUNG",
+      "hint": "decision"
+    },
+    {
+      "word": "ENTWICKELN",
+      "hint": "to develop"
+    },
+    {
+      "word": "ENTWICKLUNG",
+      "hint": "development"
+    },
+    {
+      "word": "ER",
+      "hint": "he"
+    },
+    {
+      "word": "ERFAHRUNG",
+      "hint": "experience"
+    },
+    {
+      "word": "ES",
+      "hint": "it"
+    },
+    {
+      "word": "ESSEN",
+      "hint": "to eat"
+    },
+    {
+      "word": "FAMILIE",
+      "hint": "family"
+    },
+    {
+      "word": "FLÜCHTIG",
+      "hint": "fleeting"
+    },
+    {
+      "word": "FRAGE",
+      "hint": "question"
+    },
+    {
+      "word": "FREUND",
+      "hint": "friend"
+    },
+    {
+      "word": "GEMEINSCHAFT",
+      "hint": "community"
+    },
+    {
+      "word": "GESCHICHTE",
+      "hint": "history"
+    },
+    {
+      "word": "GESELLSCHAFT",
+      "hint": "society"
+    },
+    {
+      "word": "GESPRÄCH",
+      "hint": "conversation"
+    },
+    {
+      "word": "GESUND",
+      "hint": "healthy"
+    },
+    {
+      "word": "GRUEN",
+      "hint": "green"
+    },
+    {
+      "word": "GRÜNDLICH",
+      "hint": "thorough"
+    },
+    {
+      "word": "HAT",
+      "hint": "has"
+    },
+    {
+      "word": "HAUS",
+      "hint": "house"
+    },
+    {
+      "word": "HERAUSFORDERUNG",
+      "hint": "challenge"
+    },
+    {
+      "word": "HUND",
+      "hint": "dog"
+    },
+    {
+      "word": "ICH",
+      "hint": "I"
+    },
+    {
+      "word": "IM",
+      "hint": "in the"
+    },
+    {
+      "word": "IN",
+      "hint": "inside"
+    },
+    {
+      "word": "IST",
+      "hint": "is"
+    },
+    {
+      "word": "JA",
+      "hint": "yes"
+    },
+    {
+      "word": "KATZE",
+      "hint": "cat"
+    },
+    {
+      "word": "KAUFEN",
+      "hint": "to buy"
+    },
+    {
+      "word": "KULTUR",
+      "hint": "culture"
+    },
+    {
+      "word": "LEICHT",
+      "hint": "easy"
+    },
+    {
+      "word": "LESEN",
+      "hint": "to read"
+    },
+    {
+      "word": "MIT",
+      "hint": "with"
+    },
+    {
+      "word": "MOND",
+      "hint": "moon"
+    },
+    {
+      "word": "MORGEN",
+      "hint": "morning"
+    },
+    {
+      "word": "MÖGLICHKEIT",
+      "hint": "possibility"
+    },
+    {
+      "word": "NACHHALTIG",
+      "hint": "sustainable"
+    },
+    {
+      "word": "NACHT",
+      "hint": "night"
+    },
+    {
+      "word": "NIE",
+      "hint": "never"
+    },
+    {
+      "word": "OB",
+      "hint": "whether"
+    },
+    {
+      "word": "PERSPEKTIVE",
+      "hint": "perspective"
+    },
+    {
+      "word": "REGIERUNG",
+      "hint": "government"
+    },
+    {
+      "word": "REISEN",
+      "hint": "to travel"
+    },
+    {
+      "word": "ROT",
+      "hint": "red"
+    },
+    {
+      "word": "SCHULE",
+      "hint": "school"
+    },
+    {
+      "word": "SCHWER",
+      "hint": "difficult"
+    },
+    {
+      "word": "SO",
+      "hint": "so"
+    },
+    {
+      "word": "SONNE",
+      "hint": "sun"
+    },
+    {
+      "word": "SPIELEN",
+      "hint": "to play"
+    },
+    {
+      "word": "TAG",
+      "hint": "day"
+    },
+    {
+      "word": "TECHNOLOGIE",
+      "hint": "technology"
+    },
+    {
+      "word": "TRINKEN",
+      "hint": "to drink"
+    },
+    {
+      "word": "UM",
+      "hint": "around"
+    },
+    {
+      "word": "UMFASSEND",
+      "hint": "comprehensive"
+    },
+    {
+      "word": "UMWELT",
+      "hint": "environment"
+    },
+    {
+      "word": "UNABHÄNGIG",
+      "hint": "independent"
+    },
+    {
+      "word": "UND",
+      "hint": "and"
+    },
+    {
+      "word": "UNVERMEIDLICH",
+      "hint": "inevitable"
+    },
+    {
+      "word": "VERANTWORTUNG",
+      "hint": "responsibility"
+    },
+    {
+      "word": "VERBESSERN",
+      "hint": "to improve"
+    },
+    {
+      "word": "VERBESSERUNG",
+      "hint": "improvement"
+    },
+    {
+      "word": "VERGLEICHEN",
+      "hint": "to compare"
+    },
+    {
+      "word": "VIELSEITIG",
+      "hint": "versatile"
+    },
+    {
+      "word": "VON",
+      "hint": "from"
+    },
+    {
+      "word": "VORAUSSETZUNG",
+      "hint": "precondition"
+    },
+    {
+      "word": "WAHRSCHEINLICH",
+      "hint": "probably"
+    },
+    {
+      "word": "WAR",
+      "hint": "was"
+    },
+    {
+      "word": "WAS",
+      "hint": "what"
+    },
+    {
+      "word": "WASSER",
+      "hint": "water"
+    },
+    {
+      "word": "WESENTLICH",
+      "hint": "essential"
+    },
+    {
+      "word": "WETTER",
+      "hint": "weather"
+    },
+    {
+      "word": "WICHTIG",
+      "hint": "important"
+    },
+    {
+      "word": "WIR",
+      "hint": "we"
+    },
+    {
+      "word": "WIRTSCHAFT",
+      "hint": "economy"
+    },
+    {
+      "word": "WISSENSCHAFT",
+      "hint": "science"
+    },
+    {
+      "word": "ZU",
+      "hint": "to"
+    },
+    {
+      "word": "ZUKUNFT",
+      "hint": "future"
+    },
+    {
+      "word": "ZUSAMMEN",
+      "hint": "together"
+    },
+    {
+      "word": "ZUVERLÄSSIG",
+      "hint": "reliable"
+    },
+    {
+      "word": "ÜBERZEUGEND",
+      "hint": "convincing"
+    }
+  ]
+}

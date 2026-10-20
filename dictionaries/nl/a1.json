@@ -1,0 +1,151 @@
+{
+  "schemaVersion": 1,
+  "language": "nl",
+  "level": "A1",
+  "words": [
+    {
+      "word": "BAL",
+      "hint": "ball"
+    },
+    {
+      "word": "BLAUW",
+      "hint": "blue"
+    },
+    {
+      "word": "BOOM",
+      "hint": "tree"
+    },
+    {
+      "word": "BROOD",
+      "hint": "bread"
+    },
+    {
+      "word": "DAG",
+      "hint": "day"
+    },
+    {
+      "word": "DAT",
+      "hint": "that"
+    },
+    {
+      "word": "DE",
+      "hint": "the"
+    },
+    {
+      "word": "DIT",
+      "hint": "this"
+    },
+    {
+      "word": "EEN",
+      "hint": "a or an"
+    },
+    {
+      "word": "EN",
+      "hint": "and"
+    },
+    {
+      "word": "FIETS",
+      "hint": "bicycle"
+    },
+    {
+      "word": "GOED",
+      "hint": "good"
+    },
+    {
+      "word": "GROEN",
+      "hint": "green"
+    },
+    {
+      "word": "GROOT",
+      "hint": "big"
+    },
+    {
+      "word": "HET",
+      "hint": "the"
+    },
+    {
+      "word": "HOND",
+      "hint": "dog"
+    },
+    {
+      "word": "HUIS",
+      "hint": "house"
+    },
+    {
+      "word": "IK",
+      "hint": "I"
+    },
+    {
+      "word": "IS",
+      "hint": "is"
+    },
+    {
+      "word": "JIJ",
+      "hint": "you"
+    },
+    {
+      "word": "KAT",
+      "hint": "cat"
+    },
+    {
+      "word": "KLEIN",
+      "hint": "small"
+    },
+    {
+      "word": "MELK",
+      "hint": "milk"
+    },
+    {
+      "word": "MET",
+      "hint": "with"
+    },
+    {
+      "word": "NACHT",
+      "hint": "night"
+    },
+    {
+      "word": "NIET",
+      "hint": "not"
+    },
+    {
+      "word": "OP",
+      "hint": "on"
+    },
+    {
+      "word": "ROOD",
+      "hint": "red"
+    },
+    {
+      "word": "SCHOOL",
+      "hint": "school"
+    },
+    {
+      "word": "TE",
+      "hint": "too"
+    },
+    {
+      "word": "VAN",
+      "hint": "of"
+    },
+    {
+      "word": "VIS",
+      "hint": "fish"
+    },
+    {
+      "word": "WATER",
+      "hint": "water"
+    },
+    {
+      "word": "WEL",
+      "hint": "well"
+    },
+    {
+      "word": "WIJ",
+      "hint": "we"
+    },
+    {
+      "word": "ZIJ",
+      "hint": "she or they"
+    }
+  ]
+}

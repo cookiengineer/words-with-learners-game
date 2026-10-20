@@ -1,0 +1,391 @@
+{
+  "schemaVersion": 1,
+  "language": "fr",
+  "level": "C2",
+  "words": [
+    {
+      "word": "ACHETER",
+      "hint": "to buy"
+    },
+    {
+      "word": "AMBIGU",
+      "hint": "ambiguous"
+    },
+    {
+      "word": "AMELIORER",
+      "hint": "to improve"
+    },
+    {
+      "word": "AMI",
+      "hint": "friend"
+    },
+    {
+      "word": "ARBRE",
+      "hint": "tree"
+    },
+    {
+      "word": "AU",
+      "hint": "at the"
+    },
+    {
+      "word": "AVENIR",
+      "hint": "future"
+    },
+    {
+      "word": "BLEU",
+      "hint": "blue"
+    },
+    {
+      "word": "BOIRE",
+      "hint": "to drink"
+    },
+    {
+      "word": "CE",
+      "hint": "this"
+    },
+    {
+      "word": "CHAT",
+      "hint": "cat"
+    },
+    {
+      "word": "CHIEN",
+      "hint": "dog"
+    },
+    {
+      "word": "COMMUNAUTE",
+      "hint": "community"
+    },
+    {
+      "word": "COMPARER",
+      "hint": "to compare"
+    },
+    {
+      "word": "COMPLET",
+      "hint": "complete"
+    },
+    {
+      "word": "CULTURE",
+      "hint": "culture"
+    },
+    {
+      "word": "DE",
+      "hint": "of or from"
+    },
+    {
+      "word": "DECISION",
+      "hint": "decision"
+    },
+    {
+      "word": "DEVELOPPEMENT",
+      "hint": "development"
+    },
+    {
+      "word": "DEVELOPPER",
+      "hint": "to develop"
+    },
+    {
+      "word": "DIFFICILE",
+      "hint": "difficult"
+    },
+    {
+      "word": "DU",
+      "hint": "of the"
+    },
+    {
+      "word": "EAU",
+      "hint": "water"
+    },
+    {
+      "word": "ECOLE",
+      "hint": "school"
+    },
+    {
+      "word": "ECONOMIE",
+      "hint": "economy"
+    },
+    {
+      "word": "EDUCATION",
+      "hint": "education"
+    },
+    {
+      "word": "EN",
+      "hint": "in"
+    },
+    {
+      "word": "ENSEMBLE",
+      "hint": "together"
+    },
+    {
+      "word": "ENVIRONNEMENT",
+      "hint": "environment"
+    },
+    {
+      "word": "EPHEMERE",
+      "hint": "ephemeral"
+    },
+    {
+      "word": "ET",
+      "hint": "and"
+    },
+    {
+      "word": "EXIGENCE",
+      "hint": "requirement"
+    },
+    {
+      "word": "EXPERIENCE",
+      "hint": "experience"
+    },
+    {
+      "word": "FACILE",
+      "hint": "easy"
+    },
+    {
+      "word": "FAMILLE",
+      "hint": "family"
+    },
+    {
+      "word": "FIABLE",
+      "hint": "reliable"
+    },
+    {
+      "word": "GOUVERNEMENT",
+      "hint": "government"
+    },
+    {
+      "word": "GREGAIRE",
+      "hint": "gregarious"
+    },
+    {
+      "word": "HISTOIRE",
+      "hint": "history"
+    },
+    {
+      "word": "IDIOSYNCRATIQUE",
+      "hint": "idiosyncratic"
+    },
+    {
+      "word": "IL",
+      "hint": "he"
+    },
+    {
+      "word": "IMPORTANT",
+      "hint": "important"
+    },
+    {
+      "word": "INDEPENDANT",
+      "hint": "independent"
+    },
+    {
+      "word": "INEVITABLE",
+      "hint": "inevitable"
+    },
+    {
+      "word": "INSCRUTABLE",
+      "hint": "inscrutable"
+    },
+    {
+      "word": "JE",
+      "hint": "I"
+    },
+    {
+      "word": "JOUER",
+      "hint": "to play"
+    },
+    {
+      "word": "JOUR",
+      "hint": "day"
+    },
+    {
+      "word": "LA",
+      "hint": "the"
+    },
+    {
+      "word": "LE",
+      "hint": "the"
+    },
+    {
+      "word": "LIRE",
+      "hint": "to read"
+    },
+    {
+      "word": "LIVRE",
+      "hint": "book"
+    },
+    {
+      "word": "LUNE",
+      "hint": "moon"
+    },
+    {
+      "word": "MA",
+      "hint": "my"
+    },
+    {
+      "word": "MAGNANIME",
+      "hint": "magnanimous"
+    },
+    {
+      "word": "MAISON",
+      "hint": "house"
+    },
+    {
+      "word": "MANGER",
+      "hint": "to eat"
+    },
+    {
+      "word": "MATIN",
+      "hint": "morning"
+    },
+    {
+      "word": "ME",
+      "hint": "me"
+    },
+    {
+      "word": "MER",
+      "hint": "sea"
+    },
+    {
+      "word": "NE",
+      "hint": "not"
+    },
+    {
+      "word": "NI",
+      "hint": "neither"
+    },
+    {
+      "word": "NO",
+      "hint": "no"
+    },
+    {
+      "word": "NUIT",
+      "hint": "night"
+    },
+    {
+      "word": "OBSCURCIR",
+      "hint": "to obscure"
+    },
+    {
+      "word": "ON",
+      "hint": "one or we"
+    },
+    {
+      "word": "OU",
+      "hint": "or"
+    },
+    {
+      "word": "PAIN",
+      "hint": "bread"
+    },
+    {
+      "word": "PERFUNCTOIRE",
+      "hint": "perfunctory"
+    },
+    {
+      "word": "PERSPECTIVE",
+      "hint": "perspective"
+    },
+    {
+      "word": "POSSIBILITE",
+      "hint": "possibility"
+    },
+    {
+      "word": "QUESTION",
+      "hint": "question"
+    },
+    {
+      "word": "QUINTESSENCE",
+      "hint": "quintessence"
+    },
+    {
+      "word": "RELATION",
+      "hint": "relationship"
+    },
+    {
+      "word": "RESPONSABLE",
+      "hint": "responsible"
+    },
+    {
+      "word": "ROUGE",
+      "hint": "red"
+    },
+    {
+      "word": "SA",
+      "hint": "his or her"
+    },
+    {
+      "word": "SANTE",
+      "hint": "health"
+    },
+    {
+      "word": "SE",
+      "hint": "oneself"
+    },
+    {
+      "word": "SERENDIPITE",
+      "hint": "serendipity"
+    },
+    {
+      "word": "SI",
+      "hint": "if"
+    },
+    {
+      "word": "SIGNIFICATIF",
+      "hint": "significant"
+    },
+    {
+      "word": "SOCIETE",
+      "hint": "society"
+    },
+    {
+      "word": "SOLEIL",
+      "hint": "sun"
+    },
+    {
+      "word": "SOPHISTIQUE",
+      "hint": "sophisticated"
+    },
+    {
+      "word": "SUBSTANTIEL",
+      "hint": "substantial"
+    },
+    {
+      "word": "TA",
+      "hint": "your"
+    },
+    {
+      "word": "TECHNOLOGIE",
+      "hint": "technology"
+    },
+    {
+      "word": "TEMPS",
+      "hint": "weather or time"
+    },
+    {
+      "word": "TRAVAIL",
+      "hint": "work"
+    },
+    {
+      "word": "TU",
+      "hint": "you"
+    },
+    {
+      "word": "UN",
+      "hint": "a or one"
+    },
+    {
+      "word": "VA",
+      "hint": "goes"
+    },
+    {
+      "word": "VERT",
+      "hint": "green"
+    },
+    {
+      "word": "VICISSITUDE",
+      "hint": "vicissitude"
+    },
+    {
+      "word": "VOYAGER",
+      "hint": "to travel"
+    }
+  ]
+}

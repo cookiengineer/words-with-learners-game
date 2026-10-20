@@ -1,0 +1,351 @@
+{
+  "schemaVersion": 1,
+  "language": "nl",
+  "level": "C2",
+  "words": [
+    {
+      "word": "AANZIENLIJK",
+      "hint": "considerable"
+    },
+    {
+      "word": "BAL",
+      "hint": "ball"
+    },
+    {
+      "word": "BELANGRIJK",
+      "hint": "important"
+    },
+    {
+      "word": "BEOORDELEN",
+      "hint": "to assess"
+    },
+    {
+      "word": "BEREIKEN",
+      "hint": "to reach"
+    },
+    {
+      "word": "BESLISSEN",
+      "hint": "to decide"
+    },
+    {
+      "word": "BETROKKEN",
+      "hint": "involved"
+    },
+    {
+      "word": "BETROUWBAAR",
+      "hint": "reliable"
+    },
+    {
+      "word": "BLAUW",
+      "hint": "blue"
+    },
+    {
+      "word": "BOOM",
+      "hint": "tree"
+    },
+    {
+      "word": "BROOD",
+      "hint": "bread"
+    },
+    {
+      "word": "BUITENGEWOON",
+      "hint": "extraordinary"
+    },
+    {
+      "word": "DAG",
+      "hint": "day"
+    },
+    {
+      "word": "DAT",
+      "hint": "that"
+    },
+    {
+      "word": "DE",
+      "hint": "the"
+    },
+    {
+      "word": "DESALNIETTEMIN",
+      "hint": "nevertheless"
+    },
+    {
+      "word": "DESONDANKS",
+      "hint": "nevertheless"
+    },
+    {
+      "word": "DIT",
+      "hint": "this"
+    },
+    {
+      "word": "DOELTREFFEND",
+      "hint": "effective"
+    },
+    {
+      "word": "DRINKEN",
+      "hint": "to drink"
+    },
+    {
+      "word": "EEN",
+      "hint": "a or an"
+    },
+    {
+      "word": "EN",
+      "hint": "and"
+    },
+    {
+      "word": "ERVARING",
+      "hint": "experience"
+    },
+    {
+      "word": "ETEN",
+      "hint": "to eat"
+    },
+    {
+      "word": "FAMILIE",
+      "hint": "family"
+    },
+    {
+      "word": "FIETS",
+      "hint": "bicycle"
+    },
+    {
+      "word": "GELUK",
+      "hint": "luck or happiness"
+    },
+    {
+      "word": "GEVOLGEN",
+      "hint": "consequences"
+    },
+    {
+      "word": "GEZOND",
+      "hint": "healthy"
+    },
+    {
+      "word": "GOED",
+      "hint": "good"
+    },
+    {
+      "word": "GROEN",
+      "hint": "green"
+    },
+    {
+      "word": "GROOT",
+      "hint": "big"
+    },
+    {
+      "word": "HERINNEREN",
+      "hint": "to remember"
+    },
+    {
+      "word": "HET",
+      "hint": "the"
+    },
+    {
+      "word": "HOND",
+      "hint": "dog"
+    },
+    {
+      "word": "HUIS",
+      "hint": "house"
+    },
+    {
+      "word": "IK",
+      "hint": "I"
+    },
+    {
+      "word": "INSPANNING",
+      "hint": "effort"
+    },
+    {
+      "word": "IS",
+      "hint": "is"
+    },
+    {
+      "word": "JIJ",
+      "hint": "you"
+    },
+    {
+      "word": "KAT",
+      "hint": "cat"
+    },
+    {
+      "word": "KLEIN",
+      "hint": "small"
+    },
+    {
+      "word": "LEZEN",
+      "hint": "to read"
+    },
+    {
+      "word": "MAKKELIJK",
+      "hint": "easy"
+    },
+    {
+      "word": "MELK",
+      "hint": "milk"
+    },
+    {
+      "word": "MET",
+      "hint": "with"
+    },
+    {
+      "word": "MOEILIJK",
+      "hint": "difficult"
+    },
+    {
+      "word": "NACHT",
+      "hint": "night"
+    },
+    {
+      "word": "NAUWKEURIG",
+      "hint": "precise"
+    },
+    {
+      "word": "NIET",
+      "hint": "not"
+    },
+    {
+      "word": "OGENSCHIJNLIJK",
+      "hint": "apparently"
+    },
+    {
+      "word": "OMGEVING",
+      "hint": "environment"
+    },
+    {
+      "word": "ONAFHANKELIJK",
+      "hint": "independent"
+    },
+    {
+      "word": "ONDERZOEKEN",
+      "hint": "to investigate"
+    },
+    {
+      "word": "ONTWIKKELEN",
+      "hint": "to develop"
+    },
+    {
+      "word": "ONVERMIJDELIJK",
+      "hint": "inevitable"
+    },
+    {
+      "word": "OP",
+      "hint": "on"
+    },
+    {
+      "word": "OVERHEID",
+      "hint": "government"
+    },
+    {
+      "word": "REIZEN",
+      "hint": "to travel"
+    },
+    {
+      "word": "ROOD",
+      "hint": "red"
+    },
+    {
+      "word": "SAMENWERKING",
+      "hint": "cooperation"
+    },
+    {
+      "word": "SCHOOL",
+      "hint": "school"
+    },
+    {
+      "word": "SCHRIJVEN",
+      "hint": "to write"
+    },
+    {
+      "word": "SLAPEN",
+      "hint": "to sleep"
+    },
+    {
+      "word": "SPELEN",
+      "hint": "to play"
+    },
+    {
+      "word": "TE",
+      "hint": "too"
+    },
+    {
+      "word": "TEGELIJKERTIJD",
+      "hint": "at the same time"
+    },
+    {
+      "word": "TOEGANKELIJK",
+      "hint": "accessible"
+    },
+    {
+      "word": "TOEKOMST",
+      "hint": "future"
+    },
+    {
+      "word": "UITLEGGEN",
+      "hint": "to explain"
+    },
+    {
+      "word": "VAN",
+      "hint": "of"
+    },
+    {
+      "word": "VEELZIJDIGHEID",
+      "hint": "versatility"
+    },
+    {
+      "word": "VERBETEREN",
+      "hint": "to improve"
+    },
+    {
+      "word": "VERGELIJKEN",
+      "hint": "to compare"
+    },
+    {
+      "word": "VERTELLEN",
+      "hint": "to tell"
+    },
+    {
+      "word": "VIS",
+      "hint": "fish"
+    },
+    {
+      "word": "VOORBEREIDEN",
+      "hint": "to prepare"
+    },
+    {
+      "word": "VOORTDUREND",
+      "hint": "continuous"
+    },
+    {
+      "word": "VRIEND",
+      "hint": "friend"
+    },
+    {
+      "word": "WAARSCHIJNLIJK",
+      "hint": "probably"
+    },
+    {
+      "word": "WATER",
+      "hint": "water"
+    },
+    {
+      "word": "WEER",
+      "hint": "weather"
+    },
+    {
+      "word": "WEL",
+      "hint": "well"
+    },
+    {
+      "word": "WERKEN",
+      "hint": "to work"
+    },
+    {
+      "word": "WIJ",
+      "hint": "we"
+    },
+    {
+      "word": "ZIJ",
+      "hint": "she or they"
+    }
+  ]
+}
