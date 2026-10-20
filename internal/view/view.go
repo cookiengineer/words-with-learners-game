@@ -94,11 +94,17 @@ type Card struct {
 	UpdatedAt     time.Time      `json:"updatedAt"`
 }
 
+type HintPlacement struct {
+	X int `json:"x"`
+	Y int `json:"y"`
+}
+
 type Hint struct {
-	Found  bool   `json:"found"`
-	Hint   string `json:"hint"`
-	Length int    `json:"length"`
-	Score  int    `json:"score"`
+	Found      bool            `json:"found"`
+	Hint       string          `json:"hint"`
+	Length     int             `json:"length"`
+	Score      int             `json:"score"`
+	Placements []HintPlacement `json:"placements,omitempty"`
 }
 
 func Build(value *game.Game, viewer game.PlayerID, online map[game.PlayerID]bool) Game {

@@ -34,6 +34,13 @@ func (ref wordRef) less(other wordRef) bool {
 }
 
 func ValidatePlacement(game *Game, lexicon Lexicon, placements []Placement) ([]ResolvedPlacement, []FormedWord, int, error) {
+	if game == nil {
+		return nil, nil, 0, RuleErrorf("invalid_state", "game or lexicon is missing")
+	}
+	return ValidatePlacementFor(game, lexicon, game.Current, placements)
+}
+
+func ValidatePlacementFor(game *Game, lexicon Lexicon, playerIndex int, placements []Placement) ([]ResolvedPlacement, []FormedWord, int, error) {
 	if game == nil || lexicon == nil {
 		return nil, nil, 0, RuleErrorf("invalid_state", "game or lexicon is missing")
 	}
@@ -47,10 +54,10 @@ func ValidatePlacement(game *Game, lexicon Lexicon, placements []Placement) ([]R
 		return nil, nil, 0, RuleErrorf("too_many_tiles", "you cannot place more than %d tiles", game.Config.RackSize())
 	}
 
-	player := game.CurrentPlayer()
-	if player == nil {
-		return nil, nil, 0, RuleErrorf("invalid_state", "current player is missing")
+	if playerIndex < 0 || playerIndex >= len(game.Players) {
+		return nil, nil, 0, RuleErrorf("invalid_state", "player is missing")
 	}
+	player := &game.Players[playerIndex]
 
 	rack := make(map[TileID]Tile, len(player.Rack))
 	for _, tile := range player.Rack {

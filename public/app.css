@@ -628,6 +628,23 @@ player-picker {
   overflow: hidden;
 }
 
+.cell[data-hint="true"] {
+  z-index: 2;
+  box-shadow: inset 0 0 0 3px #f5b301, 0 0 12px rgba(245, 179, 1, 0.8);
+  animation: hint-pulse 1.2s ease-in-out infinite;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .cell[data-hint="true"] {
+    animation: none;
+  }
+}
+
+@keyframes hint-pulse {
+  0%, 100% { box-shadow: inset 0 0 0 3px #f5b301, 0 0 6px rgba(245, 179, 1, 0.55); }
+  50% { box-shadow: inset 0 0 0 3px #ffd34d, 0 0 16px rgba(245, 179, 1, 0.95); }
+}
+
 .cell[data-bonus="tw"], .cell[data-bonus="dw"],
 .cell[data-bonus="tl"], .cell[data-bonus="dl"] {
   color: var(--bonus-text, #fff);

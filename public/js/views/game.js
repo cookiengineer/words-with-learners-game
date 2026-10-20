@@ -22,6 +22,8 @@ export class GameView {
     this.previewTimer = null;
     this.previewSequence = 0;
     this.lastPreviewError = "";
+    this.activeHint = null;
+    this.hintTimer = null;
     this.lastReshuffleNotice = "";
     this.lastTurnKey = "";
     this.destroyed = false;
@@ -56,6 +58,7 @@ export class GameView {
     this.hintDialog = document.getElementById("hint-dialog");
     this.hintText = document.getElementById("hint-text");
     this.hintMeta = document.getElementById("hint-meta");
+    this.hintShow = document.getElementById("hint-show");
     this.blankDialog = document.getElementById("blank-dialog");
     this.blankForm = document.getElementById("blank-form");
     this.blankInput = document.getElementById("blank-letter");
@@ -137,12 +140,14 @@ export class GameView {
       }
     }, { passive: false });
     this.recall.addEventListener("click", () => {
+      this.clearHintHighlight();
       this.pending = [];
       this.render();
     });
     this.submitButton.addEventListener("click", () => this.submit());
     this.passButton.addEventListener("click", () => this.pass());
     this.hintButton.addEventListener("click", () => this.showHint());
+    this.hintShow.addEventListener("click", () => this.showHintLocation());
     for (const button of this.hintDialog.querySelectorAll("[data-close-hint]")) {
       button.onclick = () => this.hintDialog.close();
     }
@@ -509,6 +514,7 @@ export class GameView {
     if (!this.canPlay()) {
       return;
     }
+    this.clearHintHighlight();
     if (this.rackGestureCleanup) {
       this.rackGestureCleanup();
     }
@@ -648,6 +654,7 @@ export class GameView {
     if (!this.canPlay() || this.pending.length === 0) {
       return;
     }
+    this.clearHintHighlight();
     this.submitButton.disabled = true;
     try {
       const payload = await socket.request("move.submit", {
@@ -669,6 +676,7 @@ export class GameView {
     if (!this.canPlay() || !confirm("Pass your turn?")) {
       return;
     }
+    this.clearHintHighlight();
     try {
       await socket.request("move.submit", {
         gameId: this.gameId,
@@ -686,8 +694,11 @@ export class GameView {
     if (!this.canPlay()) {
       return;
     }
+    this.clearHintHighlight();
     try {
       const payload = await socket.request("hint.get", { gameId: this.gameId });
+      this.activeHint = payload.found && payload.placements?.length ? payload : null;
+      this.hintShow.hidden = !this.activeHint;
       if (payload.found) {
         this.hintText.textContent = payload.hint;
         this.hintMeta.textContent = `${payload.length} letters · best score ${payload.score}`;
@@ -701,10 +712,41 @@ export class GameView {
     }
   }
 
+  showHintLocation() {
+    if (!this.activeHint) {
+      return;
+    }
+    this.hintDialog.close();
+    this.clearHintHighlight();
+    let highlighted = 0;
+    for (const placement of this.activeHint.placements) {
+      const cell = this.cells.get(`${placement.x},${placement.y}`);
+      if (!cell) {
+        continue;
+      }
+      cell.dataset.hint = "true";
+      highlighted += 1;
+    }
+    if (highlighted > 0) {
+      this.hintTimer = setTimeout(() => this.clearHintHighlight(), 8000);
+    }
+  }
+
+  clearHintHighlight() {
+    clearTimeout(this.hintTimer);
+    this.hintTimer = null;
+    for (const cell of this.cells.values()) {
+      if (cell.dataset.hint === "true") {
+        delete cell.dataset.hint;
+      }
+    }
+  }
+
   destroy() {
     this.destroyed = true;
     clearToasts();
     clearTimeout(this.previewTimer);
+    this.clearHintHighlight();
     if (this.offState) {
       this.offState();
     }

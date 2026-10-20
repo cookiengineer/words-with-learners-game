@@ -40,7 +40,7 @@ func findHintFor(value *game.Game, dict *dictionary.Dictionary, playerIndex int,
 					if !ok || len(placements) == 0 {
 						continue
 					}
-					_, words, score, err := game.ValidatePlacement(value, dict, placements)
+					_, words, score, err := game.ValidatePlacementFor(value, dict, playerIndex, placements)
 					if err != nil {
 						continue
 					}
@@ -53,7 +53,7 @@ func findHintFor(value *game.Game, dict *dictionary.Dictionary, playerIndex int,
 						if hint == "" {
 							hint = "a word with " + pluralLetters(length)
 						}
-						best = view.Hint{Found: true, Hint: hint, Length: length, Score: score}
+						best = view.Hint{Found: true, Hint: hint, Length: length, Score: score, Placements: hintPlacements(placements)}
 						if firstOnly {
 							return best
 						}
@@ -128,6 +128,14 @@ func matchWord(rack []game.Tile, board map[game.Coord]game.PlacedTile, word stri
 	return placements, true
 }
 
+func hintPlacements(placements []game.Placement) []view.HintPlacement {
+	result := make([]view.HintPlacement, 0, len(placements))
+	for _, placement := range placements {
+		result = append(result, view.HintPlacement{X: placement.X, Y: placement.Y})
+	}
+	return result
+}
+
 func pluralLetters(length int) string {
 	if length == 1 {
 		return "1 letter"
@@ -182,7 +190,7 @@ func findPlayableWithPool(value *game.Game, dict *dictionary.Dictionary, playerI
 						continue
 					}
 					player.Rack = used
-					_, _, _, err := game.ValidatePlacement(value, dict, placements)
+					_, _, _, err := game.ValidatePlacementFor(value, dict, playerIndex, placements)
 					if err == nil {
 						return used, true
 					}
