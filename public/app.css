@@ -546,6 +546,19 @@ player-picker {
   background: #cfc7ba;
   box-shadow: 0 0 0 3px #b7ad9d;
   user-select: none;
+  transition: transform 180ms cubic-bezier(0.22, 1, 0.36, 1);
+  will-change: transform;
+}
+
+.viewport.panning .board,
+.board.no-transition {
+  transition: none;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .board {
+    transition: none;
+  }
 }
 
 .cell {
@@ -666,21 +679,6 @@ player-picker {
   background: color-mix(in srgb, var(--surface) 92%, transparent);
   backdrop-filter: blur(6px);
   padding: 0.4rem 0.65rem;
-}
-
-.turn-banner {
-  position: absolute;
-  top: 0.7rem;
-  left: 50%;
-  transform: translateX(-50%);
-  background: color-mix(in srgb, var(--surface) 92%, transparent);
-  border: 1px solid var(--line);
-  border-radius: 999px;
-  padding: 0.35rem 0.8rem;
-  font-size: 0.88rem;
-  font-weight: 700;
-  pointer-events: none;
-  z-index: 4;
 }
 
 /* Bottom bar */

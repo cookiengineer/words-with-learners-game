@@ -24,7 +24,7 @@ export class Camera {
     return this.tileSize * 15 * this.zoom;
   }
 
-  fit() {
+  fit(instant = false) {
     const { width, height } = this.viewportSize();
     if (width === 0 || height === 0) {
       return;
@@ -41,7 +41,7 @@ export class Camera {
     this.x = (width - board) / 2;
     this.y = (height - board) / 2;
     this.snap();
-    this.apply();
+    this.apply(instant);
   }
 
   setZoom(zoom, clientX, clientY) {
@@ -119,8 +119,12 @@ export class Camera {
     }
   }
 
-  apply() {
+  apply(instant = false) {
     this.board.style.transform = `translate(${this.x}px, ${this.y}px) scale(${this.zoom})`;
+    if (instant) {
+      this.board.classList.add("no-transition");
+      requestAnimationFrame(() => this.board.classList.remove("no-transition"));
+    }
   }
 
   cellFromClient(clientX, clientY) {
@@ -140,6 +144,6 @@ export class Camera {
   resize() {
     this.clamp();
     this.snap();
-    this.apply();
+    this.apply(true);
   }
 }

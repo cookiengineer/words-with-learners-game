@@ -39,7 +39,6 @@ export class GameView {
     this.scoreboard = this.container.querySelector("#scoreboard");
     this.viewport = this.container.querySelector("#board-viewport");
     this.board = this.container.querySelector("#board");
-    this.turnBanner = this.container.querySelector("#turn-banner");
     this.rack = this.container.querySelector("#rack");
     this.preview = this.container.querySelector("#preview");
     this.recall = this.container.querySelector("#recall");
@@ -65,7 +64,7 @@ export class GameView {
     });
     this.resizeObserver = new ResizeObserver(() => this.camera.resize());
     this.resizeObserver.observe(this.viewport);
-    requestAnimationFrame(() => this.camera.fit());
+    requestAnimationFrame(() => this.camera.fit(true));
     this.requestState();
     return () => this.destroy();
   }
@@ -257,7 +256,6 @@ export class GameView {
     }
     this.renderBoard();
     this.renderRack();
-    this.renderStatus();
     this.updateActions();
     this.schedulePreview();
   }
@@ -323,21 +321,6 @@ export class GameView {
       return node;
     });
     this.rack.replaceChildren(...nodes);
-  }
-
-  renderStatus() {
-    const current = this.state.players.find((player) => player.id === this.state.currentPlayerId);
-    if (this.state.status === "finished") {
-      const winner = this.state.players.find((player) => player.id === this.state.winner);
-      this.turnBanner.textContent = winner ? `${winner.name} wins!` : "The game ended in a tie.";
-      return;
-    }
-    if (this.state.isYourTurn) {
-      this.turnBanner.textContent = "Your turn";
-    } else {
-      const name = current?.name || "another player";
-      this.turnBanner.textContent = `${name}'s turn`;
-    }
   }
 
   updateActions() {
