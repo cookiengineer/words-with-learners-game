@@ -109,6 +109,7 @@ func NewGame(id GameID, config Config, seeds []PlayerSeed, specs []TileSpec, now
 	game := &Game{
 		SchemaVersion: SchemaVersion,
 		ID:            id,
+		Creator:       players[0].ID,
 		Config:        config,
 		Specs:         append([]TileSpec(nil), specs...),
 		Status:        StatusPlaying,

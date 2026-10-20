@@ -262,6 +262,34 @@ output {
   border-color: var(--accent);
 }
 
+.game-card-open {
+  display: grid;
+  gap: 0.8rem;
+  width: 100%;
+  padding: 0;
+  border: 0;
+  border-radius: 0;
+  background: transparent;
+  color: inherit;
+  text-align: left;
+  cursor: pointer;
+}
+
+.game-card-open:hover:not(:disabled) {
+  border-color: transparent;
+}
+
+.game-card .stop {
+  width: 100%;
+  border-color: #d9b8b3;
+  color: #9b2c2c;
+}
+
+.game-card .stop:hover:not(:disabled) {
+  border-color: #9b2c2c;
+  background: #fdf3f2;
+}
+
 .game-card header {
   display: flex;
   align-items: center;

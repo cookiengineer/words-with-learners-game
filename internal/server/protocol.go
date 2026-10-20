@@ -11,6 +11,8 @@ const (
 	TypePlayersSearch = "players.search"
 	TypeGamesList     = "games.list"
 	TypeGameCreate    = "game.create"
+	TypeGameDelete    = "game.delete"
+	TypeGameDeleted   = "game.deleted"
 	TypeGameState     = "game.state"
 	TypeMovePreview   = "move.preview"
 	TypeMoveSubmit    = "move.submit"
@@ -65,6 +67,14 @@ type CreateGameRequest struct {
 }
 
 type GameStateRequest struct {
+	GameID game.GameID `json:"gameId"`
+}
+
+type DeleteGameRequest struct {
+	GameID game.GameID `json:"gameId"`
+}
+
+type GameDeleted struct {
 	GameID game.GameID `json:"gameId"`
 }
 

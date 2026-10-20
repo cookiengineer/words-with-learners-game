@@ -72,4 +72,10 @@ func TestGamesPersist(t *testing.T) {
 	if len(games) != 1 || games[0].ID != value.ID {
 		t.Fatalf("games = %#v", games)
 	}
+	if err := profiles.DeleteGame(value.ID); err != nil {
+		t.Fatal(err)
+	}
+	if _, err := reopened.LoadGame(value.ID); err == nil {
+		t.Fatal("deleted game is still stored on disk")
+	}
 }

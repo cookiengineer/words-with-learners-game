@@ -266,6 +266,17 @@ func (store *Store) SaveGame(value *game.Game) error {
 	return writeAtomic(path, append(raw, '\n'))
 }
 
+func (store *Store) DeleteGame(id game.GameID) error {
+	if strings.TrimSpace(string(id)) == "" {
+		return errors.New("game id is required")
+	}
+	path := filepath.Join(store.games, string(id)+".json")
+	if err := os.Remove(path); err != nil && !errors.Is(err, os.ErrNotExist) {
+		return err
+	}
+	return nil
+}
+
 func writeAtomic(path string, data []byte) error {
 	dir := filepath.Dir(path)
 	temp, err := os.CreateTemp(dir, ".tmp-*")

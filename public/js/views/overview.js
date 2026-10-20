@@ -67,18 +67,43 @@ export class OverviewView {
         ]),
       ]);
       const footer = el("div", { class: "muted", text: `${statusLabel(game.status)} · ${formatWhen(game.updatedAt)}` });
-      const card = el("button", {
-        type: "button",
-        class: "game-card",
-        onclick: () => this.context.openGame(game.id),
-      }, [header, players, footer]);
+      const content = [header, players, footer];
       if (game.yourTurn) {
-        card.append(el("span", { class: "badge", text: "Your turn" }));
+        content.push(el("span", { class: "badge", text: "Your turn" }));
       } else if (game.status === "finished") {
         const winner = game.players.find((player) => player.id === game.winner);
-        card.append(el("span", { class: "badge", text: winner ? `${winner.name} won` : "Tie game" }));
+        content.push(el("span", { class: "badge", text: winner ? `${winner.name} won` : "Tie game" }));
+      }
+      const openButton = el("button", {
+        type: "button",
+        class: "game-card-open",
+        onclick: () => this.context.openGame(game.id),
+      }, content);
+      const card = el("article", { class: "game-card" }, [openButton]);
+      if (game.creatorId === this.context.profile?.id) {
+        const stopButton = el("button", {
+          type: "button",
+          class: "stop",
+          text: "Stop",
+          onclick: () => this.stopGame(game, stopButton),
+        });
+        card.append(stopButton);
       }
       list.append(card);
+    }
+  }
+
+  async stopGame(game, button) {
+    if (!confirm("Stop this game? It will be deleted for every player.")) {
+      return;
+    }
+    button.disabled = true;
+    try {
+      await socket.request("game.delete", { gameId: game.id });
+      this.reload();
+    } catch (error) {
+      button.disabled = false;
+      toast(error.message);
     }
   }
 }

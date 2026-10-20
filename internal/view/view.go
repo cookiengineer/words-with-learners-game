@@ -84,6 +84,7 @@ type CardPlayer struct {
 
 type Card struct {
 	ID            game.GameID    `json:"id"`
+	Creator       game.PlayerID  `json:"creatorId"`
 	Config        Config         `json:"config"`
 	Status        game.Status    `json:"status"`
 	Players       []CardPlayer   `json:"players"`
@@ -199,6 +200,7 @@ func BuildCard(value *game.Game, viewer game.PlayerID) Card {
 	}
 	return Card{
 		ID:            value.ID,
+		Creator:       value.CreatorID(),
 		Config:        ConfigFrom(value.Config),
 		Status:        value.Status,
 		Players:       players,

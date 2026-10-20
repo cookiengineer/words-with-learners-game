@@ -413,6 +413,21 @@ func (server *Server) broadcastGame(value *game.Game) {
 	}
 }
 
+func (server *Server) broadcastGameDeleted(value *game.Game, except *client) {
+	server.clientsMutex.RLock()
+	clients := make([]*client, 0, len(server.clients))
+	for conn := range server.clients {
+		if conn == except || !value.HasPlayer(conn.profile.ID) {
+			continue
+		}
+		clients = append(clients, conn)
+	}
+	server.clientsMutex.RUnlock()
+	for _, conn := range clients {
+		conn.send(TypeGameDeleted, "", GameDeleted{GameID: value.ID})
+	}
+}
+
 func (server *Server) gameCards(playerID game.PlayerID) []view.Card {
 	sessions := server.allSessions()
 	cards := make([]view.Card, 0)

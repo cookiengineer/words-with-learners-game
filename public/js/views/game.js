@@ -67,6 +67,12 @@ export class GameView {
         this.update(payload);
       }
     });
+    this.offDeleted = socket.on("game.deleted", ({ payload }) => {
+      if (payload && payload.gameId === this.gameId && !this.destroyed) {
+        toast("This game was stopped by its creator.");
+        this.context.onLeave();
+      }
+    });
     this.offConnected = socket.on("connected", () => {
       this.requestState();
     });
@@ -317,7 +323,10 @@ export class GameView {
   }
 
   notifyTurn() {
-    const key = `${this.state.status}:${this.state.currentPlayerId}`;
+    const solo = this.state.players.length === 1;
+    const key = solo
+      ? `${this.state.status}:${this.state.currentPlayerId}:${this.state.moveCount}`
+      : `${this.state.status}:${this.state.currentPlayerId}`;
     if (key === this.lastTurnKey) {
       return;
     }
@@ -698,6 +707,9 @@ export class GameView {
     clearTimeout(this.previewTimer);
     if (this.offState) {
       this.offState();
+    }
+    if (this.offDeleted) {
+      this.offDeleted();
     }
     if (this.offConnected) {
       this.offConnected();

@@ -34,6 +34,8 @@ func (server *Server) handleMessage(conn *client, raw []byte) {
 		server.handleGamesList(conn, envelope)
 	case TypeGameCreate:
 		server.handleGameCreate(conn, envelope)
+	case TypeGameDelete:
+		server.handleGameDelete(conn, envelope)
 	case TypeGameState:
 		server.handleGameState(conn, envelope)
 	case TypeMovePreview:
@@ -91,7 +93,12 @@ func (server *Server) handleGameCreate(conn *client, envelope Envelope) {
 		conn.send(TypeError, envelope.RequestID, ErrorPayload{Code: "invalid_players", Message: fmt.Sprintf("choose %d to %d players", game.MinPlayers, game.MaxPlayers)})
 		return
 	}
-	if len(request.Opponents) != request.PlayerCount-1 {
+	if request.PlayerCount == 1 {
+		if len(request.Opponents) != 0 {
+			conn.send(TypeError, envelope.RequestID, ErrorPayload{Code: "invalid_players", Message: "a single player game does not invite opponents"})
+			return
+		}
+	} else if len(request.Opponents) != request.PlayerCount-1 {
 		conn.send(TypeError, envelope.RequestID, ErrorPayload{Code: "invalid_players", Message: "select exactly the requested number of opponents"})
 		return
 	}
@@ -163,6 +170,47 @@ func (server *Server) handleGameCreate(conn *client, envelope Envelope) {
 	}
 	conn.send(TypeGameState, envelope.RequestID, view.Build(snapshot, conn.profile.ID, server.onlinePlayers()))
 	server.broadcastGame(snapshot)
+	server.broadcastGamesChanged()
+}
+
+func (server *Server) handleGameDelete(conn *client, envelope Envelope) {
+	var request DeleteGameRequest
+	if err := decodePayload(envelope, &request); err != nil {
+		conn.send(TypeError, envelope.RequestID, ErrorPayload{Code: "invalid_payload", Message: err.Error()})
+		return
+	}
+	session, ok := server.session(request.GameID)
+	if !ok {
+		conn.send(TypeError, envelope.RequestID, ErrorPayload{Code: "not_found", Message: "game not found"})
+		return
+	}
+	session.mutex.Lock()
+	value := session.value
+	if !value.HasPlayer(conn.profile.ID) {
+		session.mutex.Unlock()
+		conn.send(TypeError, envelope.RequestID, ErrorPayload{Code: "not_a_player", Message: "you are not part of this game"})
+		return
+	}
+	if value.CreatorID() != conn.profile.ID {
+		session.mutex.Unlock()
+		conn.send(TypeError, envelope.RequestID, ErrorPayload{Code: "not_creator", Message: "only the player who created this game can stop it"})
+		return
+	}
+	snapshot, snapshotErr := cloneGame(value)
+	gameID := value.ID
+	if err := server.store.DeleteGame(gameID); err != nil {
+		session.mutex.Unlock()
+		conn.send(TypeError, envelope.RequestID, ErrorPayload{Code: "internal_error", Message: "could not delete the game"})
+		return
+	}
+	server.gamesMutex.Lock()
+	delete(server.games, gameID)
+	server.gamesMutex.Unlock()
+	session.mutex.Unlock()
+	conn.send(TypeGameDeleted, envelope.RequestID, GameDeleted{GameID: gameID})
+	if snapshotErr == nil {
+		server.broadcastGameDeleted(snapshot, conn)
+	}
 	server.broadcastGamesChanged()
 }
 

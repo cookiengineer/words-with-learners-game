@@ -12,7 +12,7 @@ const (
 	BoardSize     = 15
 	MinRackSize   = 5
 	MaxRackSize   = 15
-	MinPlayers    = 2
+	MinPlayers    = 1
 	MaxPlayers    = 4
 )
 
@@ -212,6 +212,7 @@ type Player struct {
 type Game struct {
 	SchemaVersion int             `json:"schemaVersion"`
 	ID            GameID          `json:"id"`
+	Creator       PlayerID        `json:"creatorId,omitempty"`
 	Config        Config          `json:"config"`
 	Specs         []TileSpec      `json:"tileSpecs"`
 	Status        Status          `json:"status"`
@@ -257,6 +258,19 @@ func (game *Game) PlayerIndexByID(id PlayerID) int {
 
 func (game *Game) HasPlayer(id PlayerID) bool {
 	return game.PlayerIndexByID(id) >= 0
+}
+
+func (game *Game) CreatorID() PlayerID {
+	if game == nil {
+		return ""
+	}
+	if game.Creator != "" {
+		return game.Creator
+	}
+	if len(game.Players) > 0 {
+		return game.Players[0].ID
+	}
+	return ""
 }
 
 type MoveKind string

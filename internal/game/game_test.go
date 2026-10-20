@@ -138,6 +138,38 @@ func TestApplyMoveAndReplay(t *testing.T) {
 	}
 }
 
+func TestSinglePlayerGameAllowsConsecutiveTurns(t *testing.T) {
+	now := time.Now()
+	config := Config{Language: LanguageEnglish, Level: LevelA1, MaxWordLength: 5, PlayerCount: 1, BoardSize: BoardSize, BingoBonus: 25, Seed: 7}
+	specs := []TileSpec{{Letter: "A", Value: 1, Count: 40}}
+	value, err := NewGame("game-solo", config, []PlayerSeed{{ID: "p1", Name: "One"}}, specs, now)
+	if err != nil {
+		t.Fatal(err)
+	}
+	if len(value.Players) != 1 {
+		t.Fatalf("players = %d, want 1", len(value.Players))
+	}
+	lex := newTestLexicon([]string{"AAAAA"})
+	for _, moveID := range []string{"m1", "m2"} {
+		if _, err := ApplyMove(value, lex, "p1", MoveRequest{
+			MoveID:           moveID,
+			ExpectedRevision: value.Revision,
+			Kind:             MovePass,
+		}, now); err != nil {
+			t.Fatalf("move %s: %v", moveID, err)
+		}
+		if value.Current != 0 {
+			t.Fatalf("current = %d, want 0 after %s", value.Current, moveID)
+		}
+	}
+	if value.MoveCount != 2 {
+		t.Fatalf("move count = %d, want 2", value.MoveCount)
+	}
+	if err := Replay(value, lex); err != nil {
+		t.Fatal(err)
+	}
+}
+
 func TestDuplicateMoveIDIsIdempotent(t *testing.T) {
 	now := time.Now()
 	config := Config{Language: LanguageEnglish, Level: LevelA1, MaxWordLength: 5, PlayerCount: 2, BoardSize: BoardSize, BingoBonus: 25, Seed: 42}

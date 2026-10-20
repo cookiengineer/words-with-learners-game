@@ -217,6 +217,79 @@ func TestStaticManifest(t *testing.T) {
 	}
 }
 
+func TestSinglePlayerGameCreateAndTurns(t *testing.T) {
+	server := newTestServer(t)
+	defer server.http.Close()
+	host, hostCookie := server.register(t, "solo")
+	hostConn := server.dial(t, hostCookie)
+	defer hostConn.Close()
+
+	var created view.Game
+	wsRequest(t, hostConn, TypeGameCreate, CreateGameRequest{
+		Language:      game.LanguageEnglish,
+		Level:         game.LevelA1,
+		MaxWordLength: 7,
+		PlayerCount:   1,
+	}, &created)
+	if created.ID == "" || created.Config.PlayerCount != 1 {
+		t.Fatalf("unexpected created game: %#v", created)
+	}
+	if len(created.Players) != 1 || created.Players[0].ID != host.ID {
+		t.Fatalf("players = %#v", created.Players)
+	}
+	if !created.IsYourTurn || created.CurrentPlayer != host.ID {
+		t.Fatalf("solo game should start on the host's turn: %#v", created)
+	}
+
+	var accepted MoveAccepted
+	wsRequest(t, hostConn, TypeMoveSubmit, SubmitRequest{GameID: created.ID, Move: game.MoveRequest{
+		MoveID:           "solo-pass-1",
+		ExpectedRevision: created.Revision,
+		Kind:             game.MovePass,
+	}}, &accepted)
+	if accepted.Move.PlayerID != host.ID {
+		t.Fatalf("move player = %s, want %s", accepted.Move.PlayerID, host.ID)
+	}
+
+	var state view.Game
+	wsRequest(t, hostConn, TypeGameState, GameStateRequest{GameID: created.ID}, &state)
+	if !state.IsYourTurn || state.CurrentPlayer != host.ID {
+		t.Fatalf("solo game should start a new turn for the host: %#v", state)
+	}
+	if state.Revision != created.Revision+1 {
+		t.Fatalf("revision = %d, want %d", state.Revision, created.Revision+1)
+	}
+
+	var list GamesListResponse
+	wsRequest(t, hostConn, TypeGamesList, GamesListRequest{}, &list)
+	if len(list.Games) != 1 || list.Games[0].ID != created.ID {
+		t.Fatalf("game list = %#v", list.Games)
+	}
+
+	wsExpectError(t, hostConn, TypeGameCreate, CreateGameRequest{
+		Language:      game.LanguageEnglish,
+		Level:         game.LevelA1,
+		MaxWordLength: 7,
+		PlayerCount:   1,
+		Opponents:     []game.PlayerID{"other"},
+	}, "invalid_players")
+
+	var deleted GameDeleted
+	wsRequest(t, hostConn, TypeGameDelete, DeleteGameRequest{GameID: created.ID}, &deleted)
+	if deleted.GameID != created.ID {
+		t.Fatalf("deleted game id = %s, want %s", deleted.GameID, created.ID)
+	}
+	var remaining GamesListResponse
+	wsRequest(t, hostConn, TypeGamesList, GamesListRequest{}, &remaining)
+	if len(remaining.Games) != 0 {
+		t.Fatalf("games after delete = %#v", remaining.Games)
+	}
+	if _, err := server.app.store.LoadGame(created.ID); err == nil {
+		t.Fatal("deleted game is still stored on disk")
+	}
+	wsExpectError(t, hostConn, TypeGameState, GameStateRequest{GameID: created.ID}, "not_found")
+}
+
 func TestWebSocketGameFlow(t *testing.T) {
 	server := newTestServer(t)
 	defer server.http.Close()
@@ -351,5 +424,17 @@ func TestWebSocketGameFlow(t *testing.T) {
 	wsRequest(t, hostConn, TypePlayersSearch, SearchPlayersRequest{Query: "guest"}, &search)
 	if len(search.Players) != 1 || search.Players[0].ID != opponent.ID {
 		t.Fatalf("search = %#v", search.Players)
+	}
+
+	wsExpectError(t, opponentConn, TypeGameDelete, DeleteGameRequest{GameID: created.ID}, "not_creator")
+	var deleted GameDeleted
+	wsRequest(t, hostConn, TypeGameDelete, DeleteGameRequest{GameID: created.ID}, &deleted)
+	if deleted.GameID != created.ID {
+		t.Fatalf("deleted game id = %s, want %s", deleted.GameID, created.ID)
+	}
+	var afterDelete GamesListResponse
+	wsRequest(t, opponentConn, TypeGamesList, GamesListRequest{}, &afterDelete)
+	if len(afterDelete.Games) != 0 {
+		t.Fatalf("games after delete = %#v", afterDelete.Games)
 	}
 }

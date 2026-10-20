@@ -8,12 +8,13 @@ The game uses a Words With Friends style 15×15 board, a server-authoritative ti
 
 - Languages: Dutch, English, German, Spanish, French, Italian, Russian.
 - CEFR levels: A1, A2, B1, B2, C1, C2.
-- 2–4 players per game.
+- 1–4 players per game; single-player games are local training games.
 - Configurable maximum word length and rack size (5–15).
 - Server-side move validation, scoring, hints, bag/rack management, and replay checks.
 - Automatic rack reshuffling when the current player has no playable word and the bag has tiles.
 - Pass, blanks, bingo bonuses, and end-game scoring.
 - Searchable player directory reused by the invite dialog.
+- Game creators can stop and delete their games from the overview.
 - Pannable, zoomable, grid-aligned board up to 2×.
 - Local SVG flags and flag-inspired bonus-square themes.
 - JSON profiles and games stored in a configurable data directory.
@@ -29,7 +30,7 @@ The game uses a Words With Friends style 15×15 board, a server-authoritative ti
 go run ./cmd/server
 ```
 
-Open <http://localhost:8080>. Enter a username and password; a new account is created automatically if the username is new. Then create a game and invite another player.
+Open <http://localhost:8080>. Enter a username and password; a new account is created automatically if the username is new. Then create a game and invite another player, or choose one player to train on your own.
 
 Useful flags:
 

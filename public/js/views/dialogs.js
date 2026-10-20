@@ -13,6 +13,8 @@ export class InviteDialog {
     this.players = document.getElementById("invite-players");
     this.playersOutput = document.getElementById("invite-players-output");
     this.picker = document.getElementById("invite-picker");
+    this.inviteSection = document.getElementById("invite-players-section");
+    this.inviteHeading = this.inviteSection?.querySelector("h3");
     this.selectedNode = document.getElementById("invite-selected");
     this.hint = document.getElementById("invite-hint");
     this.createButton = document.getElementById("invite-create");
@@ -52,8 +54,20 @@ export class InviteDialog {
   }
 
   update() {
-    const needed = Number(this.players.value) - 1;
-    this.picker.setMax(needed);
+    const count = Number(this.players.value);
+    const solo = count === 1;
+    const needed = count - 1;
+    if (solo && (this.picker.selected || []).length > 0) {
+      this.picker.setSelected([]);
+    }
+    this.picker.setMax(Math.max(1, needed));
+    if (this.inviteSection) {
+      if (this.inviteHeading) {
+        this.inviteHeading.hidden = solo;
+      }
+      this.selectedNode.hidden = solo;
+      this.picker.hidden = solo;
+    }
     const selected = this.picker.selected || [];
     this.selectedNode.replaceChildren(...selected.map((profile) => el("span", { class: "chip" }, [
       profile.username,
@@ -64,10 +78,14 @@ export class InviteDialog {
         onclick: () => this.picker.remove(profile.id),
       }),
     ])));
-    this.hint.textContent = needed === 1
-      ? "Select 1 player for a 2 player game."
-      : `Select ${needed} players for a ${this.players.value} player game.`;
-    this.createButton.disabled = this.busy || selected.length !== needed;
+    if (solo) {
+      this.hint.textContent = "Training game — no opponents needed.";
+    } else if (needed === 1) {
+      this.hint.textContent = "Select 1 player for a 2 player game.";
+    } else {
+      this.hint.textContent = `Select ${needed} players for a ${this.players.value} player game.`;
+    }
+    this.createButton.disabled = this.busy || (!solo && selected.length !== needed);
   }
 
   async submit(event) {
@@ -75,8 +93,9 @@ export class InviteDialog {
     if (this.busy) {
       return;
     }
-    const needed = Number(this.players.value) - 1;
-    const selected = this.picker.selected || [];
+    const count = Number(this.players.value);
+    const needed = count - 1;
+    const selected = count === 1 ? [] : this.picker.selected || [];
     if (selected.length !== needed) {
       toast(`Select exactly ${needed} player${needed === 1 ? "" : "s"}`);
       return;
@@ -90,7 +109,7 @@ export class InviteDialog {
         language: this.language.value,
         level: this.level.value,
         maxWordLength: Number(this.length.value),
-        playerCount: Number(this.players.value),
+        playerCount: count,
         opponents: selected.map((profile) => profile.id),
       });
       this.dialog.close();
