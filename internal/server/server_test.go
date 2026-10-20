@@ -206,7 +206,7 @@ func TestStaticManifest(t *testing.T) {
 	if err := json.NewDecoder(response.Body).Decode(&manifest); err != nil {
 		t.Fatal(err)
 	}
-	if manifest.Name != "Words with Learners" || manifest.Display != "standalone" {
+	if manifest.Name != "Words with Learners" || manifest.Display != "fullscreen" {
 		t.Fatalf("unexpected manifest: %#v", manifest)
 	}
 	if len(manifest.DisplayOverride) == 0 || manifest.DisplayOverride[0] != "fullscreen" {

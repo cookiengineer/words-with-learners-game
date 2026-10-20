@@ -715,9 +715,9 @@ player-picker {
   display: flex;
   flex-direction: column;
   align-items: stretch;
-  gap: 0.5rem;
+  gap: 0;
   min-width: 0;
-  padding: 0.65rem 0.8rem calc(0.65rem + env(safe-area-inset-bottom));
+  padding: 0;
   background: var(--surface);
   border-top: 1px solid var(--line);
 }
@@ -725,6 +725,7 @@ player-picker {
 .rack-panel {
   min-width: 0;
   width: 100%;
+  padding: 0.5rem;
 }
 
 .rack-scroll {
@@ -795,17 +796,22 @@ player-picker {
   align-items: center;
   gap: 0.4rem;
   flex-wrap: wrap;
-  justify-content: flex-end;
+  justify-content: center;
+  padding: 0.5rem;
   width: 100%;
   min-width: 0;
+  border-top: 1px solid var(--line);
 }
 
 .preview {
-  margin-right: auto;
   font-weight: 700;
   color: var(--accent-dark);
   min-width: 4rem;
   text-align: left;
+}
+
+.preview:empty {
+  display: none;
 }
 
 .hint-button {
@@ -818,7 +824,7 @@ player-picker {
 
 @media (max-width: 720px) {
   .game-actions {
-    justify-content: flex-end;
+    justify-content: center;
   }
 
   .game-top {
