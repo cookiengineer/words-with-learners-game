@@ -60,16 +60,8 @@
       "hint": "to care about, to pay attention to [with auf (+ accusative)]; to keep an eye on [with auf (+ accusative)]"
     },
     {
-      "word": "ADAM",
-      "hint": ""
-    },
-    {
       "word": "AFFÄRE",
       "hint": "a delicate, problematic or annoying affair, business that forces one to act carefully; especially"
-    },
-    {
-      "word": "AFRIKA",
-      "hint": ""
     },
     {
       "word": "AHA",
@@ -108,28 +100,8 @@
       "hint": "alert, alarm"
     },
     {
-      "word": "ALBERT",
-      "hint": ""
-    },
-    {
-      "word": "ALEX",
-      "hint": ""
-    },
-    {
-      "word": "ALEXANDER",
-      "hint": ""
-    },
-    {
-      "word": "ALFRED",
-      "hint": ""
-    },
-    {
       "word": "ALI",
       "hint": "a Muslim, especially Turkish, immigrant (or descendant of immigrants)"
-    },
-    {
-      "word": "ALICE",
-      "hint": ""
     },
     {
       "word": "ALLZU",
@@ -256,10 +228,6 @@
       "hint": "cause, starting, motive, occasion; occasion, event, gathering"
     },
     {
-      "word": "ANNE",
-      "hint": ""
-    },
-    {
       "word": "ANNEHMEN",
       "hint": "to assume, to suppose (as given); to take on, to assume (a role, form, etc.)"
     },
@@ -326,10 +294,6 @@
     {
       "word": "ARTEN",
       "hint": "to become [with nach (+ dative) ‘like’] [auxiliary sein]"
-    },
-    {
-      "word": "ARTHUR",
-      "hint": ""
     },
     {
       "word": "AT",
@@ -510,10 +474,6 @@
     {
       "word": "BANKEN",
       "hint": "plural of Bank"
-    },
-    {
-      "word": "BARBARA",
-      "hint": ""
     },
     {
       "word": "BART",
@@ -1040,6 +1000,10 @@
       "hint": "ambassador, emissary, head of mission; messenger (male or of unspecified gender)"
     },
     {
+      "word": "BOULEVARD",
+      "hint": "boulevard, avenue, broad street (typically outside the German-speaking countries, especially in France)"
+    },
+    {
       "word": "BOX",
       "hint": "box (cuboid container); but not as widely used as in English in formal language, perhaps most common for plastic boxes; loudspeaker (box-like encasing containing one or more"
     },
@@ -1108,10 +1072,6 @@
       "hint": "chest; breast (of a woman); side of the chest (of a man)"
     },
     {
-      "word": "BY",
-      "hint": ""
-    },
-    {
       "word": "BÄUME",
       "hint": "to rear up; to rebel [with gegen ‘against’]"
     },
@@ -1122,22 +1082,6 @@
     {
       "word": "CAFÉ",
       "hint": "a café, a coffee shop; coffee"
-    },
-    {
-      "word": "CAN",
-      "hint": ""
-    },
-    {
-      "word": "CAPTAIN",
-      "hint": ""
-    },
-    {
-      "word": "CARL",
-      "hint": ""
-    },
-    {
-      "word": "CARLOS",
-      "hint": ""
     },
     {
       "word": "CENT",
@@ -1156,14 +1100,6 @@
       "hint": "character; the totality of someone's personal qualities; character, characteristic feature or nature of a thing, place, or people"
     },
     {
-      "word": "CHARLES",
-      "hint": ""
-    },
-    {
-      "word": "CHARLIE",
-      "hint": ""
-    },
-    {
       "word": "CHARLOTTE",
       "hint": "charlotte (dessert consisting of sponge cake filled with fruit)"
     },
@@ -1172,20 +1108,8 @@
       "hint": "Chicagoan (native or inhabitant of the city of Chicago, Illinois, United States) (usually male)"
     },
     {
-      "word": "CHRIS",
-      "hint": ""
-    },
-    {
-      "word": "CHRISTIAN",
-      "hint": ""
-    },
-    {
       "word": "CHRISTUS",
       "hint": "vocative singular of Christus"
-    },
-    {
-      "word": "CM",
-      "hint": ""
     },
     {
       "word": "CODE",
@@ -1196,20 +1120,12 @@
       "hint": "a college (any so-called institution in an Anglophone country, but most often in the North American sense)"
     },
     {
-      "word": "CREW",
-      "hint": ""
-    },
-    {
       "word": "DAHEIM",
       "hint": "home, at home (adverb)"
     },
     {
       "word": "DAHINTER",
       "hint": "behind it/that"
-    },
-    {
-      "word": "DAN",
-      "hint": ""
     },
     {
       "word": "DANEBEN",
@@ -1246,10 +1162,6 @@
     {
       "word": "DAUERND",
       "hint": "strong/mixed nominative/accusative neuter singular of dauernd"
-    },
-    {
-      "word": "DAY",
-      "hint": ""
     },
     {
       "word": "DEAL",
@@ -1361,15 +1273,11 @@
     },
     {
       "word": "DISKUTIEREN",
-      "hint": "to discuss [with über (+ accusative) ‘\u003csomeone/something\u003e’]"
+      "hint": "to discuss [with über (+ accusative) ‘<someone/something>’]"
     },
     {
       "word": "DO",
       "hint": "abbreviation of Donnerstag (“Thursday”) alternative form of Do."
-    },
-    {
-      "word": "DOC",
-      "hint": ""
     },
     {
       "word": "DOKTOR",
@@ -1502,10 +1410,6 @@
     {
       "word": "ED",
       "hint": "permanent marker, sharpie"
-    },
-    {
-      "word": "EDWARD",
-      "hint": ""
     },
     {
       "word": "EHEFRAU",
@@ -1644,10 +1548,6 @@
       "hint": "eleven"
     },
     {
-      "word": "EMMA",
-      "hint": ""
-    },
-    {
       "word": "EMPFANG",
       "hint": "receipt, acceptance, welcome (act of receiving someone or something); reception (social event)"
     },
@@ -1658,10 +1558,6 @@
     {
       "word": "EMPFEHLEN",
       "hint": "to propose, to advise in favor of; to commend"
-    },
-    {
-      "word": "EN",
-      "hint": ""
     },
     {
       "word": "ENDEN",
@@ -1816,10 +1712,6 @@
       "hint": "to heighten, raise; to increase"
     },
     {
-      "word": "ERIC",
-      "hint": ""
-    },
-    {
       "word": "ERINNERUNGEN",
       "hint": "memory (recall); remembrance; reminder, something that reminds"
     },
@@ -1948,10 +1840,6 @@
       "hint": "for your part; on your part; with respect to you all"
     },
     {
-      "word": "EVA",
-      "hint": ""
-    },
-    {
       "word": "EVENTUELL",
       "hint": "potential, possible, contingent, liable"
     },
@@ -2056,10 +1944,6 @@
       "hint": "field (plot of open land, especially one used to grow crops); area where action, often competitional, takes place"
     },
     {
-      "word": "FELIX",
-      "hint": ""
-    },
-    {
       "word": "FERIEN",
       "hint": "holidays during which an institution (especially a school, university) or a business is closed; break (usually three days or more); vacation, holiday"
     },
@@ -2070,6 +1954,10 @@
     {
       "word": "FERNSEHER",
       "hint": "a television set, a TV; a television viewer (person)"
+    },
+    {
+      "word": "FERNSEHSENDER",
+      "hint": "TV station, television station"
     },
     {
       "word": "FESTHALTEN",
@@ -2158,10 +2046,6 @@
     {
       "word": "FOLGTE",
       "hint": "to follow (on the same path or in a sequence) [with dative ‘someone’]; to understand, to be attentive to [with dative ‘something, e.g. a book, film plot, etc.’]"
-    },
-    {
-      "word": "FORD",
-      "hint": ""
     },
     {
       "word": "FORDERN",
@@ -2276,6 +2160,10 @@
       "hint": "terrible"
     },
     {
+      "word": "FURT",
+      "hint": "ford (shallow river crossing)"
+    },
+    {
       "word": "FÄHIGKEIT",
       "hint": "ability, capability"
     },
@@ -2318,10 +2206,6 @@
     {
       "word": "GABEN",
       "hint": "first/third-person plural preterite of geben"
-    },
-    {
-      "word": "GABRIEL",
-      "hint": ""
     },
     {
       "word": "GARANTIERT",
@@ -2562,10 +2446,6 @@
     {
       "word": "GENÜGEND",
       "hint": "strong/mixed nominative/accusative neuter singular of genügend"
-    },
-    {
-      "word": "GEORG",
-      "hint": ""
     },
     {
       "word": "GERATEN",
@@ -2836,10 +2716,6 @@
       "hint": "strong/mixed nominative/accusative neuter singular of gross"
     },
     {
-      "word": "GROUP",
-      "hint": ""
-    },
-    {
       "word": "GRUEN",
       "hint": "green"
     },
@@ -2850,6 +2726,10 @@
     {
       "word": "GRUNDSTÜCK",
       "hint": "land, parcel, real estate"
+    },
+    {
+      "word": "GRUPPE",
+      "hint": "group [From late 17th c.]"
     },
     {
       "word": "GRUPPEN",
@@ -2996,10 +2876,6 @@
       "hint": "female equivalent of Heiliger: female saint; female equivalent of Heiliger: virtuous, honest woman"
     },
     {
-      "word": "HEINRICH",
-      "hint": ""
-    },
-    {
       "word": "HEIRATEN",
       "hint": "to marry; to get married; to marry someone; to take someone as one's spouse"
     },
@@ -3034,6 +2910,10 @@
     {
       "word": "HERGESTELLT",
       "hint": "strong/mixed nominative/accusative neuter singular of hergestellt"
+    },
+    {
+      "word": "HERR",
+      "hint": "sir, lord; address of subservient respect; Mr., mister, sir respectful address towards a man"
     },
     {
       "word": "HERRSCHT",
@@ -3120,16 +3000,8 @@
       "hint": "brain (organ); brain (meat)"
     },
     {
-      "word": "HITLER",
-      "hint": ""
-    },
-    {
       "word": "HITZE",
       "hint": "heat"
-    },
-    {
-      "word": "HMM",
-      "hint": ""
     },
     {
       "word": "HOHER",
@@ -3142,10 +3014,6 @@
     {
       "word": "HOLE",
       "hint": "inflection of holen"
-    },
-    {
-      "word": "HOLLYWOOD",
-      "hint": ""
     },
     {
       "word": "HOLZ",
@@ -3264,10 +3132,6 @@
       "hint": "in, inside, within, at (inside a building); in (pertaining to)"
     },
     {
-      "word": "INDIEN",
-      "hint": ""
-    },
-    {
       "word": "INFORMATION",
       "hint": "a piece of information; (in the plural) information, intelligence (things to be known about a topic); information (the act of informing or the state of being informed)"
     },
@@ -3352,10 +3216,6 @@
       "hint": "Icelander (male or of unspecified gender) (person from Iceland)"
     },
     {
-      "word": "ISRAEL",
-      "hint": ""
-    },
-    {
       "word": "ISS",
       "hint": "singular imperative of essen"
     },
@@ -3378,10 +3238,6 @@
     {
       "word": "JACKE",
       "hint": "jacket"
-    },
-    {
-      "word": "JACKSON",
-      "hint": ""
     },
     {
       "word": "JAGD",
@@ -3436,28 +3292,12 @@
       "hint": "beyond, on the other side of"
     },
     {
-      "word": "JIM",
-      "hint": ""
-    },
-    {
       "word": "JO",
       "hint": "yes, yeah, well; expresses agreement in a hesitant or ponderous manner."
     },
     {
       "word": "JOBS",
       "hint": "inflection of Job"
-    },
-    {
-      "word": "JOE",
-      "hint": ""
-    },
-    {
-      "word": "JONES",
-      "hint": ""
-    },
-    {
-      "word": "JOSEPH",
-      "hint": ""
     },
     {
       "word": "JUDEN",
@@ -3470,14 +3310,6 @@
     {
       "word": "JULI",
       "hint": "July"
-    },
-    {
-      "word": "JULIA",
-      "hint": ""
-    },
-    {
-      "word": "JULIAN",
-      "hint": ""
     },
     {
       "word": "JUNGER",
@@ -3510,10 +3342,6 @@
     {
       "word": "KAMERAS",
       "hint": "camera (device for taking photographs or filming)"
-    },
-    {
-      "word": "KANADA",
-      "hint": ""
     },
     {
       "word": "KANAL",
@@ -3596,20 +3424,12 @@
       "hint": "kilo"
     },
     {
-      "word": "KIM",
-      "hint": ""
-    },
-    {
       "word": "KINDES",
       "hint": "kid; child (young person); child; offspring (person with regard to his or her parents; also a baby animal or young animal, especially as the second component in numerous compound"
     },
     {
       "word": "KINDHEIT",
       "hint": "childhood"
-    },
-    {
-      "word": "KING",
-      "hint": ""
     },
     {
       "word": "KLAGE",
@@ -3804,10 +3624,6 @@
       "hint": "customer, patron, client; guy, bloke, dude, (most often derogatory) a strange or unpleasant one"
     },
     {
-      "word": "KURT",
-      "hint": ""
-    },
-    {
       "word": "KURZEM",
       "hint": "strong dative masculine/neuter singular of kurz"
     },
@@ -3842,6 +3658,10 @@
     {
       "word": "KÄSE",
       "hint": "cheese; nonsense"
+    },
+    {
+      "word": "KÖNIG",
+      "hint": "king (monarch, chess, card games)"
     },
     {
       "word": "KÖNIGS",
@@ -3920,16 +3740,12 @@
       "hint": "mood, humor; whim"
     },
     {
-      "word": "LAURA",
-      "hint": ""
-    },
-    {
       "word": "LAUTER",
       "hint": "sincere; honorable; of integrity; correct; genuine; pure"
     },
     {
-      "word": "LE",
-      "hint": ""
+      "word": "LEBEN",
+      "hint": "life; being alive"
     },
     {
       "word": "LEBENDIG",
@@ -4028,6 +3844,10 @@
       "hint": "eventually, finally, ultimately, at last"
     },
     {
+      "word": "LIEBE",
+      "hint": "love (tender feeling of affection); a love relationship"
+    },
+    {
       "word": "LIEBES",
       "hint": "strong/mixed nominative/accusative neuter singular of lieb"
     },
@@ -4056,10 +3876,6 @@
       "hint": "second/third-person singular present of lesen"
     },
     {
-      "word": "LIFE",
-      "hint": ""
-    },
-    {
       "word": "LIGA",
       "hint": "league (group or organization)"
     },
@@ -4070,10 +3886,6 @@
     {
       "word": "LIPPEN",
       "hint": "plural of Lippe"
-    },
-    {
-      "word": "LISA",
-      "hint": ""
     },
     {
       "word": "LIVE",
@@ -4098,14 +3910,6 @@
     {
       "word": "LORD",
       "hint": "lord, Lord (British nobleman)"
-    },
-    {
-      "word": "LOUIS",
-      "hint": ""
-    },
-    {
-      "word": "LOVE",
-      "hint": ""
     },
     {
       "word": "LÄCHERLICH",
@@ -4164,16 +3968,8 @@
       "hint": "crew members of a ship; team (group of people)"
     },
     {
-      "word": "MARCUS",
-      "hint": ""
-    },
-    {
       "word": "MARIE",
       "hint": "money"
-    },
-    {
-      "word": "MARIO",
-      "hint": ""
     },
     {
       "word": "MARKE",
@@ -4288,16 +4084,12 @@
       "hint": "manner; approach"
     },
     {
-      "word": "MEXIKO",
-      "hint": ""
-    },
-    {
       "word": "MIETE",
       "hint": "rent"
     },
     {
-      "word": "MIKE",
-      "hint": ""
+      "word": "MILCH",
+      "hint": "white semen of a male fish; white liquid that is a mixture of other substances, where one of the components is very finely distributed"
     },
     {
       "word": "MILITÄR",
@@ -4310,10 +4102,6 @@
     {
       "word": "MILLION",
       "hint": "million (10)"
-    },
-    {
-      "word": "MIN",
-      "hint": ""
     },
     {
       "word": "MINISTER",
@@ -4724,10 +4512,6 @@
       "hint": "to locate"
     },
     {
-      "word": "OSCAR",
-      "hint": ""
-    },
-    {
       "word": "OTTO",
       "hint": "four-stroke engine (that uses the Otto cycle)"
     },
@@ -4776,10 +4560,6 @@
       "hint": "patient (male or of unspecified sex or female)"
     },
     {
-      "word": "PATRICK",
-      "hint": ""
-    },
-    {
       "word": "PECH",
       "hint": "pitch (sticky substance); bad luck, misfortune"
     },
@@ -4822,10 +4602,6 @@
     {
       "word": "PHASE",
       "hint": "phase, stage, period; phase (one of the power-carrying conductors); line conductor"
-    },
-    {
-      "word": "PHIL",
-      "hint": ""
     },
     {
       "word": "PIZZA",
@@ -5028,10 +4804,6 @@
       "hint": "to smoke, give off smoke; to smoke (tobacco etc.)"
     },
     {
-      "word": "RAY",
-      "hint": ""
-    },
-    {
       "word": "RE",
       "hint": "re"
     },
@@ -5144,20 +4916,12 @@
       "hint": "knight"
     },
     {
-      "word": "ROBIN",
-      "hint": ""
-    },
-    {
       "word": "ROBOTER",
       "hint": "robot"
     },
     {
       "word": "ROCK",
       "hint": "skirt (garment); jacket"
-    },
-    {
-      "word": "ROGER",
-      "hint": ""
     },
     {
       "word": "ROLLEN",
@@ -5240,10 +5004,6 @@
       "hint": "salt, table salt, sal; salt"
     },
     {
-      "word": "SAM",
-      "hint": ""
-    },
-    {
       "word": "SAMMELN",
       "hint": "to gather; to assemble; to collect; to congregate; to assemble; to meet"
     },
@@ -5254,10 +5014,6 @@
     {
       "word": "SAND",
       "hint": "sand (particles of rock)"
-    },
-    {
-      "word": "SARAH",
-      "hint": ""
     },
     {
       "word": "SATT",
@@ -5396,6 +5152,10 @@
       "hint": "archaic form of Schmied (“smith”)"
     },
     {
+      "word": "SCHMIED",
+      "hint": "smith"
+    },
+    {
       "word": "SCHMUCK",
       "hint": "pretty, spruce"
     },
@@ -5508,10 +5268,6 @@
       "hint": "swine, pig; a dirty, or contemptible person"
     },
     {
-      "word": "SCHWEIZ",
-      "hint": ""
-    },
-    {
       "word": "SCHWEIZER",
       "hint": "Swiss person, Swiss (male); Swiss Guard"
     },
@@ -5558,14 +5314,6 @@
     {
       "word": "SCHÖNSTEN",
       "hint": "superlative degree of schön"
-    },
-    {
-      "word": "SCOTT",
-      "hint": ""
-    },
-    {
-      "word": "SEBASTIAN",
-      "hint": ""
     },
     {
       "word": "SEKUNDE",
@@ -5648,10 +5396,6 @@
       "hint": "sense; meaning, sense (the objects or concept that a word or phrase denotes, or that which a sentence says)"
     },
     {
-      "word": "SIR",
-      "hint": ""
-    },
-    {
       "word": "SITZ",
       "hint": "seat; domicile"
     },
@@ -5662,10 +5406,6 @@
     {
       "word": "SITZUNG",
       "hint": "meeting; session"
-    },
-    {
-      "word": "SMITH",
-      "hint": ""
     },
     {
       "word": "SMS",
@@ -5714,10 +5454,6 @@
     {
       "word": "SONNE",
       "hint": "contraction of so eine (“such a”) (so, ein); Ungrammatical synonym of solch in plural."
-    },
-    {
-      "word": "SOPHIE",
-      "hint": ""
     },
     {
       "word": "SORGT",
@@ -5844,10 +5580,6 @@
       "hint": "dust"
     },
     {
-      "word": "STEFAN",
-      "hint": ""
-    },
-    {
       "word": "STEH",
       "hint": "singular imperative of stehen"
     },
@@ -5878,10 +5610,6 @@
     {
       "word": "STEUERN",
       "hint": "to steer, to navigate, to pilot, to operate, to control; to govern, to direct, to head; to control"
-    },
-    {
-      "word": "STEVE",
-      "hint": ""
     },
     {
       "word": "STICH",
@@ -5924,6 +5652,10 @@
       "hint": "punishment; penalty"
     },
     {
+      "word": "STRAHL",
+      "hint": "ray of light; beam"
+    },
+    {
       "word": "STRAND",
       "hint": "beach"
     },
@@ -5938,10 +5670,6 @@
     {
       "word": "STRECKE",
       "hint": "stretch; route"
-    },
-    {
-      "word": "STREET",
-      "hint": ""
     },
     {
       "word": "STREITEN",
@@ -6136,10 +5864,6 @@
       "hint": "therapy"
     },
     {
-      "word": "THIS",
-      "hint": ""
-    },
-    {
       "word": "TIEFE",
       "hint": "depth"
     },
@@ -6150,10 +5874,6 @@
     {
       "word": "TIEREN",
       "hint": "dative plural of Tier"
-    },
-    {
-      "word": "TIM",
-      "hint": ""
     },
     {
       "word": "TIME",
@@ -6318,10 +6038,6 @@
     {
       "word": "TUST",
       "hint": "second-person singular present of tun"
-    },
-    {
-      "word": "TV",
-      "hint": ""
     },
     {
       "word": "TYPISCH",
@@ -6732,10 +6448,6 @@
       "hint": "to publish"
     },
     {
-      "word": "VICTOR",
-      "hint": ""
-    },
-    {
       "word": "VIDEOS",
       "hint": "video"
     },
@@ -6912,6 +6624,10 @@
       "hint": "what"
     },
     {
+      "word": "WELT",
+      "hint": "world"
+    },
+    {
       "word": "WELTKRIEG",
       "hint": "world war"
     },
@@ -6968,14 +6684,6 @@
       "hint": "weather; storm, rainstorm"
     },
     {
-      "word": "WHAT",
-      "hint": ""
-    },
-    {
-      "word": "WHITE",
-      "hint": ""
-    },
-    {
       "word": "WICHTIG",
       "hint": "important, relevant, significant, weighty [with dative ‘to someone’ or für (+ accusative) ‘for something/to someone’]"
     },
@@ -7008,10 +6716,6 @@
       "hint": "to see again, to meet again"
     },
     {
-      "word": "WIEN",
-      "hint": ""
-    },
-    {
       "word": "WIEVIEL",
       "hint": "Formerly standard spelling of wie viel which was deprecated in the spelling reform (Rechtschreibreform) of 1996."
     },
@@ -7022,10 +6726,6 @@
     {
       "word": "WILDE",
       "hint": "game (huntable animals); game meat"
-    },
-    {
-      "word": "WILLIAM",
-      "hint": ""
     },
     {
       "word": "WIR",
@@ -7054,10 +6754,6 @@
     {
       "word": "WISSENSCHAFTLER",
       "hint": "scientist; scholar, researcher, academic (male or of unspecified gender)"
-    },
-    {
-      "word": "WITH",
-      "hint": ""
     },
     {
       "word": "WITZE",
@@ -7102,10 +6798,6 @@
     {
       "word": "WORAN",
       "hint": "on what, at what"
-    },
-    {
-      "word": "WORLD",
-      "hint": ""
     },
     {
       "word": "WORTEN",
@@ -7174,14 +6866,6 @@
     {
       "word": "WÜTEND",
       "hint": "strong/mixed nominative/accusative neuter singular of wütend"
-    },
-    {
-      "word": "YEAH",
-      "hint": ""
-    },
-    {
-      "word": "YOUR",
-      "hint": ""
     },
     {
       "word": "ZAHLT",

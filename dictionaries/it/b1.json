@@ -232,6 +232,10 @@
       "hint": "apocopic form of amore"
     },
     {
+      "word": "AMORE",
+      "hint": "love"
+    },
+    {
       "word": "ANDARCI",
       "hint": "compound of the infinitive andare with ci"
     },
@@ -244,20 +248,12 @@
       "hint": "third-person plural future of andare"
     },
     {
-      "word": "ANDREA",
-      "hint": ""
-    },
-    {
       "word": "ANDREBBE",
       "hint": "third-person singular conditional of andare"
     },
     {
       "word": "ANDRÒ",
       "hint": "andro- (both senses)"
-    },
-    {
-      "word": "ANDY",
-      "hint": ""
     },
     {
       "word": "ANELLO",
@@ -306,10 +302,6 @@
     {
       "word": "ANTICO",
       "hint": "ancient"
-    },
-    {
-      "word": "ANTONIO",
-      "hint": ""
     },
     {
       "word": "ANZIANI",
@@ -748,14 +740,6 @@
       "hint": "ticket; card"
     },
     {
-      "word": "BILL",
-      "hint": ""
-    },
-    {
-      "word": "BILLY",
-      "hint": ""
-    },
-    {
       "word": "BLACK",
       "hint": "alternative spelling of blackout"
     },
@@ -792,10 +776,6 @@
       "hint": "masculine plural of bravo"
     },
     {
-      "word": "BRIAN",
-      "hint": ""
-    },
-    {
       "word": "BRILLANTE",
       "hint": "bright, brilliant"
     },
@@ -826,10 +806,6 @@
     {
       "word": "BUS",
       "hint": "bus"
-    },
-    {
-      "word": "BY",
-      "hint": ""
     },
     {
       "word": "CADAVERE",
@@ -988,6 +964,10 @@
       "hint": "Carolingian"
     },
     {
+      "word": "CASA",
+      "hint": "house"
+    },
+    {
       "word": "CASSA",
       "hint": "case, crate, trunk; box"
     },
@@ -1060,14 +1040,6 @@
       "hint": "certainty, certitude; conviction, confidence, assurance"
     },
     {
-      "word": "CHARLES",
-      "hint": ""
-    },
-    {
-      "word": "CHARLIE",
-      "hint": ""
-    },
-    {
       "word": "CHIAMATE",
       "hint": "compound of chiamate, the second-person plural imperative form of chiamare, with li"
     },
@@ -1086,10 +1058,6 @@
     {
       "word": "CHIAVI",
       "hint": "to lock (with a key)"
-    },
-    {
-      "word": "CHICAGO",
-      "hint": ""
     },
     {
       "word": "CHIEDI",
@@ -1124,10 +1092,6 @@
       "hint": "closure, closing; valediction, complimentary close"
     },
     {
-      "word": "CHRIS",
-      "hint": ""
-    },
-    {
       "word": "CICLO",
       "hint": "cycle (all senses), bike (bicycle); series, round"
     },
@@ -1140,16 +1104,8 @@
       "hint": "top; peak, spur"
     },
     {
-      "word": "CINA",
-      "hint": ""
-    },
-    {
       "word": "CINESI",
       "hint": "the Chinese (as a group)"
-    },
-    {
-      "word": "CIO",
-      "hint": ""
     },
     {
       "word": "CIOCCOLATO",
@@ -1704,10 +1660,6 @@
       "hint": "apocopic form of danno (“they give”)"
     },
     {
-      "word": "DANIEL",
-      "hint": ""
-    },
-    {
       "word": "DANZA",
       "hint": "a dance"
     },
@@ -1738,10 +1690,6 @@
     {
       "word": "DARÀ",
       "hint": "third-person singular future of dare"
-    },
-    {
-      "word": "DAY",
-      "hint": ""
     },
     {
       "word": "DEBITI",
@@ -2144,10 +2092,6 @@
       "hint": "element"
     },
     {
-      "word": "ELENA",
-      "hint": ""
-    },
-    {
       "word": "ELENCO",
       "hint": "list, pile; directory, phone book"
     },
@@ -2166,10 +2110,6 @@
     {
       "word": "EMAIL",
       "hint": "email"
-    },
-    {
-      "word": "EMMA",
-      "hint": ""
     },
     {
       "word": "EMOZIONI",
@@ -2312,16 +2252,16 @@
       "hint": "factory, plant"
     },
     {
+      "word": "FABBRO",
+      "hint": "smith"
+    },
+    {
       "word": "FACCENDA",
       "hint": "task, labour/labor (thing to do); issue, matter, affair, business, thing"
     },
     {
       "word": "FACCIANO",
       "hint": "augmentative of faccia (“face”)"
-    },
-    {
-      "word": "FACEBOOK",
-      "hint": ""
     },
     {
       "word": "FACESSE",
@@ -2800,6 +2740,10 @@
       "hint": "journalist"
     },
     {
+      "word": "GIORNO",
+      "hint": "day"
+    },
+    {
       "word": "GIOVANNI",
       "hint": "St John's, of St John; Papa Giovanni XXIII's, of Papa Giovanni XXIII"
     },
@@ -2888,10 +2832,6 @@
       "hint": "grace; pardon"
     },
     {
-      "word": "GREEN",
-      "hint": ""
-    },
-    {
       "word": "GROSSA",
       "hint": "gross (12 dozen)"
     },
@@ -2942,18 +2882,6 @@
     {
       "word": "HAN",
       "hint": "apocopic form of hanno (“they have”)"
-    },
-    {
-      "word": "HENRY",
-      "hint": ""
-    },
-    {
-      "word": "HEY",
-      "hint": ""
-    },
-    {
-      "word": "HOUSE",
-      "hint": ""
     },
     {
       "word": "IDEALE",
@@ -3204,10 +3132,6 @@
       "hint": "hypothesis"
     },
     {
-      "word": "IS",
-      "hint": ""
-    },
-    {
       "word": "ISTANTE",
       "hint": "moment, instant, jiffy"
     },
@@ -3224,10 +3148,6 @@
       "hint": "education, schooling; teaching"
     },
     {
-      "word": "IT",
-      "hint": ""
-    },
-    {
       "word": "ITALIANA",
       "hint": "feminine singular of italiano"
     },
@@ -3236,48 +3156,8 @@
       "hint": "masculine plural of italiano"
     },
     {
-      "word": "JACKSON",
-      "hint": ""
-    },
-    {
-      "word": "JANE",
-      "hint": ""
-    },
-    {
-      "word": "JIM",
-      "hint": ""
-    },
-    {
-      "word": "JIMMY",
-      "hint": ""
-    },
-    {
-      "word": "JOE",
-      "hint": ""
-    },
-    {
-      "word": "JOHNNY",
-      "hint": ""
-    },
-    {
-      "word": "JONES",
-      "hint": ""
-    },
-    {
-      "word": "KEVIN",
-      "hint": ""
-    },
-    {
       "word": "KILLER",
       "hint": "hitman (hired assassin); murderer, assassin"
-    },
-    {
-      "word": "KIM",
-      "hint": ""
-    },
-    {
-      "word": "KING",
-      "hint": ""
     },
     {
       "word": "LABBRA",
@@ -3320,10 +3200,6 @@
       "hint": "wide, broad; ample, wide, large"
     },
     {
-      "word": "LARRY",
-      "hint": ""
-    },
-    {
       "word": "LASCI",
       "hint": "reflexive of lasciare; to leave each other, part, separate"
     },
@@ -3356,10 +3232,6 @@
       "hint": "masculine plural of lasciatosi"
     },
     {
-      "word": "LAURA",
-      "hint": ""
-    },
-    {
       "word": "LAUREA",
       "hint": "degree (from university)"
     },
@@ -3374,10 +3246,6 @@
     {
       "word": "LAVORAVA",
       "hint": "third-person singular imperfect indicative of lavorare"
-    },
-    {
-      "word": "LEE",
-      "hint": ""
     },
     {
       "word": "LEGA",
@@ -3418,10 +3286,6 @@
     {
       "word": "LENTAMENTE",
       "hint": "slowly"
-    },
-    {
-      "word": "LEO",
-      "hint": ""
     },
     {
       "word": "LEONE",
@@ -3492,24 +3356,12 @@
       "hint": "Angeleno (of, from or relating to Los Angeles)"
     },
     {
-      "word": "LOUIS",
-      "hint": ""
-    },
-    {
-      "word": "LOVE",
-      "hint": ""
-    },
-    {
       "word": "LUCI",
       "hint": "second-person singular present indicative of lucere"
     },
     {
       "word": "LUGLIO",
       "hint": "July"
-    },
-    {
-      "word": "LUKE",
-      "hint": ""
     },
     {
       "word": "LUNEDÌ",
@@ -3534,10 +3386,6 @@
     {
       "word": "LUSSO",
       "hint": "luxury; excess, surplus"
-    },
-    {
-      "word": "MAC",
-      "hint": ""
     },
     {
       "word": "MADONNA",
@@ -3582,10 +3430,6 @@
     {
       "word": "MALATTIE",
       "hint": "illness, sickness, disease, ailment"
-    },
-    {
-      "word": "MAN",
-      "hint": ""
     },
     {
       "word": "MANAGER",
@@ -3634,10 +3478,6 @@
     {
       "word": "MARINA",
       "hint": "coast; seascape"
-    },
-    {
-      "word": "MARIO",
-      "hint": ""
     },
     {
       "word": "MARK",
@@ -3776,10 +3616,6 @@
       "hint": "masculine plural of mezzo"
     },
     {
-      "word": "MICHELE",
-      "hint": ""
-    },
-    {
       "word": "MIGLIA",
       "hint": "the Italian mile, a traditional unit of length derived from the Roman mile; the international mile and other \"mile\" unit"
     },
@@ -3828,10 +3664,6 @@
       "hint": "poverty; trouble, evil, suffering"
     },
     {
-      "word": "MISS",
-      "hint": ""
-    },
-    {
       "word": "MISTERO",
       "hint": "mystery, enigma, secret, puzzle"
     },
@@ -3862,6 +3694,10 @@
     {
       "word": "MOLTISSIMO",
       "hint": "superlative degree of molto: very much, very many"
+    },
+    {
+      "word": "MONDO",
+      "hint": "world"
     },
     {
       "word": "MONETA",
@@ -3920,10 +3756,6 @@
       "hint": "to enliven; to handle, to move (goods)"
     },
     {
-      "word": "MR",
-      "hint": ""
-    },
-    {
       "word": "MUORE",
       "hint": "third-person singular present indicative of morire"
     },
@@ -3942,10 +3774,6 @@
     {
       "word": "MUSICALE",
       "hint": "music; musical"
-    },
-    {
-      "word": "MY",
-      "hint": ""
     },
     {
       "word": "NA",
@@ -4026,6 +3854,10 @@
     {
       "word": "NORMALMENTE",
       "hint": "normally"
+    },
+    {
+      "word": "NOTA",
+      "hint": "bill"
     },
     {
       "word": "NOTARE",
@@ -4136,10 +3968,6 @@
       "hint": "whence; from where or which"
     },
     {
-      "word": "ONE",
-      "hint": ""
-    },
-    {
       "word": "ONESTAMENTE",
       "hint": "honestly; fairly, virtuously"
     },
@@ -4208,10 +4036,6 @@
       "hint": "horrible, loathsome; awful, dreadful"
     },
     {
-      "word": "OSCAR",
-      "hint": ""
-    },
-    {
       "word": "OSPITE",
       "hint": "hosting; visiting"
     },
@@ -4226,10 +4050,6 @@
     {
       "word": "OTTOBRE",
       "hint": "October"
-    },
-    {
-      "word": "OUT",
-      "hint": ""
     },
     {
       "word": "OVEST",
@@ -4912,12 +4732,12 @@
       "hint": "perfume, scent, fragrance"
     },
     {
-      "word": "PROGRAMMI",
-      "hint": "to program, plan, schedule, set, slate; to program, code"
+      "word": "PROGETTO",
+      "hint": "plan, project, design, scheme, layout"
     },
     {
-      "word": "PROJECT",
-      "hint": ""
+      "word": "PROGRAMMI",
+      "hint": "to program, plan, schedule, set, slate; to program, code"
     },
     {
       "word": "PROMESSA",
@@ -5014,10 +4834,6 @@
     {
       "word": "PUZZA",
       "hint": "stench, stink"
-    },
-    {
-      "word": "PÒ",
-      "hint": ""
     },
     {
       "word": "QUADRO",
@@ -5120,8 +4936,8 @@
       "hint": "to be, constitute, represent, account for, symbolize, mean; to represent, depict, portray, picture, show"
     },
     {
-      "word": "RAY",
-      "hint": ""
+      "word": "RE",
+      "hint": "king, magnate (man who excels in something); king (male monarch)"
     },
     {
       "word": "REALI",
@@ -5274,10 +5090,6 @@
     {
       "word": "RICEVERE",
       "hint": "to receive, get, have, be given, take; to accept"
-    },
-    {
-      "word": "RICHARD",
-      "hint": ""
     },
     {
       "word": "RICHIAMO",
@@ -5516,16 +5328,8 @@
       "hint": "masculine plural of russo"
     },
     {
-      "word": "RUSSIA",
-      "hint": ""
-    },
-    {
       "word": "RUSSO",
       "hint": "Russian"
-    },
-    {
-      "word": "RYAN",
-      "hint": ""
     },
     {
       "word": "SABBIA",
@@ -5568,10 +5372,6 @@
       "hint": "safe, out of danger, saved, secure from; safe, whole, intact, undamaged"
     },
     {
-      "word": "SAM",
-      "hint": ""
-    },
-    {
       "word": "SANO",
       "hint": "healthy; freedom from harm or danger; the condition of being safe and sound; safety, intactness"
     },
@@ -5594,10 +5394,6 @@
     {
       "word": "SAPREI",
       "hint": "first-person singular conditional of sapere"
-    },
-    {
-      "word": "SARAH",
-      "hint": ""
     },
     {
       "word": "SAREMMO",
@@ -5808,6 +5604,10 @@
       "hint": "to seem, to look (like), to appear; to sound, taste or feel (like)"
     },
     {
+      "word": "SEMIRETTA",
+      "hint": "ray (that divides a line)"
+    },
+    {
       "word": "SEMPLICI",
       "hint": "simple; easy"
     },
@@ -5916,16 +5716,16 @@
       "hint": "abbreviation of signor(e): Mr."
     },
     {
+      "word": "SIGNORINA",
+      "hint": "miss, young lady (ladies is used for the plural) (used to address a woman); miss, young lady (ladies is used for the plural)"
+    },
+    {
       "word": "SII",
       "hint": "compound of sii, the second-person singular imperative form of essere, with gli"
     },
     {
       "word": "SIMBOLO",
       "hint": "symbol, sign, emblem, icon"
-    },
-    {
-      "word": "SIMON",
-      "hint": ""
     },
     {
       "word": "SIMPATICO",
@@ -5974,10 +5774,6 @@
     {
       "word": "SMESSO",
       "hint": "feminine singular of smesso"
-    },
-    {
-      "word": "SMITH",
-      "hint": ""
     },
     {
       "word": "SMS",
@@ -6240,10 +6036,6 @@
       "hint": "star; star, mullet"
     },
     {
-      "word": "STEVE",
-      "hint": ""
-    },
-    {
       "word": "STIANO",
       "hint": "inflection of stare"
     },
@@ -6282,10 +6074,6 @@
     {
       "word": "STRATEGIA",
       "hint": "strategy"
-    },
-    {
-      "word": "STREET",
-      "hint": ""
     },
     {
       "word": "STRESS",
@@ -6504,6 +6292,10 @@
       "hint": "temple; temple, capital, seat"
     },
     {
+      "word": "TEMPO",
+      "hint": "time, tempo, rhythm, beat, pulse; time, age, period"
+    },
+    {
       "word": "TEMPORALE",
       "hint": "time; temporal; worldly, temporal, secular"
     },
@@ -6578,18 +6370,6 @@
     {
       "word": "TETTO",
       "hint": "roof; cap (artificial upper limit)"
-    },
-    {
-      "word": "THOMAS",
-      "hint": ""
-    },
-    {
-      "word": "TIM",
-      "hint": ""
-    },
-    {
-      "word": "TIME",
-      "hint": ""
     },
     {
       "word": "TIPICO",
@@ -6674,10 +6454,6 @@
     {
       "word": "TOTALMENTE",
       "hint": "totally, completely"
-    },
-    {
-      "word": "TOUR",
-      "hint": ""
     },
     {
       "word": "TRACCE",
@@ -6788,10 +6564,6 @@
       "hint": "plural of truppa"
     },
     {
-      "word": "TWITTER",
-      "hint": ""
-    },
-    {
       "word": "TÈ",
       "hint": "tea"
     },
@@ -6864,12 +6636,12 @@
       "hint": "universe"
     },
     {
-      "word": "UOVA",
-      "hint": "plural of uovo m"
+      "word": "UNO",
+      "hint": "one"
     },
     {
-      "word": "UP",
-      "hint": ""
+      "word": "UOVA",
+      "hint": "plural of uovo m"
     },
     {
       "word": "URGENTE",
@@ -7024,6 +6796,10 @@
       "hint": "masculine plural of venuto"
     },
     {
+      "word": "VERDE",
+      "hint": "green (color/colour)"
+    },
+    {
       "word": "VERDI",
       "hint": "plural of verde"
     },
@@ -7050,6 +6826,10 @@
     {
       "word": "VETRO",
       "hint": "glass (transparent material); object made of glass"
+    },
+    {
+      "word": "VIA",
+      "hint": "street, path"
     },
     {
       "word": "VIAGGI",
@@ -7156,14 +6936,6 @@
       "hint": "to vote [with per ‘for’; or with a favore di ‘in favor of’; or with contro ‘against’] [auxiliary avere]; to put (a law, a proposal, etc.) to a vote"
     },
     {
-      "word": "WALTER",
-      "hint": ""
-    },
-    {
-      "word": "WASHINGTON",
-      "hint": ""
-    },
-    {
       "word": "WEB",
       "hint": "web (Internet)"
     },
@@ -7174,18 +6946,6 @@
     {
       "word": "WEST",
       "hint": "West (historic area of America)"
-    },
-    {
-      "word": "WILL",
-      "hint": ""
-    },
-    {
-      "word": "WILLIAM",
-      "hint": ""
-    },
-    {
-      "word": "WORLD",
-      "hint": ""
     },
     {
       "word": "ZIA",

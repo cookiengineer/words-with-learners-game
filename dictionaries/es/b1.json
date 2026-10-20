@@ -224,10 +224,6 @@
       "hint": "alert, vigilant"
     },
     {
-      "word": "ALEX",
-      "hint": ""
-    },
-    {
       "word": "ALGUN",
       "hint": "obsolete spelling of algún"
     },
@@ -338,10 +334,6 @@
     {
       "word": "ANIVERSARIO",
       "hint": "annual; yearly"
-    },
-    {
-      "word": "ANNA",
-      "hint": ""
     },
     {
       "word": "ANTECEDENTES",
@@ -536,10 +528,6 @@
       "hint": "absence; absence seizure"
     },
     {
-      "word": "AUSTRALIA",
-      "hint": ""
-    },
-    {
       "word": "AUTOBÚS",
       "hint": "bus, coach"
     },
@@ -720,14 +708,6 @@
       "hint": "masculine plural of bienvenido"
     },
     {
-      "word": "BIG",
-      "hint": ""
-    },
-    {
-      "word": "BILL",
-      "hint": ""
-    },
-    {
       "word": "BLANCOS",
       "hint": "masculine plural of blanco"
     },
@@ -788,16 +768,8 @@
       "hint": "brief, short"
     },
     {
-      "word": "BRIAN",
-      "hint": ""
-    },
-    {
       "word": "BRILLANTE",
       "hint": "bright, brilliant, lustrous, shiny, glowing, sparkly, glittering, glossy; excellent, outstanding, exemplary, scintillating"
-    },
-    {
-      "word": "BROWN",
-      "hint": ""
     },
     {
       "word": "BUSCAMOS",
@@ -840,12 +812,20 @@
       "hint": "cadaver, corpse"
     },
     {
+      "word": "CAFÉ",
+      "hint": "brown"
+    },
+    {
       "word": "CAJAS",
       "hint": "box, case; bank"
     },
     {
       "word": "CALIFORNIA",
       "hint": "female equivalent of californio"
+    },
+    {
+      "word": "CALLE",
+      "hint": "street"
     },
     {
       "word": "CALMA",
@@ -890,10 +870,6 @@
     {
       "word": "CAMPOS",
       "hint": "countryside, country; field (large open area)"
-    },
-    {
-      "word": "CANADÁ",
-      "hint": ""
     },
     {
       "word": "CANDIDATO",
@@ -1052,10 +1028,6 @@
       "hint": "hi-hat"
     },
     {
-      "word": "CHARLIE",
-      "hint": ""
-    },
-    {
       "word": "CHICAGO",
       "hint": "Chicagoan (of, from or relating to the city of Chicago, Illinois, United States)"
     },
@@ -1074,10 +1046,6 @@
     {
       "word": "CHOCOLATE",
       "hint": "chocolate (food made from cocoa beans); hot chocolate (drink made by dissolving chocolate in milk or water)"
-    },
-    {
-      "word": "CHRIS",
-      "hint": ""
     },
     {
       "word": "CIA",
@@ -2052,10 +2020,6 @@
       "hint": "December"
     },
     {
-      "word": "DIEGO",
-      "hint": ""
-    },
-    {
       "word": "DIFERENCIAS",
       "hint": "difference"
     },
@@ -2260,24 +2224,12 @@
       "hint": "economy; economics"
     },
     {
-      "word": "ED",
-      "hint": ""
-    },
-    {
       "word": "EDICIÓN",
       "hint": "edition; edit, editing"
     },
     {
       "word": "EDIFICIOS",
       "hint": "building"
-    },
-    {
-      "word": "EE",
-      "hint": ""
-    },
-    {
-      "word": "EEUU",
-      "hint": ""
     },
     {
       "word": "EFECTIVO",
@@ -2984,10 +2936,6 @@
       "hint": "franc (former currency of France and other countries)"
     },
     {
-      "word": "FRANK",
-      "hint": ""
-    },
-    {
       "word": "FRASE",
       "hint": "phrase; sentence"
     },
@@ -3058,10 +3006,6 @@
     {
       "word": "FÍSICO",
       "hint": "physical"
-    },
-    {
-      "word": "GABRIEL",
-      "hint": ""
     },
     {
       "word": "GANADOR",
@@ -3150,6 +3094,10 @@
     {
       "word": "GRADOS",
       "hint": "degree; grade"
+    },
+    {
+      "word": "GRANDE",
+      "hint": "big, large"
     },
     {
       "word": "GRAVES",
@@ -3320,10 +3268,6 @@
       "hint": "icy, frozen; shocked"
     },
     {
-      "word": "HENRY",
-      "hint": ""
-    },
-    {
       "word": "HERIDA",
       "hint": "wound"
     },
@@ -3370,10 +3314,6 @@
     {
       "word": "HISTORIA",
       "hint": "history (the aggregate of past events); history (the branch of knowledge that studies the past)"
-    },
-    {
-      "word": "HITLER",
-      "hint": "Hitlerism"
     },
     {
       "word": "HOJA",
@@ -3466,10 +3406,6 @@
     {
       "word": "IGUALMENTE",
       "hint": "equally; likewise"
-    },
-    {
-      "word": "II",
-      "hint": ""
     },
     {
       "word": "ILEGAL",
@@ -3692,28 +3628,12 @@
       "hint": "first/third-person singular conditional of ir"
     },
     {
-      "word": "IS",
-      "hint": ""
-    },
-    {
-      "word": "ISABEL",
-      "hint": ""
-    },
-    {
       "word": "ISLAS",
       "hint": "island (area of land surrounded by water); block (group of urban lots of property)"
     },
     {
-      "word": "ISRAEL",
-      "hint": ""
-    },
-    {
       "word": "IT",
       "hint": "STI (sexually transmitted infection)"
-    },
-    {
-      "word": "ITALIA",
-      "hint": ""
     },
     {
       "word": "ITALIANO",
@@ -3726,10 +3646,6 @@
     {
       "word": "JA",
       "hint": "representation of laughter, ha"
-    },
-    {
-      "word": "JACKSON",
-      "hint": ""
     },
     {
       "word": "JAPONÉS",
@@ -3750,14 +3666,6 @@
     {
       "word": "JODIDO",
       "hint": "fucking, darned, crappy; fucked, screwed"
-    },
-    {
-      "word": "JOE",
-      "hint": ""
-    },
-    {
-      "word": "JONES",
-      "hint": ""
     },
     {
       "word": "JOSÉ",
@@ -3792,10 +3700,6 @@
       "hint": "to play; to risk, take a chance"
     },
     {
-      "word": "JULIA",
-      "hint": ""
-    },
-    {
       "word": "JUNIO",
       "hint": "June"
     },
@@ -3816,24 +3720,8 @@
       "hint": "youth; a youth, young person"
     },
     {
-      "word": "KEVIN",
-      "hint": ""
-    },
-    {
       "word": "KILOS",
       "hint": "kilo- (SI prefix multiplying the unit by 10); kibi- (IEC prefix multiplying the unit by 2)"
-    },
-    {
-      "word": "KIM",
-      "hint": ""
-    },
-    {
-      "word": "KING",
-      "hint": ""
-    },
-    {
-      "word": "KM",
-      "hint": ""
     },
     {
       "word": "LA",
@@ -3882,10 +3770,6 @@
     {
       "word": "LAS",
       "hint": "feminine plural definite article; the"
-    },
-    {
-      "word": "LAURA",
-      "hint": ""
     },
     {
       "word": "LECCIÓN",
@@ -4120,10 +4004,6 @@
       "hint": "masculine plural of el (“the”)"
     },
     {
-      "word": "LOUIS",
-      "hint": ""
-    },
-    {
       "word": "LUCAS",
       "hint": "a thousand pesos; one nuevo sol"
     },
@@ -4174,10 +4054,6 @@
     {
       "word": "MA",
       "hint": "mum; mom"
-    },
-    {
-      "word": "MAC",
-      "hint": ""
     },
     {
       "word": "MADRES",
@@ -4280,10 +4156,6 @@
       "hint": "navy"
     },
     {
-      "word": "MARIO",
-      "hint": ""
-    },
-    {
       "word": "MARK",
       "hint": "frame; framework"
     },
@@ -4338,10 +4210,6 @@
     {
       "word": "MATÓ",
       "hint": "third-person singular preterite indicative of matar"
-    },
-    {
-      "word": "MAX",
-      "hint": ""
     },
     {
       "word": "MAÑANA",
@@ -4430,10 +4298,6 @@
     {
       "word": "MIGUEL",
       "hint": "of, from or relating to San Miguel, El Salvador"
-    },
-    {
-      "word": "MIKE",
-      "hint": ""
     },
     {
       "word": "MILAGRO",
@@ -4572,10 +4436,6 @@
       "hint": "movement (physical motion between points in space); movement (a trend in various fields or social categories)"
     },
     {
-      "word": "MR",
-      "hint": ""
-    },
-    {
       "word": "MUCHACHO",
       "hint": "boy or young adult"
     },
@@ -4626,10 +4486,6 @@
     {
       "word": "MUSICAL",
       "hint": "musical"
-    },
-    {
-      "word": "MY",
-      "hint": ""
     },
     {
       "word": "MÁQUINAS",
@@ -4714,10 +4570,6 @@
     {
       "word": "NERVIOSO",
       "hint": "nerve; nervous, on edge"
-    },
-    {
-      "word": "NICK",
-      "hint": ""
     },
     {
       "word": "NIETO",
@@ -4872,10 +4724,6 @@
       "hint": "oblivion; forgetting, ending of memory"
     },
     {
-      "word": "ON",
-      "hint": ""
-    },
-    {
       "word": "ONCE",
       "hint": "eleven"
     },
@@ -4914,10 +4762,6 @@
     {
       "word": "ORIGEN",
       "hint": "origin"
-    },
-    {
-      "word": "OSCAR",
-      "hint": ""
     },
     {
       "word": "OSCURIDAD",
@@ -5118,10 +4962,6 @@
     {
       "word": "PEDIRLE",
       "hint": "infinitive of pedir combined with le"
-    },
-    {
-      "word": "PEDRO",
-      "hint": ""
     },
     {
       "word": "PEDÍ",
@@ -6072,16 +5912,16 @@
       "hint": "to revise; to review, to check"
     },
     {
+      "word": "REY",
+      "hint": "king"
+    },
+    {
       "word": "REYES",
       "hint": "diminutive of rey; phainopepla"
     },
     {
       "word": "RICA",
       "hint": "fenugreek (Trigonella foenum-graecum)"
-    },
-    {
-      "word": "RICHARD",
-      "hint": ""
     },
     {
       "word": "RICOS",
@@ -6114,10 +5954,6 @@
     {
       "word": "ROBAR",
       "hint": "to rob; to steal"
-    },
-    {
-      "word": "ROBERT",
-      "hint": ""
     },
     {
       "word": "ROCA",
@@ -6170,10 +6006,6 @@
     {
       "word": "RUMORES",
       "hint": "plural of rumor"
-    },
-    {
-      "word": "RUSIA",
-      "hint": ""
     },
     {
       "word": "RUSO",
@@ -6318,18 +6150,6 @@
     {
       "word": "SANTOS",
       "hint": "masculine plural of santo"
-    },
-    {
-      "word": "SARA",
-      "hint": ""
-    },
-    {
-      "word": "SARAH",
-      "hint": ""
-    },
-    {
-      "word": "SCOTT",
-      "hint": ""
     },
     {
       "word": "SEAMOS",
@@ -6536,10 +6356,6 @@
       "hint": "situation, scenario, picture; position (based on circumstance or the effect of another's actions)"
     },
     {
-      "word": "SMITH",
-      "hint": ""
-    },
-    {
       "word": "SO",
       "hint": "under"
     },
@@ -6626,14 +6442,6 @@
     {
       "word": "SOSPECHOSO",
       "hint": "suspicious, suspect, fishy, shady, sketchy; shifty"
-    },
-    {
-      "word": "STEVE",
-      "hint": ""
-    },
-    {
-      "word": "STREET",
-      "hint": ""
     },
     {
       "word": "SU",
@@ -6864,16 +6672,8 @@
       "hint": "feminine plural of teto"
     },
     {
-      "word": "TEXAS",
-      "hint": ""
-    },
-    {
       "word": "TEXTO",
       "hint": "text; a medium size of type standardized as 14-point"
-    },
-    {
-      "word": "THOMAS",
-      "hint": ""
     },
     {
       "word": "TIEMPO",
@@ -7378,18 +7178,6 @@
     {
       "word": "VÍDEO",
       "hint": "alternative form of video"
-    },
-    {
-      "word": "WALTER",
-      "hint": ""
-    },
-    {
-      "word": "WILL",
-      "hint": ""
-    },
-    {
-      "word": "WILLIAM",
-      "hint": ""
     },
     {
       "word": "WOW",

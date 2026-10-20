@@ -48,10 +48,6 @@
       "hint": "to embrace, to hug; to wrap"
     },
     {
-      "word": "ABE",
-      "hint": ""
-    },
-    {
       "word": "ABILE",
       "hint": "skilful; clever"
     },
@@ -78,18 +74,6 @@
     {
       "word": "ABITUATA",
       "hint": "feminine singular of abituato"
-    },
-    {
-      "word": "ABOUT",
-      "hint": ""
-    },
-    {
-      "word": "ABRAHAM",
-      "hint": ""
-    },
-    {
-      "word": "ABU",
-      "hint": ""
     },
     {
       "word": "ACCADDE",
@@ -244,14 +228,6 @@
       "hint": "acquisition"
     },
     {
-      "word": "ACT",
-      "hint": ""
-    },
-    {
-      "word": "ACTION",
-      "hint": ""
-    },
-    {
       "word": "ACUSTICO",
       "hint": "sound; acoustic; sound; auditory, sonic, aural"
     },
@@ -262,14 +238,6 @@
     {
       "word": "ACUTO",
       "hint": "acute; sharp"
-    },
-    {
-      "word": "ADA",
-      "hint": ""
-    },
-    {
-      "word": "ADAMO",
-      "hint": ""
     },
     {
       "word": "ADAMS",
@@ -320,10 +288,6 @@
       "hint": "fit, suitable, appropriate, proportionate; fair, just"
     },
     {
-      "word": "ADELE",
-      "hint": ""
-    },
-    {
       "word": "ADESIVO",
       "hint": "adhesive"
     },
@@ -350,14 +314,6 @@
     {
       "word": "ADRENALINA",
       "hint": "adrenaline (epinephrine, the hormone and neurotransmitter)"
-    },
-    {
-      "word": "ADRIAN",
-      "hint": ""
-    },
-    {
-      "word": "ADRIANA",
-      "hint": ""
     },
     {
       "word": "AEREE",
@@ -544,6 +500,10 @@
       "hint": "to help, assist"
     },
     {
+      "word": "ALBEGGIARE",
+      "hint": "to dawn (all senses) [auxiliary essere]"
+    },
+    {
       "word": "ALBERGHI",
       "hint": "to host (a guest); to harbour/harbor (sentiments)"
     },
@@ -564,28 +524,8 @@
       "hint": "plural of ala: wings"
     },
     {
-      "word": "ALEC",
-      "hint": ""
-    },
-    {
-      "word": "ALESSANDRO",
-      "hint": ""
-    },
-    {
-      "word": "ALEXIS",
-      "hint": ""
-    },
-    {
-      "word": "ALFONSO",
-      "hint": ""
-    },
-    {
-      "word": "ALFRED",
-      "hint": ""
-    },
-    {
-      "word": "ALFREDO",
-      "hint": ""
+      "word": "ALFIERE",
+      "hint": "bishop"
     },
     {
       "word": "ALGORITMO",
@@ -600,24 +540,12 @@
       "hint": "alibi"
     },
     {
-      "word": "ALICIA",
-      "hint": ""
-    },
-    {
       "word": "ALIENA",
       "hint": "feminine singular of alieno"
     },
     {
       "word": "ALIMENTAZIONE",
       "hint": "nutrition, nourishment, diet, feeding; feed, fuel, power, supply"
-    },
-    {
-      "word": "ALISON",
-      "hint": ""
-    },
-    {
-      "word": "ALLAH",
-      "hint": ""
     },
     {
       "word": "ALLEATO",
@@ -656,10 +584,6 @@
       "hint": "pupil, student"
     },
     {
-      "word": "ALLISON",
-      "hint": ""
-    },
-    {
       "word": "ALLOGGI",
       "hint": "to house, to lodge, to host, to accommodate; to quarter (soldiers)"
     },
@@ -694,10 +618,6 @@
     {
       "word": "ALMA",
       "hint": "soul"
-    },
-    {
-      "word": "ALPHA",
-      "hint": ""
     },
     {
       "word": "ALT",
@@ -800,10 +720,6 @@
       "hint": "ambitious"
     },
     {
-      "word": "AMELIA",
-      "hint": ""
-    },
-    {
       "word": "AMICHEVOLI",
       "hint": "friendly"
     },
@@ -856,10 +772,6 @@
       "hint": "widely; amply"
     },
     {
-      "word": "AMSTERDAM",
-      "hint": ""
-    },
-    {
       "word": "ANALE",
       "hint": "anal"
     },
@@ -874,6 +786,10 @@
     {
       "word": "ANALIZZATO",
       "hint": "masculine plural of analizzato"
+    },
+    {
+      "word": "ANCA",
+      "hint": "hip"
     },
     {
       "word": "ANDAI",
@@ -896,16 +812,12 @@
       "hint": "first-person plural imperfect indicative of andare"
     },
     {
-      "word": "ANDERSON",
-      "hint": ""
-    },
-    {
-      "word": "ANDRE",
-      "hint": ""
-    },
-    {
       "word": "ANDREBBERO",
       "hint": "third-person plural conditional of andare"
+    },
+    {
+      "word": "ANELLO",
+      "hint": "ring, growth ring; ring"
     },
     {
       "word": "ANGEL",
@@ -932,8 +844,8 @@
       "hint": "animation; activity, liveliness, bustle"
     },
     {
-      "word": "ANITA",
-      "hint": ""
+      "word": "ANNATA",
+      "hint": "vintage"
     },
     {
       "word": "ANNULLAMENTO",
@@ -980,12 +892,12 @@
       "hint": "early; in advance"
     },
     {
-      "word": "ANTOINE",
-      "hint": ""
-    },
-    {
       "word": "ANZIANA",
       "hint": "female equivalent of anziano"
+    },
+    {
+      "word": "ANZIANO",
+      "hint": "elder, senior"
     },
     {
       "word": "ANZICHÉ",
@@ -1152,10 +1064,6 @@
       "hint": "plural of arabo"
     },
     {
-      "word": "ARABIA",
-      "hint": ""
-    },
-    {
       "word": "ARANCIA",
       "hint": "orange (fruit)"
     },
@@ -1192,20 +1100,8 @@
       "hint": "inflection of arare"
     },
     {
-      "word": "ARIEL",
-      "hint": ""
-    },
-    {
-      "word": "ARIZONA",
-      "hint": ""
-    },
-    {
       "word": "ARMATURA",
       "hint": "armour/armor; framework"
-    },
-    {
-      "word": "ARNOLD",
-      "hint": ""
     },
     {
       "word": "ARRABBIARE",
@@ -1280,10 +1176,6 @@
       "hint": "feminine singular of artistico"
     },
     {
-      "word": "ARTURO",
-      "hint": ""
-    },
-    {
       "word": "AS",
       "hint": "feminine singular of astrologico"
     },
@@ -1306,14 +1198,6 @@
     {
       "word": "ASCOLTATA",
       "hint": "feminine singular of ascoltato"
-    },
-    {
-      "word": "ASH",
-      "hint": ""
-    },
-    {
-      "word": "ASHLEY",
-      "hint": ""
     },
     {
       "word": "ASIATICA",
@@ -1436,14 +1320,6 @@
       "hint": "spaceship; starship"
     },
     {
-      "word": "ATENE",
-      "hint": ""
-    },
-    {
-      "word": "ATLANTA",
-      "hint": ""
-    },
-    {
       "word": "ATLETA",
       "hint": "athlete"
     },
@@ -1516,20 +1392,12 @@
       "hint": "present, current, modern, existing; up-to-date"
     },
     {
-      "word": "AU",
-      "hint": ""
-    },
-    {
       "word": "AUDACE",
       "hint": "bold, daring, audacious, brash, rash, risky, doughty"
     },
     {
       "word": "AUDIZIONE",
       "hint": "audition (all senses)"
-    },
-    {
-      "word": "AUDREY",
-      "hint": ""
     },
     {
       "word": "AUGUSTO",
@@ -1552,16 +1420,8 @@
       "hint": "aurora; dawn, sunrise"
     },
     {
-      "word": "AUSTIN",
-      "hint": ""
-    },
-    {
       "word": "AUSTRALIANO",
       "hint": "Australian"
-    },
-    {
-      "word": "AUSTRIA",
-      "hint": ""
     },
     {
       "word": "AUTENTICA",
@@ -1642,10 +1502,6 @@
     {
       "word": "AVE",
       "hint": "hail"
-    },
-    {
-      "word": "AVENUE",
-      "hint": ""
     },
     {
       "word": "AVERGLI",
@@ -1748,6 +1604,10 @@
       "hint": "firm, business, company; corporate"
     },
     {
+      "word": "AZIONE",
+      "hint": "action, deed"
+    },
+    {
       "word": "AZIONISTI",
       "hint": "shareholding; shareholders"
     },
@@ -1792,10 +1652,6 @@
       "hint": "bacon"
     },
     {
-      "word": "BAD",
-      "hint": ""
-    },
-    {
       "word": "BADA",
       "hint": "expectation, waiting"
     },
@@ -1826,14 +1682,6 @@
     {
       "word": "BAH",
       "hint": "indicates astonishment, resignation and despise; usually used after noticing or hearing something you don't like or you don't know what to think about, to avoid commenting or"
-    },
-    {
-      "word": "BAILEY",
-      "hint": ""
-    },
-    {
-      "word": "BAKER",
-      "hint": ""
     },
     {
       "word": "BALENA",
@@ -1878,6 +1726,10 @@
     {
       "word": "BANANE",
       "hint": "plural of banana"
+    },
+    {
+      "word": "BANCA",
+      "hint": "bank (financial institution)"
     },
     {
       "word": "BANCARI",
@@ -1928,14 +1780,6 @@
       "hint": "announcement, notice, call; banishment"
     },
     {
-      "word": "BANK",
-      "hint": ""
-    },
-    {
-      "word": "BANNER",
-      "hint": ""
-    },
-    {
       "word": "BARA",
       "hint": "bier (litter to transport the corpse of a dead person); coffin (box in which a person is buried)"
     },
@@ -1950,10 +1794,6 @@
     {
       "word": "BARBARI",
       "hint": "masculine plural of bárbaro"
-    },
-    {
-      "word": "BARBECUE",
-      "hint": ""
     },
     {
       "word": "BARBIE",
@@ -1984,10 +1824,6 @@
       "hint": "plural of barriera"
     },
     {
-      "word": "BART",
-      "hint": ""
-    },
-    {
       "word": "BARZELLETTA",
       "hint": "joke (amusing story); a 15th century dance song composed of loose septenaries and octosyllables"
     },
@@ -2016,12 +1852,12 @@
       "hint": "to beat or thrash (with a stick, etc.); to maltreat"
     },
     {
-      "word": "BATMAN",
-      "hint": ""
-    },
-    {
       "word": "BATTAGLIONE",
       "hint": "battalion; large group of people"
+    },
+    {
+      "word": "BATTERE",
+      "hint": "to stub (jam or hit a body part); to beat, to strike, to hit (ambitransitive, by extension) to beat (to move with pulsation) [auxiliary avere] (ambitransitive, by extension) to"
     },
     {
       "word": "BATTERI",
@@ -2040,20 +1876,8 @@
       "hint": "beat, beating, throb; baton"
     },
     {
-      "word": "BAUER",
-      "hint": ""
-    },
-    {
-      "word": "BBC",
-      "hint": ""
-    },
-    {
       "word": "BEATA",
       "hint": "feminine singular of beato"
-    },
-    {
-      "word": "BEATLES",
-      "hint": ""
     },
     {
       "word": "BEATO",
@@ -2088,28 +1912,12 @@
       "hint": "feminine singular of benedetto"
     },
     {
-      "word": "BENNETT",
-      "hint": ""
-    },
-    {
-      "word": "BENNY",
-      "hint": ""
-    },
-    {
       "word": "BENVENUTA",
       "hint": "feminine singular of benvenuto"
     },
     {
       "word": "BERNARD",
       "hint": "plural of bernarda"
-    },
-    {
-      "word": "BERNARDO",
-      "hint": ""
-    },
-    {
-      "word": "BERNIE",
-      "hint": ""
     },
     {
       "word": "BERSAGLI",
@@ -2122,10 +1930,6 @@
     {
       "word": "BETA",
       "hint": "the name of the Greek script letter Β/β; beta; beta (software version)"
-    },
-    {
-      "word": "BETH",
-      "hint": ""
     },
     {
       "word": "BEVANDA",
@@ -2196,20 +2000,12 @@
       "hint": "blond (man, man's hair), blonde (woman, woman's hair), fair-haired"
     },
     {
-      "word": "BIRD",
-      "hint": ""
-    },
-    {
       "word": "BIS",
       "hint": "encore; repetition"
     },
     {
       "word": "BISCOTTO",
       "hint": "biscuit, cookie; match fixing, tactical play between two teams aimed to wrong or evict a third team"
-    },
-    {
-      "word": "BISHOP",
-      "hint": ""
     },
     {
       "word": "BISOGNAVA",
@@ -2248,6 +2044,10 @@
       "hint": "a BMW car"
     },
     {
+      "word": "BOCCIO",
+      "hint": "bud"
+    },
+    {
       "word": "BODY",
       "hint": "leotard"
     },
@@ -2276,24 +2076,8 @@
       "hint": "receipt; bill (for a utility etc.)"
     },
     {
-      "word": "BOLOGNA",
-      "hint": ""
-    },
-    {
       "word": "BOMBARDAMENTO",
       "hint": "bombardment"
-    },
-    {
-      "word": "BON",
-      "hint": ""
-    },
-    {
-      "word": "BOND",
-      "hint": ""
-    },
-    {
-      "word": "BONNIE",
-      "hint": ""
     },
     {
       "word": "BONO",
@@ -2304,16 +2088,16 @@
       "hint": "goodness; kindness"
     },
     {
-      "word": "BOOK",
-      "hint": ""
-    },
-    {
       "word": "BORDELLO",
       "hint": "brothel; great chaos or confusion"
     },
     {
       "word": "BORGHESE",
       "hint": "middle-class, bourgeois; civilian"
+    },
+    {
+      "word": "BOSCOSO",
+      "hint": "woody, wooded"
     },
     {
       "word": "BOTTEGA",
@@ -2352,8 +2136,8 @@
       "hint": "small bracelet, armlet; wristlet"
     },
     {
-      "word": "BRADLEY",
-      "hint": ""
+      "word": "BRADO",
+      "hint": "wild"
     },
     {
       "word": "BRAND",
@@ -2400,24 +2184,12 @@
       "hint": "shiver, shudder"
     },
     {
-      "word": "BROADWAY",
-      "hint": ""
-    },
-    {
       "word": "BRODO",
       "hint": "broth; clear soup"
     },
     {
       "word": "BRONZO",
       "hint": "bronze (metal or object); bell, especially church bell"
-    },
-    {
-      "word": "BROOKE",
-      "hint": ""
-    },
-    {
-      "word": "BROOKS",
-      "hint": ""
     },
     {
       "word": "BRUCIANDO",
@@ -2432,28 +2204,20 @@
       "hint": "masculine plural of bruciato"
     },
     {
-      "word": "BRUTALE",
-      "hint": "rough, brutal"
+      "word": "BRUNO",
+      "hint": "dark gray, almost black"
     },
     {
-      "word": "BRUXELLES",
-      "hint": ""
+      "word": "BRUTALE",
+      "hint": "rough, brutal"
     },
     {
       "word": "BUCATO",
       "hint": "with holes, pierced, perforated, hollow"
     },
     {
-      "word": "BUD",
-      "hint": ""
-    },
-    {
       "word": "BUDDHA",
       "hint": "alternative spelling of Budda"
-    },
-    {
-      "word": "BUDDY",
-      "hint": ""
     },
     {
       "word": "BUENOS",
@@ -2468,14 +2232,6 @@
       "hint": "sideboard; buffet, refreshment bar"
     },
     {
-      "word": "BUG",
-      "hint": ""
-    },
-    {
-      "word": "BULL",
-      "hint": ""
-    },
-    {
       "word": "BULLISMO",
       "hint": "bullying"
     },
@@ -2488,16 +2244,8 @@
       "hint": "superlative degree of buono"
     },
     {
-      "word": "BURKE",
-      "hint": ""
-    },
-    {
       "word": "BUROCRAZIA",
       "hint": "bureaucracy"
-    },
-    {
-      "word": "BUSH",
-      "hint": ""
     },
     {
       "word": "BUSSARE",
@@ -2514,14 +2262,6 @@
     {
       "word": "BUSTO",
       "hint": "tomb, grave; cadaver, corpse"
-    },
-    {
-      "word": "BUT",
-      "hint": ""
-    },
-    {
-      "word": "BUTLER",
-      "hint": ""
     },
     {
       "word": "BUTTATA",
@@ -2548,8 +2288,16 @@
       "hint": "a non-fruit-bearing tendril (germoglio infruttifero)"
     },
     {
+      "word": "CACCIARE",
+      "hint": "to hunt, to shoot, to snare (of people); to hunt, to prey on (of animals)"
+    },
+    {
       "word": "CACCIATA",
       "hint": "expulsion"
+    },
+    {
+      "word": "CACCIATORE",
+      "hint": "hunter, huntsman; chaser, hunter"
     },
     {
       "word": "CADDE",
@@ -2574,10 +2322,6 @@
     {
       "word": "CAIRO",
       "hint": "Cairene (of, from or relating to the city of Cairo, capital of Egypt)"
-    },
-    {
-      "word": "CAL",
-      "hint": ""
     },
     {
       "word": "CALA",
@@ -2620,10 +2364,6 @@
       "hint": "plural of caloria"
     },
     {
-      "word": "CALVIN",
-      "hint": ""
-    },
-    {
       "word": "CALZE",
       "hint": "ankle sock, short sock"
     },
@@ -2644,8 +2384,8 @@
       "hint": "third-person plural future of cambiare"
     },
     {
-      "word": "CAMBRIDGE",
-      "hint": ""
+      "word": "CAMERA",
+      "hint": "room; chamber (all senses)"
     },
     {
       "word": "CAMERINO",
@@ -2654,14 +2394,6 @@
     {
       "word": "CAMICIE",
       "hint": "white coat (of a technician, doctor etc.); gown, scrubs (of a surgeon)"
-    },
-    {
-      "word": "CAMILLA",
-      "hint": ""
-    },
-    {
-      "word": "CAMILLE",
-      "hint": ""
     },
     {
       "word": "CAMINO",
@@ -2700,16 +2432,16 @@
       "hint": "doorbell, bell (doorbell); handbell"
     },
     {
-      "word": "CAMPBELL",
-      "hint": ""
-    },
-    {
       "word": "CAMPER",
       "hint": "campervan, camper"
     },
     {
       "word": "CANADESE",
       "hint": "Canadian"
+    },
+    {
+      "word": "CANALE",
+      "hint": "channel"
     },
     {
       "word": "CANCELLA",
@@ -2752,6 +2484,10 @@
       "hint": "plural of canna"
     },
     {
+      "word": "CANNICCIO",
+      "hint": "reed matting"
+    },
+    {
       "word": "CANNONE",
       "hint": "cannon (all senses); ace (person who excels)"
     },
@@ -2780,8 +2516,8 @@
       "hint": "third-person singular imperfect indicative of cantare"
     },
     {
-      "word": "CANYON",
-      "hint": ""
+      "word": "CANZONE",
+      "hint": "song"
     },
     {
       "word": "CAPACITA",
@@ -2840,6 +2576,10 @@
       "hint": "third-person singular impfect indicative of capire"
     },
     {
+      "word": "CAPO",
+      "hint": "buddy (an informal and friendly address to a stranger, usually male; a friendly (or occasionally antagonistic) placeholder name for a person one does not know)"
+    },
+    {
       "word": "CAPORALE",
       "hint": "corporal, lance corporal; bossy person"
     },
@@ -2860,12 +2600,12 @@
       "hint": "plural of capra"
     },
     {
-      "word": "CAPSULA",
-      "hint": "capsule (all senses); bottle cap"
+      "word": "CAPRETTO",
+      "hint": "kid (young goat)"
     },
     {
-      "word": "CAR",
-      "hint": ""
+      "word": "CAPSULA",
+      "hint": "capsule (all senses); bottle cap"
     },
     {
       "word": "CARABINIERI",
@@ -2980,14 +2720,6 @@
       "hint": "diminutive of casa (“house”)"
     },
     {
-      "word": "CASEY",
-      "hint": ""
-    },
-    {
-      "word": "CASH",
-      "hint": ""
-    },
-    {
       "word": "CASINÒ",
       "hint": "brothel; mess"
     },
@@ -3032,16 +2764,16 @@
       "hint": "plural of categoria"
     },
     {
-      "word": "CATERINA",
-      "hint": ""
-    },
-    {
       "word": "CATTEDRALE",
       "hint": "cathedral"
     },
     {
       "word": "CATTIVERIA",
       "hint": "wickedness, nastiness, spite; naughtiness"
+    },
+    {
+      "word": "CATTIVO",
+      "hint": "bad; villain, bad guy"
     },
     {
       "word": "CATTOLICI",
@@ -3090,10 +2822,6 @@
     {
       "word": "CC",
       "hint": "abbreviation of contratto collettivo nazionale del lavoro: sectoral bargaining contract"
-    },
-    {
-      "word": "CECILIA",
-      "hint": ""
     },
     {
       "word": "CELEBRAZIONE",
@@ -3206,34 +2934,6 @@
     {
       "word": "CH",
       "hint": "apocopic form of che"
-    },
-    {
-      "word": "CHA",
-      "hint": ""
-    },
-    {
-      "word": "CHAD",
-      "hint": ""
-    },
-    {
-      "word": "CHANG",
-      "hint": ""
-    },
-    {
-      "word": "CHANNEL",
-      "hint": ""
-    },
-    {
-      "word": "CHASE",
-      "hint": ""
-    },
-    {
-      "word": "CHELSEA",
-      "hint": ""
-    },
-    {
-      "word": "CHEN",
-      "hint": ""
     },
     {
       "word": "CHIACCHIERARE",
@@ -3364,22 +3064,6 @@
       "hint": "third-person plural present indicative of chiudere"
     },
     {
-      "word": "CHLOE",
-      "hint": ""
-    },
-    {
-      "word": "CHO",
-      "hint": ""
-    },
-    {
-      "word": "CHRISTINA",
-      "hint": ""
-    },
-    {
-      "word": "CHRISTINE",
-      "hint": ""
-    },
-    {
       "word": "CHÉ",
       "hint": "a reason-giving particle, often untranslated: for; 'cause; since; given that; seeing that; clipping of perché (“why”)"
     },
@@ -3428,8 +3112,8 @@
       "hint": "cylinder; roller"
     },
     {
-      "word": "CIN",
-      "hint": ""
+      "word": "CIMICE",
+      "hint": "bug (electronic device); shield bug"
     },
     {
       "word": "CINEMATOGRAFICA",
@@ -3488,6 +3172,10 @@
       "hint": "all the citizens of a town, collectively; the town; citizenship"
     },
     {
+      "word": "CITTÀ",
+      "hint": "town, city"
+    },
+    {
       "word": "CIVICO",
       "hint": "municipal; civic"
     },
@@ -3504,10 +3192,6 @@
       "hint": "illicit; clandestine, secret, surreptitious"
     },
     {
-      "word": "CLARKE",
-      "hint": ""
-    },
-    {
       "word": "CLASSI",
       "hint": "to classify; to class (a security), to consider as a safe investment"
     },
@@ -3516,28 +3200,12 @@
       "hint": "masculine plural of classico"
     },
     {
-      "word": "CLAUDE",
-      "hint": ""
-    },
-    {
-      "word": "CLAUDIO",
-      "hint": ""
-    },
-    {
       "word": "CLAUSOLA",
       "hint": "clause, codicil"
     },
     {
-      "word": "CLAY",
-      "hint": ""
-    },
-    {
       "word": "CLEMENTE",
       "hint": "mild, lenient, clement"
-    },
-    {
-      "word": "CLEVELAND",
-      "hint": ""
     },
     {
       "word": "CLICK",
@@ -3560,10 +3228,6 @@
       "hint": "clone"
     },
     {
-      "word": "CLOUD",
-      "hint": ""
-    },
-    {
       "word": "CLOWN",
       "hint": "clown (artist)"
     },
@@ -3582,10 +3246,6 @@
     {
       "word": "CODE",
       "hint": "plural of coda"
-    },
-    {
-      "word": "CODY",
-      "hint": ""
     },
     {
       "word": "COERENTE",
@@ -3684,10 +3344,6 @@
       "hint": "plural of colloquio"
     },
     {
-      "word": "COLOMBIA",
-      "hint": ""
-    },
-    {
       "word": "COLOMBO",
       "hint": "pigeon"
     },
@@ -3702,10 +3358,6 @@
     {
       "word": "COLONNE",
       "hint": "feminine plural of colonnato"
-    },
-    {
-      "word": "COLORADO",
-      "hint": ""
     },
     {
       "word": "COLPE",
@@ -3730,10 +3382,6 @@
     {
       "word": "COLTIVARE",
       "hint": "to cultivate or grow (crops)"
-    },
-    {
-      "word": "COLUMBIA",
-      "hint": ""
     },
     {
       "word": "COM",
@@ -3814,10 +3462,6 @@
     {
       "word": "COMMOZIONE",
       "hint": "emotion, feelings; stir, excitement"
-    },
-    {
-      "word": "COMMUNITY",
-      "hint": ""
     },
     {
       "word": "COMO",
@@ -3962,6 +3606,10 @@
     {
       "word": "COMPROMETTERE",
       "hint": "to compromise, to damage, to endanger, to jeopardise, to impair; to damage the reputation of"
+    },
+    {
+      "word": "COMUNANZA",
+      "hint": "community"
     },
     {
       "word": "COMUNICA",
@@ -4180,10 +3828,6 @@
       "hint": "connected, associated, linked, related; jointed, joined, linked"
     },
     {
-      "word": "CONNOR",
-      "hint": ""
-    },
-    {
       "word": "CONOSCENDO",
       "hint": "gerund of conoscere"
     },
@@ -4296,6 +3940,10 @@
       "hint": "container (a very large, typically metal, box used for transporting goods)"
     },
     {
+      "word": "CONTANTI",
+      "hint": "cash, money"
+    },
+    {
       "word": "CONTATTA",
       "hint": "compound of contatta, the second-person singular imperative form of contattare, with mi"
     },
@@ -4400,10 +4048,6 @@
       "hint": "conveniently"
     },
     {
-      "word": "CONVENTION",
-      "hint": ""
-    },
-    {
       "word": "CONVENZIONE",
       "hint": "agreement; convention (all senses)"
     },
@@ -4444,28 +4088,16 @@
       "hint": "convoy, rake; funeral procession"
     },
     {
-      "word": "COOK",
-      "hint": ""
-    },
-    {
-      "word": "COOKIE",
-      "hint": ""
-    },
-    {
-      "word": "COOL",
-      "hint": ""
-    },
-    {
-      "word": "COOP",
-      "hint": ""
-    },
-    {
       "word": "COOPERAZIONE",
       "hint": "cooperation, collaboration"
     },
     {
       "word": "COPERTI",
       "hint": "covered; sheltered; indoor; overcast"
+    },
+    {
+      "word": "COPERTURA",
+      "hint": "cover (financial and military)"
     },
     {
       "word": "COPIARE",
@@ -4552,8 +4184,16 @@
       "hint": "masculine plural of corrotto"
     },
     {
+      "word": "CORSA",
+      "hint": "run, running"
+    },
+    {
       "word": "CORSIA",
       "hint": "gangway, passageway; lane (on a racetrack or motorway/freeway)"
+    },
+    {
+      "word": "CORSO",
+      "hint": "avenue (especially in the names of streets)"
     },
     {
       "word": "CORTA",
@@ -4680,24 +4320,8 @@
       "hint": "cooking, baking, burning, firing"
     },
     {
-      "word": "COVER",
-      "hint": ""
-    },
-    {
       "word": "COVO",
       "hint": "lair, den (of an animal); hideout, lair (for example, of a criminal or group of criminals)"
-    },
-    {
-      "word": "COWBOY",
-      "hint": ""
-    },
-    {
-      "word": "CRACK",
-      "hint": ""
-    },
-    {
-      "word": "CRAIG",
-      "hint": ""
     },
     {
       "word": "CREANO",
@@ -4788,14 +4412,6 @@
       "hint": "raw, uncooked (of food); hard (of water)"
     },
     {
-      "word": "CRUZ",
-      "hint": ""
-    },
-    {
-      "word": "CRYSTAL",
-      "hint": ""
-    },
-    {
       "word": "CUBO",
       "hint": "cubic"
     },
@@ -4832,12 +4448,20 @@
       "hint": "plural of cultura"
     },
     {
+      "word": "CUOCO",
+      "hint": "cook, chef"
+    },
+    {
       "word": "CUOIO",
       "hint": "leather"
     },
     {
       "word": "CUOR",
       "hint": "apocopic form of cuore"
+    },
+    {
+      "word": "CUORE",
+      "hint": "heart (anatomy) muscular organ that pumps blood (uncountable) emotion, kindness, moral effort, or spirit (figurative) center, essence, or core; heart"
     },
     {
       "word": "CUPOLA",
@@ -4868,28 +4492,12 @@
       "hint": "cushion, pillow"
     },
     {
-      "word": "CYRUS",
-      "hint": ""
-    },
-    {
       "word": "DACCI",
       "hint": "compound of da, the second-person singular imperative form of dare, with ci (“give us”)"
     },
     {
       "word": "DADI",
       "hint": "plural of dado"
-    },
-    {
-      "word": "DAILY",
-      "hint": ""
-    },
-    {
-      "word": "DAISY",
-      "hint": ""
-    },
-    {
-      "word": "DALE",
-      "hint": ""
     },
     {
       "word": "DALLAS",
@@ -4904,24 +4512,12 @@
       "hint": "plural of dama"
     },
     {
-      "word": "DANA",
-      "hint": ""
-    },
-    {
       "word": "DANCE",
       "hint": "dancehall (public hall for dancing)"
     },
     {
       "word": "DANESE",
       "hint": "Danish"
-    },
-    {
-      "word": "DANI",
-      "hint": ""
-    },
-    {
-      "word": "DANIMARCA",
-      "hint": ""
     },
     {
       "word": "DANNATAMENTE",
@@ -4972,10 +4568,6 @@
       "hint": "compound of the infinitive dare with lo; of a man: to partake in active sexual intercourse"
     },
     {
-      "word": "DARREN",
-      "hint": ""
-    },
-    {
       "word": "DARVI",
       "hint": "compound of the infinitive dare with vi"
     },
@@ -4990,26 +4582,6 @@
     {
       "word": "DAVANO",
       "hint": "apocopic form of davano"
-    },
-    {
-      "word": "DAVIDE",
-      "hint": ""
-    },
-    {
-      "word": "DAWN",
-      "hint": ""
-    },
-    {
-      "word": "DC",
-      "hint": ""
-    },
-    {
-      "word": "DEAD",
-      "hint": ""
-    },
-    {
-      "word": "DEATH",
-      "hint": ""
     },
     {
       "word": "DEBUTTO",
@@ -5152,10 +4724,6 @@
       "hint": "demon, devil"
     },
     {
-      "word": "DENISE",
-      "hint": ""
-    },
-    {
       "word": "DENUNCE",
       "hint": "plural of denuncia"
     },
@@ -5174,10 +4742,6 @@
     {
       "word": "DEPRIMENTE",
       "hint": "depressing"
-    },
-    {
-      "word": "DER",
-      "hint": ""
     },
     {
       "word": "DERBY",
@@ -5200,8 +4764,8 @@
       "hint": "designer (especially one who designs furniture or other industrial products)"
     },
     {
-      "word": "DESSERT",
-      "hint": ""
+      "word": "DESTRA",
+      "hint": "right (hand, direction)"
     },
     {
       "word": "DETENZIONE",
@@ -5220,10 +4784,6 @@
       "hint": "reflexive of detestare"
     },
     {
-      "word": "DETROIT",
-      "hint": ""
-    },
-    {
       "word": "DETTAGLIATO",
       "hint": "detailed"
     },
@@ -5238,10 +4798,6 @@
     {
       "word": "DEVOZIONE",
       "hint": "devoutness; devotion"
-    },
-    {
-      "word": "DEXTER",
-      "hint": ""
     },
     {
       "word": "DIABETE",
@@ -5260,20 +4816,12 @@
       "hint": "diameter"
     },
     {
-      "word": "DIANE",
-      "hint": ""
-    },
-    {
       "word": "DIANO",
       "hint": "inflection of dare"
     },
     {
       "word": "DIARREA",
       "hint": "diarrhea / diarrhoea"
-    },
-    {
-      "word": "DIAZ",
-      "hint": ""
     },
     {
       "word": "DICANO",
@@ -5444,10 +4992,6 @@
       "hint": "dynasty, house"
     },
     {
-      "word": "DINO",
-      "hint": ""
-    },
-    {
       "word": "DINOSAURI",
       "hint": "plural of dinosauro"
     },
@@ -5470,6 +5014,10 @@
     {
       "word": "DIRAI",
       "hint": "second-person singular future of dire"
+    },
+    {
+      "word": "DIRE",
+      "hint": "to say, tell, utter (intransitive) to talk about, discuss [with di]; to say (indicate in a written form)"
     },
     {
       "word": "DIREMO",
@@ -5540,6 +5088,10 @@
       "hint": "disciplinary"
     },
     {
+      "word": "DISCO",
+      "hint": "disc, disk"
+    },
+    {
       "word": "DISCOTECA",
       "hint": "a club, a disco, a discotheque; a record library"
     },
@@ -5574,10 +5126,6 @@
     {
       "word": "DISGRAZIA",
       "hint": "misfortune, bad luck; accident, disaster"
-    },
-    {
-      "word": "DISK",
-      "hint": ""
     },
     {
       "word": "DISNEY",
@@ -5780,6 +5328,10 @@
       "hint": "customs; custom house"
     },
     {
+      "word": "DOLCE",
+      "hint": "dessert"
+    },
+    {
       "word": "DOLCEMENTE",
       "hint": "sweetly; mildly"
     },
@@ -5820,12 +5372,12 @@
       "hint": "donation, gift; handout"
     },
     {
-      "word": "DONG",
-      "hint": ""
-    },
-    {
       "word": "DONI",
       "hint": "plural of dono"
+    },
+    {
+      "word": "DONNA",
+      "hint": "woman"
     },
     {
       "word": "DOPODICHÉ",
@@ -5892,14 +5444,6 @@
       "hint": "doctorate"
     },
     {
-      "word": "DOUG",
-      "hint": ""
-    },
-    {
-      "word": "DOUGLAS",
-      "hint": ""
-    },
-    {
       "word": "DOVERI",
       "hint": "plural of dovere"
     },
@@ -5928,14 +5472,6 @@
       "hint": "to dredge"
     },
     {
-      "word": "DRAKE",
-      "hint": ""
-    },
-    {
-      "word": "DRAMA",
-      "hint": ""
-    },
-    {
       "word": "DRAMMATICA",
       "hint": "feminine singular of drammatico"
     },
@@ -5946,14 +5482,6 @@
     {
       "word": "DRAMMI",
       "hint": "plural of dramma"
-    },
-    {
-      "word": "DREAM",
-      "hint": ""
-    },
-    {
-      "word": "DREW",
-      "hint": ""
     },
     {
       "word": "DRITTI",
@@ -5972,16 +5500,16 @@
       "hint": "plural of drone"
     },
     {
-      "word": "DUBAI",
-      "hint": ""
-    },
-    {
       "word": "DUBITARE",
       "hint": "to doubt; to fear, to suspect (with che + clause)"
     },
     {
       "word": "DUCHESSA",
       "hint": "duchess"
+    },
+    {
+      "word": "DUE",
+      "hint": "two"
     },
     {
       "word": "DUECENTO",
@@ -5994,14 +5522,6 @@
     {
       "word": "DUEMILA",
       "hint": "two thousand"
-    },
-    {
-      "word": "DUKE",
-      "hint": ""
-    },
-    {
-      "word": "DUNCAN",
-      "hint": ""
     },
     {
       "word": "DURANO",
@@ -6018,14 +5538,6 @@
     {
       "word": "DURERÀ",
       "hint": "third-person singular future of durare"
-    },
-    {
-      "word": "EARL",
-      "hint": ""
-    },
-    {
-      "word": "EBAY",
-      "hint": ""
     },
     {
       "word": "EBBERO",
@@ -6092,14 +5604,6 @@
       "hint": "feminine plural of economico"
     },
     {
-      "word": "EDEN",
-      "hint": ""
-    },
-    {
-      "word": "EDGAR",
-      "hint": ""
-    },
-    {
       "word": "EDILIZIA",
       "hint": "building (the trade)"
     },
@@ -6116,16 +5620,8 @@
       "hint": "Edwardian"
     },
     {
-      "word": "EDUARDO",
-      "hint": ""
-    },
-    {
       "word": "EDUCATO",
       "hint": "well-mannered, polite"
-    },
-    {
-      "word": "EDWARDS",
-      "hint": ""
     },
     {
       "word": "EFFETTUATO",
@@ -6152,20 +5648,12 @@
       "hint": "alternative form of egli"
     },
     {
-      "word": "EINSTEIN",
-      "hint": ""
-    },
-    {
       "word": "ELABORARE",
       "hint": "to work out; to elaborate; to write or compose (a text, law, etc.)"
     },
     {
       "word": "ELABORATO",
       "hint": "elaborate"
-    },
-    {
-      "word": "ELEANOR",
-      "hint": ""
     },
     {
       "word": "ELEFANTE",
@@ -6256,24 +5744,12 @@
       "hint": "feminine plural of elleno"
     },
     {
-      "word": "ELLIOT",
-      "hint": ""
-    },
-    {
       "word": "ELLIS",
       "hint": "alternative form of egli"
     },
     {
       "word": "ELSA",
       "hint": "hilt (of a sword); hilt bars (of a sword)"
-    },
-    {
-      "word": "ELVIS",
-      "hint": ""
-    },
-    {
-      "word": "EM",
-      "hint": ""
     },
     {
       "word": "EMENDAMENTO",
@@ -6294,14 +5770,6 @@
     {
       "word": "EMETTERE",
       "hint": "to emit, to give out, to give off; to utter, to express"
-    },
-    {
-      "word": "EMILIA",
-      "hint": ""
-    },
-    {
-      "word": "EMILIO",
-      "hint": ""
     },
     {
       "word": "EMISSIONI",
@@ -6352,10 +5820,6 @@
       "hint": "corporation, body; being"
     },
     {
-      "word": "ENTERPRISE",
-      "hint": ""
-    },
-    {
       "word": "ENTITÀ",
       "hint": "entity; extent (financial)"
     },
@@ -6370,10 +5834,6 @@
     {
       "word": "ENTRÒ",
       "hint": "within, by, no later than; within, in, inside"
-    },
-    {
-      "word": "ENZO",
-      "hint": ""
     },
     {
       "word": "EPIDEMIA",
@@ -6428,14 +5888,6 @@
       "hint": "heather"
     },
     {
-      "word": "ERIK",
-      "hint": ""
-    },
-    {
-      "word": "ERNESTO",
-      "hint": ""
-    },
-    {
       "word": "ESAGERANDO",
       "hint": "gerund of esagerare"
     },
@@ -6474,10 +5926,6 @@
     {
       "word": "ESCLUSIVO",
       "hint": "exclusive, sole, select, unique"
-    },
-    {
-      "word": "ESCORT",
-      "hint": ""
     },
     {
       "word": "ESEMPI",
@@ -6588,6 +6036,10 @@
       "hint": "expression; look, countenance, expression (on a face)"
     },
     {
+      "word": "ESPRESSO",
+      "hint": "express letter; express"
+    },
+    {
       "word": "ESPRIME",
       "hint": "compound of the infinitive esprimere with li"
     },
@@ -6614,6 +6066,10 @@
     {
       "word": "ESSERVI",
       "hint": "compound of esservi, the second-person plural infinitive of essersi, with la"
+    },
+    {
+      "word": "ESTATE",
+      "hint": "summer"
     },
     {
       "word": "ESTENDE",
@@ -6696,10 +6152,6 @@
       "hint": "alternative form of eugenetico (“eugenic”)"
     },
     {
-      "word": "EUR",
-      "hint": ""
-    },
-    {
       "word": "EVACUARE",
       "hint": "to evacuate, to empty out, to abandon; to evacuate [auxiliary avere]"
     },
@@ -6712,20 +6164,8 @@
       "hint": "to escape, to break out [with da ‘from somewhere’] [auxiliary essere]; to evade, to dodge"
     },
     {
-      "word": "EVAN",
-      "hint": ""
-    },
-    {
-      "word": "EVANS",
-      "hint": ""
-    },
-    {
       "word": "EVASIONE",
       "hint": "escape, jailbreak, getaway, breakout; escapism, escape"
-    },
-    {
-      "word": "EVE",
-      "hint": ""
     },
     {
       "word": "EVENTUALE",
@@ -6748,20 +6188,8 @@
       "hint": "feminine singular of evitato"
     },
     {
-      "word": "EXPRESS",
-      "hint": ""
-    },
-    {
-      "word": "EZRA",
-      "hint": ""
-    },
-    {
       "word": "FABBRICHE",
       "hint": "factory, plant"
-    },
-    {
-      "word": "FABIO",
-      "hint": ""
     },
     {
       "word": "FACCENDE",
@@ -6816,8 +6244,8 @@
       "hint": "compound of fa', the second-person singular imperative form of fare, with le"
     },
     {
-      "word": "FAMILY",
-      "hint": ""
+      "word": "FAMIGLIA",
+      "hint": "family"
     },
     {
       "word": "FAMOSE",
@@ -6836,12 +6264,20 @@
       "hint": "plural of fantasia"
     },
     {
+      "word": "FANTASMA",
+      "hint": "ghost, spectre"
+    },
+    {
       "word": "FANTASTICHE",
       "hint": "feminine plural of fantastico"
     },
     {
       "word": "FANTERIA",
       "hint": "infantry"
+    },
+    {
+      "word": "FARE",
+      "hint": "to make to create to bring about to behave or act [with da ‘as’] to constitute to numerically result in; to add up to to formulate in the mind to cause to be; to render"
     },
     {
       "word": "FARESTE",
@@ -6882,10 +6318,6 @@
     {
       "word": "FASI",
       "hint": "plural of fase"
-    },
-    {
-      "word": "FAST",
-      "hint": ""
     },
     {
       "word": "FASTIDIOSO",
@@ -6944,24 +6376,12 @@
       "hint": "handkerchief, square; neckerchief"
     },
     {
-      "word": "FBI",
-      "hint": ""
-    },
-    {
-      "word": "FC",
-      "hint": ""
-    },
-    {
       "word": "FECCIA",
       "hint": "dregs; trash"
     },
     {
       "word": "FEDELTÀ",
       "hint": "loyalty, faithfulness, fidelity, trustworthiness, allegiance; accuracy, exactness"
-    },
-    {
-      "word": "FEDERICO",
-      "hint": ""
     },
     {
       "word": "FELICEMENTE",
@@ -7016,12 +6436,12 @@
       "hint": "to stop, arrest; to hold"
     },
     {
-      "word": "FERNANDO",
-      "hint": ""
-    },
-    {
       "word": "FEROCE",
       "hint": "ferocious; fierce, cruel"
+    },
+    {
+      "word": "FERREO",
+      "hint": "iron"
     },
     {
       "word": "FERRI",
@@ -7248,14 +6668,6 @@
       "hint": "fisc; exchequer; national treasury; public treasury; taxation or the revenue obtained by taxation"
     },
     {
-      "word": "FISH",
-      "hint": ""
-    },
-    {
-      "word": "FISHER",
-      "hint": ""
-    },
-    {
       "word": "FISICHE",
       "hint": "feminine plural of fisico"
     },
@@ -7364,6 +6776,10 @@
       "hint": "fantastic, extraordinary, terrific, impressive; formidable"
     },
     {
+      "word": "FORNACELLA",
+      "hint": "barbecue (cooking instrument)"
+    },
+    {
       "word": "FORNITORE",
       "hint": "supplying a specified material (of a company)"
     },
@@ -7384,6 +6800,10 @@
       "hint": "superlative degree of forte; Very loud"
     },
     {
+      "word": "FORTUNATO",
+      "hint": "lucky, fortunate"
+    },
+    {
       "word": "FORZARE",
       "hint": "to force; to press"
     },
@@ -7398,10 +6818,6 @@
     {
       "word": "FOSTE",
       "hint": "inflection of essere"
-    },
-    {
-      "word": "FOSTER",
-      "hint": ""
     },
     {
       "word": "FOTOCAMERA",
@@ -7448,20 +6864,12 @@
       "hint": "fragment, snippet, bit; passage, extract (of a text)"
     },
     {
-      "word": "FRAN",
-      "hint": ""
-    },
-    {
       "word": "FRANCE",
       "hint": "plural of fratria"
     },
     {
-      "word": "FRANKIE",
-      "hint": ""
-    },
-    {
-      "word": "FRANKLIN",
-      "hint": ""
+      "word": "FRASSINO",
+      "hint": "ash (wood of those trees); ash (tree of the genus Fraxinus)"
     },
     {
       "word": "FRATE",
@@ -7500,10 +6908,6 @@
       "hint": "to cool; to put a damper on"
     },
     {
-      "word": "FREE",
-      "hint": ""
-    },
-    {
       "word": "FREGARE",
       "hint": "to rub; to polish"
     },
@@ -7534,6 +6938,10 @@
     {
       "word": "FRESCHI",
       "hint": "masculine plural of fresco"
+    },
+    {
+      "word": "FRESCO",
+      "hint": "cool; coolness, freshness, cool"
     },
     {
       "word": "FRIENDS",
@@ -7680,14 +7088,6 @@
       "hint": "misspelling of fa; misspelling of fa'"
     },
     {
-      "word": "GA",
-      "hint": ""
-    },
-    {
-      "word": "GABRIELE",
-      "hint": ""
-    },
-    {
       "word": "GAETANO",
       "hint": "of, from or relating to Gaeta"
     },
@@ -7716,10 +7116,6 @@
       "hint": "plural of gallina"
     },
     {
-      "word": "GAMES",
-      "hint": ""
-    },
-    {
       "word": "GANGSTER",
       "hint": "gangster"
     },
@@ -7736,16 +7132,8 @@
       "hint": "guarantee, warrant, security"
     },
     {
-      "word": "GARDEN",
-      "hint": ""
-    },
-    {
-      "word": "GATE",
-      "hint": ""
-    },
-    {
-      "word": "GATES",
-      "hint": ""
+      "word": "GAROFANO",
+      "hint": "pink (Dianthus); carnation, clove pink (Dianthus caryophyllus)"
     },
     {
       "word": "GATTA",
@@ -7828,10 +7216,6 @@
       "hint": "geography"
     },
     {
-      "word": "GERUSALEMME",
-      "hint": ""
-    },
-    {
       "word": "GESSO",
       "hint": "chalk; a cast"
     },
@@ -7848,10 +7232,6 @@
       "hint": "good heavens!, good Lord!"
     },
     {
-      "word": "GET",
-      "hint": ""
-    },
-    {
       "word": "GETTO",
       "hint": "first-person singular present indicative of gettare"
     },
@@ -7860,8 +7240,8 @@
       "hint": "ghetto"
     },
     {
-      "word": "GHOST",
-      "hint": ""
+      "word": "GHIACCIARE",
+      "hint": "to ice over [auxiliary essere]"
     },
     {
       "word": "GI",
@@ -7872,11 +7252,11 @@
       "hint": "masculine plural of giallo"
     },
     {
-      "word": "GIANNI",
-      "hint": ""
+      "word": "GIARDINI",
+      "hint": "garden"
     },
     {
-      "word": "GIARDINI",
+      "word": "GIARDINO",
       "hint": "garden"
     },
     {
@@ -7884,32 +7264,12 @@
       "hint": "giant; gigantic, huge, colossal"
     },
     {
-      "word": "GIGI",
-      "hint": ""
-    },
-    {
-      "word": "GIL",
-      "hint": ""
-    },
-    {
-      "word": "GILBERT",
-      "hint": ""
-    },
-    {
-      "word": "GIN",
-      "hint": ""
-    },
-    {
-      "word": "GINA",
-      "hint": ""
-    },
-    {
       "word": "GINEVRA",
       "hint": "Genevan"
     },
     {
-      "word": "GINO",
-      "hint": ""
+      "word": "GINNARE",
+      "hint": "to gin (remove seeds etc.)"
     },
     {
       "word": "GIOCATA",
@@ -7928,6 +7288,10 @@
       "hint": "third-person singular imperfect indicative of giocare"
     },
     {
+      "word": "GIOIA",
+      "hint": "joy, delight"
+    },
+    {
       "word": "GIOIELLO",
       "hint": "jewel"
     },
@@ -7936,8 +7300,8 @@
       "hint": "journalism"
     },
     {
-      "word": "GIOVANNA",
-      "hint": ""
+      "word": "GIORNALMENTE",
+      "hint": "daily"
     },
     {
       "word": "GIOVANOTTO",
@@ -7954,10 +7318,6 @@
     {
       "word": "GIOVINEZZA",
       "hint": "youth"
-    },
-    {
-      "word": "GIRLS",
-      "hint": ""
     },
     {
       "word": "GIUBBOTTO",
@@ -7980,8 +7340,12 @@
       "hint": "plural of giudizio"
     },
     {
-      "word": "GIULIETTA",
-      "hint": ""
+      "word": "GIUGNO",
+      "hint": "June"
+    },
+    {
+      "word": "GIUNCO",
+      "hint": "rush"
     },
     {
       "word": "GIUNGE",
@@ -8020,10 +7384,6 @@
       "hint": "justification, explanation; proof"
     },
     {
-      "word": "GLENN",
-      "hint": ""
-    },
-    {
       "word": "GLIELI",
       "hint": "them to him, her or them"
     },
@@ -8060,10 +7420,6 @@
       "hint": "second-person singular imperative of godersi"
     },
     {
-      "word": "GOLDEN",
-      "hint": ""
-    },
-    {
       "word": "GOMITO",
       "hint": "elbow; bend in a tube"
     },
@@ -8074,10 +7430,6 @@
     {
       "word": "GOSSIP",
       "hint": "gossip (especially concerning famous or important people)"
-    },
-    {
-      "word": "GOT",
-      "hint": ""
     },
     {
       "word": "GOVERNARE",
@@ -8106,10 +7458,6 @@
     {
       "word": "GRAFICO",
       "hint": "graphic"
-    },
-    {
-      "word": "GRAHAM",
-      "hint": ""
     },
     {
       "word": "GRAMMI",
@@ -8156,10 +7504,6 @@
       "hint": "for free, gratis; gratuitously"
     },
     {
-      "word": "GRAY",
-      "hint": ""
-    },
-    {
       "word": "GRECA",
       "hint": "feminine singular of greco"
     },
@@ -8168,16 +7512,8 @@
       "hint": "flock"
     },
     {
-      "word": "GREGORY",
-      "hint": ""
-    },
-    {
       "word": "GREMBO",
       "hint": "lap; womb"
-    },
-    {
-      "word": "GRETA",
-      "hint": ""
     },
     {
       "word": "GRIDANDO",
@@ -8202,10 +7538,6 @@
     {
       "word": "GRU",
       "hint": "crane (bird); crane (machinery)"
-    },
-    {
-      "word": "GU",
-      "hint": ""
     },
     {
       "word": "GUAIO",
@@ -8248,6 +7580,10 @@
       "hint": "first-person singular imperfect indicative of guardare"
     },
     {
+      "word": "GUARDIA",
+      "hint": "watch, guard duty, sentry duty"
+    },
+    {
       "word": "GUARDIANI",
       "hint": "guardianship; security guard (at the entrance to a factory etc.)"
     },
@@ -8276,156 +7612,24 @@
       "hint": "plural of guida"
     },
     {
-      "word": "GUS",
-      "hint": ""
-    },
-    {
       "word": "GUSCIO",
       "hint": "shell (of an animal, nut etc.)"
-    },
-    {
-      "word": "GUY",
-      "hint": ""
-    },
-    {
-      "word": "HAL",
-      "hint": ""
-    },
-    {
-      "word": "HANK",
-      "hint": ""
-    },
-    {
-      "word": "HANNA",
-      "hint": ""
     },
     {
       "word": "HANS",
       "hint": "apocopic form of hanno (“they have”)"
     },
     {
-      "word": "HARPER",
-      "hint": ""
-    },
-    {
-      "word": "HARRISON",
-      "hint": ""
-    },
-    {
-      "word": "HART",
-      "hint": ""
-    },
-    {
-      "word": "HARVEY",
-      "hint": ""
-    },
-    {
-      "word": "HASHTAG",
-      "hint": ""
-    },
-    {
-      "word": "HAVE",
-      "hint": ""
-    },
-    {
-      "word": "HAWAII",
-      "hint": ""
-    },
-    {
-      "word": "HEART",
-      "hint": ""
-    },
-    {
-      "word": "HEATHER",
-      "hint": ""
-    },
-    {
-      "word": "HECTOR",
-      "hint": ""
-    },
-    {
-      "word": "HELENA",
-      "hint": ""
-    },
-    {
-      "word": "HERE",
-      "hint": ""
-    },
-    {
-      "word": "HI",
-      "hint": ""
-    },
-    {
-      "word": "HILLARY",
-      "hint": ""
-    },
-    {
-      "word": "HILLS",
-      "hint": ""
-    },
-    {
-      "word": "HIP",
-      "hint": ""
-    },
-    {
-      "word": "HIT",
-      "hint": ""
-    },
-    {
       "word": "HOCKEY",
       "hint": "hockey"
-    },
-    {
-      "word": "HOLLY",
-      "hint": ""
-    },
-    {
-      "word": "HOLMES",
-      "hint": ""
     },
     {
       "word": "HOMER",
       "hint": "plural of homerata"
     },
     {
-      "word": "HOOD",
-      "hint": ""
-    },
-    {
-      "word": "HOP",
-      "hint": ""
-    },
-    {
       "word": "HOSPITAL",
       "hint": "alternative form of ospitale"
-    },
-    {
-      "word": "HOUSTON",
-      "hint": ""
-    },
-    {
-      "word": "HOW",
-      "hint": ""
-    },
-    {
-      "word": "HUDSON",
-      "hint": ""
-    },
-    {
-      "word": "HUGH",
-      "hint": ""
-    },
-    {
-      "word": "HUNT",
-      "hint": ""
-    },
-    {
-      "word": "HUNTER",
-      "hint": ""
-    },
-    {
-      "word": "ICE",
-      "hint": ""
     },
     {
       "word": "ICONA",
@@ -8462,14 +7666,6 @@
     {
       "word": "IDROGENO",
       "hint": "hydrogen"
-    },
-    {
-      "word": "IE",
-      "hint": ""
-    },
-    {
-      "word": "IF",
-      "hint": ""
     },
     {
       "word": "IGIENE",
@@ -8654,6 +7850,10 @@
     {
       "word": "IMPRENDITORI",
       "hint": "businessman, entrepreneur, contractor"
+    },
+    {
+      "word": "IMPRESA",
+      "hint": "enterprise, undertaking, exploit, feat, endeavour/endeavor"
     },
     {
       "word": "IMPREVEDIBILE",
@@ -9056,10 +8256,6 @@
       "hint": "unstable, unsteady, precarious, unreliable; changeable, unsettled"
     },
     {
-      "word": "INSTAGRAM",
-      "hint": ""
-    },
-    {
       "word": "INSTALLARE",
       "hint": "to install, to place; to install, to set up"
     },
@@ -9154,10 +8350,6 @@
     {
       "word": "INTERIORE",
       "hint": "internal, interior; inner, inward"
-    },
-    {
-      "word": "INTERNATIONAL",
-      "hint": ""
     },
     {
       "word": "INTERPRETA",
@@ -9340,10 +8532,6 @@
       "hint": "plural of ione"
     },
     {
-      "word": "IP",
-      "hint": ""
-    },
-    {
       "word": "IPAD",
       "hint": "iPad (the Apple iPad); iPad (a generic internet/electronic tablet)"
     },
@@ -9368,10 +8556,6 @@
       "hint": "Irish"
     },
     {
-      "word": "IRON",
-      "hint": ""
-    },
-    {
       "word": "IRONICO",
       "hint": "ironic, ironical"
     },
@@ -9388,18 +8572,6 @@
       "hint": "irritating, annoying, vexatious, pesky, teasing"
     },
     {
-      "word": "ISAAC",
-      "hint": ""
-    },
-    {
-      "word": "ISABEL",
-      "hint": ""
-    },
-    {
-      "word": "ISABELLA",
-      "hint": ""
-    },
-    {
       "word": "ISCRITTA",
       "hint": "female equivalent of iscritto"
     },
@@ -9408,16 +8580,8 @@
       "hint": "enrolled; registered, entered"
     },
     {
-      "word": "ISIS",
-      "hint": ""
-    },
-    {
       "word": "ISLAM",
       "hint": "Islamism"
-    },
-    {
-      "word": "ISLANDA",
-      "hint": ""
     },
     {
       "word": "ISOLATA",
@@ -9464,216 +8628,24 @@
       "hint": "feminine plural of italiano"
     },
     {
-      "word": "JA",
-      "hint": ""
-    },
-    {
-      "word": "JACKIE",
-      "hint": ""
-    },
-    {
-      "word": "JACQUES",
-      "hint": ""
-    },
-    {
-      "word": "JANET",
-      "hint": ""
-    },
-    {
-      "word": "JARED",
-      "hint": ""
-    },
-    {
-      "word": "JAVIER",
-      "hint": ""
-    },
-    {
       "word": "JE",
       "hint": "alternative form of gli (3-person masculine singular dative pronoun; 3-person masculine/feminine plural dative pronoun); alternative form of le (3-person feminine singular dative"
-    },
-    {
-      "word": "JEDI",
-      "hint": ""
     },
     {
       "word": "JEEP",
       "hint": "jeep"
     },
     {
-      "word": "JEFFREY",
-      "hint": ""
-    },
-    {
-      "word": "JENNA",
-      "hint": ""
-    },
-    {
-      "word": "JENNY",
-      "hint": ""
-    },
-    {
-      "word": "JESSE",
-      "hint": ""
-    },
-    {
-      "word": "JESUS",
-      "hint": ""
-    },
-    {
       "word": "JET",
       "hint": "jet plane"
-    },
-    {
-      "word": "JI",
-      "hint": ""
-    },
-    {
-      "word": "JIN",
-      "hint": ""
-    },
-    {
-      "word": "JOAN",
-      "hint": ""
-    },
-    {
-      "word": "JOEL",
-      "hint": ""
-    },
-    {
-      "word": "JOEY",
-      "hint": ""
-    },
-    {
-      "word": "JON",
-      "hint": ""
-    },
-    {
-      "word": "JONAS",
-      "hint": ""
-    },
-    {
-      "word": "JORGE",
-      "hint": ""
-    },
-    {
-      "word": "JOSE",
-      "hint": ""
-    },
-    {
-      "word": "JOSHUA",
-      "hint": ""
-    },
-    {
-      "word": "JOSÉ",
-      "hint": ""
-    },
-    {
-      "word": "JOY",
-      "hint": ""
     },
     {
       "word": "JOYCE",
       "hint": "Joycean"
     },
     {
-      "word": "JR",
-      "hint": ""
-    },
-    {
-      "word": "JULIO",
-      "hint": ""
-    },
-    {
-      "word": "JUN",
-      "hint": ""
-    },
-    {
-      "word": "JUNE",
-      "hint": ""
-    },
-    {
-      "word": "JUNG",
-      "hint": ""
-    },
-    {
-      "word": "KAI",
-      "hint": ""
-    },
-    {
-      "word": "KANE",
-      "hint": ""
-    },
-    {
-      "word": "KANSAS",
-      "hint": ""
-    },
-    {
-      "word": "KARA",
-      "hint": ""
-    },
-    {
-      "word": "KATHERINE",
-      "hint": ""
-    },
-    {
-      "word": "KATIE",
-      "hint": ""
-    },
-    {
-      "word": "KAY",
-      "hint": ""
-    },
-    {
-      "word": "KEITH",
-      "hint": ""
-    },
-    {
-      "word": "KENNEDY",
-      "hint": ""
-    },
-    {
-      "word": "KENNETH",
-      "hint": ""
-    },
-    {
-      "word": "KENNY",
-      "hint": ""
-    },
-    {
-      "word": "KENT",
-      "hint": ""
-    },
-    {
       "word": "KHAN",
       "hint": "khan"
-    },
-    {
-      "word": "KID",
-      "hint": ""
-    },
-    {
-      "word": "KITTY",
-      "hint": ""
-    },
-    {
-      "word": "KLAUS",
-      "hint": ""
-    },
-    {
-      "word": "KNOX",
-      "hint": ""
-    },
-    {
-      "word": "KO",
-      "hint": ""
-    },
-    {
-      "word": "KUNG",
-      "hint": ""
-    },
-    {
-      "word": "KYLE",
-      "hint": ""
     },
     {
       "word": "LABBRO",
@@ -9684,8 +8656,8 @@
       "hint": "labyrinth, maze; labyrinth"
     },
     {
-      "word": "LAKE",
-      "hint": ""
+      "word": "LAGO",
+      "hint": "lake"
     },
     {
       "word": "LAMENTA",
@@ -9732,10 +8704,6 @@
       "hint": "plural of landa"
     },
     {
-      "word": "LARA",
-      "hint": ""
-    },
-    {
       "word": "LARGHE",
       "hint": "feminine plural of largo"
     },
@@ -9764,6 +8732,10 @@
       "hint": "compound of the infinitive lasciare with ci"
     },
     {
+      "word": "LASCIARE",
+      "hint": "to let"
+    },
+    {
       "word": "LASCIARLI",
       "hint": "compound of the infinitive lasciare with li"
     },
@@ -9780,10 +8752,6 @@
       "hint": "third-person singular imperfect indicative of lasciare"
     },
     {
-      "word": "LAST",
-      "hint": ""
-    },
-    {
       "word": "LATERALE",
       "hint": "side, lateral"
     },
@@ -9792,12 +8760,12 @@
       "hint": "female equivalent of latino (“Latin”)"
     },
     {
-      "word": "LAUREATA",
-      "hint": "feminine singular of laureato"
+      "word": "LATO",
+      "hint": "side"
     },
     {
-      "word": "LAUREN",
-      "hint": ""
+      "word": "LAUREATA",
+      "hint": "feminine singular of laureato"
     },
     {
       "word": "LAVA",
@@ -9844,10 +8812,6 @@
       "hint": "first-person singular imperfect indicative of lavorare"
     },
     {
-      "word": "LAW",
-      "hint": ""
-    },
-    {
       "word": "LEADERSHIP",
       "hint": "leadership"
     },
@@ -9870,6 +8834,10 @@
     {
       "word": "LEGGA",
       "hint": "reflexive of leggere; to be read (in a particular way)"
+    },
+    {
+      "word": "LEGGE",
+      "hint": "law"
     },
     {
       "word": "LEGGENDE",
@@ -9920,14 +8888,6 @@
       "hint": "damage; injury"
     },
     {
-      "word": "LESLIE",
-      "hint": ""
-    },
-    {
-      "word": "LET",
-      "hint": ""
-    },
-    {
       "word": "LETALE",
       "hint": "lethal, deadly"
     },
@@ -9952,10 +8912,6 @@
       "hint": "inflection of levare"
     },
     {
-      "word": "LEX",
-      "hint": ""
-    },
-    {
       "word": "LIBERALE",
       "hint": "liberal (all senses)"
     },
@@ -9970,6 +8926,14 @@
     {
       "word": "LIBERATI",
       "hint": "compound of libera, the second-person singular imperative form of liberare, with ti"
+    },
+    {
+      "word": "LIBERO",
+      "hint": "free (without obligations); free (that does not have to be paid for)"
+    },
+    {
+      "word": "LIBRO",
+      "hint": "book"
     },
     {
       "word": "LICENZIAMENTO",
@@ -9996,10 +8960,6 @@
       "hint": "light; light, delicate, gentle"
     },
     {
-      "word": "LIGHT",
-      "hint": ""
-    },
-    {
       "word": "LIMA",
       "hint": "file (a cutting or smoothing tool)"
     },
@@ -10014,18 +8974,6 @@
     {
       "word": "LIMITATI",
       "hint": "masculine plural of limitato"
-    },
-    {
-      "word": "LIN",
-      "hint": ""
-    },
-    {
-      "word": "LINA",
-      "hint": ""
-    },
-    {
-      "word": "LINDSAY",
-      "hint": ""
     },
     {
       "word": "LINE",
@@ -10064,22 +9012,6 @@
       "hint": "litre; liter (US)"
     },
     {
-      "word": "LIV",
-      "hint": ""
-    },
-    {
-      "word": "LIZ",
-      "hint": ""
-    },
-    {
-      "word": "LLOYD",
-      "hint": ""
-    },
-    {
-      "word": "LN",
-      "hint": ""
-    },
-    {
       "word": "LOBO",
       "hint": "lobe"
     },
@@ -10112,24 +9044,8 @@
       "hint": "of, from or relating to Lodi"
     },
     {
-      "word": "LOGAN",
-      "hint": ""
-    },
-    {
       "word": "LOGO",
       "hint": "logo (symbol); logotype"
-    },
-    {
-      "word": "LOIS",
-      "hint": ""
-    },
-    {
-      "word": "LOL",
-      "hint": ""
-    },
-    {
-      "word": "LOLA",
-      "hint": ""
     },
     {
       "word": "LONDON",
@@ -10148,10 +9064,6 @@
       "hint": "feminine plural of lontano"
     },
     {
-      "word": "LOPEZ",
-      "hint": ""
-    },
-    {
       "word": "LOTTANDO",
       "hint": "gerund of lottare"
     },
@@ -10168,16 +9080,12 @@
       "hint": "lottery; sweepstake (horse racing)"
     },
     {
-      "word": "LOUISE",
-      "hint": ""
-    },
-    {
       "word": "LU",
       "hint": "zander, perch"
     },
     {
-      "word": "LUCIANO",
-      "hint": ""
+      "word": "LUCE",
+      "hint": "light (visible electromagnetic wave; electrical device providing light)"
     },
     {
       "word": "LUCIDA",
@@ -10186,14 +9094,6 @@
     {
       "word": "LUCIDO",
       "hint": "bright, shiny, glossy; lucid"
-    },
-    {
-      "word": "LUCKY",
-      "hint": ""
-    },
-    {
-      "word": "LUISA",
-      "hint": ""
     },
     {
       "word": "LUMINOSA",
@@ -10208,12 +9108,24 @@
       "hint": "lunar (of or pertaining to the moon)"
     },
     {
-      "word": "LYDIA",
-      "hint": ""
+      "word": "LUOGO",
+      "hint": "place (location, position)"
+    },
+    {
+      "word": "LUPO",
+      "hint": "wolf"
+    },
+    {
+      "word": "LUPPOLO",
+      "hint": "hop (Humulus lupulus)"
     },
     {
       "word": "MACCHIATO",
       "hint": "stained; spotted (of the skin of an animal)"
+    },
+    {
+      "word": "MACCHINA",
+      "hint": "car, motorcar"
     },
     {
       "word": "MACCHINARI",
@@ -10234,14 +9146,6 @@
     {
       "word": "MACHINE",
       "hint": "millstone, grindstone, quern, burr"
-    },
-    {
-      "word": "MADE",
-      "hint": ""
-    },
-    {
-      "word": "MADISON",
-      "hint": ""
     },
     {
       "word": "MAESTRI",
@@ -10300,10 +9204,6 @@
       "hint": "magnetic (in both the scientific and figurative senses)"
     },
     {
-      "word": "MAGNUS",
-      "hint": ""
-    },
-    {
       "word": "MAGRA",
       "hint": "feminine singular of magro"
     },
@@ -10312,20 +9212,12 @@
       "hint": "thin, lean, slim, spare; low-fat, lean (of food)"
     },
     {
+      "word": "MAI",
+      "hint": "never"
+    },
+    {
       "word": "MAIALI",
       "hint": "pig; pork"
-    },
-    {
-      "word": "MAJOR",
-      "hint": ""
-    },
-    {
-      "word": "MAKE",
-      "hint": ""
-    },
-    {
-      "word": "MALCOLM",
-      "hint": ""
     },
     {
       "word": "MALEDUCATO",
@@ -10348,10 +9240,6 @@
       "hint": "wicked, malign; malicious"
     },
     {
-      "word": "MAMA",
-      "hint": ""
-    },
-    {
       "word": "MANCANTE",
       "hint": "lack, shortage, deficiency, want; absence"
     },
@@ -10366,10 +9254,6 @@
     {
       "word": "MANCHERÀ",
       "hint": "third-person singular future of mancare"
-    },
-    {
-      "word": "MANCHESTER",
-      "hint": ""
     },
     {
       "word": "MANCIA",
@@ -10394,6 +9278,10 @@
     {
       "word": "MANDIAMO",
       "hint": "compound of mandiamo, the first-person plural imperative form of mandare, with ci"
+    },
+    {
+      "word": "MANDRIANO",
+      "hint": "cowboy, herdsman, cowhand"
     },
     {
       "word": "MANETTE",
@@ -10488,14 +9376,6 @@
       "hint": "feminine plural of marcio"
     },
     {
-      "word": "MARCEL",
-      "hint": ""
-    },
-    {
-      "word": "MARCELLO",
-      "hint": ""
-    },
-    {
       "word": "MARCHI",
       "hint": "plural of marchio"
     },
@@ -10520,10 +9400,6 @@
       "hint": "to establish or delimit margins; to border; to margin"
     },
     {
-      "word": "MARILYN",
-      "hint": ""
-    },
-    {
       "word": "MARINAI",
       "hint": "female equivalent of marinaio"
     },
@@ -10534,10 +9410,6 @@
     {
       "word": "MARINI",
       "hint": "masculine plural of marino"
-    },
-    {
-      "word": "MARION",
-      "hint": ""
     },
     {
       "word": "MARITI",
@@ -10568,14 +9440,6 @@
       "hint": "Tuesday"
     },
     {
-      "word": "MARTHA",
-      "hint": ""
-    },
-    {
-      "word": "MARTINA",
-      "hint": ""
-    },
-    {
       "word": "MARTINEZ",
       "hint": "Martinezism (branch of Martinism)"
     },
@@ -10596,10 +9460,6 @@
       "hint": "Tuesday"
     },
     {
-      "word": "MARX",
-      "hint": ""
-    },
-    {
       "word": "MARZIALE",
       "hint": "martial"
     },
@@ -10614,10 +9474,6 @@
     {
       "word": "MASCHILI",
       "hint": "masculine, male; virile, manly"
-    },
-    {
-      "word": "MASON",
-      "hint": ""
     },
     {
       "word": "MASSAGGI",
@@ -10700,16 +9556,8 @@
       "hint": "ripe, mature"
     },
     {
-      "word": "MAURICE",
-      "hint": ""
-    },
-    {
       "word": "MAZZO",
       "hint": "bunch (of flowers, keys etc.); pack, deck"
-    },
-    {
-      "word": "MC",
-      "hint": ""
     },
     {
       "word": "MECCANICA",
@@ -10744,28 +9592,12 @@
       "hint": "meeting (gathering of people for a purpose)"
     },
     {
-      "word": "MEG",
-      "hint": ""
-    },
-    {
       "word": "MEGA",
       "hint": "mega- (all senses)"
     },
     {
-      "word": "MEGAN",
-      "hint": ""
-    },
-    {
       "word": "MEI",
       "hint": "masculine plural of meo"
-    },
-    {
-      "word": "MEL",
-      "hint": ""
-    },
-    {
-      "word": "MELANIE",
-      "hint": ""
     },
     {
       "word": "MELISSA",
@@ -10852,8 +9684,8 @@
       "hint": "mercury"
     },
     {
-      "word": "MEREDITH",
-      "hint": ""
+      "word": "MERENDINA",
+      "hint": "a snack (item of food, usually sweet)"
     },
     {
       "word": "MERIDIONALE",
@@ -10936,28 +9768,8 @@
       "hint": "compound of metti, the second-person singular imperative form of mettere, with ti"
     },
     {
-      "word": "MEYER",
-      "hint": ""
-    },
-    {
-      "word": "MH",
-      "hint": ""
-    },
-    {
-      "word": "MICHEL",
-      "hint": ""
-    },
-    {
       "word": "MICHELANGELO",
       "hint": "Michelangelo's, of Michelangelo; Michelangelesque"
-    },
-    {
-      "word": "MICK",
-      "hint": ""
-    },
-    {
-      "word": "MICKEY",
-      "hint": ""
     },
     {
       "word": "MICROONDE",
@@ -10992,10 +9804,6 @@
       "hint": "feminine singular of migliorato"
     },
     {
-      "word": "MILAN",
-      "hint": ""
-    },
-    {
       "word": "MILIARDARIO",
       "hint": "billionaire"
     },
@@ -11010,10 +9818,6 @@
     {
       "word": "MILLS",
       "hint": "thousand, one thousand"
-    },
-    {
-      "word": "MILO",
-      "hint": ""
     },
     {
       "word": "MINA",
@@ -11088,10 +9892,6 @@
       "hint": "feminine singular of mirando"
     },
     {
-      "word": "MIRIAM",
-      "hint": ""
-    },
-    {
       "word": "MIRINO",
       "hint": "a sight, scope (on a weapon); a viewfinder (on a camera)"
     },
@@ -11128,10 +9928,6 @@
       "hint": "to measure, to measure out, to measure off, to gauge, to survey; to value, to estimate, to appraise, to gauge"
     },
     {
-      "word": "MITCHELL",
-      "hint": ""
-    },
-    {
       "word": "MITI",
       "hint": "plural of mite"
     },
@@ -11140,8 +9936,8 @@
       "hint": "mythical; legendary; legendary; awesome"
     },
     {
-      "word": "MIX",
-      "hint": ""
+      "word": "MIXARE",
+      "hint": "to mix, to blend (audio, cooking ingredients, clothing, etc.)"
     },
     {
       "word": "MODE",
@@ -11170,10 +9966,6 @@
     {
       "word": "MODULI",
       "hint": "to modulate; to proportion"
-    },
-    {
-      "word": "MODUS",
-      "hint": ""
     },
     {
       "word": "MOLESTIE",
@@ -11208,10 +10000,6 @@
       "hint": "masculine plural of moltissimo"
     },
     {
-      "word": "MON",
-      "hint": ""
-    },
-    {
       "word": "MONACI",
       "hint": "monk"
     },
@@ -11220,20 +10008,16 @@
       "hint": "monastery; convent, nunnery"
     },
     {
+      "word": "MONDO",
+      "hint": "people; society"
+    },
+    {
       "word": "MONITORAGGIO",
       "hint": "monitoring (all senses)"
     },
     {
       "word": "MONITORARE",
       "hint": "to monitor (a patient, the level of something, a trend, etc.)"
-    },
-    {
-      "word": "MONROE",
-      "hint": ""
-    },
-    {
-      "word": "MONSIEUR",
-      "hint": ""
     },
     {
       "word": "MONTA",
@@ -11256,12 +10040,12 @@
       "hint": "mounted (all senses); big-headed, full of oneself, arrogant"
     },
     {
-      "word": "MONUMENTO",
-      "hint": "monument, memorial; monument, important work, historic building, sight"
+      "word": "MONTE",
+      "hint": "mountain, mount"
     },
     {
-      "word": "MOORE",
-      "hint": ""
+      "word": "MONUMENTO",
+      "hint": "monument, memorial; monument, important work, historic building, sight"
     },
     {
       "word": "MORALI",
@@ -11270,10 +10054,6 @@
     {
       "word": "MORBIDO",
       "hint": "soft, tender, mellow; docile, compliant"
-    },
-    {
-      "word": "MORENO",
-      "hint": ""
     },
     {
       "word": "MORETTI",
@@ -11296,12 +10076,16 @@
       "hint": "mulberry tree"
     },
     {
-      "word": "MORRIS",
-      "hint": ""
-    },
-    {
       "word": "MORSI",
       "hint": "bite; bit (of a horse)"
+    },
+    {
+      "word": "MORTE",
+      "hint": "death"
+    },
+    {
+      "word": "MORTO",
+      "hint": "dead man; dead (experiencing pins and needles) (of a body part)"
     },
     {
       "word": "MOSCHE",
@@ -11326,10 +10110,6 @@
     {
       "word": "MOTTO",
       "hint": "witty remark; motto, maxim"
-    },
-    {
-      "word": "MOUNTAIN",
-      "hint": ""
     },
     {
       "word": "MOUSE",
@@ -11392,14 +10172,6 @@
       "hint": "third-person plural present indicative of muovere"
     },
     {
-      "word": "MURPHY",
-      "hint": ""
-    },
-    {
-      "word": "MURRAY",
-      "hint": ""
-    },
-    {
       "word": "MUSCOLARE",
       "hint": "muscular; muscle"
     },
@@ -11448,14 +10220,6 @@
       "hint": "third-person singular past historic of nascere"
     },
     {
-      "word": "NADIA",
-      "hint": ""
-    },
-    {
-      "word": "NAH",
-      "hint": ""
-    },
-    {
       "word": "NANI",
       "hint": "masculine plural of nano"
     },
@@ -11468,20 +10232,12 @@
       "hint": "dwarfish"
     },
     {
-      "word": "NAOMI",
-      "hint": ""
-    },
-    {
       "word": "NAPOLEONE",
       "hint": "napoleon (old French coin); snifter (brandy glass)"
     },
     {
       "word": "NAPOLETANO",
       "hint": "Neapolitan (of, from or relating to the city of Naples, capital and largest city of Campania, Italy, or the surrounding metropolitan city)"
-    },
-    {
-      "word": "NASA",
-      "hint": ""
     },
     {
       "word": "NASCONDENDO",
@@ -11506,10 +10262,6 @@
     {
       "word": "NASCOSTE",
       "hint": "feminine plural of nascosto"
-    },
-    {
-      "word": "NASH",
-      "hint": ""
     },
     {
       "word": "NASTRI",
@@ -11540,10 +10292,6 @@
       "hint": "navigation, shipping (traffic); surfing (the Internet)"
     },
     {
-      "word": "NDT",
-      "hint": ""
-    },
-    {
       "word": "NED",
       "hint": "alternative form of né used before a vowel"
     },
@@ -11568,10 +10316,6 @@
       "hint": "to negotiate, to transact; to trade, to deal"
     },
     {
-      "word": "NEIL",
-      "hint": ""
-    },
-    {
       "word": "NEMICA",
       "hint": "feminine singular of nemico"
     },
@@ -11584,16 +10328,8 @@
       "hint": "newborn"
     },
     {
-      "word": "NERD",
-      "hint": ""
-    },
-    {
       "word": "NERVO",
       "hint": "nerve; vein, nerve"
-    },
-    {
-      "word": "NETFLIX",
-      "hint": ""
     },
     {
       "word": "NETTO",
@@ -11604,28 +10340,8 @@
       "hint": "neutral"
     },
     {
-      "word": "NEVER",
-      "hint": ""
-    },
-    {
       "word": "NEWTON",
       "hint": "newton"
-    },
-    {
-      "word": "NEXT",
-      "hint": ""
-    },
-    {
-      "word": "NICHOLAS",
-      "hint": ""
-    },
-    {
-      "word": "NICO",
-      "hint": ""
-    },
-    {
-      "word": "NIKKI",
-      "hint": ""
     },
     {
       "word": "NINJA",
@@ -11634,10 +10350,6 @@
     {
       "word": "NINO",
       "hint": "baby"
-    },
-    {
-      "word": "NOAH",
-      "hint": ""
     },
     {
       "word": "NOBEL",
@@ -11684,20 +10396,12 @@
       "hint": "ninth"
     },
     {
-      "word": "NORA",
-      "hint": ""
-    },
-    {
       "word": "NORMALITÀ",
       "hint": "normality"
     },
     {
       "word": "NORTH",
       "hint": "north"
-    },
-    {
-      "word": "NORVEGIA",
-      "hint": ""
     },
     {
       "word": "NOSTALGIA",
@@ -11782,6 +10486,10 @@
     {
       "word": "OBBLIGATORIO",
       "hint": "compulsory, obligatory, incumbent"
+    },
+    {
+      "word": "OBBLIGAZIONE",
+      "hint": "bond, debenture"
     },
     {
       "word": "OBBLIGHI",
@@ -11882,10 +10590,6 @@
     {
       "word": "OLANDESE",
       "hint": "of the Netherlands; Dutch"
-    },
-    {
-      "word": "OLD",
-      "hint": ""
     },
     {
       "word": "OLIVA",
@@ -12076,10 +10780,6 @@
       "hint": "gerund of orlare"
     },
     {
-      "word": "ORLEANS",
-      "hint": ""
-    },
-    {
       "word": "ORME",
       "hint": "plural of orma"
     },
@@ -12228,14 +10928,6 @@
       "hint": "feminine singular of ovvio"
     },
     {
-      "word": "OWEN",
-      "hint": ""
-    },
-    {
-      "word": "OXFORD",
-      "hint": ""
-    },
-    {
       "word": "OZ",
       "hint": "abbreviation of onza or oncia"
     },
@@ -12262,6 +10954,10 @@
     {
       "word": "PAESAGGIO",
       "hint": "landscape; view, panorama"
+    },
+    {
+      "word": "PAESE",
+      "hint": "village"
     },
     {
       "word": "PAGAMENTI",
@@ -12312,10 +11008,6 @@
       "hint": "stage"
     },
     {
-      "word": "PALERMO",
-      "hint": ""
-    },
-    {
       "word": "PALESE",
       "hint": "clear, evident"
     },
@@ -12336,20 +11028,8 @@
       "hint": "palm tree, palm; palm (of the hand)"
     },
     {
-      "word": "PALMER",
-      "hint": ""
-    },
-    {
       "word": "PALUDE",
       "hint": "marsh, fen, swamp, bog"
-    },
-    {
-      "word": "PAM",
-      "hint": ""
-    },
-    {
-      "word": "PAMELA",
-      "hint": ""
     },
     {
       "word": "PANAMA",
@@ -12362,6 +11042,10 @@
     {
       "word": "PANDA",
       "hint": "panda, especially the giant panda"
+    },
+    {
+      "word": "PANETTIERE",
+      "hint": "baker"
     },
     {
       "word": "PANNA",
@@ -12382,10 +11066,6 @@
     {
       "word": "PANTALONCINI",
       "hint": "shorts"
-    },
-    {
-      "word": "PAOLA",
-      "hint": ""
     },
     {
       "word": "PAR",
@@ -12450,6 +11130,10 @@
     {
       "word": "PARLARCI",
       "hint": "compound of the infinitive parlare with ci"
+    },
+    {
+      "word": "PARLARE",
+      "hint": "to talk, to speak"
     },
     {
       "word": "PARLARGLI",
@@ -12576,16 +11260,8 @@
       "hint": "pathology; disease"
     },
     {
-      "word": "PATRICIA",
-      "hint": ""
-    },
-    {
       "word": "PATTY",
       "hint": "plural of patto"
-    },
-    {
-      "word": "PAULA",
-      "hint": ""
     },
     {
       "word": "PAZZESCA",
@@ -12596,10 +11272,6 @@
       "hint": "truncation of pei"
     },
     {
-      "word": "PEARL",
-      "hint": ""
-    },
-    {
       "word": "PECHINO",
       "hint": "Pekingese (of, from or relating to the city of Beijing, capital of China)"
     },
@@ -12608,8 +11280,8 @@
       "hint": "sheep (animal); ewe"
     },
     {
-      "word": "PEDRO",
-      "hint": ""
+      "word": "PECORAIO",
+      "hint": "shepherd"
     },
     {
       "word": "PEGGIORANDO",
@@ -12642,6 +11314,10 @@
     {
       "word": "PENNELLO",
       "hint": "brush, paintbrush"
+    },
+    {
+      "word": "PENNUTO",
+      "hint": "bird"
     },
     {
       "word": "PENNY",
@@ -12684,10 +11360,6 @@
       "hint": "pot, saucepan; potful"
     },
     {
-      "word": "PEOPLE",
-      "hint": ""
-    },
-    {
       "word": "PEPERONCINO",
       "hint": "chili pepper"
     },
@@ -12714,10 +11386,6 @@
     {
       "word": "PERCORSI",
       "hint": "distance; journey"
-    },
-    {
-      "word": "PERCY",
-      "hint": ""
     },
     {
       "word": "PERDA",
@@ -12768,6 +11436,10 @@
       "hint": "plural of periodo"
     },
     {
+      "word": "PERLA",
+      "hint": "pearl"
+    },
+    {
       "word": "PERLOMENO",
       "hint": "at least, to say the least"
     },
@@ -12808,10 +11480,6 @@
       "hint": "search, investigation"
     },
     {
-      "word": "PERRY",
-      "hint": ""
-    },
-    {
       "word": "PERSEGUIRE",
       "hint": "to pursue (a goal, a purpose); to prosecute"
     },
@@ -12832,6 +11500,10 @@
       "hint": "fisherman"
     },
     {
+      "word": "PESCE",
+      "hint": "fish"
+    },
+    {
       "word": "PESSIME",
       "hint": "feminine plural of pessimo"
     },
@@ -12840,20 +11512,8 @@
       "hint": "petition"
     },
     {
-      "word": "PETRA",
-      "hint": ""
-    },
-    {
       "word": "PETTEGOLEZZI",
       "hint": "gossip (talk); buzz, chit-chat, claver"
-    },
-    {
-      "word": "PHILADELPHIA",
-      "hint": ""
-    },
-    {
-      "word": "PHOENIX",
-      "hint": ""
     },
     {
       "word": "PI",
@@ -12912,6 +11572,10 @@
       "hint": "to stop or give up (an activity); to leave off; to stop; Used other than figuratively or idiomatically: compound of the infinitive piantare with la."
     },
     {
+      "word": "PIAZZA",
+      "hint": "square, plaza"
+    },
+    {
       "word": "PIAZZATO",
       "hint": "to place or put; to land (a punch)"
     },
@@ -12948,10 +11612,6 @@
       "hint": "piercing (jewellery worn through a hole in the skin or tongue)"
     },
     {
-      "word": "PIERO",
-      "hint": ""
-    },
-    {
       "word": "PIGIAMA",
       "hint": "pyjamas"
     },
@@ -12968,10 +11628,6 @@
       "hint": "alternative spelling of ping pong"
     },
     {
-      "word": "PINK",
-      "hint": ""
-    },
-    {
       "word": "PINO",
       "hint": "pine, pine tree (tree of the genus Pinus); pine, pinewood (wood of pine tree)"
     },
@@ -12982,10 +11638,6 @@
     {
       "word": "PIOVERE",
       "hint": "to rain [auxiliary avere or essere]; to drip [auxiliary avere or essere]"
-    },
-    {
-      "word": "PIPER",
-      "hint": ""
     },
     {
       "word": "PIPÌ",
@@ -13024,10 +11676,6 @@
       "hint": "pinch, nip; bite, sting (by an insect)"
     },
     {
-      "word": "PLACE",
-      "hint": ""
-    },
-    {
       "word": "PLASMA",
       "hint": "plasma"
     },
@@ -13038,10 +11686,6 @@
     {
       "word": "PLAY",
       "hint": "play (theatrical performance; start key)"
-    },
-    {
-      "word": "PLAZA",
-      "hint": ""
     },
     {
       "word": "PNEUMATICI",
@@ -13058,10 +11702,6 @@
     {
       "word": "POICHÈ",
       "hint": "since, because, as"
-    },
-    {
-      "word": "POINT",
-      "hint": ""
     },
     {
       "word": "POLACCO",
@@ -13100,6 +11740,10 @@
       "hint": "meatball; rissole"
     },
     {
+      "word": "POLVERIZZARE",
+      "hint": "to spray (liquid)"
+    },
+    {
       "word": "POMODORI",
       "hint": "plural of pomodoro"
     },
@@ -13128,8 +11772,8 @@
       "hint": "pony; pony express"
     },
     {
-      "word": "POPCORN",
-      "hint": ""
+      "word": "POP",
+      "hint": "popcorn"
     },
     {
       "word": "POPOLI",
@@ -13144,8 +11788,8 @@
       "hint": "masculine plural of porco"
     },
     {
-      "word": "PORSCHE",
-      "hint": ""
+      "word": "PORTA",
+      "hint": "gate"
     },
     {
       "word": "PORTAFOGLI",
@@ -13188,10 +11832,6 @@
       "hint": "megaphone; speaking tube, voicepipe"
     },
     {
-      "word": "PORTER",
-      "hint": ""
-    },
-    {
       "word": "PORTERANNO",
       "hint": "third-person plural future of portare"
     },
@@ -13206,10 +11846,6 @@
     {
       "word": "PORTICO",
       "hint": "portico, arcade, porch"
-    },
-    {
-      "word": "PORTLAND",
-      "hint": ""
     },
     {
       "word": "PORTOGALLO",
@@ -13230,6 +11866,10 @@
     {
       "word": "POSITIVE",
       "hint": "feminine plural of positivo"
+    },
+    {
+      "word": "POSSA",
+      "hint": "power, strength, vigour"
     },
     {
       "word": "POSSEDERE",
@@ -13296,10 +11936,6 @@
       "hint": "third-person singular future of potere"
     },
     {
-      "word": "POTTER",
-      "hint": ""
-    },
-    {
       "word": "POTUTA",
       "hint": "feminine singular of potuto"
     },
@@ -13308,24 +11944,16 @@
       "hint": "poverty, indigence, want, penury, lack; bareness"
     },
     {
-      "word": "POWER",
-      "hint": ""
-    },
-    {
-      "word": "PR",
-      "hint": ""
-    },
-    {
-      "word": "PRAGA",
-      "hint": ""
-    },
-    {
       "word": "PRASSI",
       "hint": "all the normal practices of a trade, profession or art; praxis"
     },
     {
       "word": "PRATICARE",
       "hint": "to put into practise/practice, to implement; to perform (an injection, a massage, an incision, artificial respiration, etc.)"
+    },
+    {
+      "word": "PRATOLINA",
+      "hint": "daisy (Bellis perennis)"
     },
     {
       "word": "PRE",
@@ -13406,6 +12034,10 @@
     {
       "word": "PRENDERCI",
       "hint": "compound of the infinitive prendere with ci"
+    },
+    {
+      "word": "PRENDERE",
+      "hint": "to get, buy; to take, hold, pick up, get"
     },
     {
       "word": "PRENDEREI",
@@ -13548,6 +12180,10 @@
       "hint": "prestige, status"
     },
     {
+      "word": "PRESTO",
+      "hint": "fast; quick; nimble"
+    },
+    {
       "word": "PRESUMIBILMENTE",
       "hint": "presumably"
     },
@@ -13600,12 +12236,8 @@
       "hint": "precious (also figurately), valuable (also fig.), costly, invaluable"
     },
     {
-      "word": "PRICE",
-      "hint": ""
-    },
-    {
-      "word": "PRIDE",
-      "hint": ""
+      "word": "PREZZO",
+      "hint": "price"
     },
     {
       "word": "PRIGIONI",
@@ -13624,8 +12256,16 @@
       "hint": "ellipsis of elezioni primarie (“primary election, primary”)"
     },
     {
-      "word": "PRINCE",
-      "hint": ""
+      "word": "PRINCIPALE",
+      "hint": "major, flagship"
+    },
+    {
+      "word": "PRINCIPE",
+      "hint": "prince"
+    },
+    {
+      "word": "PRIVARE",
+      "hint": "to deprive, take, rob"
     },
     {
       "word": "PRIVI",
@@ -13746,6 +12386,10 @@
     {
       "word": "PROSPETTIVE",
       "hint": "to present, to show; to face, to overlook"
+    },
+    {
+      "word": "PROSSIMO",
+      "hint": "next (following in time or space)"
     },
     {
       "word": "PROSTITUZIONE",
@@ -13916,6 +12560,10 @@
       "hint": "plural of punta"
     },
     {
+      "word": "PUNTO",
+      "hint": "point (all senses), jot, iota; instant (point in time)"
+    },
+    {
       "word": "PUNTUALE",
       "hint": "punctual; on time"
     },
@@ -13992,10 +12640,6 @@
       "hint": "quiet, peace, calm, quietness, silence; rest"
     },
     {
-      "word": "QUINN",
-      "hint": ""
-    },
-    {
       "word": "QUINTE",
       "hint": "feminine plural of quinto"
     },
@@ -14068,10 +12712,6 @@
       "hint": "gathering, meeting, muster"
     },
     {
-      "word": "RAFAEL",
-      "hint": ""
-    },
-    {
       "word": "RAFFINATO",
       "hint": "superlative degree of raffinato (“very refined, very polished, very sophisticated”)"
     },
@@ -14120,10 +12760,6 @@
       "hint": "to slow, to slow down (movement, speed, the pace, etc.); to diminish, to reduce (effort, discipline, etc.)"
     },
     {
-      "word": "RALPH",
-      "hint": ""
-    },
-    {
       "word": "RAM",
       "hint": "RAM"
     },
@@ -14144,20 +12780,8 @@
       "hint": "rancour, resentment, grudge"
     },
     {
-      "word": "RANDY",
-      "hint": ""
-    },
-    {
-      "word": "RANGER",
-      "hint": ""
-    },
-    {
       "word": "RANGO",
       "hint": "rank (grade); station (social standing)"
-    },
-    {
-      "word": "RAP",
-      "hint": ""
     },
     {
       "word": "RAPINE",
@@ -14172,8 +12796,8 @@
       "hint": "feminine singular of rapito"
     },
     {
-      "word": "RAPPER",
-      "hint": ""
+      "word": "RAPPARE",
+      "hint": "to rap (to sing rap music) [auxiliary avere]; to rap (an opera, etc.) (to adapt in the form of rap music)"
     },
     {
       "word": "RAPPRESENTATO",
@@ -14244,6 +12868,10 @@
       "hint": "real"
     },
     {
+      "word": "REALE",
+      "hint": "royal"
+    },
+    {
       "word": "REALISTICO",
       "hint": "realistic"
     },
@@ -14308,10 +12936,6 @@
       "hint": "income; revenue"
     },
     {
-      "word": "REED",
-      "hint": ""
-    },
-    {
       "word": "REGALARE",
       "hint": "to give something as a gift; to make a present of something"
     },
@@ -14362,10 +12986,6 @@
     {
       "word": "REGOLARI",
       "hint": "regularity; steadiness"
-    },
-    {
-      "word": "REID",
-      "hint": ""
     },
     {
       "word": "RELATIVA",
@@ -14448,12 +13068,12 @@
       "hint": "small of the back"
     },
     {
-      "word": "RENO",
-      "hint": ""
-    },
-    {
       "word": "REPARTI",
       "hint": "plural of reparto"
+    },
+    {
+      "word": "REPARTO",
+      "hint": "ward (of a hospital)"
     },
     {
       "word": "REPERTORIO",
@@ -14576,12 +13196,8 @@
       "hint": "reverend (as a title)"
     },
     {
-      "word": "REX",
-      "hint": ""
-    },
-    {
-      "word": "REYNOLDS",
-      "hint": ""
+      "word": "RIALZISTA",
+      "hint": "bull (investor who thinks markets will rise)"
     },
     {
       "word": "RIASSUNTO",
@@ -14686,14 +13302,6 @@
     {
       "word": "RICICLAGGIO",
       "hint": "recycling; money laundering"
-    },
-    {
-      "word": "RICKY",
-      "hint": ""
-    },
-    {
-      "word": "RICO",
-      "hint": ""
     },
     {
       "word": "RICOGNIZIONE",
@@ -14852,10 +13460,6 @@
       "hint": "masculine plural of rifugiato"
     },
     {
-      "word": "RIGHT",
-      "hint": ""
-    },
-    {
       "word": "RIGIDA",
       "hint": "feminine singular of rigido"
     },
@@ -14906,10 +13510,6 @@
     {
       "word": "RILEVARE",
       "hint": "to point out, emphasize; to notice, detect, plot"
-    },
-    {
-      "word": "RILEY",
-      "hint": ""
     },
     {
       "word": "RILIEVO",
@@ -14970,10 +13570,6 @@
     {
       "word": "RINCHIUSO",
       "hint": "locked up"
-    },
-    {
-      "word": "RING",
-      "hint": ""
     },
     {
       "word": "RINGRAZIAMO",
@@ -15336,10 +13932,6 @@
       "hint": "revolutionary"
     },
     {
-      "word": "ROB",
-      "hint": ""
-    },
-    {
       "word": "ROBBIE",
       "hint": "plural of robbia"
     },
@@ -15356,28 +13948,12 @@
       "hint": "feminine plural of roberta"
     },
     {
-      "word": "ROBINSON",
-      "hint": ""
-    },
-    {
       "word": "ROBUSTO",
       "hint": "strong, robust, vigorous, sturdy; firmly and boldly"
     },
     {
       "word": "ROCCO",
       "hint": "rook; castle; drum of a column"
-    },
-    {
-      "word": "ROCKY",
-      "hint": ""
-    },
-    {
-      "word": "RODRIGUEZ",
-      "hint": ""
-    },
-    {
-      "word": "ROLAND",
-      "hint": ""
     },
     {
       "word": "ROLL",
@@ -15388,20 +13964,8 @@
       "hint": "ROM"
     },
     {
-      "word": "ROMANIA",
-      "hint": ""
-    },
-    {
       "word": "ROMANTICISMO",
       "hint": "romanticism"
-    },
-    {
-      "word": "RONNIE",
-      "hint": ""
-    },
-    {
-      "word": "ROOM",
-      "hint": ""
     },
     {
       "word": "ROSARIO",
@@ -15448,10 +14012,6 @@
       "hint": "ruin, destruction, downfall, collapse; ruins, remains, debris"
     },
     {
-      "word": "ROYAL",
-      "hint": ""
-    },
-    {
       "word": "RUBANDO",
       "hint": "gerund of rubare"
     },
@@ -15492,24 +14052,8 @@
       "hint": "rum (distilled spirit)"
     },
     {
-      "word": "RUN",
-      "hint": ""
-    },
-    {
-      "word": "RUSH",
-      "hint": ""
-    },
-    {
       "word": "RUSSE",
       "hint": "feminine plural of russo"
-    },
-    {
-      "word": "RUTH",
-      "hint": ""
-    },
-    {
-      "word": "SABRINA",
-      "hint": ""
     },
     {
       "word": "SACCA",
@@ -15556,14 +14100,6 @@
       "hint": "to assay (precious metals); to probe, to test, to sound out, to size up"
     },
     {
-      "word": "SAID",
-      "hint": ""
-    },
-    {
-      "word": "SAL",
-      "hint": ""
-    },
-    {
       "word": "SALARIO",
       "hint": "pay, wages, salary"
     },
@@ -15582,10 +14118,6 @@
     {
       "word": "SALIVA",
       "hint": "saliva, spittle, spit"
-    },
-    {
-      "word": "SALLY",
-      "hint": ""
     },
     {
       "word": "SALMONE",
@@ -15616,32 +14148,12 @@
       "hint": "reflexive of salvare; to save oneself, escape, survive, hide"
     },
     {
-      "word": "SAMANTHA",
-      "hint": ""
-    },
-    {
-      "word": "SAMUEL",
-      "hint": ""
-    },
-    {
       "word": "SAMURAI",
       "hint": "samurai (feudal Japanese warrior)"
     },
     {
-      "word": "SANCHEZ",
-      "hint": ""
-    },
-    {
       "word": "SANDRA",
       "hint": "zander"
-    },
-    {
-      "word": "SANDRO",
-      "hint": ""
-    },
-    {
-      "word": "SANDY",
-      "hint": ""
     },
     {
       "word": "SANGUIGNO",
@@ -15662,10 +14174,6 @@
     {
       "word": "SANS",
       "hint": "a form of Santo or Santa"
-    },
-    {
-      "word": "SANTIAGO",
-      "hint": ""
     },
     {
       "word": "SANTITÀ",
@@ -15720,10 +14228,6 @@
       "hint": "first-person singular future of essere"
     },
     {
-      "word": "SASHA",
-      "hint": ""
-    },
-    {
       "word": "SASSI",
       "hint": "plural of sasso"
     },
@@ -15738,14 +14242,6 @@
     {
       "word": "SAUDITA",
       "hint": "Saudi Arabian"
-    },
-    {
-      "word": "SAUL",
-      "hint": ""
-    },
-    {
-      "word": "SAY",
-      "hint": ""
     },
     {
       "word": "SBAGLIANDO",
@@ -15774,6 +14270,10 @@
     {
       "word": "SBATTUTO",
       "hint": "to beat; to bump hard into"
+    },
+    {
+      "word": "SBRICIOLARE",
+      "hint": "to crack"
     },
     {
       "word": "SCADENTE",
@@ -15960,14 +14460,6 @@
       "hint": "foam; froth"
     },
     {
-      "word": "SCHMIDT",
-      "hint": ""
-    },
-    {
-      "word": "SCHOOL",
-      "hint": ""
-    },
-    {
       "word": "SCI",
       "hint": "ski; skiing"
     },
@@ -16120,6 +14612,10 @@
       "hint": "to run, to flow, to stream, to glide, to slide [auxiliary essere]; to pass, to fly, to roll by (of time) [auxiliary essere]"
     },
     {
+      "word": "SCORTA",
+      "hint": "escort (especially military, etc.); inflection of scortare (“to escort”): third-person singular present indicative second-person singular imperative"
+    },
+    {
       "word": "SCORTE",
       "hint": "plural of scorta"
     },
@@ -16168,6 +14664,10 @@
       "hint": "the art or technique of sculpting or carving out; a work resulting from sculpting"
     },
     {
+      "word": "SCUOLA",
+      "hint": "school"
+    },
+    {
       "word": "SCURA",
       "hint": "feminine singular of scuro"
     },
@@ -16182,10 +14682,6 @@
     {
       "word": "SCUSO",
       "hint": "to excuse, forgive, pardon; to excuse, justify"
-    },
-    {
-      "word": "SEATTLE",
-      "hint": ""
     },
     {
       "word": "SECCHI",
@@ -16212,6 +14708,10 @@
       "hint": "feminine plural of securo"
     },
     {
+      "word": "SEDE",
+      "hint": "see (of a bishop)"
+    },
+    {
       "word": "SEDERMI",
       "hint": "compound of the infinitive sedere with mi"
     },
@@ -16226,10 +14726,6 @@
     {
       "word": "SEDUTE",
       "hint": "feminine plural of seduto"
-    },
-    {
-      "word": "SEE",
-      "hint": ""
     },
     {
       "word": "SEGNALARE",
@@ -16340,10 +14836,6 @@
       "hint": "female equivalent of senatore"
     },
     {
-      "word": "SENIOR",
-      "hint": ""
-    },
-    {
       "word": "SENSIBILI",
       "hint": "sensible, perceptible; sensitive, responsive, susceptible"
     },
@@ -16374,10 +14866,6 @@
     {
       "word": "SENTIRLO",
       "hint": "compound of the infinitive sentire with lo"
-    },
-    {
-      "word": "SEO",
-      "hint": ""
     },
     {
       "word": "SEPARA",
@@ -16472,16 +14960,16 @@
       "hint": "session"
     },
     {
+      "word": "SESSO",
+      "hint": "sex (sexual intercourse); sex (quality of being male or female)"
+    },
+    {
       "word": "SESSUALMENTE",
       "hint": "sexually"
     },
     {
       "word": "SESTA",
       "hint": "feminine singular of sesto"
-    },
-    {
-      "word": "SETH",
-      "hint": ""
     },
     {
       "word": "SETTA",
@@ -16510,10 +14998,6 @@
     {
       "word": "SEVERO",
       "hint": "severe; strict"
-    },
-    {
-      "word": "SEX",
-      "hint": ""
     },
     {
       "word": "SEZIONI",
@@ -16592,34 +15076,6 @@
       "hint": "shampoo (detergent, washing of hair with such detergent)"
     },
     {
-      "word": "SHANE",
-      "hint": ""
-    },
-    {
-      "word": "SHANGHAI",
-      "hint": ""
-    },
-    {
-      "word": "SHARON",
-      "hint": ""
-    },
-    {
-      "word": "SHAW",
-      "hint": ""
-    },
-    {
-      "word": "SHELDON",
-      "hint": ""
-    },
-    {
-      "word": "SHEPHERD",
-      "hint": ""
-    },
-    {
-      "word": "SHIN",
-      "hint": ""
-    },
-    {
       "word": "SIAM",
       "hint": "apocopic form of siamo"
     },
@@ -16630,18 +15086,6 @@
     {
       "word": "SICURE",
       "hint": "feminine plural of sicuro"
-    },
-    {
-      "word": "SID",
-      "hint": ""
-    },
-    {
-      "word": "SIDE",
-      "hint": ""
-    },
-    {
-      "word": "SIDNEY",
-      "hint": ""
     },
     {
       "word": "SIEDE",
@@ -16704,20 +15148,12 @@
       "hint": "wood anemone; warbler"
     },
     {
-      "word": "SIM",
-      "hint": ""
-    },
-    {
       "word": "SIMPATIA",
       "hint": "pleasantness; liking"
     },
     {
       "word": "SIMPATICI",
       "hint": "masculine plural of simpatico"
-    },
-    {
-      "word": "SIMPSON",
-      "hint": ""
     },
     {
       "word": "SIMULAZIONE",
@@ -16734,10 +15170,6 @@
     {
       "word": "SINDACATI",
       "hint": "masculine plural of sindacato"
-    },
-    {
-      "word": "SINGAPORE",
-      "hint": ""
     },
     {
       "word": "SINGOLARE",
@@ -16764,20 +15196,12 @@
       "hint": "plural of sirena"
     },
     {
-      "word": "SIRIA",
-      "hint": ""
-    },
-    {
       "word": "SISTEMATO",
       "hint": "arranged, settled, sorted; married"
     },
     {
       "word": "SISTEMAZIONE",
       "hint": "accommodation; settlement"
-    },
-    {
-      "word": "SKYPE",
-      "hint": ""
     },
     {
       "word": "SLOGAN",
@@ -16794,10 +15218,6 @@
     {
       "word": "SMETTO",
       "hint": "to stop or cease"
-    },
-    {
-      "word": "SNACK",
-      "hint": ""
     },
     {
       "word": "SOBRIO",
@@ -16858,6 +15278,10 @@
     {
       "word": "SOGNANDO",
       "hint": "gerund of sognare"
+    },
+    {
+      "word": "SOGNO",
+      "hint": "dream; castle in the air, daydream, pipe dream"
     },
     {
       "word": "SOIA",
@@ -16924,24 +15348,8 @@
       "hint": "sounding; drilling, boring"
     },
     {
-      "word": "SONG",
-      "hint": ""
-    },
-    {
-      "word": "SONIA",
-      "hint": ""
-    },
-    {
       "word": "SONORA",
       "hint": "feminine singular of sonoro"
-    },
-    {
-      "word": "SOPHIA",
-      "hint": ""
-    },
-    {
-      "word": "SOPHIE",
-      "hint": ""
     },
     {
       "word": "SOPPORTA",
@@ -17116,10 +15524,6 @@
       "hint": "trafficking (in); passing (of) (forged goods etc.)"
     },
     {
-      "word": "SPACE",
-      "hint": ""
-    },
-    {
       "word": "SPADE",
       "hint": "plural of spada"
     },
@@ -17190,6 +15594,10 @@
     {
       "word": "SPAZIALI",
       "hint": "spatial; space"
+    },
+    {
+      "word": "SPAZIO",
+      "hint": "space"
     },
     {
       "word": "SPECCHI",
@@ -17384,10 +15792,6 @@
       "hint": "second-person singular imperative of spostarsi"
     },
     {
-      "word": "SPRAY",
-      "hint": ""
-    },
-    {
       "word": "SPRECATO",
       "hint": "masculine plural of sprecato"
     },
@@ -17414,10 +15818,6 @@
     {
       "word": "SQUILLO",
       "hint": "ring, buzz (of a telephone); blast (of a trumpet, etc.)"
-    },
-    {
-      "word": "SS",
-      "hint": ""
     },
     {
       "word": "STABILI",
@@ -17464,10 +15864,6 @@
       "hint": "Stalinism"
     },
     {
-      "word": "STALKER",
-      "hint": ""
-    },
-    {
       "word": "STALLA",
       "hint": "cowshed; stable, stall, cote"
     },
@@ -17496,10 +15892,6 @@
       "hint": "stand, booth, stall, pavilion (at a fair); stand, gallery (at a sporting event)"
     },
     {
-      "word": "STANLEY",
-      "hint": ""
-    },
-    {
       "word": "STARAI",
       "hint": "to put out of tune"
     },
@@ -17518,10 +15910,6 @@
     {
       "word": "STAREMO",
       "hint": "first-person plural future of stare"
-    },
-    {
-      "word": "STARK",
-      "hint": ""
     },
     {
       "word": "STATALI",
@@ -17548,20 +15936,12 @@
       "hint": "statute"
     },
     {
-      "word": "STE",
-      "hint": ""
-    },
-    {
       "word": "STELLARE",
       "hint": "stellar; star-shaped, radial"
     },
     {
       "word": "STENTO",
       "hint": "hardship, privation; difficulty"
-    },
-    {
-      "word": "STEPHANIE",
-      "hint": ""
     },
     {
       "word": "STEREO",
@@ -17580,12 +15960,8 @@
       "hint": "third-person plural imperfect subjunctive of stare"
     },
     {
-      "word": "STEVENS",
-      "hint": ""
-    },
-    {
-      "word": "STEWART",
-      "hint": ""
+      "word": "STIA",
+      "hint": "hutch, coop (for small animals or birds)"
     },
     {
       "word": "STIMATO",
@@ -17598,6 +15974,10 @@
     {
       "word": "STIMOLI",
       "hint": "to stimulate; to bite (of insects)"
+    },
+    {
+      "word": "STINCO",
+      "hint": "shin"
     },
     {
       "word": "STIPENDI",
@@ -17630,6 +16010,10 @@
     {
       "word": "STRAGE",
       "hint": "a massacre, a mass murder, a butchery, a slaughter; a large or profitable hunting trip"
+    },
+    {
+      "word": "STRALLO",
+      "hint": "stay, guy; tie beam, stay, wire rope, guy rope, guy wire (cable-stayed bridge)"
     },
     {
       "word": "STRANIERE",
@@ -17724,6 +16108,10 @@
       "hint": "rapist"
     },
     {
+      "word": "SU",
+      "hint": "about, on"
+    },
+    {
       "word": "SUCCEDEREBBE",
       "hint": "reflexive of succedere; to follow in succession (of several people or things)"
     },
@@ -17808,14 +16196,6 @@
       "hint": "contraction of su l'; on the"
     },
     {
-      "word": "SULLIVAN",
-      "hint": ""
-    },
-    {
-      "word": "SUMMER",
-      "hint": ""
-    },
-    {
       "word": "SUOCERA",
       "hint": "female equivalent of suocero: mother-in-law; nagging woman"
     },
@@ -17846,6 +16226,10 @@
     {
       "word": "SUPERATA",
       "hint": "feminine singular of superato"
+    },
+    {
+      "word": "SUPERBIA",
+      "hint": "pride, haughtiness, pomposity"
     },
     {
       "word": "SUPEREROE",
@@ -17888,10 +16272,6 @@
       "hint": "sushi"
     },
     {
-      "word": "SUV",
-      "hint": ""
-    },
-    {
       "word": "SUVVIA",
       "hint": "come on!"
     },
@@ -17928,10 +16308,6 @@
       "hint": "to unroll, unwind; to develop"
     },
     {
-      "word": "SYDNEY",
-      "hint": ""
-    },
-    {
       "word": "TA",
       "hint": "feminine singular of taciturno"
     },
@@ -17946,10 +16322,6 @@
     {
       "word": "TABLET",
       "hint": "tablet computer"
-    },
-    {
-      "word": "TAC",
-      "hint": ""
     },
     {
       "word": "TACCHI",
@@ -17984,20 +16356,12 @@
       "hint": "plural of taglia"
     },
     {
-      "word": "TAKE",
-      "hint": ""
-    },
-    {
       "word": "TALENT",
       "hint": "wish, will, desire, longing; inclination, tendency"
     },
     {
       "word": "TALENTI",
       "hint": "to please [with a ‘someone’]"
-    },
-    {
-      "word": "TALK",
-      "hint": ""
     },
     {
       "word": "TALPA",
@@ -18034,10 +16398,6 @@
     {
       "word": "TARTARUGA",
       "hint": "turtle, tortoise; tortoiseshell (carapace of a tortoise)"
-    },
-    {
-      "word": "TASK",
-      "hint": ""
     },
     {
       "word": "TASSA",
@@ -18096,6 +16456,10 @@
       "hint": "a small table, an occasional table, a card table (item of furniture); stage of a microscope"
     },
     {
+      "word": "TEATRO",
+      "hint": "drama (theatrical plays in general)"
+    },
+    {
       "word": "TECH",
       "hint": "plural of teca"
     },
@@ -18108,20 +16472,8 @@
       "hint": "plural of tecnologia"
     },
     {
-      "word": "TEDDY",
-      "hint": ""
-    },
-    {
       "word": "TEDESCHE",
       "hint": "feminine plural of tedesco"
-    },
-    {
-      "word": "TEEN",
-      "hint": ""
-    },
-    {
-      "word": "TEL",
-      "hint": ""
     },
     {
       "word": "TELAIO",
@@ -18352,26 +16704,6 @@
       "hint": "alternative spelling of tailandese"
     },
     {
-      "word": "THEO",
-      "hint": ""
-    },
-    {
-      "word": "THERE",
-      "hint": ""
-    },
-    {
-      "word": "THEY",
-      "hint": ""
-    },
-    {
-      "word": "THOMPSON",
-      "hint": ""
-    },
-    {
-      "word": "THOR",
-      "hint": ""
-    },
-    {
       "word": "TIC",
       "hint": "tic, twitch"
     },
@@ -18436,8 +16768,8 @@
       "hint": "appointed; titular"
     },
     {
-      "word": "TOBY",
-      "hint": ""
+      "word": "TO",
+      "hint": "take this; this is for you; here it is; oi!; hey! (exclamation to get attention, or expression of surprise)"
     },
     {
       "word": "TOCCANO",
@@ -18450,10 +16782,6 @@
     {
       "word": "TOCCHERÀ",
       "hint": "third-person singular future of toccare"
-    },
-    {
-      "word": "TODD",
-      "hint": ""
     },
     {
       "word": "TOGLIERMI",
@@ -18478,10 +16806,6 @@
     {
       "word": "TOMBE",
       "hint": "plural of tomba"
-    },
-    {
-      "word": "TOMMASO",
-      "hint": ""
     },
     {
       "word": "TONDO",
@@ -18522,6 +16846,10 @@
     {
       "word": "TORNEREMO",
       "hint": "first-person plural future of tornare"
+    },
+    {
+      "word": "TORNITORE",
+      "hint": "turner (lathe worker)"
     },
     {
       "word": "TORNÒ",
@@ -18578,10 +16906,6 @@
     {
       "word": "TOTÒ",
       "hint": "spanking"
-    },
-    {
-      "word": "TOWN",
-      "hint": ""
     },
     {
       "word": "TRACCIARE",
@@ -18736,6 +17060,10 @@
       "hint": "to transport, carry, convey, take; to move, transfer"
     },
     {
+      "word": "TRATTA",
+      "hint": "act of pulling"
+    },
+    {
       "word": "TRATTAMENTI",
       "hint": "treatment (all senses); service (in a restaurant etc.)"
     },
@@ -18798,10 +17126,6 @@
     {
       "word": "TREMENDO",
       "hint": "terrible, awful, dreadful (all senses)"
-    },
-    {
-      "word": "TREVOR",
-      "hint": ""
     },
     {
       "word": "TRIANGOLO",
@@ -18896,10 +17220,6 @@
       "hint": "third-person singular past historic of trovare"
     },
     {
-      "word": "TROY",
-      "hint": ""
-    },
-    {
       "word": "TUMORI",
       "hint": "tumour, tumor"
     },
@@ -18928,10 +17248,6 @@
       "hint": "tourist; touristy, touristic; vacation/holiday, tour"
     },
     {
-      "word": "TURNER",
-      "hint": ""
-    },
-    {
       "word": "TUTELA",
       "hint": "guardianship, tutorship; protection"
     },
@@ -18942,10 +17258,6 @@
     {
       "word": "TUTTORA",
       "hint": "still"
-    },
-    {
-      "word": "TWO",
-      "hint": ""
     },
     {
       "word": "UBRIACA",
@@ -18984,6 +17296,10 @@
       "hint": "hearing (sense)"
     },
     {
+      "word": "UFFICIO",
+      "hint": "task, duty"
+    },
+    {
       "word": "UFO",
       "hint": "UFO"
     },
@@ -18992,8 +17308,8 @@
       "hint": "equality; identity"
     },
     {
-      "word": "UHM",
-      "hint": ""
+      "word": "ULTIMO",
+      "hint": "last one; last"
     },
     {
       "word": "ULTRA",
@@ -19018,14 +17334,6 @@
     {
       "word": "UMORISMO",
       "hint": "humour/humor (something funny)"
-    },
-    {
-      "word": "UNDER",
-      "hint": ""
-    },
-    {
-      "word": "UNGHERIA",
-      "hint": ""
     },
     {
       "word": "UNI",
@@ -19176,10 +17484,6 @@
       "hint": "valentine (greeting card)"
     },
     {
-      "word": "VALERIA",
-      "hint": ""
-    },
-    {
       "word": "VALEVA",
       "hint": "third-person singular imperfect indicative of valere"
     },
@@ -19260,6 +17564,10 @@
       "hint": "old age"
     },
     {
+      "word": "VECCHIO",
+      "hint": "old-fashioned, out-of-date; old, outworn"
+    },
+    {
       "word": "VEDANO",
       "hint": "apocopic form of vedano"
     },
@@ -19286,10 +17594,6 @@
     {
       "word": "VEDRANNO",
       "hint": "apocopic form of vedranno"
-    },
-    {
-      "word": "VEGA",
-      "hint": ""
     },
     {
       "word": "VEGETALE",
@@ -19330,10 +17634,6 @@
     {
       "word": "VENERE",
       "hint": "a beautiful woman; a prostitute"
-    },
-    {
-      "word": "VENEZUELA",
-      "hint": ""
     },
     {
       "word": "VENISSERO",
@@ -19444,6 +17744,10 @@
       "hint": "vertex; peak, top"
     },
     {
+      "word": "VESSILLO",
+      "hint": "banner, ensign"
+    },
+    {
       "word": "VESTI",
       "hint": "plural of veste (“dress”); clothes"
     },
@@ -19480,6 +17784,10 @@
       "hint": "car; carriage (in a train)"
     },
     {
+      "word": "VIA",
+      "hint": "way, route"
+    },
+    {
       "word": "VIAGGIANO",
       "hint": "third-person plural present indicative of viaggiare"
     },
@@ -19502,10 +17810,6 @@
     {
       "word": "VIBRAZIONI",
       "hint": "vibration; chatter"
-    },
-    {
-      "word": "VIC",
-      "hint": ""
     },
     {
       "word": "VICEVERSA",
@@ -19538,10 +17842,6 @@
     {
       "word": "VIGORE",
       "hint": "vigour, stamina, strength; force, impetus"
-    },
-    {
-      "word": "VILLAGE",
-      "hint": ""
     },
     {
       "word": "VILLAGGI",
@@ -19578,10 +17878,6 @@
     {
       "word": "VINTA",
       "hint": "female equivalent of vinto"
-    },
-    {
-      "word": "VINTAGE",
-      "hint": ""
     },
     {
       "word": "VIOLARE",
@@ -19640,16 +17936,8 @@
       "hint": "life; vital, living; vital, crucial, essential"
     },
     {
-      "word": "VITO",
-      "hint": ""
-    },
-    {
       "word": "VITTORIE",
       "hint": "masculine plural of vittore"
-    },
-    {
-      "word": "VITTORIO",
-      "hint": ""
     },
     {
       "word": "VIVACE",
@@ -19678,10 +17966,6 @@
     {
       "word": "VIZIO",
       "hint": "vice; bad habit"
-    },
-    {
-      "word": "VLADIMIR",
-      "hint": ""
     },
     {
       "word": "VO",
@@ -19726,6 +18010,10 @@
     {
       "word": "VOLENDO",
       "hint": "gerund of volere"
+    },
+    {
+      "word": "VOLERE",
+      "hint": "to want; will, wish, desire, want"
     },
     {
       "word": "VOLERLO",
@@ -19776,64 +18064,8 @@
       "hint": "vulnerable"
     },
     {
-      "word": "WA",
-      "hint": ""
-    },
-    {
-      "word": "WADE",
-      "hint": ""
-    },
-    {
-      "word": "WALLACE",
-      "hint": ""
-    },
-    {
-      "word": "WALT",
-      "hint": ""
-    },
-    {
-      "word": "WANG",
-      "hint": ""
-    },
-    {
-      "word": "WANT",
-      "hint": ""
-    },
-    {
-      "word": "WARD",
-      "hint": ""
-    },
-    {
-      "word": "WARNER",
-      "hint": ""
-    },
-    {
-      "word": "WARREN",
-      "hint": ""
-    },
-    {
-      "word": "WARS",
-      "hint": ""
-    },
-    {
-      "word": "WAS",
-      "hint": ""
-    },
-    {
-      "word": "WATCH",
-      "hint": ""
-    },
-    {
       "word": "WATER",
       "hint": "toilet bowl; water closet, toilet"
-    },
-    {
-      "word": "WATSON",
-      "hint": ""
-    },
-    {
-      "word": "WAY",
-      "hint": ""
     },
     {
       "word": "WEEK",
@@ -19844,112 +18076,20 @@
       "hint": "wellness (good health)"
     },
     {
-      "word": "WENDY",
-      "hint": ""
-    },
-    {
       "word": "WESTERN",
       "hint": "western (film genre)"
-    },
-    {
-      "word": "WHEN",
-      "hint": ""
     },
     {
       "word": "WHISKY",
       "hint": "whisky, whiskey"
     },
     {
-      "word": "WHO",
-      "hint": ""
-    },
-    {
-      "word": "WIKIPEDIA",
-      "hint": ""
-    },
-    {
-      "word": "WILD",
-      "hint": ""
-    },
-    {
-      "word": "WILLIE",
-      "hint": ""
-    },
-    {
-      "word": "WINSTON",
-      "hint": ""
-    },
-    {
-      "word": "WOLF",
-      "hint": ""
-    },
-    {
-      "word": "WOMAN",
-      "hint": ""
-    },
-    {
-      "word": "WON",
-      "hint": ""
-    },
-    {
-      "word": "WOODY",
-      "hint": ""
-    },
-    {
-      "word": "WU",
-      "hint": ""
-    },
-    {
-      "word": "WYATT",
-      "hint": ""
-    },
-    {
-      "word": "XIII",
-      "hint": ""
-    },
-    {
-      "word": "XX",
-      "hint": ""
-    },
-    {
-      "word": "YA",
-      "hint": ""
-    },
-    {
       "word": "YACHT",
       "hint": "yacht; the letter Y in the Italian spelling alphabet"
     },
     {
-      "word": "YANG",
-      "hint": ""
-    },
-    {
-      "word": "YEAH",
-      "hint": ""
-    },
-    {
-      "word": "YEN",
-      "hint": ""
-    },
-    {
-      "word": "YES",
-      "hint": ""
-    },
-    {
-      "word": "YI",
-      "hint": ""
-    },
-    {
       "word": "YOGURT",
       "hint": "yogurt"
-    },
-    {
-      "word": "YU",
-      "hint": ""
-    },
-    {
-      "word": "YURI",
-      "hint": ""
     },
     {
       "word": "ZAMPA",
@@ -19960,20 +18100,8 @@
       "hint": "mint (factory for producing coinage)"
     },
     {
-      "word": "ZELANDA",
-      "hint": ""
-    },
-    {
-      "word": "ZEN",
-      "hint": ""
-    },
-    {
       "word": "ZINGARI",
       "hint": "masculine plural of zingaro"
-    },
-    {
-      "word": "ZOE",
-      "hint": ""
     },
     {
       "word": "ZUCCA",

@@ -148,10 +148,6 @@
       "hint": "activity (state of being active); activity (something with which one is occupied)"
     },
     {
-      "word": "ADAM",
-      "hint": ""
-    },
-    {
       "word": "ADEM",
       "hint": "breath"
     },
@@ -204,16 +200,8 @@
       "hint": "air, pretension or pretentious attitude; tune, melody"
     },
     {
-      "word": "ALAN",
-      "hint": ""
-    },
-    {
       "word": "ALARM",
       "hint": "alarm"
-    },
-    {
-      "word": "ALBERT",
-      "hint": ""
     },
     {
       "word": "ALBUM",
@@ -224,24 +212,12 @@
       "hint": "alcohol (class of compounds); alcohol (ethanol specifically)"
     },
     {
-      "word": "ALEXANDER",
-      "hint": ""
-    },
-    {
       "word": "ALGEMEEN",
       "hint": "general; common"
     },
     {
       "word": "ALGEMENE",
       "hint": "general; common"
-    },
-    {
-      "word": "ALI",
-      "hint": ""
-    },
-    {
-      "word": "ALICE",
-      "hint": ""
     },
     {
       "word": "ALL",
@@ -258,14 +234,6 @@
     {
       "word": "ALVAST",
       "hint": "already; in advance (to do something before an ensuing event)"
-    },
-    {
-      "word": "AM",
-      "hint": ""
-    },
-    {
-      "word": "AMANDA",
-      "hint": ""
     },
     {
       "word": "AMBASSADEUR",
@@ -296,24 +264,8 @@
       "hint": "analysis (action of taking something apart to study it); analysis (mathematical study of functions, sequences, series, limits, derivatives and integrals)"
     },
     {
-      "word": "ANDREW",
-      "hint": ""
-    },
-    {
-      "word": "ANDY",
-      "hint": ""
-    },
-    {
       "word": "ANGELES",
       "hint": "sting, dart (insect's organ); hook, fish-hook, angle"
-    },
-    {
-      "word": "ANNE",
-      "hint": ""
-    },
-    {
-      "word": "ANNIE",
-      "hint": ""
     },
     {
       "word": "APART",
@@ -334,10 +286,6 @@
     {
       "word": "ARRESTEREN",
       "hint": "to arrest"
-    },
-    {
-      "word": "ARTHUR",
-      "hint": ""
     },
     {
       "word": "ARTSEN",
@@ -376,6 +324,10 @@
       "hint": "adventure (remarkable, exciting or challenging experience); random occurrence, chance occurrence"
     },
     {
+      "word": "BAAN",
+      "hint": "a road, way, path"
+    },
+    {
       "word": "BADKAMER",
       "hint": "bathroom"
     },
@@ -402,14 +354,6 @@
     {
       "word": "BANKEN",
       "hint": "plural of bank"
-    },
-    {
-      "word": "BARRY",
-      "hint": ""
-    },
-    {
-      "word": "BART",
-      "hint": ""
     },
     {
       "word": "BE",
@@ -820,10 +764,6 @@
       "hint": "special; unusual"
     },
     {
-      "word": "BILLY",
-      "hint": ""
-    },
-    {
       "word": "BLACK",
       "hint": "blackout (temporary loss of consciousness); blackout (temporary loss of memory)"
     },
@@ -844,6 +784,10 @@
       "hint": "inflection of blijven"
     },
     {
+      "word": "BLIJ",
+      "hint": "happy; momentarily. For generally in life, see gelukkig."
+    },
+    {
       "word": "BLIND",
       "hint": "blind (unable to see)"
     },
@@ -856,16 +800,8 @@
       "hint": "a block (e.g. wood); a street block"
     },
     {
-      "word": "BLUE",
-      "hint": ""
-    },
-    {
       "word": "BO",
       "hint": "sandwich"
-    },
-    {
-      "word": "BOBBY",
-      "hint": ""
     },
     {
       "word": "BOD",
@@ -984,10 +920,6 @@
       "hint": "brain; mastermind"
     },
     {
-      "word": "BRIAN",
-      "hint": ""
-    },
-    {
       "word": "BRIEVEN",
       "hint": "plural of brief"
     },
@@ -1010,10 +942,6 @@
     {
       "word": "BROOD",
       "hint": "bread; a loaf of bread"
-    },
-    {
-      "word": "BROWN",
-      "hint": ""
     },
     {
       "word": "BRUID",
@@ -1072,26 +1000,6 @@
       "hint": "campaign"
     },
     {
-      "word": "CANADA",
-      "hint": ""
-    },
-    {
-      "word": "CAPTAIN",
-      "hint": ""
-    },
-    {
-      "word": "CARL",
-      "hint": ""
-    },
-    {
-      "word": "CARLOS",
-      "hint": ""
-    },
-    {
-      "word": "CARTER",
-      "hint": ""
-    },
-    {
       "word": "CASINO",
       "hint": "casino, gambling house"
     },
@@ -1124,10 +1032,6 @@
       "hint": "chaos (disorder); primordial disorder"
     },
     {
-      "word": "CHARLOTTE",
-      "hint": ""
-    },
-    {
       "word": "CHAUFFEUR",
       "hint": "driver (person who drives a motorized vehicle, such as a car or a bus; usually to transport others or in a professional capacity, often both)"
     },
@@ -1142,10 +1046,6 @@
     {
       "word": "CHEMISCHE",
       "hint": "chemical, relating to or produced by chemistry"
-    },
-    {
-      "word": "CHICAGO",
-      "hint": ""
     },
     {
       "word": "CHINEES",
@@ -1164,16 +1064,8 @@
       "hint": "circle"
     },
     {
-      "word": "CLARK",
-      "hint": ""
-    },
-    {
       "word": "CLIËNT",
       "hint": "client, customer (of a service provider)"
-    },
-    {
-      "word": "CM",
-      "hint": ""
     },
     {
       "word": "COLLECTIE",
@@ -1312,8 +1204,8 @@
       "hint": "daily"
     },
     {
-      "word": "DANIEL",
-      "hint": ""
+      "word": "DAME",
+      "hint": "lady noblewoman Polite term or title of address for any (adult or adolescent) woman."
     },
     {
       "word": "DANKBAAR",
@@ -1322,10 +1214,6 @@
     {
       "word": "DANKEN",
       "hint": "to thank"
-    },
-    {
-      "word": "DANNY",
-      "hint": ""
     },
     {
       "word": "DANS",
@@ -1346,18 +1234,6 @@
     {
       "word": "DATUM",
       "hint": "date (point in time)"
-    },
-    {
-      "word": "DAVE",
-      "hint": ""
-    },
-    {
-      "word": "DAVIS",
-      "hint": ""
-    },
-    {
-      "word": "DAY",
-      "hint": ""
     },
     {
       "word": "DE",
@@ -1392,10 +1268,6 @@
       "hint": "pine, pine tree"
     },
     {
-      "word": "DENNIS",
-      "hint": ""
-    },
-    {
       "word": "DERGELIJKE",
       "hint": "such, similar; of that kind"
     },
@@ -1410,10 +1282,6 @@
     {
       "word": "DICHTERBIJ",
       "hint": "comparative degree of dichtbij"
-    },
-    {
-      "word": "DICK",
-      "hint": ""
     },
     {
       "word": "DIEFSTAL",
@@ -1482,10 +1350,6 @@
     {
       "word": "DO",
       "hint": "do, the musical note; C, the musical note"
-    },
-    {
-      "word": "DOC",
-      "hint": ""
     },
     {
       "word": "DOCHTERS",
@@ -1644,10 +1508,6 @@
       "hint": "to dare (do), to not be afraid (to do); to dare (to), to not be afraid to"
     },
     {
-      "word": "DUTCH",
-      "hint": ""
-    },
-    {
       "word": "DUURDE",
       "hint": "inflection of duren"
     },
@@ -1670,14 +1530,6 @@
     {
       "word": "ED",
       "hint": "abbreviation of Edelen"
-    },
-    {
-      "word": "EDDIE",
-      "hint": ""
-    },
-    {
-      "word": "EDWARD",
-      "hint": ""
     },
     {
       "word": "EEN",
@@ -1728,6 +1580,10 @@
       "hint": "property, possession"
     },
     {
+      "word": "EILAND",
+      "hint": "island"
+    },
+    {
       "word": "EINDIGDE",
       "hint": "to end, to finish, to conclude, to come to an end"
     },
@@ -1756,20 +1612,12 @@
       "hint": "eleven"
     },
     {
-      "word": "ELIZABETH",
-      "hint": ""
-    },
-    {
       "word": "ELLEN",
       "hint": "plural of el"
     },
     {
       "word": "ELLENDE",
       "hint": "misery"
-    },
-    {
-      "word": "EMMA",
-      "hint": ""
     },
     {
       "word": "EMOTIES",
@@ -1980,28 +1828,12 @@
       "hint": "large, considerable; stalwart, brave, sturdy"
     },
     {
-      "word": "FLORIDA",
-      "hint": ""
-    },
-    {
       "word": "FOR",
       "hint": "stout, large; substantial, considerable"
     },
     {
-      "word": "FORD",
-      "hint": ""
-    },
-    {
       "word": "FORT",
       "hint": "castle; fort"
-    },
-    {
-      "word": "FRANCISCO",
-      "hint": ""
-    },
-    {
-      "word": "FRED",
-      "hint": ""
     },
     {
       "word": "FRONT",
@@ -2038,10 +1870,6 @@
     {
       "word": "GARAGE",
       "hint": "a garage (repair shop for motorised vehicles); a garage (building or room for storing and modifying motorised vehicles)"
-    },
-    {
-      "word": "GARY",
-      "hint": ""
     },
     {
       "word": "GAS",
@@ -2210,6 +2038,10 @@
     {
       "word": "GEMIDDELDE",
       "hint": "average, mean"
+    },
+    {
+      "word": "GENADE",
+      "hint": "grace (free and undeserved favour, especially of God)"
     },
     {
       "word": "GENERATIE",
@@ -2476,10 +2308,6 @@
       "hint": "to throw"
     },
     {
-      "word": "GORDON",
-      "hint": ""
-    },
-    {
       "word": "GOUVERNEUR",
       "hint": "governor (e.g. of a province)"
     },
@@ -2488,16 +2316,8 @@
       "hint": "earl, count"
     },
     {
-      "word": "GRACE",
-      "hint": ""
-    },
-    {
       "word": "GRAF",
       "hint": "grave"
-    },
-    {
-      "word": "GRAND",
-      "hint": ""
     },
     {
       "word": "GRAPJE",
@@ -2588,14 +2408,6 @@
       "hint": "a support for hanging objects, such as a nail for a picture frame; a place to dry or smoke produce"
     },
     {
-      "word": "HANS",
-      "hint": ""
-    },
-    {
-      "word": "HAPPY",
-      "hint": ""
-    },
-    {
       "word": "HARDER",
       "hint": "a mullet, fish of the family Mugilidae; a flathead mullet, flathead grey mullet, Mugil cephalus"
     },
@@ -2622,6 +2434,10 @@
     {
       "word": "HEDEN",
       "hint": "presently; today"
+    },
+    {
+      "word": "HEER",
+      "hint": "a lord; master"
     },
     {
       "word": "HEERLIJKE",
@@ -2756,24 +2572,12 @@
       "hint": "pronominal adverb form of uit + dit"
     },
     {
-      "word": "HILL",
-      "hint": ""
-    },
-    {
       "word": "HISTORISCHE",
       "hint": "historical"
     },
     {
-      "word": "HITLER",
-      "hint": ""
-    },
-    {
       "word": "HITTE",
       "hint": "heat (extreme warmth)"
-    },
-    {
-      "word": "HMM",
-      "hint": ""
     },
     {
       "word": "HO",
@@ -2852,10 +2656,6 @@
       "hint": "wooden, made of wood"
     },
     {
-      "word": "HOWARD",
-      "hint": ""
-    },
-    {
       "word": "HUH",
       "hint": "huh (an exclamation indicating puzzlement)"
     },
@@ -2900,10 +2700,6 @@
       "hint": "someone's, one's"
     },
     {
-      "word": "II",
-      "hint": ""
-    },
-    {
       "word": "IK",
       "hint": "I; first-person singular subjective personal pronoun"
     },
@@ -2922,10 +2718,6 @@
     {
       "word": "INCLUSIEF",
       "hint": "inclusive"
-    },
-    {
-      "word": "INDIA",
-      "hint": ""
     },
     {
       "word": "INDIEN",
@@ -3004,20 +2796,8 @@
       "hint": "to insert; to start off"
     },
     {
-      "word": "IRAK",
-      "hint": ""
-    },
-    {
       "word": "IS",
       "hint": "third-person singular present indicative of zijn; is, equals"
-    },
-    {
-      "word": "ISLAND",
-      "hint": ""
-    },
-    {
-      "word": "ISRAËL",
-      "hint": ""
     },
     {
       "word": "ITALIAANSE",
@@ -3032,14 +2812,6 @@
       "hint": "hunt, hunting; chase, pursuit"
     },
     {
-      "word": "JACKSON",
-      "hint": ""
-    },
-    {
-      "word": "JACOB",
-      "hint": ""
-    },
-    {
       "word": "JAGEN",
       "hint": "to hunt; to tug (a boat) (not by other vessels)"
     },
@@ -3050,10 +2822,6 @@
     {
       "word": "JAN",
       "hint": "abbreviation of januari (“January”)"
-    },
-    {
-      "word": "JANE",
-      "hint": ""
     },
     {
       "word": "JANUARI",
@@ -3080,14 +2848,6 @@
       "hint": "person whose birthday it is; birthday girl, birthday boy; birthday kid"
     },
     {
-      "word": "JASON",
-      "hint": ""
-    },
-    {
-      "word": "JAY",
-      "hint": ""
-    },
-    {
       "word": "JEAN",
       "hint": "a pair of jeans (denim trousers); any denim garment"
     },
@@ -3096,28 +2856,8 @@
       "hint": "alternative form of jee"
     },
     {
-      "word": "JEFF",
-      "hint": ""
-    },
-    {
-      "word": "JERRY",
-      "hint": ""
-    },
-    {
-      "word": "JESSE",
-      "hint": ""
-    },
-    {
       "word": "JIJ",
       "hint": "you; second-person singular subjective personal pronoun"
-    },
-    {
-      "word": "JIM",
-      "hint": ""
-    },
-    {
-      "word": "JIMMY",
-      "hint": ""
     },
     {
       "word": "JO",
@@ -3130,22 +2870,6 @@
     {
       "word": "JODEN",
       "hint": "plural of jood"
-    },
-    {
-      "word": "JOEY",
-      "hint": ""
-    },
-    {
-      "word": "JOHNNY",
-      "hint": ""
-    },
-    {
-      "word": "JOHNSON",
-      "hint": ""
-    },
-    {
-      "word": "JONES",
-      "hint": ""
     },
     {
       "word": "JONGEMAN",
@@ -3172,20 +2896,8 @@
       "hint": "Jewish (concerning the Jewish race)"
     },
     {
-      "word": "JORDAN",
-      "hint": ""
-    },
-    {
-      "word": "JOSEPH",
-      "hint": ""
-    },
-    {
       "word": "JOURNALIST",
       "hint": "press journalist"
-    },
-    {
-      "word": "JULIA",
-      "hint": ""
     },
     {
       "word": "JULIE",
@@ -3248,6 +2960,10 @@
       "hint": "made or consisting of lace"
     },
     {
+      "word": "KAPITEIN",
+      "hint": "captain (person in command of a ship); captain (military officer)"
+    },
+    {
       "word": "KARAKTER",
       "hint": "a character, standardized graphic symbol, such as a letter of an alphabet or a numeric digit; a character; a role, often conventionalised, in theatre"
     },
@@ -3264,10 +2980,6 @@
       "hint": "domestic cat, pussy, Felis silvestris catus; feline"
     },
     {
-      "word": "KATE",
-      "hint": ""
-    },
-    {
       "word": "KATTEN",
       "hint": "to slate, to criticise heavily, in a snide manner"
     },
@@ -3282,10 +2994,6 @@
     {
       "word": "KELDER",
       "hint": "cellar, basement"
-    },
-    {
-      "word": "KELLY",
-      "hint": ""
     },
     {
       "word": "KENNELIJK",
@@ -3320,10 +3028,6 @@
       "hint": "choice (decision to choose something); choice (range to choose from)"
     },
     {
-      "word": "KEVIN",
-      "hint": ""
-    },
-    {
       "word": "KIEST",
       "hint": "molar; certain resembling objects"
     },
@@ -3342,10 +3046,6 @@
     {
       "word": "KINDJE",
       "hint": "diminutive of kind"
-    },
-    {
-      "word": "KING",
-      "hint": ""
     },
     {
       "word": "KIP",
@@ -3460,6 +3160,10 @@
       "hint": "arrival"
     },
     {
+      "word": "KONING",
+      "hint": "a king, top-dog; a king, monarch"
+    },
+    {
       "word": "KONINKLIJKE",
       "hint": "royal"
     },
@@ -3560,10 +3264,6 @@
       "hint": "cargo; charge, tension"
     },
     {
-      "word": "LADY",
-      "hint": ""
-    },
-    {
       "word": "LAGE",
       "hint": "inflection of laag"
     },
@@ -3578,14 +3278,6 @@
     {
       "word": "LAPTOP",
       "hint": "laptop (computer with a clamshell design, portable and foldable)"
-    },
-    {
-      "word": "LAURA",
-      "hint": ""
-    },
-    {
-      "word": "LE",
-      "hint": ""
     },
     {
       "word": "LEE",
@@ -3664,10 +3356,6 @@
       "hint": "spring: the season between winter and summer; year of age"
     },
     {
-      "word": "LEO",
-      "hint": ""
-    },
-    {
       "word": "LERAAR",
       "hint": "a teacher, a person who gives lessons; a Protestant clergyman, a reverend"
     },
@@ -3700,6 +3388,10 @@
       "hint": "comparative degree of leuk"
     },
     {
+      "word": "LEVEN",
+      "hint": "life; to live"
+    },
+    {
       "word": "LEVEND",
       "hint": "living, alive"
     },
@@ -3718,10 +3410,6 @@
     {
       "word": "LEVERT",
       "hint": "to supply; to deliver"
-    },
-    {
-      "word": "LEWIS",
-      "hint": ""
     },
     {
       "word": "LEZEN",
@@ -3776,10 +3464,6 @@
       "hint": "inflection of laten"
     },
     {
-      "word": "LIFE",
-      "hint": ""
-    },
-    {
       "word": "LIFT",
       "hint": "a lift, an elevator; a free ride, a lift"
     },
@@ -3800,10 +3484,6 @@
       "hint": "to draw lines; to form a line, to be on (a) line(s)"
     },
     {
-      "word": "LINDA",
-      "hint": ""
-    },
-    {
       "word": "LINK",
       "hint": "dangerous; sly, cunning"
     },
@@ -3812,20 +3492,8 @@
       "hint": "plural of lip"
     },
     {
-      "word": "LISA",
-      "hint": ""
-    },
-    {
-      "word": "LITTLE",
-      "hint": ""
-    },
-    {
       "word": "LOON",
       "hint": "wage, pay, reward"
-    },
-    {
-      "word": "LORD",
-      "hint": ""
     },
     {
       "word": "LOSLATEN",
@@ -3836,16 +3504,8 @@
       "hint": "to unload; to dump"
     },
     {
-      "word": "LOUIS",
-      "hint": ""
-    },
-    {
       "word": "LOVE",
       "hint": "singular present subjunctive of loven"
-    },
-    {
-      "word": "LUCAS",
-      "hint": ""
     },
     {
       "word": "LUCHTHAVEN",
@@ -3904,10 +3564,6 @@
       "hint": "company [From 1616]; society [From 1724]"
     },
     {
-      "word": "MAC",
-      "hint": ""
-    },
-    {
       "word": "MACHINES",
       "hint": "machine (mechanical or electrical device)"
     },
@@ -3938,14 +3594,6 @@
     {
       "word": "MANNETJE",
       "hint": "diminutive of man: short adult male person"
-    },
-    {
-      "word": "MARCO",
-      "hint": ""
-    },
-    {
-      "word": "MARCUS",
-      "hint": ""
     },
     {
       "word": "MARIE",
@@ -4028,6 +3676,10 @@
       "hint": "milk (nutritious liquid produced by a lactating mammalian mother); milk (nutritious liquid derived from vegetable sources, sometimes as a deliberate substitute of mammalian milk)"
     },
     {
+      "word": "MENEER",
+      "hint": "sir, mister"
+    },
+    {
       "word": "MENSELIJK",
       "hint": "human; humane"
     },
@@ -4056,10 +3708,6 @@
       "hint": "an underground railway or underground-railway system, a subway, a metro; an underground-railway train"
     },
     {
-      "word": "MIAMI",
-      "hint": ""
-    },
-    {
       "word": "MIDDAG",
       "hint": "midday, noon; afternoon (period from 12 PM to 6 PM)"
     },
@@ -4084,6 +3732,10 @@
       "hint": "a billion, a milliard, 10"
     },
     {
+      "word": "MILLS",
+      "hint": "grand (sum of the value of 1,000 monetary units)"
+    },
+    {
       "word": "MINISTERIE",
       "hint": "ministry (government department under the authority of a minister) [from 18th c.]; service, ministry [from 17th c.]"
     },
@@ -4106,10 +3758,6 @@
     {
       "word": "MISDAAD",
       "hint": "felony"
-    },
-    {
-      "word": "MM",
-      "hint": ""
     },
     {
       "word": "MOBIEL",
@@ -4180,10 +3828,6 @@
       "hint": "murderer"
     },
     {
-      "word": "MORGAN",
-      "hint": ""
-    },
-    {
       "word": "MORGENOCHTEND",
       "hint": "tomorrow morning"
     },
@@ -4194,10 +3838,6 @@
     {
       "word": "MOTOREN",
       "hint": "plural of motor"
-    },
-    {
-      "word": "MRS",
-      "hint": ""
     },
     {
       "word": "MS",
@@ -4240,10 +3880,6 @@
       "hint": "wet"
     },
     {
-      "word": "NATHAN",
-      "hint": ""
-    },
-    {
       "word": "NATIONAL",
       "hint": "nationalism (separatist ideology); nationalism (ideology favouring the own nation to an extreme degree)"
     },
@@ -4280,10 +3916,6 @@
       "hint": "to ignore [from 19th c.]; to deny [16th–ca. 19th c.]"
     },
     {
-      "word": "NELSON",
-      "hint": ""
-    },
-    {
       "word": "NEP",
       "hint": "imitation, fake"
     },
@@ -4304,10 +3936,6 @@
       "hint": "female cousin; daughter of someone's uncle or aunt; niece; daughter of someone's brother or sister"
     },
     {
-      "word": "NICK",
-      "hint": ""
-    },
-    {
       "word": "NIET",
       "hint": "not, no, don't: used to express negation."
     },
@@ -4318,10 +3946,6 @@
     {
       "word": "NIEUWSTE",
       "hint": "superlative degree of nieuw"
-    },
-    {
-      "word": "NINA",
-      "hint": ""
     },
     {
       "word": "NOCH",
@@ -4342,10 +3966,6 @@
     {
       "word": "NOORD",
       "hint": "north; northwards"
-    },
-    {
-      "word": "NORMAN",
-      "hint": ""
     },
     {
       "word": "NOVEMBER",
@@ -4400,12 +4020,12 @@
       "hint": "moment, blink of an eye (instant of time)"
     },
     {
-      "word": "OKAY",
-      "hint": ""
-    },
-    {
       "word": "OKTOBER",
       "hint": "October"
+    },
+    {
+      "word": "OKÉ",
+      "hint": "okay, correct, acceptable, satisfactory"
     },
     {
       "word": "OLIVER",
@@ -4656,10 +4276,6 @@
       "hint": "original [from 16th c.]"
     },
     {
-      "word": "OSCAR",
-      "hint": ""
-    },
-    {
       "word": "OUDERE",
       "hint": "elderly person, senior citizen"
     },
@@ -4788,10 +4404,6 @@
       "hint": "passion (emotion); passion (something one enthuses about)"
     },
     {
-      "word": "PATRICK",
-      "hint": ""
-    },
-    {
       "word": "PATROON",
       "hint": "patron saint; patron, protector, Maecenas"
     },
@@ -4814,10 +4426,6 @@
     {
       "word": "PENSIOEN",
       "hint": "pension (annuity paid regularly as benefit due to a retired employee)"
-    },
-    {
-      "word": "PHIL",
-      "hint": ""
     },
     {
       "word": "PIANO",
@@ -5080,10 +4688,6 @@
       "hint": "race, breed"
     },
     {
-      "word": "RAY",
-      "hint": ""
-    },
-    {
       "word": "REAGEERT",
       "hint": "obsolete spelling of reageren"
     },
@@ -5188,10 +4792,6 @@
       "hint": "to direct, aim"
     },
     {
-      "word": "RICK",
-      "hint": ""
-    },
-    {
       "word": "RIEP",
       "hint": "singular past indicative of roepen"
     },
@@ -5208,16 +4808,8 @@
       "hint": "a ride on a mount (animal) or man-powered vehicle; a drive in an animal-drawn or motorized vehicle"
     },
     {
-      "word": "ROAD",
-      "hint": ""
-    },
-    {
       "word": "ROB",
       "hint": "seal, any member of the family Phocidae"
-    },
-    {
-      "word": "ROBIN",
-      "hint": ""
     },
     {
       "word": "ROCK",
@@ -5232,8 +4824,8 @@
       "hint": "to cry, shout; to call, summon, invite etc."
     },
     {
-      "word": "ROGER",
-      "hint": ""
+      "word": "ROG",
+      "hint": "ray (flat-bodied marine fish)"
     },
     {
       "word": "ROKEN",
@@ -5250,10 +4842,6 @@
     {
       "word": "ROME",
       "hint": "Rom (member of the Roma people), Romani"
-    },
-    {
-      "word": "RON",
-      "hint": ""
     },
     {
       "word": "RONDOM",
@@ -5284,10 +4872,6 @@
       "hint": "route, course, way (particular pathway or direction one travels); road, route"
     },
     {
-      "word": "ROY",
-      "hint": ""
-    },
-    {
       "word": "ROZE",
       "hint": "pink, rosy"
     },
@@ -5312,10 +4896,6 @@
       "hint": "to rest; to lie, be supported (by something)"
     },
     {
-      "word": "RYAN",
-      "hint": ""
-    },
-    {
       "word": "SAAI",
       "hint": "boring, tedious"
     },
@@ -5334,14 +4914,6 @@
     {
       "word": "SAMENWERKING",
       "hint": "cooperation, working together, collaboration"
-    },
-    {
-      "word": "SANTA",
-      "hint": ""
-    },
-    {
-      "word": "SARA",
-      "hint": ""
     },
     {
       "word": "SCHAAL",
@@ -5460,20 +5032,8 @@
       "hint": "barn; shed"
     },
     {
-      "word": "SCOTT",
-      "hint": ""
-    },
-    {
       "word": "SCÈNE",
       "hint": "scene, stage; fuss, scene (exhibition of passionate or strong feeling before others, creating embarrassment or disruption)"
-    },
-    {
-      "word": "SE",
-      "hint": ""
-    },
-    {
-      "word": "SEAN",
-      "hint": ""
     },
     {
       "word": "SECONDE",
@@ -5524,10 +5084,6 @@
       "hint": "signal (sign made to give notice); signal (electromagnetic action that conveys information)"
     },
     {
-      "word": "SIMON",
-      "hint": ""
-    },
-    {
       "word": "SIMPELE",
       "hint": "simple"
     },
@@ -5538,10 +5094,6 @@
     {
       "word": "SINGLE",
       "hint": "a single (short music record, e.g. 45 RPM vinyl with an A side and a B side; main track of such a record); a single (person without a romantic partner)"
-    },
-    {
-      "word": "SIR",
-      "hint": ""
     },
     {
       "word": "SITE",
@@ -5604,8 +5156,8 @@
       "hint": "taste, sense of taste; taste, decorum"
     },
     {
-      "word": "SMITH",
-      "hint": ""
+      "word": "SMID",
+      "hint": "a smith, who forges metal"
     },
     {
       "word": "SMS",
@@ -5638,14 +5190,6 @@
     {
       "word": "SOEP",
       "hint": "soup, liquid dish; a mirky mess; chaos, trouble"
-    },
-    {
-      "word": "SOPHIE",
-      "hint": ""
-    },
-    {
-      "word": "SOUTH",
-      "hint": ""
     },
     {
       "word": "SOWIESO",
@@ -5892,10 +5436,6 @@
       "hint": "a taxi"
     },
     {
-      "word": "TAYLOR",
-      "hint": ""
-    },
-    {
       "word": "TE",
       "hint": "too (indicating excess)"
     },
@@ -6020,14 +5560,6 @@
       "hint": "to come back, to return; to be echoed in [with in]"
     },
     {
-      "word": "TEXAS",
-      "hint": ""
-    },
-    {
-      "word": "THAT",
-      "hint": ""
-    },
-    {
       "word": "THEATER",
       "hint": "theater (US), theatre (Commonwealth): either drama, the art form, or a drama theater (building)"
     },
@@ -6054,10 +5586,6 @@
     {
       "word": "TIJDSTIP",
       "hint": "moment in time, point in time, time of day"
-    },
-    {
-      "word": "TIM",
-      "hint": ""
     },
     {
       "word": "TIME",
@@ -6282,10 +5810,6 @@
     {
       "word": "UP",
       "hint": "to upload"
-    },
-    {
-      "word": "US",
-      "hint": ""
     },
     {
       "word": "VAARDIGHEDEN",
@@ -6720,20 +6244,12 @@
       "hint": "fat; greasy"
     },
     {
-      "word": "VICTOR",
-      "hint": ""
-    },
-    {
       "word": "VIELEN",
       "hint": "inflection of vallen"
     },
     {
       "word": "VIES",
       "hint": "dirty (not clean); dirty, also in a sexual sense"
-    },
-    {
-      "word": "VIETNAM",
-      "hint": ""
     },
     {
       "word": "VIEZE",
@@ -6758,10 +6274,6 @@
     {
       "word": "VILLA",
       "hint": "mansion (large, (normally) expensive, sumptuous house)"
-    },
-    {
-      "word": "VINCENT",
-      "hint": ""
     },
     {
       "word": "VINGER",
@@ -6870,6 +6382,10 @@
     {
       "word": "VOORBEREIDEN",
       "hint": "to prepare"
+    },
+    {
+      "word": "VOORDE",
+      "hint": "ford"
     },
     {
       "word": "VOORDEEL",
@@ -7017,7 +6533,7 @@
     },
     {
       "word": "VÓÓR",
-      "hint": ""
+      "hint": "before; in front of"
     },
     {
       "word": "WAARAAN",
@@ -7050,10 +6566,6 @@
     {
       "word": "WALGELIJK",
       "hint": "noisome, disgusting, revolting, nausea inducing"
-    },
-    {
-      "word": "WALTER",
-      "hint": ""
     },
     {
       "word": "WANDELEN",
@@ -7116,6 +6628,10 @@
       "hint": "to wish"
     },
     {
+      "word": "WERELD",
+      "hint": "world"
+    },
+    {
       "word": "WERKELIJKHEID",
       "hint": "reality; activity, the state of being active or operative"
     },
@@ -7142,10 +6658,6 @@
     {
       "word": "WEZENS",
       "hint": "diminutive of wezen"
-    },
-    {
-      "word": "WHITE",
-      "hint": ""
     },
     {
       "word": "WIENS",
@@ -7180,14 +6692,6 @@
       "hint": "singular present subjunctive of willen"
     },
     {
-      "word": "WILLIAM",
-      "hint": ""
-    },
-    {
-      "word": "WILLIAMS",
-      "hint": ""
-    },
-    {
       "word": "WIN",
       "hint": "acquisition, gain; extraction"
     },
@@ -7204,8 +6708,8 @@
       "hint": "mathematics"
     },
     {
-      "word": "WITH",
-      "hint": ""
+      "word": "WIT",
+      "hint": "white (color); white"
     },
     {
       "word": "WOEDE",
@@ -7240,24 +6744,12 @@
       "hint": "inflection of wonen"
     },
     {
-      "word": "WORLD",
-      "hint": ""
-    },
-    {
       "word": "WOW",
       "hint": "wow (exclaims surprise or amazement)"
     },
     {
       "word": "WRAAK",
       "hint": "revenge"
-    },
-    {
-      "word": "YEAH",
-      "hint": ""
-    },
-    {
-      "word": "YOUR",
-      "hint": ""
     },
     {
       "word": "ZAAL",
@@ -7370,6 +6862,10 @@
     {
       "word": "ZUID",
       "hint": "south; southwards"
+    },
+    {
+      "word": "ZUIDEN",
+      "hint": "south; southern, from the south"
     },
     {
       "word": "ZUL",

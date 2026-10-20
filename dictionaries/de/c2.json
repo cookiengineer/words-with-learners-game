@@ -8,6 +8,10 @@
       "hint": "feces, poop"
     },
     {
+      "word": "AAR",
+      "hint": "eagle"
+    },
+    {
       "word": "ABARTIG",
       "hint": "deviant, abnormal; disgusting, atrocious (extremely disagreeable, e.g. of smells or strongly condemned behavior)"
     },
@@ -30,10 +34,6 @@
     {
       "word": "ABBRINGEN",
       "hint": "to dissuade, discourage, put/throw off course"
-    },
-    {
-      "word": "ABBY",
-      "hint": ""
     },
     {
       "word": "ABC",
@@ -312,6 +312,10 @@
       "hint": "nominative/accusative/genitive plural of Absatz"
     },
     {
+      "word": "ABTASTEN",
+      "hint": "to scan"
+    },
+    {
       "word": "ABTEI",
       "hint": "abbey"
     },
@@ -376,10 +380,6 @@
       "hint": "zu-infinitive of abziehen"
     },
     {
-      "word": "ACADEMY",
-      "hint": ""
-    },
-    {
       "word": "ACE",
       "hint": "initialism of A+C+E"
     },
@@ -390,10 +390,6 @@
     {
       "word": "ACHTERBAHN",
       "hint": "rollercoaster"
-    },
-    {
-      "word": "ADA",
-      "hint": ""
     },
     {
       "word": "ADE",
@@ -428,18 +424,6 @@
       "hint": "African (person)"
     },
     {
-      "word": "AFRIKAS",
-      "hint": ""
-    },
-    {
-      "word": "AGE",
-      "hint": ""
-    },
-    {
-      "word": "AGENCY",
-      "hint": ""
-    },
-    {
       "word": "AGENTIN",
       "hint": "agent (female equivalent of Agent)"
     },
@@ -464,10 +448,6 @@
       "hint": "to act, to perform a task; to act, to behave (like something or in a certain way)"
     },
     {
-      "word": "AHMED",
-      "hint": ""
-    },
-    {
       "word": "AHNT",
       "hint": "inflection of ahnen"
     },
@@ -480,14 +460,6 @@
       "hint": "general greeting between ships"
     },
     {
-      "word": "AIDA",
-      "hint": ""
-    },
-    {
-      "word": "AIN",
-      "hint": ""
-    },
-    {
       "word": "AIRES",
       "hint": "abbreviation of altirisch"
     },
@@ -496,8 +468,8 @@
       "hint": "A-sharp"
     },
     {
-      "word": "AKA",
-      "hint": ""
+      "word": "AKADEMIE",
+      "hint": "academy (learned society)"
     },
     {
       "word": "AKADEMIKER",
@@ -544,28 +516,12 @@
       "hint": "acceptance, accepting"
     },
     {
-      "word": "ALABAMA",
-      "hint": ""
-    },
-    {
-      "word": "ALAIN",
-      "hint": ""
-    },
-    {
       "word": "ALARMANLAGE",
       "hint": "burglar alarm, alarm system"
     },
     {
       "word": "ALARMIERT",
       "hint": "to alarm"
-    },
-    {
-      "word": "ALBA",
-      "hint": ""
-    },
-    {
-      "word": "ALBANIEN",
-      "hint": ""
     },
     {
       "word": "ALBEN",
@@ -580,34 +536,6 @@
       "hint": "ale"
     },
     {
-      "word": "ALEC",
-      "hint": ""
-    },
-    {
-      "word": "ALEJANDRO",
-      "hint": ""
-    },
-    {
-      "word": "ALESSANDRO",
-      "hint": ""
-    },
-    {
-      "word": "ALEXA",
-      "hint": ""
-    },
-    {
-      "word": "ALEXANDRE",
-      "hint": ""
-    },
-    {
-      "word": "ALEXANDRIA",
-      "hint": ""
-    },
-    {
-      "word": "ALFONS",
-      "hint": ""
-    },
-    {
       "word": "ALGEN",
       "hint": "alga"
     },
@@ -620,20 +548,12 @@
       "hint": "algorithm (well-defined procedure)"
     },
     {
-      "word": "ALICIA",
-      "hint": ""
-    },
-    {
-      "word": "ALISON",
-      "hint": ""
-    },
-    {
-      "word": "ALLAN",
-      "hint": ""
-    },
-    {
       "word": "ALLEDEM",
       "hint": "all (of) this, any of this"
+    },
+    {
+      "word": "ALLEIN",
+      "hint": "alone"
     },
     {
       "word": "ALLEINGANG",
@@ -684,10 +604,6 @@
       "hint": "generality"
     },
     {
-      "word": "ALLISON",
-      "hint": ""
-    },
-    {
       "word": "ALLMÄCHTIGEN",
       "hint": "omnipotent, all-powerful, almighty"
     },
@@ -700,16 +616,16 @@
       "hint": "alms; pittance"
     },
     {
-      "word": "ALONE",
-      "hint": ""
-    },
-    {
       "word": "ALPHABET",
       "hint": "alphabet (the set of letters used when writing in a language)"
     },
     {
       "word": "ALTEM",
       "hint": "strong dative masculine/neuter singular of alt"
+    },
+    {
+      "word": "ALTER",
+      "hint": "age, old age; epoch, age"
     },
     {
       "word": "ALTERN",
@@ -728,10 +644,6 @@
       "hint": "historic city center, old town"
     },
     {
-      "word": "ALWAYS",
-      "hint": ""
-    },
-    {
       "word": "AM",
       "hint": "contraction of an (“at/on”) +‎ dem (“the”, masculine/neuter dative singular) [with adjective ending with -en and masculine or neuter noun]; contraction of auf (“on/at”) +‎ dem"
     },
@@ -744,16 +656,8 @@
       "hint": "Amazon parrot; any bird of the parrot genus Amazona.; collective noun for birds of the genus Amazona in the family Psittacidae."
     },
     {
-      "word": "AMBER",
-      "hint": ""
-    },
-    {
       "word": "AMBITIONEN",
       "hint": "ambition for some particular achievement"
-    },
-    {
-      "word": "AMELIA",
-      "hint": ""
     },
     {
       "word": "AMERIKANERIN",
@@ -774,6 +678,10 @@
     {
       "word": "AMPELN",
       "hint": "traffic light; ellipsis of Ampelkoalition"
+    },
+    {
+      "word": "AMT",
+      "hint": "agency; department; office (state institution responsible for specified concerns)"
     },
     {
       "word": "AMTLICH",
@@ -834,14 +742,6 @@
     {
       "word": "ANDI",
       "hint": "plural of Andi"
-    },
-    {
-      "word": "ANDREJ",
-      "hint": ""
-    },
-    {
-      "word": "ANDREWS",
-      "hint": ""
     },
     {
       "word": "ANDROID",
@@ -905,7 +805,7 @@
     },
     {
       "word": "ANGEFÜHLT",
-      "hint": ""
+      "hint": "past participle of anfühlen: to feel, to touch"
     },
     {
       "word": "ANGEGANGEN",
@@ -917,7 +817,7 @@
     },
     {
       "word": "ANGEHEUERT",
-      "hint": ""
+      "hint": "past participle of anheuern: to hire; to sign on"
     },
     {
       "word": "ANGEHÄNGT",
@@ -930,10 +830,6 @@
     {
       "word": "ANGELANGT",
       "hint": "to arrive"
-    },
-    {
-      "word": "ANGELINA",
-      "hint": ""
     },
     {
       "word": "ANGELOGEN",
@@ -1024,10 +920,6 @@
       "hint": "first/third-person plural dependent preterite of ankommen"
     },
     {
-      "word": "ANKARA",
-      "hint": ""
-    },
-    {
       "word": "ANKE",
       "hint": "nape of the neck"
     },
@@ -1076,20 +968,12 @@
       "hint": "first/third-person plural dependent preterite of annehmen"
     },
     {
-      "word": "ANNIKA",
-      "hint": ""
-    },
-    {
       "word": "ANNÄHERUNG",
       "hint": "approach (act of drawing near; access or opportunity of drawing near); approach (a stroke whose object is to land the ball on the putting green)"
     },
     {
       "word": "ANOMALIE",
       "hint": "anomaly"
-    },
-    {
-      "word": "ANOTHER",
-      "hint": ""
     },
     {
       "word": "ANPACKEN",
@@ -1176,10 +1060,6 @@
       "hint": "strong/mixed nominative/accusative neuter singular of anständig"
     },
     {
-      "word": "ANTARKTIS",
-      "hint": ""
-    },
-    {
       "word": "ANTEILNAHME",
       "hint": "condolence"
     },
@@ -1200,14 +1080,6 @@
       "hint": "face, countenance, visage"
     },
     {
-      "word": "ANTONIA",
-      "hint": ""
-    },
-    {
-      "word": "ANTONIUS",
-      "hint": ""
-    },
-    {
       "word": "ANTRITT",
       "hint": "participation (in a competition); start, beginning"
     },
@@ -1220,6 +1092,10 @@
       "hint": "to entrust in various ways"
     },
     {
+      "word": "ANWENDER",
+      "hint": "user (person who uses an application, who applies something)"
+    },
+    {
       "word": "ANWOHNER",
       "hint": "resident"
     },
@@ -1230,10 +1106,6 @@
     {
       "word": "ANWÄRTER",
       "hint": "candidate (of male or unspecified sex); pretender (of male or unspecified sex)"
-    },
-    {
-      "word": "ANY",
-      "hint": ""
     },
     {
       "word": "ANZAHLUNG",
@@ -1332,10 +1204,6 @@
       "hint": "working hours (the time of duty at a workplace, the time spend working)"
     },
     {
-      "word": "ARCHER",
-      "hint": ""
-    },
-    {
       "word": "ARCHIVE",
       "hint": "archive"
     },
@@ -1346,10 +1214,6 @@
     {
       "word": "ARCHÄOLOGIE",
       "hint": "archaeology / archeology"
-    },
-    {
-      "word": "AREA",
-      "hint": ""
     },
     {
       "word": "AREAL",
@@ -1368,16 +1232,8 @@
       "hint": "aria (solo singing piece, notably in operatic genres)"
     },
     {
-      "word": "ARIA",
-      "hint": ""
-    },
-    {
-      "word": "ARIEL",
-      "hint": ""
-    },
-    {
-      "word": "ARISTOTELES",
-      "hint": ""
+      "word": "ARIE",
+      "hint": "aria (solo singing piece, notably in operatic genres)"
     },
     {
       "word": "ARMS",
@@ -1388,20 +1244,8 @@
       "hint": "abject, pathetic, paltry, miserable"
     },
     {
-      "word": "ARMSTRONG",
-      "hint": ""
-    },
-    {
-      "word": "ARNE",
-      "hint": ""
-    },
-    {
       "word": "AROMA",
       "hint": "a (generally rather pleasant) spicy or fragrant taste or smell; aroma"
-    },
-    {
-      "word": "AROUND",
-      "hint": ""
     },
     {
       "word": "ARRANGEMENT",
@@ -1410,10 +1254,6 @@
     {
       "word": "ARREST",
       "hint": "arrest, confinement, detention"
-    },
-    {
-      "word": "ARROW",
-      "hint": ""
     },
     {
       "word": "ARTIG",
@@ -1432,20 +1272,12 @@
       "hint": "kind, sort, type [with von (+ dative) ‘of something’]; species"
     },
     {
+      "word": "ASCHEN",
+      "hint": "ash-gray"
+    },
+    {
       "word": "ASCHENBECHER",
       "hint": "ashtray"
-    },
-    {
-      "word": "ASH",
-      "hint": ""
-    },
-    {
-      "word": "ASHTON",
-      "hint": ""
-    },
-    {
-      "word": "ASIA",
-      "hint": ""
     },
     {
       "word": "ASIATEN",
@@ -1466,14 +1298,6 @@
     {
       "word": "ASPIRIN",
       "hint": "aspirin"
-    },
-    {
-      "word": "ASSAD",
-      "hint": ""
-    },
-    {
-      "word": "ASTERIX",
-      "hint": ""
     },
     {
       "word": "ASTHMA",
@@ -1512,10 +1336,6 @@
       "hint": "attack"
     },
     {
-      "word": "ATTILA",
-      "hint": ""
-    },
-    {
       "word": "ATTRAKTION",
       "hint": "attraction"
     },
@@ -1530,10 +1350,6 @@
     {
       "word": "AUDIO",
       "hint": "audio recording"
-    },
-    {
-      "word": "AUDREY",
-      "hint": ""
     },
     {
       "word": "AUF",
@@ -1648,6 +1464,10 @@
       "hint": "to call on people to do something, to call for [with zu (+ dative) ‘for something’]; to call up (display data or a file on the screen)"
     },
     {
+      "word": "AUFRÜSTEN",
+      "hint": "to upgrade"
+    },
+    {
       "word": "AUFSCHLAG",
       "hint": "impact (the force or energy of a collision of two objects); lapel"
     },
@@ -1756,10 +1576,6 @@
       "hint": "eyewitness"
     },
     {
-      "word": "AUGUSTUS",
-      "hint": ""
-    },
-    {
       "word": "AURA",
       "hint": "aura"
     },
@@ -1786,6 +1602,10 @@
     {
       "word": "AUSBILDER",
       "hint": "agent noun of ausbilden; educator, instructor"
+    },
+    {
+      "word": "AUSBLICK",
+      "hint": "outlook, view, vista"
     },
     {
       "word": "AUSBRECHEN",
@@ -1893,7 +1713,7 @@
     },
     {
       "word": "AUSGESPIELT",
-      "hint": ""
+      "hint": "past participle of ausspielen: to play out; to eliminate"
     },
     {
       "word": "AUSGESTORBEN",
@@ -2076,6 +1896,10 @@
       "hint": "to pay out (money in general; salary, sum, balance, dividend, interest, etc.); to pay off (to become worthwhile)"
     },
     {
+      "word": "AUSZEICHNUNG",
+      "hint": "award"
+    },
+    {
       "word": "AUSZUG",
       "hint": "moveout (the act of moving out of a property); extract"
     },
@@ -2089,7 +1913,7 @@
     },
     {
       "word": "AUSZULÖSEN",
-      "hint": ""
+      "hint": "to trigger, to cause (zu-infinitive of auslösen)"
     },
     {
       "word": "AUSZUMACHEN",
@@ -2156,30 +1980,6 @@
       "hint": "ellipsis of Ave-Maria (“ave, Hail Mary”)"
     },
     {
-      "word": "AVERY",
-      "hint": ""
-    },
-    {
-      "word": "AVIV",
-      "hint": ""
-    },
-    {
-      "word": "AWARD",
-      "hint": ""
-    },
-    {
-      "word": "AWARDS",
-      "hint": ""
-    },
-    {
-      "word": "AY",
-      "hint": ""
-    },
-    {
-      "word": "AYE",
-      "hint": ""
-    },
-    {
       "word": "BABA",
       "hint": "bye-bye, see you, so long"
     },
@@ -2194,10 +1994,6 @@
     {
       "word": "BACHELOR",
       "hint": "bachelor's degree; bachelor graduate"
-    },
-    {
-      "word": "BACON",
-      "hint": ""
     },
     {
       "word": "BADE",
@@ -2216,12 +2012,12 @@
       "hint": "train platform"
     },
     {
-      "word": "BALI",
-      "hint": "Balinese (person)"
+      "word": "BAISSE",
+      "hint": "bear market"
     },
     {
-      "word": "BALKAN",
-      "hint": ""
+      "word": "BALI",
+      "hint": "Balinese (person)"
     },
     {
       "word": "BALLAST",
@@ -2232,12 +2028,8 @@
       "hint": "balloon"
     },
     {
-      "word": "BAM",
-      "hint": ""
-    },
-    {
-      "word": "BAMBI",
-      "hint": ""
+      "word": "BAND",
+      "hint": "tape, ribbon"
     },
     {
       "word": "BANDEN",
@@ -2280,20 +2072,16 @@
       "hint": "mercy, compassion"
     },
     {
-      "word": "BARNES",
-      "hint": ""
-    },
-    {
-      "word": "BARNEY",
-      "hint": ""
-    },
-    {
       "word": "BARRIERE",
       "hint": "barrier"
     },
     {
       "word": "BASIEREN",
       "hint": "to base [with accusative ‘something’ and auf (+ dative) ‘on something’]; to be based [with auf (+ dative) ‘on something’]"
+    },
+    {
+      "word": "BASS",
+      "hint": "better, more properly, readily"
     },
     {
       "word": "BASTA",
@@ -2304,20 +2092,12 @@
       "hint": "bastard (person born to unmarried parents); bastard; mongrel (person born to parents considered incongruous in class, race, etc.; male or unspecified sex)"
     },
     {
-      "word": "BASTIAN",
-      "hint": ""
-    },
-    {
       "word": "BATAILLON",
       "hint": "battalion"
     },
     {
       "word": "BATES",
       "hint": "first/third-person plural preterite of bitten"
-    },
-    {
-      "word": "BATTLE",
-      "hint": ""
     },
     {
       "word": "BAUARBEITER",
@@ -2332,24 +2112,24 @@
       "hint": "abdominal pain, bellyache, stomachache, tummyache"
     },
     {
-      "word": "BAUMANN",
-      "hint": ""
+      "word": "BAUCHSPECK",
+      "hint": "bacon"
+    },
+    {
+      "word": "BAUM",
+      "hint": "tree"
     },
     {
       "word": "BAUMARKT",
       "hint": "home improvement center, DIY store; large hardware store, typically run by a chain, often including a garden and/or furniture department"
     },
     {
+      "word": "BAUMWOLLEN",
+      "hint": "cotton"
+    },
+    {
       "word": "BAUST",
       "hint": "brick; building block, module, component"
-    },
-    {
-      "word": "BB",
-      "hint": ""
-    },
-    {
-      "word": "BEA",
-      "hint": ""
     },
     {
       "word": "BEACHTE",
@@ -2364,24 +2144,12 @@
       "hint": "to claim (to demand ownership of something); to require"
     },
     {
-      "word": "BEAR",
-      "hint": ""
-    },
-    {
       "word": "BEARBEITUNG",
       "hint": "edit (a change to the text of a document); processing"
     },
     {
       "word": "BEATE",
       "hint": "beat"
-    },
-    {
-      "word": "BEATLES",
-      "hint": ""
-    },
-    {
-      "word": "BEATRICE",
-      "hint": ""
     },
     {
       "word": "BEAUFTRAGEN",
@@ -2392,16 +2160,8 @@
       "hint": "to mandate, to order from, to hire for a particular business"
     },
     {
-      "word": "BEAUTIFUL",
-      "hint": ""
-    },
-    {
       "word": "BEBEN",
       "hint": "to shake, to quiver"
-    },
-    {
-      "word": "BECAUSE",
-      "hint": ""
     },
     {
       "word": "BEDANKE",
@@ -2476,14 +2236,6 @@
       "hint": "desire, urge; need, necessity"
     },
     {
-      "word": "BEE",
-      "hint": ""
-    },
-    {
-      "word": "BEEF",
-      "hint": ""
-    },
-    {
       "word": "BEEINDRUCKENDE",
       "hint": "comparative degree of beeindruckend"
     },
@@ -2497,6 +2249,10 @@
     },
     {
       "word": "BEER",
+      "hint": "berry"
+    },
+    {
+      "word": "BEERE",
       "hint": "berry"
     },
     {
@@ -2522,10 +2278,6 @@
     {
       "word": "BEFINDE",
       "hint": "inflection of befinden"
-    },
-    {
-      "word": "BEFORE",
-      "hint": ""
     },
     {
       "word": "BEFRAGTEN",
@@ -2756,10 +2508,6 @@
       "hint": "combat, fight, battle"
     },
     {
-      "word": "BEL",
-      "hint": ""
-    },
-    {
       "word": "BELADEN",
       "hint": "to load"
     },
@@ -2844,8 +2592,8 @@
       "hint": "popularity"
     },
     {
-      "word": "BELIEVE",
-      "hint": ""
+      "word": "BELLETRISTIK",
+      "hint": "fiction, belles-lettres"
     },
     {
       "word": "BELOHNEN",
@@ -2880,10 +2628,6 @@
       "hint": "to notify"
     },
     {
-      "word": "BENEDICT",
-      "hint": ""
-    },
-    {
       "word": "BENEIDE",
       "hint": "to envy; to begrudge someone something"
     },
@@ -2894,10 +2638,6 @@
     {
       "word": "BENIMMT",
       "hint": "third-person singular present of benehmen"
-    },
-    {
-      "word": "BENNO",
-      "hint": ""
     },
     {
       "word": "BENUTZ",
@@ -2936,6 +2676,10 @@
       "hint": "to enrich"
     },
     {
+      "word": "BEREIT",
+      "hint": "ready [with für (+ accusative) or auf (+ accusative) ‘for something’ or zu (+ infinitive) ‘to do something’]"
+    },
+    {
       "word": "BEREITETE",
       "hint": "to prepare, to make; to give, to cause"
     },
@@ -2964,20 +2708,8 @@
       "hint": "to relate, to tell, to give an account of; to report (especially by the media or authorities) [with accusative or über (+ accusative) or von (+ dative) ‘on/about something’, along"
     },
     {
-      "word": "BERKELEY",
-      "hint": ""
-    },
-    {
-      "word": "BERNADETTE",
-      "hint": ""
-    },
-    {
       "word": "BERNSTEIN",
       "hint": "amber"
-    },
-    {
-      "word": "BERRY",
-      "hint": ""
     },
     {
       "word": "BERTRAM",
@@ -3244,14 +2976,6 @@
       "hint": "bed (piece of furniture, usually flat and soft, for resting or sleeping on; one's place of sleep or rest); bed (bottom of a body of water, such as an ocean, sea, lake, or river)"
     },
     {
-      "word": "BETTER",
-      "hint": ""
-    },
-    {
-      "word": "BETTINA",
-      "hint": ""
-    },
-    {
       "word": "BETTWÄSCHE",
       "hint": "bedding, bedclothes, bedlinen"
     },
@@ -3278,6 +3002,10 @@
     {
       "word": "BEUNRUHIGEND",
       "hint": "comparative degree of beunruhigend"
+    },
+    {
+      "word": "BEVOR",
+      "hint": "before [until 18th c.]; before"
     },
     {
       "word": "BEVORSTEHENDEN",
@@ -3404,10 +3132,6 @@
       "hint": "beaver"
     },
     {
-      "word": "BIBI",
-      "hint": ""
-    },
-    {
       "word": "BIEN",
       "hint": "bee colony superorganism"
     },
@@ -3432,10 +3156,6 @@
       "hint": "billiards; usually in a general sense, thus including pool, snooker, etc."
     },
     {
-      "word": "BILLIE",
-      "hint": ""
-    },
-    {
       "word": "BILLIGES",
       "hint": "strong/mixed nominative/accusative neuter singular of billig"
     },
@@ -3446,10 +3166,6 @@
     {
       "word": "BINDUNGEN",
       "hint": "bond, attachment; commitment, obligation"
-    },
-    {
-      "word": "BING",
-      "hint": ""
     },
     {
       "word": "BINS",
@@ -3468,14 +3184,6 @@
       "hint": "biological (of biology); organic (of food or food products)"
     },
     {
-      "word": "BIRD",
-      "hint": ""
-    },
-    {
-      "word": "BIRGIT",
-      "hint": ""
-    },
-    {
       "word": "BIRNEN",
       "hint": "pear; lightbulb"
     },
@@ -3484,16 +3192,12 @@
       "hint": "to soothe, calm (a baby)"
     },
     {
+      "word": "BISCHÖFIN",
+      "hint": "bishop (female)"
+    },
+    {
       "word": "BISHERIGE",
       "hint": "previous, so far"
-    },
-    {
-      "word": "BISHOP",
-      "hint": ""
-    },
-    {
-      "word": "BISMARCK",
-      "hint": ""
     },
     {
       "word": "BISSEN",
@@ -3532,10 +3236,6 @@
       "hint": "to embarrass; to disgrace oneself"
     },
     {
-      "word": "BLANCHE",
-      "hint": ""
-    },
-    {
       "word": "BLAS",
       "hint": "blow (air exhaled by whales after diving)"
     },
@@ -3548,12 +3248,20 @@
       "hint": "sheet (of metal); sheet metal (as a material)"
     },
     {
+      "word": "BLEIBEN",
+      "hint": "to keep (on); to continue [with infinitive ‘doing something’] (see usage notes below)"
+    },
+    {
       "word": "BLENDEN",
       "hint": "to dazzle; to blind (confuse someone’s sight by means of excessive brightness); to show off; to pose (try to make an impression on someone by behaving affectedly and/or"
     },
     {
       "word": "BLENDEND",
       "hint": "present participle of blenden"
+    },
+    {
+      "word": "BLICK",
+      "hint": "view"
     },
     {
       "word": "BLICKTE",
@@ -3568,24 +3276,16 @@
       "hint": "comparative degree of blind"
     },
     {
+      "word": "BLITZ",
+      "hint": "a bolt of lightning"
+    },
+    {
       "word": "BLITZE",
       "hint": "a bolt of lightning; flash"
     },
     {
-      "word": "BLOOM",
-      "hint": ""
-    },
-    {
-      "word": "BLOWJOB",
-      "hint": ""
-    },
-    {
       "word": "BLU",
       "hint": "contraction of Blut und Boden"
-    },
-    {
-      "word": "BLUM",
-      "hint": ""
     },
     {
       "word": "BLUTBAD",
@@ -3604,6 +3304,14 @@
       "hint": "strong/mixed nominative/accusative neuter singular of blöd"
     },
     {
+      "word": "BLÜTE",
+      "hint": "bloom, heyday, height (era of good development, e.g. of a realm or culture); bloom, blossom, florescence (flowering season)"
+    },
+    {
+      "word": "BOGENSCHÜTZE",
+      "hint": "An archer, who shoots arrows from a bow"
+    },
+    {
       "word": "BOHRER",
       "hint": "agent noun of bohren"
     },
@@ -3616,44 +3324,16 @@
       "hint": "hard candy; sweet, candy in general"
     },
     {
-      "word": "BONES",
-      "hint": ""
-    },
-    {
       "word": "BONN",
       "hint": "Bonner (native or inhabitant of the city of Bonn, North Rhine-Westphalia, Germany) (usually male)"
-    },
-    {
-      "word": "BOOK",
-      "hint": ""
-    },
-    {
-      "word": "BOOMER",
-      "hint": ""
     },
     {
       "word": "BOOTEN",
       "hint": "to boot"
     },
     {
-      "word": "BOOTH",
-      "hint": ""
-    },
-    {
-      "word": "BORDEAUX",
-      "hint": ""
-    },
-    {
       "word": "BORN",
       "hint": "well, spring (water source)"
-    },
-    {
-      "word": "BOSNIEN",
-      "hint": ""
-    },
-    {
-      "word": "BOWIE",
-      "hint": ""
     },
     {
       "word": "BOWL",
@@ -3664,24 +3344,12 @@
       "hint": "bowling"
     },
     {
-      "word": "BOYD",
-      "hint": ""
-    },
-    {
       "word": "BR",
       "hint": "abbreviation of Betriebsrat (“works council”)"
     },
     {
-      "word": "BRADY",
-      "hint": ""
-    },
-    {
       "word": "BRAIN",
       "hint": "a smart person"
-    },
-    {
-      "word": "BRANDON",
-      "hint": ""
     },
     {
       "word": "BRANDY",
@@ -3720,10 +3388,6 @@
       "hint": "comparative degree of brennend"
     },
     {
-      "word": "BRENT",
-      "hint": ""
-    },
-    {
       "word": "BRETTER",
       "hint": "made of wooden boards"
     },
@@ -3760,32 +3424,12 @@
       "hint": "British"
     },
     {
-      "word": "BRITISH",
-      "hint": ""
-    },
-    {
-      "word": "BRITNEY",
-      "hint": ""
-    },
-    {
-      "word": "BRITTA",
-      "hint": ""
-    },
-    {
-      "word": "BROCK",
-      "hint": ""
-    },
-    {
       "word": "BROCKEN",
       "hint": "to break (into pieces); to pick (e.g. fruit)"
     },
     {
       "word": "BROKER",
       "hint": "broke (without any money)"
-    },
-    {
-      "word": "BROOKE",
-      "hint": ""
     },
     {
       "word": "BROT",
@@ -3820,12 +3464,12 @@
       "hint": "brutality"
     },
     {
-      "word": "BRYAN",
-      "hint": ""
-    },
-    {
       "word": "BRÄNDE",
       "hint": "nominative/accusative/genitive plural of Brand"
+    },
+    {
+      "word": "BRÄUNE",
+      "hint": "tan"
     },
     {
       "word": "BRÜCHE",
@@ -3844,6 +3488,10 @@
       "hint": "abbreviation of Berufsunfähigkeit or Berufsunfähigkeitsversicherung; abbreviation of Bildunterschrift"
     },
     {
+      "word": "BUCH",
+      "hint": "book (collection of sheets of paper bound together to hinge at one edge; long work fit for publication)"
+    },
+    {
       "word": "BUCHHALTER",
       "hint": "accountant, bookkeeper"
     },
@@ -3860,24 +3508,8 @@
       "hint": "boss; hump"
     },
     {
-      "word": "BUFFALO",
-      "hint": ""
-    },
-    {
       "word": "BUGS",
       "hint": "genitive singular of Bug"
-    },
-    {
-      "word": "BUILDING",
-      "hint": ""
-    },
-    {
-      "word": "BULGARIEN",
-      "hint": ""
-    },
-    {
-      "word": "BUMM",
-      "hint": ""
     },
     {
       "word": "BUNDES",
@@ -3890,10 +3522,6 @@
     {
       "word": "BUNDESREGIERUNG",
       "hint": "federal government"
-    },
-    {
-      "word": "BUNNY",
-      "hint": ""
     },
     {
       "word": "BUNTEN",
@@ -3912,10 +3540,6 @@
       "hint": "alternative form of Burnout"
     },
     {
-      "word": "BURTON",
-      "hint": ""
-    },
-    {
       "word": "BUSFAHRER",
       "hint": "bus driver (male or of unspecified gender)"
     },
@@ -3926,14 +3550,6 @@
     {
       "word": "BUTTON",
       "hint": "button; badge, button (badge worn on clothes)"
-    },
-    {
-      "word": "BUY",
-      "hint": ""
-    },
-    {
-      "word": "BYRON",
-      "hint": ""
     },
     {
       "word": "BÄDER",
@@ -3952,12 +3568,20 @@
       "hint": "malicious; vicious; malevolent; pernicious; virulent"
     },
     {
+      "word": "BÖSE",
+      "hint": "the Evil One; evil; malicious; wicked"
+    },
+    {
       "word": "BÖSEWICHT",
       "hint": "villain"
     },
     {
       "word": "BÜCHSE",
       "hint": "box, can; rifle"
+    },
+    {
+      "word": "BÜFFEL",
+      "hint": "buffalo"
     },
     {
       "word": "BÜGELN",
@@ -3992,28 +3616,12 @@
       "hint": "cabriolet (an automobile with a retractable top)"
     },
     {
-      "word": "CADILLAC",
-      "hint": ""
-    },
-    {
       "word": "CAFETERIA",
       "hint": "cafeteria"
     },
     {
       "word": "CAFÉS",
       "hint": "a café, a coffee shop; coffee"
-    },
-    {
-      "word": "CAGE",
-      "hint": ""
-    },
-    {
-      "word": "CAL",
-      "hint": ""
-    },
-    {
-      "word": "CALIFORNIA",
-      "hint": ""
     },
     {
       "word": "CAMPEN",
@@ -4028,56 +3636,8 @@
       "hint": "an area where people may place tents, caravans, and the like; a campsite; a caravan site"
     },
     {
-      "word": "CANNES",
-      "hint": ""
-    },
-    {
-      "word": "CAPITAL",
-      "hint": ""
-    },
-    {
       "word": "CAPPUCCINO",
       "hint": "cappuccino (Italian coffee-based beverage made from espresso and milk; a cup of this)"
-    },
-    {
-      "word": "CARD",
-      "hint": ""
-    },
-    {
-      "word": "CARE",
-      "hint": ""
-    },
-    {
-      "word": "CARRIE",
-      "hint": ""
-    },
-    {
-      "word": "CARSON",
-      "hint": ""
-    },
-    {
-      "word": "CASA",
-      "hint": ""
-    },
-    {
-      "word": "CASEY",
-      "hint": ""
-    },
-    {
-      "word": "CASPER",
-      "hint": ""
-    },
-    {
-      "word": "CATHY",
-      "hint": ""
-    },
-    {
-      "word": "CAUSE",
-      "hint": ""
-    },
-    {
-      "word": "CE",
-      "hint": ""
     },
     {
       "word": "CELLO",
@@ -4088,56 +3648,16 @@
       "hint": "Celsius"
     },
     {
-      "word": "CEM",
-      "hint": ""
-    },
-    {
       "word": "CENTS",
       "hint": "cent, the smaller unit of the euro; cent (in other currencies)"
-    },
-    {
-      "word": "CESARE",
-      "hint": ""
     },
     {
       "word": "CHA",
       "hint": "cha-cha"
     },
     {
-      "word": "CHAD",
-      "hint": ""
-    },
-    {
-      "word": "CHAMP",
-      "hint": ""
-    },
-    {
-      "word": "CHANDLER",
-      "hint": ""
-    },
-    {
-      "word": "CHANG",
-      "hint": ""
-    },
-    {
-      "word": "CHANGE",
-      "hint": ""
-    },
-    {
       "word": "CHAOTISCH",
       "hint": "chaotic"
-    },
-    {
-      "word": "CHAPMAN",
-      "hint": ""
-    },
-    {
-      "word": "CHARLESTON",
-      "hint": ""
-    },
-    {
-      "word": "CHARTS",
-      "hint": ""
     },
     {
       "word": "CHAUFFEUR",
@@ -4146,10 +3666,6 @@
     {
       "word": "CHECKT",
       "hint": "to check (up), to inspect, examine; to grasp, to understand [from 1980s]"
-    },
-    {
-      "word": "CHEERS",
-      "hint": ""
     },
     {
       "word": "CHEFARZT",
@@ -4164,26 +3680,6 @@
       "hint": "chemist (person working in chemistry)"
     },
     {
-      "word": "CHER",
-      "hint": ""
-    },
-    {
-      "word": "CHESTER",
-      "hint": ""
-    },
-    {
-      "word": "CHILD",
-      "hint": ""
-    },
-    {
-      "word": "CHIN",
-      "hint": ""
-    },
-    {
-      "word": "CHINAS",
-      "hint": ""
-    },
-    {
       "word": "CHINESISCHER",
       "hint": "Chinese"
     },
@@ -4192,28 +3688,12 @@
       "hint": "strong/mixed nominative/accusative neuter singular of chinesisch"
     },
     {
-      "word": "CHLOE",
-      "hint": ""
-    },
-    {
-      "word": "CHO",
-      "hint": ""
-    },
-    {
       "word": "CHOLERA",
       "hint": "cholera"
     },
     {
-      "word": "CHRISTA",
-      "hint": ""
-    },
-    {
       "word": "CHRISTENTUM",
       "hint": "Christendom; Christianity"
-    },
-    {
-      "word": "CHRISTIANE",
-      "hint": ""
     },
     {
       "word": "CHRISTLICH",
@@ -4228,14 +3708,6 @@
       "hint": "chronic"
     },
     {
-      "word": "CHURCH",
-      "hint": ""
-    },
-    {
-      "word": "CHURCHILL",
-      "hint": ""
-    },
-    {
       "word": "CICERO",
       "hint": "cicero; the 5th of the 7 traditional German sizes of type, between Korpus and Mittel, standardized as 12 point"
     },
@@ -4244,136 +3716,24 @@
       "hint": "alternative spelling of Zirkus"
     },
     {
-      "word": "CISCO",
-      "hint": ""
-    },
-    {
-      "word": "CK",
-      "hint": ""
-    },
-    {
-      "word": "CLARENCE",
-      "hint": ""
-    },
-    {
       "word": "CLASS",
       "hint": "Obsolete spelling of Klasse which was deprecated in 1902 following the Second Orthographic Conference of 1901."
-    },
-    {
-      "word": "CLAYTON",
-      "hint": ""
-    },
-    {
-      "word": "CLIFF",
-      "hint": ""
-    },
-    {
-      "word": "CLIP",
-      "hint": ""
     },
     {
       "word": "CLIQUE",
       "hint": "a group of friends, a gang, clique; a clique, cabal, camarilla"
     },
     {
-      "word": "CLYDE",
-      "hint": ""
-    },
-    {
-      "word": "CNN",
-      "hint": ""
-    },
-    {
-      "word": "COBRA",
-      "hint": ""
-    },
-    {
-      "word": "COCO",
-      "hint": ""
-    },
-    {
-      "word": "CODY",
-      "hint": ""
-    },
-    {
-      "word": "COFFEE",
-      "hint": ""
-    },
-    {
       "word": "COGNAC",
       "hint": "cognac-coloured"
-    },
-    {
-      "word": "COHEN",
-      "hint": ""
-    },
-    {
-      "word": "COLD",
-      "hint": ""
-    },
-    {
-      "word": "COLOR",
-      "hint": ""
-    },
-    {
-      "word": "COLT",
-      "hint": ""
-    },
-    {
-      "word": "COLUMBUS",
-      "hint": ""
-    },
-    {
-      "word": "COM",
-      "hint": ""
     },
     {
       "word": "COMING",
       "hint": "coming out of the closet"
     },
     {
-      "word": "CONNECTICUT",
-      "hint": ""
-    },
-    {
-      "word": "CONNY",
-      "hint": ""
-    },
-    {
-      "word": "COOK",
-      "hint": ""
-    },
-    {
       "word": "COOKIE",
       "hint": "cookie, HTTP cookie; cookie"
-    },
-    {
-      "word": "COOP",
-      "hint": ""
-    },
-    {
-      "word": "CORA",
-      "hint": ""
-    },
-    {
-      "word": "CORNELIA",
-      "hint": ""
-    },
-    {
-      "word": "CORNELIUS",
-      "hint": ""
-    },
-    {
-      "word": "CORPORATION",
-      "hint": ""
-    },
-    {
-      "word": "COTTON",
-      "hint": ""
-    },
-    {
-      "word": "COULD",
-      "hint": ""
     },
     {
       "word": "COUNT",
@@ -4392,40 +3752,12 @@
       "hint": "cowboy"
     },
     {
-      "word": "COX",
-      "hint": ""
-    },
-    {
       "word": "CRACK",
       "hint": "pro, ace (highly trained or skilled person); successful racehorse"
     },
     {
-      "word": "CRAWFORD",
-      "hint": ""
-    },
-    {
-      "word": "CRISTINA",
-      "hint": ""
-    },
-    {
-      "word": "CRUISE",
-      "hint": ""
-    },
-    {
-      "word": "CRY",
-      "hint": ""
-    },
-    {
-      "word": "CUM",
-      "hint": ""
-    },
-    {
       "word": "CURRY",
       "hint": "curry (sauce or relish flavored with curry powder); curry powder"
-    },
-    {
-      "word": "CURT",
-      "hint": ""
     },
     {
       "word": "DACHT",
@@ -4436,16 +3768,8 @@
       "hint": "second-person singular preterite of denken"
     },
     {
-      "word": "DAG",
-      "hint": ""
-    },
-    {
       "word": "DAKOTA",
       "hint": "Dakota (a member of the Dakota people)"
-    },
-    {
-      "word": "DALE",
-      "hint": ""
     },
     {
       "word": "DAMALIGE",
@@ -4456,52 +3780,20 @@
       "hint": "Damascene experience, road to Damascus"
     },
     {
-      "word": "DAMIEN",
-      "hint": ""
-    },
-    {
       "word": "DAMPFER",
       "hint": "steamer (steamboat, steamship)"
-    },
-    {
-      "word": "DANCING",
-      "hint": ""
-    },
-    {
-      "word": "DANI",
-      "hint": ""
-    },
-    {
-      "word": "DANIELA",
-      "hint": ""
-    },
-    {
-      "word": "DANS",
-      "hint": ""
-    },
-    {
-      "word": "DAPHNE",
-      "hint": ""
     },
     {
       "word": "DARBIETUNG",
       "hint": "performance; skit"
     },
     {
-      "word": "DARIUS",
-      "hint": ""
-    },
-    {
-      "word": "DARLING",
-      "hint": ""
-    },
-    {
       "word": "DARREN",
       "hint": "a place, e.g. a room or rack, for air-drying food (or other organic materials such as peat, hemp); a kiln for drying such materials"
     },
     {
-      "word": "DARWIN",
-      "hint": ""
+      "word": "DARUM",
+      "hint": "around it, around that"
     },
     {
       "word": "DAS",
@@ -4528,26 +3820,6 @@
       "hint": "permanent, lasting, enduring, durable"
     },
     {
-      "word": "DAVIDS",
-      "hint": ""
-    },
-    {
-      "word": "DAVIES",
-      "hint": ""
-    },
-    {
-      "word": "DAWSON",
-      "hint": ""
-    },
-    {
-      "word": "DEA",
-      "hint": ""
-    },
-    {
-      "word": "DEB",
-      "hint": ""
-    },
-    {
       "word": "DEBATTEN",
       "hint": "debate"
     },
@@ -4569,7 +3841,7 @@
     },
     {
       "word": "DEKO",
-      "hint": ""
+      "hint": "decoration, decor (clipping of Dekoration)"
     },
     {
       "word": "DEKORATION",
@@ -4584,20 +3856,12 @@
       "hint": "delegate, representative (male or of unspecified gender)"
     },
     {
-      "word": "DELHI",
-      "hint": ""
-    },
-    {
       "word": "DELL",
       "hint": "dent; hollow"
     },
     {
       "word": "DELLE",
       "hint": "dent; hollow"
-    },
-    {
-      "word": "DELUXE",
-      "hint": ""
     },
     {
       "word": "DEMENTSPRECHEND",
@@ -4660,10 +3924,6 @@
       "hint": "to depress"
     },
     {
-      "word": "DEPUTY",
-      "hint": ""
-    },
-    {
       "word": "DER",
       "hint": "nominative masculine singular definite article, the"
     },
@@ -4700,14 +3960,6 @@
       "hint": "to interpret (e.g. dreams), to understand, to read (e.g. signs); to point [with auf (+ accusative) ‘at something’], to indicate"
     },
     {
-      "word": "DEV",
-      "hint": ""
-    },
-    {
-      "word": "DEVON",
-      "hint": ""
-    },
-    {
       "word": "DIAGNOSTIZIERT",
       "hint": "to diagnose"
     },
@@ -4720,12 +3972,8 @@
       "hint": "dialogue"
     },
     {
-      "word": "DIAMOND",
-      "hint": ""
-    },
-    {
-      "word": "DIAZ",
-      "hint": ""
+      "word": "DIAMANTEN",
+      "hint": "diamond"
     },
     {
       "word": "DICHTEN",
@@ -4734,10 +3982,6 @@
     {
       "word": "DICHTUNG",
       "hint": "poetry; seal, gasket (something designed to prevent liquids or gases from leaking through a joint)"
-    },
-    {
-      "word": "DID",
-      "hint": ""
     },
     {
       "word": "DIE",
@@ -4778,10 +4022,6 @@
     {
       "word": "DILDO",
       "hint": "dildo"
-    },
-    {
-      "word": "DIMITRI",
-      "hint": ""
     },
     {
       "word": "DINER",
@@ -4828,10 +4068,6 @@
       "hint": "director, conductor, maestro, choirmaster"
     },
     {
-      "word": "DIRTY",
-      "hint": ""
-    },
-    {
       "word": "DISKRETION",
       "hint": "discretion"
     },
@@ -4841,7 +4077,7 @@
     },
     {
       "word": "DISQUALIFIZIERT",
-      "hint": ""
+      "hint": "disqualified (past participle of disqualifizieren)"
     },
     {
       "word": "DISSERTATION",
@@ -4852,24 +4088,12 @@
       "hint": "miscellaneous"
     },
     {
-      "word": "DIXON",
-      "hint": ""
-    },
-    {
       "word": "DM",
       "hint": "initialism of Deutsche Mark"
     },
     {
       "word": "DOCK",
       "hint": "dock (a construction in which ships are repaired)"
-    },
-    {
-      "word": "DODGE",
-      "hint": ""
-    },
-    {
-      "word": "DOGS",
-      "hint": ""
     },
     {
       "word": "DOKTORARBEIT",
@@ -4912,28 +4136,8 @@
       "hint": "to dominate"
     },
     {
-      "word": "DOMINIK",
-      "hint": ""
-    },
-    {
-      "word": "DOMINIQUE",
-      "hint": ""
-    },
-    {
-      "word": "DOMINO",
-      "hint": ""
-    },
-    {
-      "word": "DONG",
-      "hint": ""
-    },
-    {
       "word": "DONNERSTAGS",
       "hint": "on Thursdays, every Thursday; on (the next or last) Thursday"
-    },
-    {
-      "word": "DONNIE",
-      "hint": ""
     },
     {
       "word": "DOOFE",
@@ -4948,44 +4152,20 @@
       "hint": "strong/mixed nominative/accusative neuter singular of doppelt"
     },
     {
-      "word": "DORA",
-      "hint": ""
+      "word": "DORF",
+      "hint": "village (rural habitation of size between a hamlet and a town)"
     },
     {
       "word": "DORFBEWOHNER",
       "hint": "villager (male or of unspecified gender)"
     },
     {
-      "word": "DOROTHEA",
-      "hint": ""
-    },
-    {
-      "word": "DOROTHY",
-      "hint": ""
-    },
-    {
-      "word": "DOS",
-      "hint": ""
-    },
-    {
-      "word": "DOT",
-      "hint": ""
-    },
-    {
       "word": "DOWNLOAD",
       "hint": "a download"
     },
     {
-      "word": "DOYLE",
-      "hint": ""
-    },
-    {
       "word": "DOZENT",
       "hint": "lecturer, instructor (at the university level; male or of unspecified sex)"
-    },
-    {
-      "word": "DRACULA",
-      "hint": ""
     },
     {
       "word": "DRAMATISCHEN",
@@ -5018,10 +4198,6 @@
     {
       "word": "DREIFACHE",
       "hint": "triple (made up of three matching or complementary elements)"
-    },
-    {
-      "word": "DREW",
-      "hint": ""
     },
     {
       "word": "DRINGEN",
@@ -5096,6 +4272,10 @@
       "hint": "duo, pair; duet"
     },
     {
+      "word": "DURCH",
+      "hint": "through; entering, then exiting; through (a period of time)"
+    },
+    {
       "word": "DURCHBROCHEN",
       "hint": "to break something in two [auxiliary haben]; to break in two; to snap [auxiliary sein]"
     },
@@ -5146,14 +4326,6 @@
     {
       "word": "DUS",
       "hint": "contraction of du +‎ es"
-    },
-    {
-      "word": "DUTCH",
-      "hint": ""
-    },
-    {
-      "word": "DVDS",
-      "hint": ""
     },
     {
       "word": "DYNAMIK",
@@ -5224,32 +4396,8 @@
       "hint": "dark, dim, gloomy, obscure; cheerless, melancholy, somber"
     },
     {
-      "word": "EAGLE",
-      "hint": ""
-    },
-    {
-      "word": "EARLY",
-      "hint": ""
-    },
-    {
-      "word": "EARTH",
-      "hint": ""
-    },
-    {
       "word": "EDDY",
       "hint": "clipping of Edding"
-    },
-    {
-      "word": "EDGE",
-      "hint": ""
-    },
-    {
-      "word": "EDWIN",
-      "hint": ""
-    },
-    {
-      "word": "EEG",
-      "hint": ""
     },
     {
       "word": "EFFEKTIVE",
@@ -5274,10 +4422,6 @@
     {
       "word": "EHESTEN",
       "hint": "superlative degree of bald; A superlative corresponding to eher in the sense of “rather”."
-    },
-    {
-      "word": "EHM",
-      "hint": ""
     },
     {
       "word": "EHRENAMTLICH",
@@ -5310,6 +4454,10 @@
     {
       "word": "EIGENS",
       "hint": "specifically (just for this purpose)"
+    },
+    {
+      "word": "EIGENTUM",
+      "hint": "an item of owned property, e.g. estate, belonging, etc."
     },
     {
       "word": "EILEN",
@@ -5354,6 +4502,10 @@
     {
       "word": "EINDRÜCKE",
       "hint": "impression"
+    },
+    {
+      "word": "EINER",
+      "hint": "unit, unitsʼ place, onesʼ place (the numbers 0 to 9, possibly as part of a larger number or fraction)"
     },
     {
       "word": "EINFACHSTEN",
@@ -5613,7 +4765,7 @@
     },
     {
       "word": "EINZUSTEIGEN",
-      "hint": ""
+      "hint": "to get in, to board (zu-infinitive of einsteigen)"
     },
     {
       "word": "EINZUTRETEN",
@@ -5642,10 +4794,6 @@
     {
       "word": "EKG",
       "hint": "abbreviation of Elektrokardiogramm (“electrocardiogram”): ECG"
-    },
-    {
-      "word": "ELEANOR",
-      "hint": ""
     },
     {
       "word": "ELEGANTE",
@@ -5680,10 +4828,6 @@
       "hint": "plural of Elf"
     },
     {
-      "word": "ELI",
-      "hint": ""
-    },
-    {
       "word": "ELIMINIEREN",
       "hint": "to eliminate"
     },
@@ -5692,16 +4836,8 @@
       "hint": "to eliminate"
     },
     {
-      "word": "ELISA",
-      "hint": ""
-    },
-    {
       "word": "ELISE",
       "hint": "elision (omission of a letter or syllable)"
-    },
-    {
-      "word": "ELKE",
-      "hint": ""
     },
     {
       "word": "ELLBOGEN",
@@ -5716,18 +4852,6 @@
       "hint": "alternative form of Ellbogen"
     },
     {
-      "word": "ELLIE",
-      "hint": ""
-    },
-    {
-      "word": "ELLIOT",
-      "hint": ""
-    },
-    {
-      "word": "ELSE",
-      "hint": ""
-    },
-    {
       "word": "ELTERNHAUS",
       "hint": "parents' house"
     },
@@ -5736,20 +4860,8 @@
       "hint": "parent"
     },
     {
-      "word": "ELTON",
-      "hint": ""
-    },
-    {
       "word": "EMAILS",
       "hint": "genitive singular of Email"
-    },
-    {
-      "word": "EMILIA",
-      "hint": ""
-    },
-    {
-      "word": "EMMY",
-      "hint": ""
     },
     {
       "word": "EMOTION",
@@ -5830,10 +4942,6 @@
     {
       "word": "ENTDECKUNGEN",
       "hint": "discovery"
-    },
-    {
-      "word": "ENTERTAINMENT",
-      "hint": ""
     },
     {
       "word": "ENTFALLEN",
@@ -5972,10 +5080,6 @@
       "hint": "inflammation"
     },
     {
-      "word": "ENZO",
-      "hint": ""
-    },
-    {
       "word": "EPOCHE",
       "hint": "epoch"
     },
@@ -6018,6 +5122,10 @@
     {
       "word": "ERDBODEN",
       "hint": "ground"
+    },
+    {
+      "word": "ERDE",
+      "hint": "earth"
     },
     {
       "word": "ERDÖL",
@@ -6160,14 +5268,6 @@
       "hint": "inflection of erhöht"
     },
     {
-      "word": "ERICA",
-      "hint": ""
-    },
-    {
-      "word": "ERIN",
-      "hint": ""
-    },
-    {
       "word": "ERKANNTEN",
       "hint": "first/third-person plural preterite of erkennen"
     },
@@ -6272,10 +5372,6 @@
       "hint": "appointment"
     },
     {
-      "word": "ERNEST",
-      "hint": ""
-    },
-    {
       "word": "ERNEUERUNG",
       "hint": "renewal, replacement; innovation"
     },
@@ -6342,6 +5438,10 @@
     {
       "word": "ERSCHÖPFUNG",
       "hint": "depletion; exhaustion"
+    },
+    {
+      "word": "ERSCHÜTTERN",
+      "hint": "to shake, to rock; to shake up, to rattle, to convulse"
     },
     {
       "word": "ERSPARNISSE",
@@ -6476,52 +5576,20 @@
       "hint": "ethane (aliphatic hydrocarbon, C2H6)"
     },
     {
-      "word": "ETIENNE",
-      "hint": ""
-    },
-    {
       "word": "ETIKETT",
       "hint": "label, tag"
     },
     {
-      "word": "EUGEN",
-      "hint": ""
-    },
-    {
-      "word": "EUROPE",
-      "hint": ""
-    },
-    {
-      "word": "EV",
-      "hint": ""
-    },
-    {
-      "word": "EVAN",
-      "hint": ""
+      "word": "ETWAS",
+      "hint": "something"
     },
     {
       "word": "EVANGELIUM",
       "hint": "Evangelium, Gospel (one of the first four books of the New Testament: Matthew, Mark, Luke, or John); gospel (the good news of salvation through Jesus)"
     },
     {
-      "word": "EVEN",
-      "hint": ""
-    },
-    {
       "word": "EVENTS",
       "hint": "event"
-    },
-    {
-      "word": "EVERY",
-      "hint": ""
-    },
-    {
-      "word": "EVIL",
-      "hint": ""
-    },
-    {
-      "word": "EWALD",
-      "hint": ""
     },
     {
       "word": "EWIGER",
@@ -6608,10 +5676,6 @@
       "hint": "fabulous"
     },
     {
-      "word": "FABER",
-      "hint": ""
-    },
-    {
       "word": "FACHGEBIET",
       "hint": "discipline, field of expertise"
     },
@@ -6668,14 +5732,6 @@
       "hint": "fairness"
     },
     {
-      "word": "FAITH",
-      "hint": ""
-    },
-    {
-      "word": "FALCON",
-      "hint": ""
-    },
-    {
       "word": "FALK",
       "hint": "falcon; hawk, hard-liner"
     },
@@ -6718,10 +5774,6 @@
     {
       "word": "FANTASY",
       "hint": "fantasy (genre)"
-    },
-    {
-      "word": "FAR",
-      "hint": ""
     },
     {
       "word": "FARBIGE",
@@ -6852,24 +5904,16 @@
       "hint": "coward, chicken"
     },
     {
+      "word": "FEIN",
+      "hint": "fine; very good; as it should be; fine (not rough, coarse, or thick)"
+    },
+    {
       "word": "FEINDES",
       "hint": "enemy, fiend, foe (male or of unspecified gender)"
     },
     {
       "word": "FELDZUG",
       "hint": "campaign"
-    },
-    {
-      "word": "FELIPE",
-      "hint": ""
-    },
-    {
-      "word": "FENG",
-      "hint": ""
-    },
-    {
-      "word": "FERGUSON",
-      "hint": ""
     },
     {
       "word": "FERIENHAUS",
@@ -6948,14 +5992,6 @@
       "hint": "fuck (sexual act); fuck (sexual partner)"
     },
     {
-      "word": "FICTION",
-      "hint": ""
-    },
-    {
-      "word": "FIELD",
-      "hint": ""
-    },
-    {
       "word": "FIESE",
       "hint": "strong/mixed nominative/accusative neuter singular of fies"
     },
@@ -6980,10 +6016,6 @@
       "hint": "finance minister"
     },
     {
-      "word": "FINE",
-      "hint": ""
-    },
-    {
       "word": "FINGERABDRUCK",
       "hint": "fingerprint"
     },
@@ -6996,16 +6028,12 @@
       "hint": "finch; student not belonging to a fraternity"
     },
     {
+      "word": "FINN",
+      "hint": "big dorsal fin as found in large fish and marine mammals; the wedge-shaped end of a hammer's head"
+    },
+    {
       "word": "FINSTER",
       "hint": "dark; gloomy, lowering"
-    },
-    {
-      "word": "FIONA",
-      "hint": ""
-    },
-    {
-      "word": "FITZ",
-      "hint": ""
     },
     {
       "word": "FLACHE",
@@ -7032,16 +6060,12 @@
       "hint": "butcher (male or of unspecified gender)"
     },
     {
-      "word": "FLEMING",
-      "hint": ""
-    },
-    {
-      "word": "FLETCHER",
-      "hint": ""
-    },
-    {
       "word": "FLIEG",
       "hint": "fly (insect); bowtie"
+    },
+    {
+      "word": "FLIEGE",
+      "hint": "fly (insect)"
     },
     {
       "word": "FLIEGST",
@@ -7056,20 +6080,12 @@
       "hint": "honeymoon (vacation after a wedding)"
     },
     {
-      "word": "FLO",
-      "hint": ""
-    },
-    {
       "word": "FLOHEN",
       "hint": "first/third-person plural preterite of fliehen"
     },
     {
       "word": "FLOHMARKT",
       "hint": "flea market"
-    },
-    {
-      "word": "FLORENCE",
-      "hint": ""
     },
     {
       "word": "FLOSS",
@@ -7082,10 +6098,6 @@
     {
       "word": "FLOTT",
       "hint": "afloat, able to navigate; quick, swift"
-    },
-    {
-      "word": "FLOYD",
-      "hint": ""
     },
     {
       "word": "FLUCHEN",
@@ -7102,14 +6114,6 @@
     {
       "word": "FLUTEN",
       "hint": "to flood"
-    },
-    {
-      "word": "FLY",
-      "hint": ""
-    },
-    {
-      "word": "FLYNN",
-      "hint": ""
     },
     {
       "word": "FLÄCHEN",
@@ -7172,20 +6176,8 @@
       "hint": "to torture (subject to cruel treatment)"
     },
     {
-      "word": "FORBES",
-      "hint": ""
-    },
-    {
       "word": "FORDERTEN",
       "hint": "inflection of fordern"
-    },
-    {
-      "word": "FOREST",
-      "hint": ""
-    },
-    {
-      "word": "FOREVER",
-      "hint": ""
     },
     {
       "word": "FORMELL",
@@ -7198,10 +6190,6 @@
     {
       "word": "FORMULIERUNG",
       "hint": "wording, phrasing; formulation"
-    },
-    {
-      "word": "FORREST",
-      "hint": ""
     },
     {
       "word": "FORSCHEN",
@@ -7224,10 +6212,6 @@
       "hint": "reproduction (act of reproducing new individuals biologically)"
     },
     {
-      "word": "FORTUNA",
-      "hint": ""
-    },
-    {
       "word": "FORTZUSETZEN",
       "hint": "zu-infinitive of fortsetzen"
     },
@@ -7246,10 +6230,6 @@
     {
       "word": "FOUL",
       "hint": "foul (breach of the rules of a game, especially one involving inappropriate contact with an opposing player in order to gain an advantage)"
-    },
-    {
-      "word": "FOUND",
-      "hint": ""
     },
     {
       "word": "FOYER",
@@ -7284,28 +6264,12 @@
       "hint": "faction, parliamentary group; fraction (component of a mixture)"
     },
     {
-      "word": "FRAN",
-      "hint": ""
-    },
-    {
       "word": "FRANC",
       "hint": "franc (currency)"
     },
     {
       "word": "FRANCES",
       "hint": "franc (currency)"
-    },
-    {
-      "word": "FRANCESCA",
-      "hint": ""
-    },
-    {
-      "word": "FRANCESCO",
-      "hint": ""
-    },
-    {
-      "word": "FRANCOIS",
-      "hint": ""
     },
     {
       "word": "FRANCS",
@@ -7318,14 +6282,6 @@
     {
       "word": "FRANKFURTER",
       "hint": "Frankfurter (native or inhabitant of the city of Frankfurt, state of Hesse, Germany) (usually male)"
-    },
-    {
-      "word": "FRANKIE",
-      "hint": ""
-    },
-    {
-      "word": "FRANZISKA",
-      "hint": ""
     },
     {
       "word": "FRANZÖSIN",
@@ -7344,18 +6300,6 @@
       "hint": "freak (in the abnormal person sense)"
     },
     {
-      "word": "FREDDIE",
-      "hint": ""
-    },
-    {
-      "word": "FREDERICK",
-      "hint": ""
-    },
-    {
-      "word": "FREEDOM",
-      "hint": ""
-    },
-    {
       "word": "FREIGEBEN",
       "hint": "to release, to declassify (to put at public disposal); to release, to liberate (to set free from imprisonment)"
     },
@@ -7366,6 +6310,10 @@
     {
       "word": "FREIGESPROCHEN",
       "hint": "to acquit; to exonerate"
+    },
+    {
+      "word": "FREIHEIT",
+      "hint": "freedom"
     },
     {
       "word": "FREIRAUM",
@@ -7400,20 +6348,8 @@
       "hint": "strong/mixed nominative/accusative neuter singular of freundlich"
     },
     {
-      "word": "FREY",
-      "hint": ""
-    },
-    {
-      "word": "FRIEDA",
-      "hint": ""
-    },
-    {
-      "word": "FRIEND",
-      "hint": ""
-    },
-    {
-      "word": "FRIENDS",
-      "hint": ""
+      "word": "FRIEDEN",
+      "hint": "peace"
     },
     {
       "word": "FRIEREN",
@@ -7454,6 +6390,10 @@
     {
       "word": "FRÜCHTEN",
       "hint": "dative plural of Frucht"
+    },
+    {
+      "word": "FRÜH",
+      "hint": "early"
     },
     {
       "word": "FRÜHESTENS",
@@ -7576,14 +6516,6 @@
       "hint": "to feed (to give food to)"
     },
     {
-      "word": "GA",
-      "hint": ""
-    },
-    {
-      "word": "GABI",
-      "hint": ""
-    },
-    {
       "word": "GAG",
       "hint": "gag (a joke or other mischievous prank)"
     },
@@ -7596,24 +6528,12 @@
       "hint": "fee"
     },
     {
-      "word": "GAIL",
-      "hint": ""
-    },
-    {
-      "word": "GAIUS",
-      "hint": ""
-    },
-    {
       "word": "GALAXIEN",
       "hint": "galaxy (huge gravitationally bound system of stars)"
     },
     {
       "word": "GALGEN",
       "hint": "gallows"
-    },
-    {
-      "word": "GALILEO",
-      "hint": ""
     },
     {
       "word": "GALTEN",
@@ -7624,20 +6544,16 @@
       "hint": "video game"
     },
     {
-      "word": "GANDHI",
-      "hint": ""
-    },
-    {
       "word": "GARANTIERE",
       "hint": "to guarantee"
     },
     {
-      "word": "GARNICHTS",
-      "hint": ""
+      "word": "GAREN",
+      "hint": "cook (prepare (food) for eating); cook (become ready for eating)"
     },
     {
-      "word": "GARRETT",
-      "hint": ""
+      "word": "GARNICHTS",
+      "hint": "nothing at all"
     },
     {
       "word": "GASSEN",
@@ -7674,6 +6590,10 @@
     {
       "word": "GEBETET",
       "hint": "past participle of beten"
+    },
+    {
+      "word": "GEBIET",
+      "hint": "area, region"
     },
     {
       "word": "GEBILDETE",
@@ -7722,6 +6642,10 @@
     {
       "word": "GEBÄRMUTTER",
       "hint": "womb, uterus"
+    },
+    {
+      "word": "GEBÄUDE",
+      "hint": "building, edifice, structure"
     },
     {
       "word": "GEBÜHRT",
@@ -7774,6 +6698,10 @@
     {
       "word": "GEFERTIGT",
       "hint": "strong/mixed nominative/accusative neuter singular of gefertigt"
+    },
+    {
+      "word": "GEFILDE",
+      "hint": "field"
     },
     {
       "word": "GEFOLGE",
@@ -7928,6 +6856,10 @@
       "hint": "nominalization of geimpft: vaccinated person (male or of unspecified gender)"
     },
     {
+      "word": "GEIST",
+      "hint": "ghost; spook; the Holy Spirit; Holy Ghost"
+    },
+    {
       "word": "GEISTE",
       "hint": "spirit; the Holy Spirit; Holy Ghost"
     },
@@ -8038,10 +6970,6 @@
     {
       "word": "GELÜBDE",
       "hint": "oath; vow (solemn promise to act in a specified manner)"
-    },
-    {
-      "word": "GEM",
-      "hint": ""
     },
     {
       "word": "GEMAHLIN",
@@ -8196,6 +7124,10 @@
       "hint": "throwing spear used by Germanic peoples"
     },
     {
+      "word": "GERADE",
+      "hint": "even"
+    },
+    {
       "word": "GERADEN",
       "hint": "line (infinite one-dimensional figure); straightaway"
     },
@@ -8204,16 +7136,12 @@
       "hint": "past participle of rammen"
     },
     {
-      "word": "GERARD",
-      "hint": ""
-    },
-    {
       "word": "GERAUBT",
       "hint": "strong/mixed nominative/accusative neuter singular of geraubt"
     },
     {
-      "word": "GERDA",
-      "hint": ""
+      "word": "GERECHTIGKEIT",
+      "hint": "justice"
     },
     {
       "word": "GEREGNET",
@@ -8234,14 +7162,6 @@
     {
       "word": "GEROCHEN",
       "hint": "past participle of riechen; past participle of rächen"
-    },
-    {
-      "word": "GERRY",
-      "hint": ""
-    },
-    {
-      "word": "GERTRUD",
-      "hint": ""
     },
     {
       "word": "GERÜCHTEN",
@@ -8377,11 +7297,15 @@
     },
     {
       "word": "GESEHN",
-      "hint": ""
+      "hint": "seen (colloquial past participle of sehen)"
     },
     {
       "word": "GESELLEN",
       "hint": "to join [with zu ‘someone’]"
+    },
+    {
+      "word": "GESELLIG",
+      "hint": "social, sociable, convivial"
     },
     {
       "word": "GESELLSCHAFT",
@@ -8616,22 +7540,6 @@
       "hint": "alternative spelling of Getto"
     },
     {
-      "word": "GHOST",
-      "hint": ""
-    },
-    {
-      "word": "GIBBS",
-      "hint": ""
-    },
-    {
-      "word": "GIBSON",
-      "hint": ""
-    },
-    {
-      "word": "GIDEON",
-      "hint": ""
-    },
-    {
       "word": "GIERIG",
       "hint": "greedy; eager"
     },
@@ -8652,40 +7560,12 @@
       "hint": "gigantic"
     },
     {
-      "word": "GIL",
-      "hint": ""
-    },
-    {
-      "word": "GILLES",
-      "hint": ""
-    },
-    {
-      "word": "GINGER",
-      "hint": ""
-    },
-    {
-      "word": "GINO",
-      "hint": ""
-    },
-    {
-      "word": "GIORGIO",
-      "hint": ""
-    },
-    {
       "word": "GIPS",
       "hint": "gypsum; ellipsis of Gipsverband (“cast for a broken bone”)"
     },
     {
-      "word": "GISELA",
-      "hint": ""
-    },
-    {
       "word": "GITTERN",
       "hint": "dative plural of Gitter"
-    },
-    {
-      "word": "GIUSEPPE",
-      "hint": ""
     },
     {
       "word": "GLASS",
@@ -8698,6 +7578,14 @@
     {
       "word": "GLATZE",
       "hint": "baldness, bald head; skinhead"
+    },
+    {
+      "word": "GLAUBE",
+      "hint": "faith, creed; belief, faith [with an (+ accusative) ‘in’]"
+    },
+    {
+      "word": "GLAUBEN",
+      "hint": "to believe something (to consider true); to believe in (to think something exists, or have confidence in someone’s ability) [with an (+ accusative) ‘someone/something’]"
     },
     {
       "word": "GLAUBHAFT",
@@ -8716,20 +7604,12 @@
       "hint": "to glide; to float; to move effortlessly; to slide; to slip; to transition smoothly"
     },
     {
-      "word": "GLEN",
-      "hint": ""
-    },
-    {
       "word": "GLETSCHER",
       "hint": "glacier"
     },
     {
       "word": "GLOBUS",
       "hint": "globe"
-    },
-    {
-      "word": "GLORY",
-      "hint": ""
     },
     {
       "word": "GLÄNZEN",
@@ -8772,26 +7652,6 @@
       "hint": "gracious; propitious"
     },
     {
-      "word": "GOA",
-      "hint": ""
-    },
-    {
-      "word": "GODZILLA",
-      "hint": ""
-    },
-    {
-      "word": "GOEBBELS",
-      "hint": ""
-    },
-    {
-      "word": "GOES",
-      "hint": ""
-    },
-    {
-      "word": "GOING",
-      "hint": ""
-    },
-    {
       "word": "GOLDENER",
       "hint": "comparative degree of golden"
     },
@@ -8800,20 +7660,12 @@
       "hint": "strong/mixed nominative/accusative neuter singular of golden"
     },
     {
-      "word": "GOLDMAN",
-      "hint": ""
-    },
-    {
       "word": "GOLFPLATZ",
       "hint": "golf course"
     },
     {
       "word": "GONG",
       "hint": "gong"
-    },
-    {
-      "word": "GONNA",
-      "hint": ""
     },
     {
       "word": "GORILLA",
@@ -8846,10 +7698,6 @@
     {
       "word": "GRAMMATIK",
       "hint": "grammar"
-    },
-    {
-      "word": "GRAN",
-      "hint": ""
     },
     {
       "word": "GRANATE",
@@ -8888,10 +7736,6 @@
       "hint": "cruelty; savageness"
     },
     {
-      "word": "GREGORY",
-      "hint": ""
-    },
-    {
       "word": "GREIFE",
       "hint": "griffin"
     },
@@ -8900,20 +7744,12 @@
       "hint": "committee, commission, panel (select circle of people tasked with solving a specific problem; often in politics and administration)"
     },
     {
-      "word": "GRETEL",
-      "hint": ""
-    },
-    {
       "word": "GRIFFIN",
       "hint": "grip, traction (ground adhesion of a tyre)"
     },
     {
       "word": "GRINST",
       "hint": "to grin"
-    },
-    {
-      "word": "GRO",
-      "hint": ""
     },
     {
       "word": "GROBEN",
@@ -8930,14 +7766,6 @@
     {
       "word": "GROSSVATER",
       "hint": "Switzerland and Liechtenstein standard spelling of Großvater"
-    },
-    {
-      "word": "GROVE",
-      "hint": ""
-    },
-    {
-      "word": "GRUBER",
-      "hint": ""
     },
     {
       "word": "GRUEN",
@@ -9004,28 +7832,8 @@
       "hint": "Switzerland and Liechtenstein standard spelling of grüßen"
     },
     {
-      "word": "GUARDIAN",
-      "hint": ""
-    },
-    {
-      "word": "GUDRUN",
-      "hint": ""
-    },
-    {
-      "word": "GUIDE",
-      "hint": ""
-    },
-    {
       "word": "GULDEN",
       "hint": "guilder (currency of the Netherlands until 2001); florin; guilder (mediaeval and early modern coin)"
-    },
-    {
-      "word": "GUN",
-      "hint": ""
-    },
-    {
-      "word": "GUNTHER",
-      "hint": ""
     },
     {
       "word": "GURKE",
@@ -9050,10 +7858,6 @@
     {
       "word": "GUTSCHEINE",
       "hint": "something that attests (monetary) value, particularly a voucher, gift certificate, coupon, or rain check"
-    },
-    {
-      "word": "GWEN",
-      "hint": ""
     },
     {
       "word": "GÄNSE",
@@ -9092,16 +7896,8 @@
       "hint": "favourable, propitious, opportune; convenient, expedient"
     },
     {
-      "word": "GÜNTER",
-      "hint": ""
-    },
-    {
       "word": "HAARSCHNITT",
       "hint": "haircut"
-    },
-    {
-      "word": "HAAS",
-      "hint": ""
     },
     {
       "word": "HACH",
@@ -9116,10 +7912,6 @@
       "hint": "minced meat; the victim of a beating or a harsh reprehension"
     },
     {
-      "word": "HAD",
-      "hint": ""
-    },
-    {
       "word": "HAFTEN",
       "hint": "to stick, to adhere [with an (+ dative) ‘to someone/something’]; to be liable, to be responsible [with für (+ accusative) ‘for something’]"
     },
@@ -9128,12 +7920,8 @@
       "hint": "prison sentence, imprisonment"
     },
     {
-      "word": "HAHAHA",
-      "hint": ""
-    },
-    {
-      "word": "HAITI",
-      "hint": ""
+      "word": "HAIN",
+      "hint": "grove; woods; small forest"
     },
     {
       "word": "HALBFINALE",
@@ -9146,6 +7934,10 @@
     {
       "word": "HALLELUJA",
       "hint": "hallelujah"
+    },
+    {
+      "word": "HALLO",
+      "hint": "hello a general greeting used when meeting someone an initial response when picking up a phone call a call for response to try and catch someone's attention used to express"
     },
     {
       "word": "HALLUZINATIONEN",
@@ -9162,14 +7954,6 @@
     {
       "word": "HALTS",
       "hint": "hold; adhesion; foothold; grip"
-    },
-    {
-      "word": "HAMLET",
-      "hint": ""
-    },
-    {
-      "word": "HAMMOND",
-      "hint": ""
     },
     {
       "word": "HAMSTER",
@@ -9212,36 +7996,16 @@
       "hint": "mobile number; mobile phone number"
     },
     {
-      "word": "HANK",
-      "hint": ""
-    },
-    {
       "word": "HANNOVER",
       "hint": "Hanoverian, person from Hanover/Hannover"
-    },
-    {
-      "word": "HARBOR",
-      "hint": ""
     },
     {
       "word": "HARDCORE",
       "hint": "hardcore; hardcore pornography"
     },
     {
-      "word": "HARLEM",
-      "hint": ""
-    },
-    {
       "word": "HARMLOSE",
       "hint": "harmless; innocuous"
-    },
-    {
-      "word": "HARRIET",
-      "hint": ""
-    },
-    {
-      "word": "HARTMANN",
-      "hint": ""
     },
     {
       "word": "HARZ",
@@ -9324,36 +8088,16 @@
       "hint": "skin, hide of a person, animal or (part of a) plant; a creature, especially a person"
     },
     {
+      "word": "HAUTFARBE",
+      "hint": "a color similar to the average skin color of white people in central and northern Europe, often found in colored pencils; flesh; skin color; complexion"
+    },
+    {
       "word": "HAVANNA",
       "hint": "Havana cigar"
     },
     {
-      "word": "HAVEN",
-      "hint": ""
-    },
-    {
-      "word": "HAWK",
-      "hint": ""
-    },
-    {
-      "word": "HAWKINS",
-      "hint": ""
-    },
-    {
-      "word": "HAYES",
-      "hint": ""
-    },
-    {
       "word": "HD",
       "hint": "abbreviation of hochdeutsch (“High German”)"
-    },
-    {
-      "word": "HEATHER",
-      "hint": ""
-    },
-    {
-      "word": "HEAVEN",
-      "hint": ""
     },
     {
       "word": "HEAVY",
@@ -9396,10 +8140,6 @@
       "hint": "inflection of hegen"
     },
     {
-      "word": "HEH",
-      "hint": ""
-    },
-    {
       "word": "HEIDEN",
       "hint": "heath, heathland; woodland, forest, usually coniferous forest (esp. pine) on barren, sandy soil"
     },
@@ -9410,10 +8150,6 @@
     {
       "word": "HEILE",
       "hint": "health, salvation, well-being, happiness, a state of intactness and prosperity; salvation, wellbeing in the afterlife"
-    },
-    {
-      "word": "HEILIGABEND",
-      "hint": ""
     },
     {
       "word": "HEILIGES",
@@ -9468,28 +8204,12 @@
       "hint": "strong/mixed nominative/accusative neuter singular of helle"
     },
     {
-      "word": "HELLO",
-      "hint": ""
-    },
-    {
       "word": "HELME",
       "hint": "helmet; helm roof"
     },
     {
-      "word": "HELP",
-      "hint": ""
-    },
-    {
       "word": "HEMMUNGEN",
       "hint": "inhibition; scruple"
-    },
-    {
-      "word": "HENDERSON",
-      "hint": ""
-    },
-    {
-      "word": "HENDRICKS",
-      "hint": ""
     },
     {
       "word": "HENNE",
@@ -9542,14 +8262,6 @@
     {
       "word": "HERGEKOMMEN",
       "hint": "past participle of herkommen"
-    },
-    {
-      "word": "HERKULES",
-      "hint": ""
-    },
-    {
-      "word": "HERMINE",
-      "hint": ""
     },
     {
       "word": "HERO",
@@ -9632,6 +8344,10 @@
       "hint": "hypocrisy"
     },
     {
+      "word": "HEUTE",
+      "hint": "today"
+    },
+    {
       "word": "HEUTIGER",
       "hint": "today's (of the day of today); contemporary; present-day (of the present age)"
     },
@@ -9649,11 +8365,15 @@
     },
     {
       "word": "HIERÜBER",
-      "hint": ""
+      "hint": "over here; about this"
     },
     {
       "word": "HIESIGE",
       "hint": "local; of, from here"
+    },
+    {
+      "word": "HILFE",
+      "hint": "help, aid (usually uncountable) the act of helping, assistance (countable) a thing or person that helps"
     },
     {
       "word": "HILFSBEREIT",
@@ -9664,8 +8384,8 @@
       "hint": "device, implement, aid, tool, jig, resource, accessory, assistive equipment, adjuvant"
     },
     {
-      "word": "HILTON",
-      "hint": ""
+      "word": "HIMMEL",
+      "hint": "heaven"
     },
     {
       "word": "HIMMLISCHE",
@@ -9764,10 +8484,6 @@
       "hint": "strong/mixed nominative/accusative neuter singular of historisch"
     },
     {
-      "word": "HIV",
-      "hint": ""
-    },
-    {
       "word": "HOCHGELADEN",
       "hint": "to upload (to transfer data)"
     },
@@ -9804,20 +8520,8 @@
       "hint": "singular imperative of hoffen; first-person singular present of hoffen"
     },
     {
-      "word": "HOFFMAN",
-      "hint": ""
-    },
-    {
       "word": "HOFFTEN",
       "hint": "inflection of hoffen"
-    },
-    {
-      "word": "HOFMANN",
-      "hint": ""
-    },
-    {
-      "word": "HOGAN",
-      "hint": ""
     },
     {
       "word": "HOHL",
@@ -9828,16 +8532,12 @@
       "hint": "inflection of hold"
     },
     {
-      "word": "HOLIDAY",
-      "hint": ""
-    },
-    {
       "word": "HOLLÄNDER",
       "hint": "person from Holland (a region in the Netherlands); a Dutch person (from any region)"
     },
     {
-      "word": "HOLY",
-      "hint": ""
+      "word": "HOLZIG",
+      "hint": "woody (non-herbaceous)"
     },
     {
       "word": "HOMEPAGE",
@@ -9856,12 +8556,8 @@
       "hint": "homosexual (male or of unspecified gender)"
     },
     {
-      "word": "HONDA",
-      "hint": ""
-    },
-    {
-      "word": "HONEY",
-      "hint": ""
+      "word": "HONIG",
+      "hint": "honey"
     },
     {
       "word": "HONORAR",
@@ -9870,10 +8566,6 @@
     {
       "word": "HOOK",
       "hint": "a small cluster of farms, often no more than three to five"
-    },
-    {
-      "word": "HOPKINS",
-      "hint": ""
     },
     {
       "word": "HOPPLA",
@@ -9888,10 +8580,6 @@
       "hint": "horror film"
     },
     {
-      "word": "HORSE",
-      "hint": ""
-    },
-    {
       "word": "HORT",
       "hint": "shelter, refuge, haven; hoard, treasure"
     },
@@ -9904,20 +8592,12 @@
       "hint": "helpline"
     },
     {
-      "word": "HOUR",
-      "hint": ""
-    },
-    {
       "word": "HUB",
       "hint": "lift, lifting; distance traveled by a piston within an engine"
     },
     {
       "word": "HUBER",
       "hint": "archaic form of Hufe (“historic measure of land”)"
-    },
-    {
-      "word": "HUGHES",
-      "hint": ""
     },
     {
       "word": "HUI",
@@ -9934,10 +8614,6 @@
     {
       "word": "HUMMER",
       "hint": "lobster"
-    },
-    {
-      "word": "HUMPHREY",
-      "hint": ""
     },
     {
       "word": "HUND",
@@ -10002,10 +8678,6 @@
     {
       "word": "HÄFEN",
       "hint": "diminutive of Häfen: a cup, especially a tall one"
-    },
-    {
-      "word": "HÄH",
-      "hint": ""
     },
     {
       "word": "HÄHNCHEN",
@@ -10092,10 +8764,6 @@
       "hint": "keeper, guardian"
     },
     {
-      "word": "IBM",
-      "hint": ""
-    },
-    {
       "word": "ICH",
       "hint": "I (first person singular nominative (subject) pronoun)"
     },
@@ -10118,10 +8786,6 @@
     {
       "word": "IDOL",
       "hint": "idol"
-    },
-    {
-      "word": "IE",
-      "hint": ""
     },
     {
       "word": "IGEL",
@@ -10148,10 +8812,6 @@
       "hint": "from her; on her behalf; as for her; from them; on their behalf; as for them"
     },
     {
-      "word": "IKEA",
-      "hint": ""
-    },
-    {
       "word": "ILLEGALER",
       "hint": "illegal immigrant, illegal alien"
     },
@@ -10168,20 +8828,20 @@
       "hint": "illusion"
     },
     {
-      "word": "ILONA",
-      "hint": ""
-    },
-    {
-      "word": "ILSE",
-      "hint": ""
-    },
-    {
       "word": "IM",
       "hint": "contraction of in +‎ dem; in the"
     },
     {
       "word": "IMBISS",
       "hint": "snack; snack bar, fast-food restaurant"
+    },
+    {
+      "word": "IMME",
+      "hint": "bee"
+    },
+    {
+      "word": "IMMER",
+      "hint": "always at all times without exception very often; all the time; constantly every time; whenever some precondition is given"
     },
     {
       "word": "IMMERZU",
@@ -10236,20 +8896,8 @@
       "hint": "in, inside, within, at (inside a building); in (pertaining to)"
     },
     {
-      "word": "INC",
-      "hint": ""
-    },
-    {
       "word": "INDEX",
       "hint": "index"
-    },
-    {
-      "word": "INDIA",
-      "hint": ""
-    },
-    {
-      "word": "INDIANA",
-      "hint": ""
     },
     {
       "word": "INDIANERN",
@@ -10320,8 +8968,8 @@
       "hint": "to inform, to update [with über ‘of/about’]; to read up on, to find out, to research, to look into, (rare) to inform oneself"
     },
     {
-      "word": "INGE",
-      "hint": ""
+      "word": "INGWER",
+      "hint": "ginger"
     },
     {
       "word": "INHAFTIERT",
@@ -10380,8 +9028,8 @@
       "hint": "insider (person with special knowledge); in-joke; inside joke"
     },
     {
-      "word": "INSPECTOR",
-      "hint": ""
+      "word": "INSPEKTOR",
+      "hint": "inspector"
     },
     {
       "word": "INSPIRIEREN",
@@ -10390,10 +9038,6 @@
     {
       "word": "INSTABIL",
       "hint": "unstable (not properly fixed, likely to fall); unstable, unsteady, labile, variable"
-    },
-    {
-      "word": "INSTAGRAM",
-      "hint": ""
     },
     {
       "word": "INSTALLATION",
@@ -10472,10 +9116,6 @@
       "hint": "inflection of interessieren"
     },
     {
-      "word": "INTERFACE",
-      "hint": ""
-    },
-    {
       "word": "INTERN",
       "hint": "internal"
     },
@@ -10498,10 +9138,6 @@
     {
       "word": "INTERVIEWT",
       "hint": "to interview (for newspapers etc.)"
-    },
-    {
-      "word": "INTO",
-      "hint": ""
     },
     {
       "word": "INTRIGEN",
@@ -10572,10 +9208,6 @@
       "hint": "insanity, madness"
     },
     {
-      "word": "ISA",
-      "hint": ""
-    },
-    {
       "word": "ISLAMISCHEN",
       "hint": "Islamic"
     },
@@ -10600,10 +9232,6 @@
       "hint": "of Israel; Israeli"
     },
     {
-      "word": "ISRAELS",
-      "hint": ""
-    },
-    {
       "word": "IST",
       "hint": "contraction of ist +‎ es"
     },
@@ -10616,22 +9244,6 @@
       "hint": "Italian (person, or a type of chicken, or car); Italian restaurant"
     },
     {
-      "word": "ITEM",
-      "hint": ""
-    },
-    {
-      "word": "ITS",
-      "hint": ""
-    },
-    {
-      "word": "IVY",
-      "hint": ""
-    },
-    {
-      "word": "IWAN",
-      "hint": ""
-    },
-    {
       "word": "JA",
       "hint": "obviously; certainly; of course; as you know; as is generally known (indicates and emphasises that one is expressing an established fact); under any circumstances, for (absolute)"
     },
@@ -10642,14 +9254,6 @@
     {
       "word": "JACKPOT",
       "hint": "jackpot"
-    },
-    {
-      "word": "JACOBS",
-      "hint": ""
-    },
-    {
-      "word": "JACQUELINE",
-      "hint": ""
     },
     {
       "word": "JADE",
@@ -10684,14 +9288,6 @@
       "hint": "misery"
     },
     {
-      "word": "JANINE",
-      "hint": ""
-    },
-    {
-      "word": "JANSEN",
-      "hint": ""
-    },
-    {
       "word": "JAPANISCHER",
       "hint": "Japanese (of or relating to Japan, the Japanese people, or the Japanese language)"
     },
@@ -10712,10 +9308,6 @@
       "hint": "Javan rhinoceros"
     },
     {
-      "word": "JAVIER",
-      "hint": ""
-    },
-    {
       "word": "JEDERMANNS",
       "hint": "basic bank account (a bank account every citizen is entitled to open)"
     },
@@ -10726,34 +9318,6 @@
     {
       "word": "JEHER",
       "hint": "always [with von or seit]"
-    },
-    {
-      "word": "JEMEN",
-      "hint": ""
-    },
-    {
-      "word": "JEN",
-      "hint": ""
-    },
-    {
-      "word": "JENKINS",
-      "hint": ""
-    },
-    {
-      "word": "JENNA",
-      "hint": ""
-    },
-    {
-      "word": "JEROME",
-      "hint": ""
-    },
-    {
-      "word": "JESS",
-      "hint": ""
-    },
-    {
-      "word": "JESSIE",
-      "hint": ""
     },
     {
       "word": "JETS",
@@ -10772,42 +9336,6 @@
       "hint": "abbreviation of Jahrhundert"
     },
     {
-      "word": "JILL",
-      "hint": ""
-    },
-    {
-      "word": "JOACHIM",
-      "hint": ""
-    },
-    {
-      "word": "JOANNA",
-      "hint": ""
-    },
-    {
-      "word": "JOCHEN",
-      "hint": ""
-    },
-    {
-      "word": "JOHAN",
-      "hint": ""
-    },
-    {
-      "word": "JOHNS",
-      "hint": ""
-    },
-    {
-      "word": "JONNY",
-      "hint": ""
-    },
-    {
-      "word": "JORGE",
-      "hint": ""
-    },
-    {
-      "word": "JOSEPHINE",
-      "hint": ""
-    },
-    {
       "word": "JUBELT",
       "hint": "to cheer, to exult, to rejoice loudly"
     },
@@ -10818,18 +9346,6 @@
     {
       "word": "JUDAS",
       "hint": "Judas, traitor"
-    },
-    {
-      "word": "JUDY",
-      "hint": ""
-    },
-    {
-      "word": "JULIETTE",
-      "hint": ""
-    },
-    {
-      "word": "JULIO",
-      "hint": ""
     },
     {
       "word": "JUN",
@@ -10854,10 +9370,6 @@
     {
       "word": "JURISTISCH",
       "hint": "legal, juridical"
-    },
-    {
-      "word": "JUSTICE",
-      "hint": ""
     },
     {
       "word": "JUSTIZMINISTER",
@@ -10904,10 +9416,6 @@
       "hint": "inflection of jung"
     },
     {
-      "word": "KABUL",
-      "hint": ""
-    },
-    {
       "word": "KACKEN",
       "hint": "to shit"
     },
@@ -10920,6 +9428,10 @@
       "hint": "backwater, Hicksville, bumfuck (a backwards, boring rural town or village)"
     },
     {
+      "word": "KAFFEE",
+      "hint": "coffee (beverage made by infusing coffee beans in hot water); afternoon coffee, afternoon tea, coffee and cake (afternoon meal in northern and central Germany, particularly on"
+    },
+    {
       "word": "KAFFEEMASCHINE",
       "hint": "coffeemaker"
     },
@@ -10930,6 +9442,10 @@
     {
       "word": "KALLE",
       "hint": "bride; lover"
+    },
+    {
+      "word": "KALT",
+      "hint": "cold, frigid (especially when referring to emotions); cold, chilly; the physical perception of something (objects, weather, body etc.) to have a low temperature"
     },
     {
       "word": "KALTER",
@@ -11032,8 +9548,8 @@
       "hint": "to wheelbarrow"
     },
     {
-      "word": "KARSTEN",
-      "hint": ""
+      "word": "KARTE",
+      "hint": "card (flat, normally rectangular piece of stiff paper, plastic etc.); ellipsis of Spielkarte: playing card"
     },
     {
       "word": "KARTELL",
@@ -11076,18 +9592,6 @@
       "hint": "cathedral"
     },
     {
-      "word": "KATHERINE",
-      "hint": ""
-    },
-    {
-      "word": "KATHY",
-      "hint": ""
-    },
-    {
-      "word": "KATY",
-      "hint": ""
-    },
-    {
       "word": "KATZE",
       "hint": "house cat, Felis silvestris catus; female house cat"
     },
@@ -11110,10 +9614,6 @@
     {
       "word": "KAVIAR",
       "hint": "caviar; feces"
-    },
-    {
-      "word": "KEEP",
-      "hint": ""
     },
     {
       "word": "KEHRE",
@@ -11156,14 +9656,6 @@
       "hint": "expert, connoisseur"
     },
     {
-      "word": "KENNETH",
-      "hint": ""
-    },
-    {
-      "word": "KENTUCKY",
-      "hint": ""
-    },
-    {
       "word": "KERKER",
       "hint": "dungeon (immured and very austere prison, often underground); an aggravated form of prison"
     },
@@ -11172,24 +9664,8 @@
       "hint": "diminutive of Kerl; little boy"
     },
     {
-      "word": "KERRY",
-      "hint": ""
-    },
-    {
-      "word": "KERSTIN",
-      "hint": ""
-    },
-    {
-      "word": "KESSLER",
-      "hint": ""
-    },
-    {
       "word": "KEULE",
       "hint": "club (weapon); club (for juggling)"
-    },
-    {
-      "word": "KGB",
-      "hint": ""
     },
     {
       "word": "KICHERN",
@@ -11220,8 +9696,16 @@
       "hint": "kilogram (unit of mass equal to 1000 grams)"
     },
     {
-      "word": "KINGS",
-      "hint": ""
+      "word": "KIND",
+      "hint": "child; offspring (person with regard to his or her parents; also a baby animal or young animal, especially as the second component in numerous compound nouns); kid; child (young"
+    },
+    {
+      "word": "KINDERFRAU",
+      "hint": "nanny"
+    },
+    {
+      "word": "KINN",
+      "hint": "chin"
     },
     {
       "word": "KIOSK",
@@ -11232,20 +9716,12 @@
       "hint": "to tilt [auxiliary haben]; to dump; to pour [auxiliary haben]"
     },
     {
-      "word": "KIRBY",
-      "hint": ""
+      "word": "KIRCHE",
+      "hint": "church (organised religion, especially Catholicism); church (building)"
     },
     {
       "word": "KIRSCHEN",
       "hint": "cherry; a ball, especially a football"
-    },
-    {
-      "word": "KIRSTEN",
-      "hint": ""
-    },
-    {
-      "word": "KISS",
-      "hint": ""
     },
     {
       "word": "KITA",
@@ -11417,7 +9893,7 @@
     },
     {
       "word": "KNALLER",
-      "hint": ""
+      "hint": "smash hit, sensation; firecracker"
     },
     {
       "word": "KNALLHART",
@@ -11440,10 +9916,6 @@
       "hint": "archaic or dialectal form of kneifen (“to pinch, to squeeze”)"
     },
     {
-      "word": "KNOX",
-      "hint": ""
-    },
-    {
       "word": "KNUT",
       "hint": "knout"
     },
@@ -11458,6 +9930,10 @@
     {
       "word": "KOALITION",
       "hint": "coalition (group of parties cooperating towards a common goal)"
+    },
+    {
+      "word": "KOBRA",
+      "hint": "cobra (venomous snake, especially of the genus Naja)"
     },
     {
       "word": "KODEX",
@@ -11517,7 +9993,7 @@
     },
     {
       "word": "KOMMENTIEREN",
-      "hint": "to comment; to comment on [with accusative ‘\u003csomeone/something\u003e’]"
+      "hint": "to comment; to comment on [with accusative ‘<someone/something>’]"
     },
     {
       "word": "KOMMODE",
@@ -11654,14 +10130,6 @@
     {
       "word": "KONSTANTE",
       "hint": "constant"
-    },
-    {
-      "word": "KONSTANTIN",
-      "hint": ""
-    },
-    {
-      "word": "KONSTANTINOPEL",
-      "hint": ""
     },
     {
       "word": "KONSUL",
@@ -11920,16 +10388,8 @@
       "hint": "crystal in the sense of mineral and its molecular structure (\"array of atoms\"), not in the sense of glass / glassware (\"das Kristall\")"
     },
     {
-      "word": "KRISTINA",
-      "hint": ""
-    },
-    {
       "word": "KRITIKEN",
       "hint": "criticism (negative judgement); criticism, review (general judgement)"
-    },
-    {
-      "word": "KROATIEN",
-      "hint": ""
     },
     {
       "word": "KROKODIL",
@@ -11964,8 +10424,8 @@
       "hint": "crumb (small broken-off piece, particularly of bread)"
     },
     {
-      "word": "KU",
-      "hint": ""
+      "word": "KUCHEN",
+      "hint": "pie; cake; tart (foodstuff made of baked dough, other than bread)"
     },
     {
       "word": "KUCKUCK",
@@ -11996,10 +10456,6 @@
       "hint": "female equivalent of Kunde"
     },
     {
-      "word": "KUNG",
-      "hint": ""
-    },
-    {
       "word": "KUPPLUNG",
       "hint": "clutch (a device to interrupt power transmission)"
     },
@@ -12008,12 +10464,20 @@
       "hint": "to cuddle"
     },
     {
+      "word": "KUSS",
+      "hint": "kiss"
+    },
+    {
       "word": "KUTSCHER",
       "hint": "coachman (male or of unspecified gender)"
     },
     {
       "word": "KZ",
       "hint": "abbreviation of Konzentrationslager (“concentration camp”); abbreviation of Krankenzimmer"
+    },
+    {
+      "word": "KÄFIG",
+      "hint": "cage"
     },
     {
       "word": "KÄLTER",
@@ -12042,6 +10506,10 @@
     {
       "word": "KÖNIGREICHS",
       "hint": "kingdom"
+    },
+    {
+      "word": "KÖNIGSTOCHTER",
+      "hint": "princess, king's daughter"
     },
     {
       "word": "KÖPFCHEN",
@@ -12184,14 +10652,6 @@
       "hint": "llama"
     },
     {
-      "word": "LAMBERT",
-      "hint": ""
-    },
-    {
-      "word": "LANCE",
-      "hint": ""
-    },
-    {
       "word": "LANDEBAHN",
       "hint": "runway"
     },
@@ -12256,20 +10716,12 @@
       "hint": "lance, spear (weapon used mainly for thrusting); love stick, fuckpole (penis)"
     },
     {
-      "word": "LARISSA",
-      "hint": ""
-    },
-    {
       "word": "LASAGNE",
       "hint": "lasagna (kind of dish involving pasta)"
     },
     {
       "word": "LASTEN",
       "hint": "to weigh on, to bear on [with auf]"
-    },
-    {
-      "word": "LATE",
-      "hint": ""
     },
     {
       "word": "LATEINISCH",
@@ -12308,10 +10760,6 @@
       "hint": "strong/mixed nominative/accusative neuter singular of laufend"
     },
     {
-      "word": "LAUREL",
-      "hint": ""
-    },
-    {
       "word": "LAUSCHEN",
       "hint": "to listen (to wait for a sound); to eavesdrop"
     },
@@ -12326,14 +10774,6 @@
     {
       "word": "LAVA",
       "hint": "lava; synonym of Magma"
-    },
-    {
-      "word": "LCH",
-      "hint": ""
-    },
-    {
-      "word": "LEADER",
-      "hint": ""
     },
     {
       "word": "LEBENDER",
@@ -12432,10 +10872,6 @@
       "hint": "strong/mixed nominative/accusative neuter singular of leer"
     },
     {
-      "word": "LEFT",
-      "hint": ""
-    },
-    {
       "word": "LEGALE",
       "hint": "legal"
     },
@@ -12516,16 +10952,12 @@
       "hint": "strong/mixed nominative/accusative neuter singular of leitend"
     },
     {
+      "word": "LEITER",
+      "hint": "leader, director, manager, head, chief (male or of unspecified sex); agent noun of leiten leader, director, manager, head, chief (male or of unspecified sex) (physics,"
+    },
+    {
       "word": "LEKTÜRE",
       "hint": "reading (act of having read a book or other written material); reading, reading material (written material intended to be read at a given point)"
-    },
-    {
-      "word": "LEMON",
-      "hint": ""
-    },
-    {
-      "word": "LEN",
-      "hint": ""
     },
     {
       "word": "LENIN",
@@ -12536,24 +10968,12 @@
       "hint": "singular imperative of lenken"
     },
     {
-      "word": "LENNY",
-      "hint": ""
-    },
-    {
       "word": "LENZ",
       "hint": "free of water, dry, empty (of a ship, especially its ballast tank)"
     },
     {
-      "word": "LEONARDO",
-      "hint": ""
-    },
-    {
       "word": "LEOPARD",
       "hint": "leopard"
-    },
-    {
-      "word": "LEROY",
-      "hint": ""
     },
     {
       "word": "LESBISCHE",
@@ -12566,10 +10986,6 @@
     {
       "word": "LEST",
       "hint": "inflection of lesen"
-    },
-    {
-      "word": "LESTER",
-      "hint": ""
     },
     {
       "word": "LESUNG",
@@ -12604,24 +11020,12 @@
       "hint": "leukemia"
     },
     {
-      "word": "LEVI",
-      "hint": ""
-    },
-    {
       "word": "LEXIKON",
       "hint": "reference book (a book, usually alphabetically ordered, in which definitions and facts can be looked up, such as an encyclopaedia, dictionary, etc.); lexicon (the vocabulary of a"
     },
     {
-      "word": "LIBANON",
-      "hint": ""
-    },
-    {
       "word": "LIBERALE",
       "hint": "Liberal (male or of unspecified gender)"
-    },
-    {
-      "word": "LIBERTY",
-      "hint": ""
     },
     {
       "word": "LIBYEN",
@@ -12685,19 +11089,11 @@
     },
     {
       "word": "LIESSEN",
-      "hint": ""
+      "hint": "to let; left (preterite of lassen)"
     },
     {
       "word": "LIFT",
       "hint": "lift; elevator (mechanical device for vertically transporting goods or people); Short for certain compounds in which Lift is not dated, especially for Skilift."
-    },
-    {
-      "word": "LIGHTNING",
-      "hint": ""
-    },
-    {
-      "word": "LIL",
-      "hint": ""
     },
     {
       "word": "LILI",
@@ -12706,10 +11102,6 @@
     {
       "word": "LILIEN",
       "hint": "lily, lilium (flower); fleur-de-lis"
-    },
-    {
-      "word": "LILLI",
-      "hint": ""
     },
     {
       "word": "LIMO",
@@ -12728,14 +11120,6 @@
       "hint": "to alleviate, to ease, to relieve"
     },
     {
-      "word": "LINDSAY",
-      "hint": ""
-    },
-    {
-      "word": "LING",
-      "hint": ""
-    },
-    {
       "word": "LINKES",
       "hint": "strong/mixed nominative/accusative neuter singular of linker"
     },
@@ -12752,36 +11136,12 @@
       "hint": "to peek"
     },
     {
-      "word": "LINUS",
-      "hint": ""
-    },
-    {
-      "word": "LINUX",
-      "hint": ""
-    },
-    {
-      "word": "LISSABON",
-      "hint": ""
-    },
-    {
-      "word": "LIU",
-      "hint": ""
-    },
-    {
-      "word": "LIVERPOOL",
-      "hint": ""
-    },
-    {
       "word": "LIVING",
       "hint": "live (as it happens, in real time, directly; of broadcasts)"
     },
     {
       "word": "LKWS",
       "hint": "genitive singular of Lkw; plural of Lkw"
-    },
-    {
-      "word": "LL",
-      "hint": ""
     },
     {
       "word": "LOBT",
@@ -12816,24 +11176,12 @@
       "hint": "logistics"
     },
     {
-      "word": "LOIS",
-      "hint": ""
-    },
-    {
       "word": "LOK",
       "hint": "clipping of Lokomotive: train locomotive, loco"
     },
     {
       "word": "LOKALISIERT",
       "hint": "to localize"
-    },
-    {
-      "word": "LOL",
-      "hint": ""
-    },
-    {
-      "word": "LOPEZ",
-      "hint": ""
     },
     {
       "word": "LORDS",
@@ -12852,24 +11200,12 @@
       "hint": "past participle of loslassen"
     },
     {
-      "word": "LOTHAR",
-      "hint": ""
-    },
-    {
       "word": "LOTUS",
       "hint": "alternative form of Lotos"
     },
     {
-      "word": "LOUISIANA",
-      "hint": ""
-    },
-    {
       "word": "LOUNGE",
       "hint": "lounge (waiting room); lounge (bar)"
-    },
-    {
-      "word": "LOUVRE",
-      "hint": ""
     },
     {
       "word": "LOVER",
@@ -12884,32 +11220,12 @@
       "hint": "initialism of Lysergsäure-diethylamid; LSD"
     },
     {
-      "word": "LUCIE",
-      "hint": ""
-    },
-    {
-      "word": "LUCIEN",
-      "hint": ""
-    },
-    {
-      "word": "LUCIUS",
-      "hint": ""
-    },
-    {
       "word": "LUFTANGRIFF",
       "hint": "airstrike"
     },
     {
       "word": "LUFTRAUM",
       "hint": "airspace"
-    },
-    {
-      "word": "LUIGI",
-      "hint": ""
-    },
-    {
-      "word": "LUISA",
-      "hint": ""
     },
     {
       "word": "LUKA",
@@ -12934,10 +11250,6 @@
     {
       "word": "LYNCH",
       "hint": "singular imperative of lynchen; first-person singular present of lynchen"
-    },
-    {
-      "word": "LYON",
-      "hint": ""
     },
     {
       "word": "LYRIK",
@@ -13040,24 +11352,8 @@
       "hint": "madeleine (small cake)"
     },
     {
-      "word": "MADEMOISELLE",
-      "hint": ""
-    },
-    {
-      "word": "MAE",
-      "hint": ""
-    },
-    {
-      "word": "MAESTRO",
-      "hint": ""
-    },
-    {
       "word": "MAGD",
       "hint": "maid; female servant, especially on a farm; virgin"
-    },
-    {
-      "word": "MAGDALENA",
-      "hint": ""
     },
     {
       "word": "MAGER",
@@ -13080,48 +11376,16 @@
       "hint": "meal, repast"
     },
     {
-      "word": "MAINE",
-      "hint": ""
-    },
-    {
-      "word": "MAJA",
-      "hint": ""
-    },
-    {
       "word": "MALARIA",
       "hint": "malaria"
-    },
-    {
-      "word": "MALAYSIA",
-      "hint": ""
-    },
-    {
-      "word": "MALI",
-      "hint": ""
-    },
-    {
-      "word": "MALIK",
-      "hint": ""
     },
     {
       "word": "MALL",
       "hint": "mad, crazy, not quite right, whimsical"
     },
     {
-      "word": "MALLORCA",
-      "hint": ""
-    },
-    {
-      "word": "MALMÖ",
-      "hint": ""
-    },
-    {
       "word": "MALTA",
       "hint": "obsolete form of Melde (“saltbush”)"
-    },
-    {
-      "word": "MAMMA",
-      "hint": ""
     },
     {
       "word": "MANDANT",
@@ -13134,10 +11398,6 @@
     {
       "word": "MANDELN",
       "hint": "almond; amygdala"
-    },
-    {
-      "word": "MANDY",
-      "hint": ""
     },
     {
       "word": "MANGELNDE",
@@ -13172,10 +11432,6 @@
       "hint": "one, you, they (indefinite pronoun, referring to people at large; construed as a third-person singular)"
     },
     {
-      "word": "MANU",
-      "hint": ""
-    },
-    {
       "word": "MAO",
       "hint": "Little Red Book (widely distributed Communist book)"
     },
@@ -13184,24 +11440,12 @@
       "hint": "crow's nest"
     },
     {
-      "word": "MARA",
-      "hint": ""
-    },
-    {
       "word": "MARCH",
       "hint": "The genre marching music, written to march on (as in military or other parade context) and/or in binary measure"
     },
     {
-      "word": "MAREK",
-      "hint": ""
-    },
-    {
       "word": "MARGE",
       "hint": "margin"
-    },
-    {
-      "word": "MARILYN",
-      "hint": ""
     },
     {
       "word": "MARINES",
@@ -13210,10 +11454,6 @@
     {
       "word": "MARIONETTE",
       "hint": "marionette, puppet (puppet which is animated by the pulling of strings); puppet (person, country, etc, controlled by another)"
-    },
-    {
-      "word": "MARIUS",
-      "hint": ""
     },
     {
       "word": "MARKENZEICHEN",
@@ -13232,16 +11472,16 @@
       "hint": "mark, marking, tag; marker"
     },
     {
-      "word": "MARKO",
-      "hint": ""
-    },
-    {
       "word": "MARKS",
       "hint": "mark (like trade mark), brand; stamp (for letters)"
     },
     {
       "word": "MARMOR",
       "hint": "marble"
+    },
+    {
+      "word": "MARSCH",
+      "hint": "marsh, marshland, fen"
     },
     {
       "word": "MARSCHALL",
@@ -13252,36 +11492,8 @@
       "hint": "to march (to walk with others in a column, in step); to march (to walk taking long, regular strides)"
     },
     {
-      "word": "MARSH",
-      "hint": ""
-    },
-    {
       "word": "MARSHAL",
       "hint": "marshalling"
-    },
-    {
-      "word": "MARTA",
-      "hint": ""
-    },
-    {
-      "word": "MARTINA",
-      "hint": ""
-    },
-    {
-      "word": "MARTINEZ",
-      "hint": ""
-    },
-    {
-      "word": "MARTINS",
-      "hint": ""
-    },
-    {
-      "word": "MARTY",
-      "hint": ""
-    },
-    {
-      "word": "MARYLAND",
-      "hint": ""
     },
     {
       "word": "MASERN",
@@ -13290,10 +11502,6 @@
     {
       "word": "MASKOTTCHEN",
       "hint": "mascot"
-    },
-    {
-      "word": "MASSACHUSETTS",
-      "hint": ""
     },
     {
       "word": "MASSENHAFT",
@@ -13320,10 +11528,6 @@
       "hint": "mathematical"
     },
     {
-      "word": "MATHILDE",
-      "hint": ""
-    },
-    {
       "word": "MATROSEN",
       "hint": "seaman; sailor (of low rank) (male or of unspecified gender)"
     },
@@ -13334,10 +11538,6 @@
     {
       "word": "MATTER",
       "hint": "comparative degree of matt; inflection of matt"
-    },
-    {
-      "word": "MATTHEWS",
-      "hint": ""
     },
     {
       "word": "MATTHÄUS",
@@ -13360,24 +11560,8 @@
       "hint": "maxim"
     },
     {
-      "word": "MAXIMILIAN",
-      "hint": ""
-    },
-    {
-      "word": "MAXWELL",
-      "hint": ""
-    },
-    {
       "word": "MAYO",
       "hint": "mayonnaise"
-    },
-    {
-      "word": "MCCARTHY",
-      "hint": ""
-    },
-    {
-      "word": "MEAN",
-      "hint": ""
     },
     {
       "word": "MECHANIK",
@@ -13394,10 +11578,6 @@
     {
       "word": "MECHANISMUS",
       "hint": "mechanism"
-    },
-    {
-      "word": "MED",
-      "hint": ""
     },
     {
       "word": "MEDAILLEN",
@@ -13422,18 +11602,6 @@
     {
       "word": "MEETINGS",
       "hint": "a business meeting; a scheduled formal meeting for a specific purpose or with an agenda"
-    },
-    {
-      "word": "MEG",
-      "hint": ""
-    },
-    {
-      "word": "MEGAN",
-      "hint": ""
-    },
-    {
-      "word": "MEHMET",
-      "hint": ""
     },
     {
       "word": "MEHRERER",
@@ -13468,10 +11636,6 @@
       "hint": "melancholic"
     },
     {
-      "word": "MELBOURNE",
-      "hint": ""
-    },
-    {
       "word": "MELDETEN",
       "hint": "inflection of melden"
     },
@@ -13492,10 +11656,6 @@
       "hint": "pelmanism, memory (card game)"
     },
     {
-      "word": "MEMPHIS",
-      "hint": ""
-    },
-    {
       "word": "MENSCHENMENGE",
       "hint": "crowd, throng (of people)"
     },
@@ -13508,8 +11668,8 @@
       "hint": "mental"
     },
     {
-      "word": "MEREDITH",
-      "hint": ""
+      "word": "MERCI",
+      "hint": "thank you"
     },
     {
       "word": "MERKMAL",
@@ -13552,20 +11712,8 @@
       "hint": "Mexican"
     },
     {
-      "word": "MICHAELA",
-      "hint": ""
-    },
-    {
       "word": "MICHAELS",
       "hint": "the average German; a good-natured simpleton, naive person"
-    },
-    {
-      "word": "MICHIGAN",
-      "hint": ""
-    },
-    {
-      "word": "MICKY",
-      "hint": ""
     },
     {
       "word": "MIENE",
@@ -13586,10 +11734,6 @@
     {
       "word": "MIGRÄNE",
       "hint": "migraine"
-    },
-    {
-      "word": "MIKA",
-      "hint": ""
     },
     {
       "word": "MILAN",
@@ -13624,18 +11768,6 @@
       "hint": "synonym of tausend (“thousand”), almost exclusively used of money: grand; synonym of Million (“million”)"
     },
     {
-      "word": "MILO",
-      "hint": ""
-    },
-    {
-      "word": "MIMI",
-      "hint": ""
-    },
-    {
-      "word": "MINA",
-      "hint": ""
-    },
-    {
       "word": "MINDERHEITEN",
       "hint": "minority"
     },
@@ -13660,24 +11792,12 @@
       "hint": "mineral water, carbonated water"
     },
     {
-      "word": "MING",
-      "hint": ""
-    },
-    {
       "word": "MINIMAL",
       "hint": "minimal"
     },
     {
       "word": "MINISTERIN",
       "hint": "minister (woman who is commissioned by the government for public service)"
-    },
-    {
-      "word": "MINNESOTA",
-      "hint": ""
-    },
-    {
-      "word": "MIRA",
-      "hint": ""
     },
     {
       "word": "MISCH",
@@ -13704,10 +11824,6 @@
       "hint": "to mistreat, to abuse"
     },
     {
-      "word": "MISSISSIPPI",
-      "hint": ""
-    },
-    {
       "word": "MISSOURI",
       "hint": "of Missouri; Missourian"
     },
@@ -13722,10 +11838,6 @@
     {
       "word": "MITBRINGT",
       "hint": "inflection of mitbringen"
-    },
-    {
-      "word": "MITCH",
-      "hint": ""
     },
     {
       "word": "MITERLEBEN",
@@ -13784,14 +11896,6 @@
       "hint": "blender, mixer (kitchen appliance)"
     },
     {
-      "word": "ML",
-      "hint": ""
-    },
-    {
-      "word": "MMH",
-      "hint": ""
-    },
-    {
       "word": "MOB",
       "hint": "mob (unruly group of people)"
     },
@@ -13832,10 +11936,6 @@
       "hint": "molecule"
     },
     {
-      "word": "MONACO",
-      "hint": ""
-    },
-    {
       "word": "MOND",
       "hint": "moon (a natural satellite that is orbiting its corresponding planet); a month, especially a lunar month"
     },
@@ -13860,20 +11960,12 @@
       "hint": "on Mondays, every Monday; on (the next or last) Monday"
     },
     {
-      "word": "MONTGOMERY",
-      "hint": ""
-    },
-    {
       "word": "MONTIERT",
       "hint": "to mount, to set up"
     },
     {
       "word": "MONTREAL",
       "hint": "Montrealer (native or inhabitant of the city of Montreal, Quebec, Canada)"
-    },
-    {
-      "word": "MONTY",
-      "hint": ""
     },
     {
       "word": "MOOR",
@@ -13912,14 +12004,6 @@
       "hint": "tomorrow"
     },
     {
-      "word": "MORRISON",
-      "hint": ""
-    },
-    {
-      "word": "MOSER",
-      "hint": ""
-    },
-    {
       "word": "MOSKAUER",
       "hint": "Muscovite"
     },
@@ -13932,20 +12016,12 @@
       "hint": "genitive singular of Moslem; plural of Moslem"
     },
     {
-      "word": "MOSS",
-      "hint": ""
-    },
-    {
       "word": "MOST",
       "hint": "fruit juice; must (of grapes); new wine; fruit wine"
     },
     {
       "word": "MOTEL",
       "hint": "motel"
-    },
-    {
-      "word": "MOTHER",
-      "hint": ""
     },
     {
       "word": "MOTIVEN",
@@ -13968,30 +12044,6 @@
       "hint": "engine (mechanical device)"
     },
     {
-      "word": "MOVE",
-      "hint": ""
-    },
-    {
-      "word": "MRT",
-      "hint": ""
-    },
-    {
-      "word": "MT",
-      "hint": ""
-    },
-    {
-      "word": "MTV",
-      "hint": ""
-    },
-    {
-      "word": "MU",
-      "hint": ""
-    },
-    {
-      "word": "MUELLER",
-      "hint": ""
-    },
-    {
       "word": "MUFFINS",
       "hint": "muffin (individual cake)"
     },
@@ -14002,10 +12054,6 @@
     {
       "word": "MUNDE",
       "hint": "mouth-to-mouth resuscitation"
-    },
-    {
-      "word": "MUNSTER",
-      "hint": ""
     },
     {
       "word": "MUSE",
@@ -14032,10 +12080,6 @@
       "hint": "Muslim"
     },
     {
-      "word": "MUSTAFA",
-      "hint": ""
-    },
-    {
       "word": "MUSTANG",
       "hint": "mustang"
     },
@@ -14052,8 +12096,16 @@
       "hint": "comparative degree of mutig"
     },
     {
+      "word": "MUTTER",
+      "hint": "mother"
+    },
+    {
       "word": "MUTTERSPRACHE",
       "hint": "mother tongue; native language; the language one has learnt from one’s mother (chiefly in the case of two parents with different languages)"
+    },
+    {
+      "word": "MY",
+      "hint": "mu (Greek letter)"
     },
     {
       "word": "MYSTERIUM",
@@ -14220,14 +12272,6 @@
       "hint": "zu-infinitive of nachgehen"
     },
     {
-      "word": "NADIA",
-      "hint": ""
-    },
-    {
-      "word": "NADJA",
-      "hint": ""
-    },
-    {
       "word": "NAHER",
       "hint": "near"
     },
@@ -14236,32 +12280,8 @@
       "hint": "item of sustenance; a foodstuff or beverage that is mainly consumed for nourishment"
     },
     {
-      "word": "NAM",
-      "hint": ""
-    },
-    {
-      "word": "NANA",
-      "hint": ""
-    },
-    {
-      "word": "NANNY",
-      "hint": ""
-    },
-    {
-      "word": "NAOMI",
-      "hint": ""
-    },
-    {
       "word": "NASEN",
       "hint": "nose; snout"
-    },
-    {
-      "word": "NASH",
-      "hint": ""
-    },
-    {
-      "word": "NASSAU",
-      "hint": ""
     },
     {
       "word": "NASSE",
@@ -14270,14 +12290,6 @@
     {
       "word": "NASSER",
       "hint": "wet (soaked with liquid); wet, moist (sexually aroused and thus having the vulva moistened with vaginal secretions)"
-    },
-    {
-      "word": "NATE",
-      "hint": ""
-    },
-    {
-      "word": "NATHALIE",
-      "hint": ""
     },
     {
       "word": "NATIONALER",
@@ -14312,8 +12324,8 @@
       "hint": "alternative spelling of net"
     },
     {
-      "word": "NEAL",
-      "hint": ""
+      "word": "NEBEN",
+      "hint": "next to, beside, alongside, adjacent to, near, near to"
     },
     {
       "word": "NEGATIVES",
@@ -14324,20 +12336,12 @@
       "hint": "slope, decline; dregs, sediment"
     },
     {
-      "word": "NELLY",
-      "hint": ""
-    },
-    {
       "word": "NEO",
       "hint": "neo"
     },
     {
       "word": "NERD",
       "hint": "nerd (a person, often very studious, with poor social skills)"
-    },
-    {
-      "word": "NERO",
-      "hint": ""
     },
     {
       "word": "NERVENSYSTEM",
@@ -14376,8 +12380,8 @@
       "hint": "newcomer, newbie, rookie, novice, fledgling (beginner)"
     },
     {
-      "word": "NEUMANN",
-      "hint": ""
+      "word": "NEUN",
+      "hint": "nine (numerical value represented by the Arabic numeral 9; or this many dots: •••••••••); nine"
     },
     {
       "word": "NEUNTE",
@@ -14408,14 +12412,6 @@
       "hint": "genitive singular of Nevada"
     },
     {
-      "word": "NEWMAN",
-      "hint": ""
-    },
-    {
-      "word": "NEXT",
-      "hint": ""
-    },
-    {
       "word": "NFL",
       "hint": "abbreviation of Nutzfläche"
     },
@@ -14436,14 +12432,6 @@
       "hint": "nap, catnap, snooze"
     },
     {
-      "word": "NICKY",
-      "hint": ""
-    },
-    {
-      "word": "NICOLA",
-      "hint": ""
-    },
-    {
       "word": "NIE",
       "hint": "never, never at all (referring to an indefinite period of time); never, not once (referring to a defined period of time; see usage notes below)"
     },
@@ -14453,15 +12441,7 @@
     },
     {
       "word": "NIETZSCHE",
-      "hint": ""
-    },
-    {
-      "word": "NIGEL",
-      "hint": ""
-    },
-    {
-      "word": "NIGERIA",
-      "hint": ""
+      "hint": "German philosopher, known for Thus Spoke Zarathustra"
     },
     {
       "word": "NIGGER",
@@ -14472,48 +12452,12 @@
       "hint": "a Nike shoe"
     },
     {
-      "word": "NIKI",
-      "hint": ""
-    },
-    {
-      "word": "NIKITA",
-      "hint": ""
-    },
-    {
-      "word": "NIKKI",
-      "hint": ""
-    },
-    {
-      "word": "NIKO",
-      "hint": ""
-    },
-    {
-      "word": "NIKOLAI",
-      "hint": ""
-    },
-    {
-      "word": "NIL",
-      "hint": ""
-    },
-    {
-      "word": "NINE",
-      "hint": ""
-    },
-    {
-      "word": "NINO",
-      "hint": ""
-    },
-    {
       "word": "NIPPEL",
       "hint": "nipple; stud, protrusion"
     },
     {
       "word": "NISCHE",
       "hint": "niche"
-    },
-    {
-      "word": "NIXON",
-      "hint": ""
     },
     {
       "word": "NIZZA",
@@ -14532,24 +12476,8 @@
       "hint": "strong/mixed nominative/accusative neuter singular of nobel"
     },
     {
-      "word": "NOEL",
-      "hint": ""
-    },
-    {
-      "word": "NOLAN",
-      "hint": ""
-    },
-    {
       "word": "NOMINIERUNG",
       "hint": "nomination"
-    },
-    {
-      "word": "NOPE",
-      "hint": ""
-    },
-    {
-      "word": "NORBERT",
-      "hint": ""
     },
     {
       "word": "NORDAFRIKA",
@@ -14580,20 +12508,8 @@
       "hint": "northwest"
     },
     {
-      "word": "NORMA",
-      "hint": ""
-    },
-    {
       "word": "NORMALITÄT",
       "hint": "normality, normalcy"
-    },
-    {
-      "word": "NORMANDIE",
-      "hint": ""
-    },
-    {
-      "word": "NORRIS",
-      "hint": ""
     },
     {
       "word": "NORWEGER",
@@ -14616,12 +12532,8 @@
       "hint": "notebook (book)"
     },
     {
-      "word": "NOTTINGHAM",
-      "hint": ""
-    },
-    {
       "word": "NUNMAL",
-      "hint": ""
+      "hint": "after all, just"
     },
     {
       "word": "NUTZTEN",
@@ -14669,7 +12581,11 @@
     },
     {
       "word": "OBERARZT",
-      "hint": ""
+      "hint": "senior physician, consultant"
+    },
+    {
+      "word": "OBERER",
+      "hint": "upper"
     },
     {
       "word": "OBERGESCHOSS",
@@ -14697,7 +12613,7 @@
     },
     {
       "word": "OBERSTUFE",
-      "hint": ""
+      "hint": "upper level; upper secondary school"
     },
     {
       "word": "OBERTEIL",
@@ -14722,10 +12638,6 @@
     {
       "word": "ODESSA",
       "hint": "ODESSA"
-    },
-    {
-      "word": "ODIN",
-      "hint": ""
     },
     {
       "word": "ODYSSEUS",
@@ -14760,8 +12672,8 @@
       "hint": "An expression of surprise (similar to English whoa)."
     },
     {
-      "word": "OHH",
-      "hint": ""
+      "word": "OHNE",
+      "hint": "without [with dass (+ clause) or zu (+ infinitive) ‘doing something’]; without"
     },
     {
       "word": "OHRFEIGE",
@@ -14772,20 +12684,8 @@
       "hint": "earring"
     },
     {
-      "word": "OI",
-      "hint": ""
-    },
-    {
-      "word": "OKLAHOMA",
-      "hint": ""
-    },
-    {
       "word": "OLDTIMER",
       "hint": "vintage car; antique aircraft"
-    },
-    {
-      "word": "OLEG",
-      "hint": ""
     },
     {
       "word": "OLIVE",
@@ -14800,16 +12700,8 @@
       "hint": "olive oil"
     },
     {
-      "word": "OLIVIER",
-      "hint": ""
-    },
-    {
       "word": "OLLE",
       "hint": "strong/mixed nominative/accusative neuter singular of oll"
-    },
-    {
-      "word": "OLSEN",
-      "hint": ""
     },
     {
       "word": "OLYMPIADE",
@@ -14836,16 +12728,8 @@
       "hint": "grandma, granny, nan"
     },
     {
-      "word": "ONCE",
-      "hint": ""
-    },
-    {
       "word": "ONKELS",
       "hint": "uncle"
-    },
-    {
-      "word": "OOH",
-      "hint": ""
     },
     {
       "word": "OPERN",
@@ -14928,32 +12812,12 @@
       "hint": "original (fresh, different)"
     },
     {
-      "word": "ORION",
-      "hint": ""
-    },
-    {
-      "word": "ORLANDO",
-      "hint": ""
-    },
-    {
       "word": "ORTES",
       "hint": "genitive singular of Ort"
     },
     {
-      "word": "OSLO",
-      "hint": ""
-    },
-    {
       "word": "OSTEUROPA",
       "hint": "Eastern European (one who comes from or lives in Eastern Europe)"
-    },
-    {
-      "word": "OSTSEE",
-      "hint": ""
-    },
-    {
-      "word": "PACIFIC",
-      "hint": ""
     },
     {
       "word": "PACKE",
@@ -14980,10 +12844,6 @@
       "hint": "palm tree; a palm branch"
     },
     {
-      "word": "PAMELA",
-      "hint": ""
-    },
-    {
       "word": "PANDA",
       "hint": "panda (Ailuropoda melanoleuca)"
     },
@@ -14994,10 +12854,6 @@
     {
       "word": "PANISCH",
       "hint": "panic-inducing or panic-induced; in a panicked way"
-    },
-    {
-      "word": "PAOLO",
-      "hint": ""
     },
     {
       "word": "PAPAS",
@@ -15132,14 +12988,6 @@
       "hint": "cartridge, round (live ammunition for a gun); cartridge case, casing (parts of a round of ammunition exclusive of the projectile)"
     },
     {
-      "word": "PAULI",
-      "hint": ""
-    },
-    {
-      "word": "PAULS",
-      "hint": ""
-    },
-    {
       "word": "PAVILLON",
       "hint": "pavilion; gazebo"
     },
@@ -15148,16 +12996,12 @@
       "hint": "Pacific island"
     },
     {
+      "word": "PAZIFISCH",
+      "hint": "pacific; Pacific (pertaining to the Pacific Ocean)"
+    },
+    {
       "word": "PD",
       "hint": "abbreviation of Privatdozent; abbreviation of Polizeidirektor"
-    },
-    {
-      "word": "PEACE",
-      "hint": ""
-    },
-    {
-      "word": "PEGASUS",
-      "hint": ""
     },
     {
       "word": "PEINLICHE",
@@ -15172,10 +13016,6 @@
       "hint": "fur; fur, animal's pelt"
     },
     {
-      "word": "PEN",
-      "hint": ""
-    },
-    {
       "word": "PENG",
       "hint": "bang (a verbal emulation of a sudden percussive sound)"
     },
@@ -15188,24 +13028,12 @@
       "hint": "to sleep; to be inattentive"
     },
     {
-      "word": "PENNSYLVANIA",
-      "hint": ""
-    },
-    {
       "word": "PENTAGON",
       "hint": "pentagon (a polygon with five sides and five angles)"
     },
     {
       "word": "PEP",
       "hint": "verve, pep; speed (amphetamine-based drug)"
-    },
-    {
-      "word": "PEPE",
-      "hint": ""
-    },
-    {
-      "word": "PEREZ",
-      "hint": ""
     },
     {
       "word": "PERFEKTION",
@@ -15232,10 +13060,6 @@
       "hint": "perverse, morally perverted; pervy, kinky, sexually perverted or deviant"
     },
     {
-      "word": "PETERSEN",
-      "hint": ""
-    },
-    {
       "word": "PFADFINDER",
       "hint": "boy scout, scout (member of the Scout Movement)"
     },
@@ -15252,8 +13076,8 @@
       "hint": "pepper spray"
     },
     {
-      "word": "PFEIFFER",
-      "hint": ""
+      "word": "PFEIL",
+      "hint": "arrow (sign); arrow (missile)"
     },
     {
       "word": "PFEILER",
@@ -15264,8 +13088,16 @@
       "hint": "pfennig; penny"
     },
     {
+      "word": "PFERD",
+      "hint": "horse; pommel horse"
+    },
+    {
       "word": "PFIFF",
       "hint": "first/third-person singular preterite of pfeifen"
+    },
+    {
+      "word": "PFLEGE",
+      "hint": "care"
     },
     {
       "word": "PFLEGEHEIM",
@@ -15288,10 +13120,6 @@
       "hint": "pharaoh"
     },
     {
-      "word": "PHILLIPS",
-      "hint": ""
-    },
-    {
       "word": "PHILOSOPHEN",
       "hint": "philosopher"
     },
@@ -15308,16 +13136,8 @@
       "hint": "phenomenon"
     },
     {
-      "word": "PIA",
-      "hint": ""
-    },
-    {
       "word": "PIANIST",
       "hint": "pianist (male or of unspecified gender)"
-    },
-    {
-      "word": "PICARD",
-      "hint": ""
     },
     {
       "word": "PICK",
@@ -15328,16 +13148,8 @@
       "hint": "pickaxe, icepick"
     },
     {
-      "word": "PIE",
-      "hint": ""
-    },
-    {
       "word": "PIERCE",
       "hint": "piercing, body piercing"
-    },
-    {
-      "word": "PIETRO",
-      "hint": ""
     },
     {
       "word": "PIKE",
@@ -15388,16 +13200,12 @@
       "hint": "piste, ski slope; runway"
     },
     {
+      "word": "PISTOLE",
+      "hint": "gun (device operated by a trigger); pistol, gun"
+    },
+    {
       "word": "PISTOLEN",
       "hint": "pistol, gun; gun (device operated by a trigger)"
-    },
-    {
-      "word": "PITT",
-      "hint": ""
-    },
-    {
-      "word": "PITTSBURGH",
-      "hint": ""
     },
     {
       "word": "PIZZERIA",
@@ -15436,10 +13244,6 @@
       "hint": "synonym of Abspielgerät (“playback device”); player, participant (in a market economy)"
     },
     {
-      "word": "PLAYSTATION",
-      "hint": ""
-    },
-    {
       "word": "PLURAL",
       "hint": "pluralistic"
     },
@@ -15462,10 +13266,6 @@
     {
       "word": "PODIUM",
       "hint": "podium"
-    },
-    {
-      "word": "POE",
-      "hint": ""
     },
     {
       "word": "POET",
@@ -15508,6 +13308,10 @@
       "hint": "abbreviation of Polizeioberrat"
     },
     {
+      "word": "PORT",
+      "hint": "harbor, port"
+    },
+    {
       "word": "PORTIONEN",
       "hint": "portion, an allocated amount, (chiefly) a portion of food, a serving, helping; an amount (of some size)"
     },
@@ -15548,10 +13352,6 @@
       "hint": "postcard"
     },
     {
-      "word": "POT",
-      "hint": ""
-    },
-    {
       "word": "POTENTIELLE",
       "hint": "strong/mixed nominative/accusative neuter singular of potentiell"
     },
@@ -15566,14 +13366,6 @@
     {
       "word": "POTENZIELLEN",
       "hint": "potential"
-    },
-    {
-      "word": "POUR",
-      "hint": ""
-    },
-    {
-      "word": "POWELL",
-      "hint": ""
     },
     {
       "word": "POWERS",
@@ -15612,10 +13404,6 @@
       "hint": "chocolate praline, (Belgian) chocolate (bite-sized piece of chocolate with a filling, which may but need not contain nuts)"
     },
     {
-      "word": "PRATT",
-      "hint": ""
-    },
-    {
       "word": "PREDIGEN",
       "hint": "to preach"
     },
@@ -15629,15 +13417,7 @@
     },
     {
       "word": "PREISGELD",
-      "hint": ""
-    },
-    {
-      "word": "PRESTON",
-      "hint": ""
-    },
-    {
-      "word": "PRIDE",
-      "hint": ""
+      "hint": "prize money"
     },
     {
       "word": "PRIMITIV",
@@ -15646,14 +13426,6 @@
     {
       "word": "PRIMÄRE",
       "hint": "primary (of first rank, great importance); primary, original (direct, not derived)"
-    },
-    {
-      "word": "PRINCESS",
-      "hint": ""
-    },
-    {
-      "word": "PRINCETON",
-      "hint": ""
     },
     {
       "word": "PRINZIPIELL",
@@ -15666,10 +13438,6 @@
     {
       "word": "PRIVATBESITZ",
       "hint": "private property; private ownership"
-    },
-    {
-      "word": "PRIX",
-      "hint": ""
     },
     {
       "word": "PRODUKTEN",
@@ -15692,8 +13460,8 @@
       "hint": "programming (domain); programming (the act of programming)"
     },
     {
-      "word": "PROJECT",
-      "hint": ""
+      "word": "PROJEKT",
+      "hint": "project"
     },
     {
       "word": "PROJEKTEN",
@@ -15702,10 +13470,6 @@
     {
       "word": "PROJEKTS",
       "hint": "project"
-    },
-    {
-      "word": "PROMETHEUS",
-      "hint": ""
     },
     {
       "word": "PROMI",
@@ -15730,6 +13494,10 @@
     {
       "word": "PROPHEZEIUNG",
       "hint": "prophecy"
+    },
+    {
+      "word": "PROST",
+      "hint": "cheers (the usual toast when drinking alcohol)"
     },
     {
       "word": "PROSTITUIERTEN",
@@ -15800,10 +13568,6 @@
       "hint": "pseudonymous"
     },
     {
-      "word": "PSST",
-      "hint": ""
-    },
-    {
       "word": "PSYCHIATRISCHE",
       "hint": "psychiatric"
     },
@@ -15848,12 +13612,12 @@
       "hint": "thick custard; milk pudding, crème or mousse; cake with meat or fish laid into it, pide"
     },
     {
-      "word": "PUERTO",
-      "hint": ""
-    },
-    {
       "word": "PUMA",
       "hint": "cougar, puma"
+    },
+    {
+      "word": "PUNKT",
+      "hint": "dot (marking an abbreviation)"
     },
     {
       "word": "PURER",
@@ -15916,32 +13680,16 @@
       "hint": "qualification"
     },
     {
-      "word": "QUARTERBACK",
-      "hint": ""
-    },
-    {
       "word": "QUARTETT",
       "hint": "quartet (music composition in four parts); quartet (group of four musicians)"
-    },
-    {
-      "word": "QUENTIN",
-      "hint": ""
     },
     {
       "word": "QUERE",
       "hint": "being in something's way"
     },
     {
-      "word": "QUI",
-      "hint": ""
-    },
-    {
       "word": "QUIZ",
       "hint": "quiz, trivia"
-    },
-    {
-      "word": "QUO",
-      "hint": ""
     },
     {
       "word": "QUÄLT",
@@ -15958,10 +13706,6 @@
     {
       "word": "RABEN",
       "hint": "raven; the constellation Corvus"
-    },
-    {
-      "word": "RACE",
-      "hint": ""
     },
     {
       "word": "RACHEN",
@@ -15992,28 +13736,16 @@
       "hint": "edgepath (the space between two fields); small slope, incline"
     },
     {
-      "word": "RAINBOW",
-      "hint": ""
-    },
-    {
-      "word": "RAMON",
-      "hint": ""
-    },
-    {
-      "word": "RAMONA",
-      "hint": ""
-    },
-    {
-      "word": "RAMOS",
-      "hint": ""
-    },
-    {
       "word": "RAMPE",
       "hint": "ramp"
     },
     {
       "word": "RAMPENLICHT",
       "hint": "limelight, stage lighting; in the spotlight, highlighted, the focus of attention"
+    },
+    {
+      "word": "RAND",
+      "hint": "edge, brink, rim (outer part of something)"
     },
     {
       "word": "RANDALL",
@@ -16026,10 +13758,6 @@
     {
       "word": "RANGEHEN",
       "hint": "alternative form of drangehen"
-    },
-    {
-      "word": "RANGERS",
-      "hint": ""
     },
     {
       "word": "RAP",
@@ -16144,24 +13872,12 @@
       "hint": "to rave (to attend a rave)"
     },
     {
-      "word": "READY",
-      "hint": ""
-    },
-    {
-      "word": "REAGAN",
-      "hint": ""
-    },
-    {
       "word": "REAKTOR",
       "hint": "reactor (container for nuclear, chemical or biological processes)"
     },
     {
       "word": "REALITY",
       "hint": "reality TV"
-    },
-    {
-      "word": "REALLY",
-      "hint": ""
     },
     {
       "word": "RECHERCHIEREN",
@@ -16180,16 +13896,8 @@
       "hint": "orthography"
     },
     {
-      "word": "RECORDS",
-      "hint": ""
-    },
-    {
       "word": "REDETEN",
       "hint": "inflection of reden"
-    },
-    {
-      "word": "REESE",
-      "hint": ""
     },
     {
       "word": "REFERAT",
@@ -16230,6 +13938,14 @@
     {
       "word": "REGELUNG",
       "hint": "regulation; control (method of governing the performance of an apparatus)"
+    },
+    {
+      "word": "REGEN",
+      "hint": "to move (intransitive), to stir; to move (a small amount or unconsciously)"
+    },
+    {
+      "word": "REGENBOGEN",
+      "hint": "rainbow"
     },
     {
       "word": "REGENSCHIRM",
@@ -16284,10 +14000,6 @@
       "hint": "superlative degree of reich"
     },
     {
-      "word": "REID",
-      "hint": ""
-    },
-    {
       "word": "REIM",
       "hint": "rhyme (poetic device); rhyme, rhyming phrase, short verse"
     },
@@ -16312,16 +14024,20 @@
       "hint": "purity"
     },
     {
-      "word": "REINHOLD",
-      "hint": ""
-    },
-    {
       "word": "REINKOMMT",
       "hint": "inflection of reinkommen"
     },
     {
       "word": "REINZIEHEN",
       "hint": "A prefix, conveying movement into something."
+    },
+    {
+      "word": "REIS",
+      "hint": "rice"
+    },
+    {
+      "word": "REISELEITER",
+      "hint": "guide"
     },
     {
       "word": "REISEN",
@@ -16334,6 +14050,10 @@
     {
       "word": "REISTEN",
       "hint": "inflection of reisen"
+    },
+    {
+      "word": "REITER",
+      "hint": "rider (one who rides a horse)"
     },
     {
       "word": "REIZE",
@@ -16396,14 +14116,6 @@
       "hint": "renaissance"
     },
     {
-      "word": "RENATE",
-      "hint": ""
-    },
-    {
-      "word": "RENAULT",
-      "hint": ""
-    },
-    {
       "word": "RENDEZVOUS",
       "hint": "romantic date; rendezvous"
     },
@@ -16416,6 +14128,10 @@
       "hint": "inflection of rennen"
     },
     {
+      "word": "RENNEN",
+      "hint": "race (a contest where the goal is to be the first to reach some objective); to run; to race; to sprint (said of competing sportsmen, animals etc.) [auxiliary sein]"
+    },
+    {
       "word": "RENNER",
       "hint": "agent noun of rennen; courser, flier, racer (a good, fast racehorse)"
     },
@@ -16425,7 +14141,7 @@
     },
     {
       "word": "RENNSTRECKE",
-      "hint": ""
+      "hint": "racetrack, race track"
     },
     {
       "word": "RENOVIEREN",
@@ -16472,10 +14188,6 @@
       "hint": "respectful"
     },
     {
-      "word": "RETRO",
-      "hint": ""
-    },
-    {
       "word": "RETTUNGSWAGEN",
       "hint": "ambulance"
     },
@@ -16500,44 +14212,12 @@
       "hint": "revue"
     },
     {
-      "word": "REY",
-      "hint": ""
-    },
-    {
       "word": "RHETORIK",
       "hint": "rhetoric"
     },
     {
-      "word": "RICA",
-      "hint": ""
-    },
-    {
-      "word": "RICARDO",
-      "hint": ""
-    },
-    {
-      "word": "RICE",
-      "hint": ""
-    },
-    {
-      "word": "RICHIE",
-      "hint": ""
-    },
-    {
-      "word": "RICHMOND",
-      "hint": ""
-    },
-    {
       "word": "RICHTERS",
       "hint": "judge"
-    },
-    {
-      "word": "RICKY",
-      "hint": ""
-    },
-    {
-      "word": "RIDER",
-      "hint": ""
     },
     {
       "word": "RIEMEN",
@@ -16564,10 +14244,6 @@
       "hint": "around"
     },
     {
-      "word": "RIP",
-      "hint": ""
-    },
-    {
       "word": "RISSEN",
       "hint": "first/third-person singular subjunctive II of reißen"
     },
@@ -16580,16 +14256,8 @@
       "hint": "rival (opponent striving for the same goal, e.g. in competition or courtship)"
     },
     {
-      "word": "RO",
-      "hint": ""
-    },
-    {
       "word": "ROBBEN",
       "hint": "to creep, to crawl; to move on ground level, lying flatly on the stomach with the help of one's forearms or elbows; describing the typical movement of a seal on land; to galumph"
-    },
-    {
-      "word": "ROCCO",
-      "hint": ""
     },
     {
       "word": "ROCKEN",
@@ -16606,18 +14274,6 @@
     {
       "word": "ROCKSTAR",
       "hint": "rockstar"
-    },
-    {
-      "word": "ROD",
-      "hint": ""
-    },
-    {
-      "word": "RODRIGO",
-      "hint": ""
-    },
-    {
-      "word": "RODRIGUEZ",
-      "hint": ""
     },
     {
       "word": "ROH",
@@ -16656,32 +14312,12 @@
       "hint": "romance"
     },
     {
-      "word": "RONNIE",
-      "hint": ""
-    },
-    {
-      "word": "RONNY",
-      "hint": ""
-    },
-    {
-      "word": "ROOSEVELT",
-      "hint": ""
-    },
-    {
-      "word": "RORY",
-      "hint": ""
-    },
-    {
       "word": "ROSENBERG",
       "hint": "A native or resident of Rosenberg"
     },
     {
       "word": "ROSINEN",
       "hint": "raisin"
-    },
-    {
-      "word": "ROSSI",
-      "hint": ""
     },
     {
       "word": "ROST",
@@ -16712,44 +14348,24 @@
       "hint": "route"
     },
     {
-      "word": "ROYCE",
-      "hint": ""
-    },
-    {
-      "word": "RT",
-      "hint": ""
-    },
-    {
       "word": "RUBEL",
       "hint": "ruble, rouble (currency)"
-    },
-    {
-      "word": "RUBEN",
-      "hint": ""
     },
     {
       "word": "RUBIN",
       "hint": "ruby (gem)"
     },
     {
+      "word": "RUDEL",
+      "hint": "pack (of wolves, dogs, hyenas etc.)"
+    },
+    {
       "word": "RUDERN",
       "hint": "to row (propel over water using oars); to flail (one's arms)"
     },
     {
-      "word": "RUDOLPH",
-      "hint": ""
-    },
-    {
-      "word": "RUDY",
-      "hint": ""
-    },
-    {
       "word": "RUFST",
       "hint": "second-person singular present of rufen"
-    },
-    {
-      "word": "RUFUS",
-      "hint": ""
     },
     {
       "word": "RUHIGES",
@@ -16765,7 +14381,11 @@
     },
     {
       "word": "RUMLIEGEN",
-      "hint": ""
+      "hint": "to lie around"
+    },
+    {
+      "word": "RUN",
+      "hint": "A rush or stampede of people, as caused by scarcity."
     },
     {
       "word": "RUNDFUNK",
@@ -16782,10 +14402,6 @@
     {
       "word": "RUNTERGEFALLEN",
       "hint": "clipping of herunterfallen"
-    },
-    {
-      "word": "RUSH",
-      "hint": ""
     },
     {
       "word": "RUSSISCHES",
@@ -16809,7 +14425,7 @@
     },
     {
       "word": "RÄUMLICHKEITEN",
-      "hint": ""
+      "hint": "premises, rooms; spatial conditions"
     },
     {
       "word": "RÖNTGEN",
@@ -16856,6 +14472,10 @@
       "hint": "to move, to push; to move over"
     },
     {
+      "word": "RÜCKZUGSORT",
+      "hint": "a haven, a shelter"
+    },
+    {
       "word": "RÜHREND",
       "hint": "comparative degree of rührend"
     },
@@ -16866,6 +14486,10 @@
     {
       "word": "SABOTAGE",
       "hint": "sabotage"
+    },
+    {
+      "word": "SACHE",
+      "hint": "cause, action"
     },
     {
       "word": "SACHLICH",
@@ -16892,24 +14516,8 @@
       "hint": "ointment, salve"
     },
     {
-      "word": "SALEM",
-      "hint": ""
-    },
-    {
-      "word": "SALOMON",
-      "hint": ""
-    },
-    {
       "word": "SALT",
       "hint": "salt, table salt, sal; salt"
-    },
-    {
-      "word": "SALVADOR",
-      "hint": ""
-    },
-    {
-      "word": "SALVATORE",
-      "hint": ""
     },
     {
       "word": "SALZBURG",
@@ -16922,14 +14530,6 @@
     {
       "word": "SAMMLE",
       "hint": "to gather; to assemble; to collect; to congregate; to assemble; to meet"
-    },
-    {
-      "word": "SAMSON",
-      "hint": ""
-    },
-    {
-      "word": "SANCHEZ",
-      "hint": ""
     },
     {
       "word": "SANDALEN",
@@ -16956,24 +14556,12 @@
       "hint": "sanction, restrictive measure, punishment"
     },
     {
-      "word": "SANTO",
-      "hint": ""
-    },
-    {
-      "word": "SANTOS",
-      "hint": ""
-    },
-    {
       "word": "SARKASMUS",
       "hint": "sarcasm"
     },
     {
       "word": "SARKASTISCH",
       "hint": "sarcastic"
-    },
-    {
-      "word": "SASHA",
-      "hint": ""
     },
     {
       "word": "SASS",
@@ -17012,20 +14600,8 @@
       "hint": "to suck (to create underpressure with a tube-like object such as one's mouth); to suck (something)"
     },
     {
-      "word": "SAVE",
-      "hint": ""
-    },
-    {
-      "word": "SCAN",
-      "hint": ""
-    },
-    {
       "word": "SCANNEN",
       "hint": "to scan"
-    },
-    {
-      "word": "SCARLETT",
-      "hint": ""
     },
     {
       "word": "SCHACHZUG",
@@ -17070,6 +14646,14 @@
     {
       "word": "SCHARFSCHÜTZEN",
       "hint": "sniper, sharpshooter (regular soldier or policeman who shoots long range with a precision weapon)"
+    },
+    {
+      "word": "SCHATTEN",
+      "hint": "shade, shadow"
+    },
+    {
+      "word": "SCHATZ",
+      "hint": "darling, sweetheart, honey"
     },
     {
       "word": "SCHAUER",
@@ -17194,6 +14778,10 @@
     {
       "word": "SCHIMPFT",
       "hint": "to tell off, to scold, to yell at [with mit (+ dative) ‘someone’]; to complain, to grouse, to bitch, to curse [with über (+ accusative) or auf (+ accusative) ‘about"
+    },
+    {
+      "word": "SCHLACHT",
+      "hint": "battle"
     },
     {
       "word": "SCHLAFT",
@@ -17340,10 +14928,6 @@
       "hint": "second/third-person singular present of schmelzen"
     },
     {
-      "word": "SCHMITZ",
-      "hint": ""
-    },
-    {
       "word": "SCHMUCKSTÜCK",
       "hint": "jewellery"
     },
@@ -17376,6 +14960,10 @@
       "hint": "guts, balls, pluck, grit (courage)"
     },
     {
+      "word": "SCHNEIDEN",
+      "hint": "to pare; to clip; to mow; to prune; to trim"
+    },
+    {
       "word": "SCHNEIT",
       "hint": "to cut; to carve; to slice; to pare; to clip; to mow; to prune; to trim"
     },
@@ -17390,6 +14978,10 @@
     {
       "word": "SCHNITTEN",
       "hint": "slice (of bread); bird, chick (a girl or woman, especially one considered sexually attractive)"
+    },
+    {
+      "word": "SCHNITTSTELLE",
+      "hint": "interface"
     },
     {
       "word": "SCHNITZEL",
@@ -17464,6 +15056,10 @@
       "hint": "written"
     },
     {
+      "word": "SCHROT",
+      "hint": "shot"
+    },
+    {
       "word": "SCHRÄGE",
       "hint": "slant, tilt, inclination (state or degree of being out of alignment with other surfaces or axes); incline, slope (part of terrain or construction that is slanted at a constant"
     },
@@ -17477,7 +15073,7 @@
     },
     {
       "word": "SCHUBERT",
-      "hint": ""
+      "hint": "Austrian composer, known for his lieder and symphonies"
     },
     {
       "word": "SCHUBLADEN",
@@ -17525,7 +15121,7 @@
     },
     {
       "word": "SCHUMANN",
-      "hint": ""
+      "hint": "German composer and music critic of the Romantic era"
     },
     {
       "word": "SCHURKEN",
@@ -17598,6 +15194,10 @@
     {
       "word": "SCHWEFEL",
       "hint": "sulfur, brimstone (chemical element, S, atomic number 16)"
+    },
+    {
+      "word": "SCHWEIN",
+      "hint": "a dirty, or contemptible person"
     },
     {
       "word": "SCHWEINEFLEISCH",
@@ -17688,6 +15288,10 @@
       "hint": "harmful"
     },
     {
+      "word": "SCHÄFER",
+      "hint": "shepherd"
+    },
+    {
       "word": "SCHÄM",
       "hint": "singular imperative of schämen; first-person singular present of schämen"
     },
@@ -17712,6 +15316,10 @@
       "hint": "estimate, estimation, guess; appraisal, assessment, valuation"
     },
     {
+      "word": "SCHÖN",
+      "hint": "beautiful, lovely, pretty, handsome"
+    },
+    {
       "word": "SCHÖNERES",
       "hint": "strong/mixed nominative/accusative neuter singular comparative degree of schön"
     },
@@ -17728,20 +15336,20 @@
       "hint": "to shake"
     },
     {
+      "word": "SCHÜTTEN",
+      "hint": "to pour (of both liquids and solids)"
+    },
+    {
       "word": "SCOOTER",
       "hint": "bumper car; scooter"
     },
     {
-      "word": "SCOTLAND",
-      "hint": ""
-    },
-    {
-      "word": "SCOUT",
-      "hint": ""
-    },
-    {
       "word": "SECHZEHN",
       "hint": "sixteen"
+    },
+    {
+      "word": "SEEREISE",
+      "hint": "cruise, sailing, voyage (voyage made by a ship)"
     },
     {
       "word": "SEES",
@@ -17786,10 +15394,6 @@
     {
       "word": "SELF",
       "hint": "self-confident, self-assured; self-conscious, self-aware"
-    },
-    {
-      "word": "SELMA",
-      "hint": ""
     },
     {
       "word": "SELTENES",
@@ -17852,26 +15456,6 @@
       "hint": "sequence (series of musical phrases where a theme or melody is repeated)"
     },
     {
-      "word": "SER",
-      "hint": ""
-    },
-    {
-      "word": "SERBIEN",
-      "hint": ""
-    },
-    {
-      "word": "SERGE",
-      "hint": ""
-    },
-    {
-      "word": "SERGEJ",
-      "hint": ""
-    },
-    {
-      "word": "SERGIO",
-      "hint": ""
-    },
-    {
       "word": "SERIEN",
       "hint": "series (a number of things that follow on one after the other)"
     },
@@ -17904,56 +15488,8 @@
       "hint": "to sigh (to exhale audibly, usually accompanied by a deep, nasal sound of the voice)"
     },
     {
-      "word": "SEVILLA",
-      "hint": ""
-    },
-    {
-      "word": "SEYMOUR",
-      "hint": ""
-    },
-    {
-      "word": "SHADOW",
-      "hint": ""
-    },
-    {
-      "word": "SHAKE",
-      "hint": ""
-    },
-    {
       "word": "SHAMPOO",
       "hint": "shampoo (product for washing hair)"
-    },
-    {
-      "word": "SHANE",
-      "hint": ""
-    },
-    {
-      "word": "SHANNON",
-      "hint": ""
-    },
-    {
-      "word": "SHARON",
-      "hint": ""
-    },
-    {
-      "word": "SHAWN",
-      "hint": ""
-    },
-    {
-      "word": "SHELDON",
-      "hint": ""
-    },
-    {
-      "word": "SHEPHERD",
-      "hint": ""
-    },
-    {
-      "word": "SHERMAN",
-      "hint": ""
-    },
-    {
-      "word": "SHIRLEY",
-      "hint": ""
     },
     {
       "word": "SHIRTS",
@@ -17970,18 +15506,6 @@
     {
       "word": "SHORT",
       "hint": "shorts"
-    },
-    {
-      "word": "SHOT",
-      "hint": ""
-    },
-    {
-      "word": "SHOULD",
-      "hint": ""
-    },
-    {
-      "word": "SIBIRIEN",
-      "hint": ""
     },
     {
       "word": "SICHERHEITS",
@@ -18024,36 +15548,12 @@
       "hint": "silver-colored"
     },
     {
-      "word": "SILVA",
-      "hint": ""
-    },
-    {
-      "word": "SILVIO",
-      "hint": ""
-    },
-    {
       "word": "SIM",
       "hint": "SIM card"
     },
     {
-      "word": "SIMMONS",
-      "hint": ""
-    },
-    {
-      "word": "SIMONS",
-      "hint": ""
-    },
-    {
-      "word": "SIMPSONS",
-      "hint": ""
-    },
-    {
       "word": "SIMS",
       "hint": "horizontal protrusion or ridge on a wall etc."
-    },
-    {
-      "word": "SINCLAIR",
-      "hint": ""
     },
     {
       "word": "SINGER",
@@ -18088,6 +15588,10 @@
       "hint": "custom, tradition, common practice, rite; a normative standard of society; polite and (morally) accepted behaviour; mores, decency"
     },
     {
+      "word": "SITZEN",
+      "hint": "to stay (in one place); to remain; to be (in a particular place or state) [auxiliary haben or sein]"
+    },
+    {
       "word": "SIX",
       "hint": "six pack (package of six, usually of drinks); six pack (abdominal muscles)"
     },
@@ -18120,10 +15624,6 @@
       "hint": "sculpture (work of art)"
     },
     {
-      "word": "SLAM",
-      "hint": ""
-    },
-    {
       "word": "SLIP",
       "hint": "a piece of underwear covering just the genitalia and buttocks: panties, knickers (for women); briefs (for men)"
     },
@@ -18148,20 +15648,8 @@
       "hint": "snack (a light meal)"
     },
     {
-      "word": "SNAKE",
-      "hint": ""
-    },
-    {
-      "word": "SNOWDEN",
-      "hint": ""
-    },
-    {
       "word": "SO",
       "hint": "so, such, that; as (followed by an adjective or adverb plus wie in a statement of equality)"
-    },
-    {
-      "word": "SOCIAL",
-      "hint": ""
     },
     {
       "word": "SOCKE",
@@ -18200,10 +15688,6 @@
       "hint": "contraction of soll +‎ es"
     },
     {
-      "word": "SOMETHING",
-      "hint": ""
-    },
-    {
       "word": "SOMMERS",
       "hint": "summers"
     },
@@ -18224,12 +15708,16 @@
       "hint": "to sun, to sunbathe"
     },
     {
-      "word": "SONNIGEN",
+      "word": "SONNENSCHEIN",
+      "hint": "sunshine"
+    },
+    {
+      "word": "SONNIG",
       "hint": "sunny"
     },
     {
-      "word": "SONNY",
-      "hint": ""
+      "word": "SONNIGEN",
+      "hint": "sunny"
     },
     {
       "word": "SONS",
@@ -18242,10 +15730,6 @@
     {
       "word": "SONY",
       "hint": "Sony (a device produced by Sony)"
-    },
-    {
-      "word": "SOO",
-      "hint": ""
     },
     {
       "word": "SORG",
@@ -18270,10 +15754,6 @@
     {
       "word": "SORTIERT",
       "hint": "to sort"
-    },
-    {
-      "word": "SOS",
-      "hint": ""
     },
     {
       "word": "SOWJETISCHE",
@@ -18381,7 +15861,7 @@
     },
     {
       "word": "SPEZIALEINHEIT",
-      "hint": ""
+      "hint": "special unit"
     },
     {
       "word": "SPEZIELLER",
@@ -18440,12 +15920,8 @@
       "hint": "spy"
     },
     {
-      "word": "SPIRITUELLE",
-      "hint": ""
-    },
-    {
       "word": "SPIRITUELLEN",
-      "hint": ""
+      "hint": "spiritual (inflected form of spirituell)"
     },
     {
       "word": "SPITAL",
@@ -18512,10 +15988,6 @@
       "hint": "inflection of springen"
     },
     {
-      "word": "SPRINGFIELD",
-      "hint": ""
-    },
-    {
       "word": "SPRINGS",
       "hint": "singular imperative of springen; first-person singular present of springen"
     },
@@ -18538,6 +16010,18 @@
     {
       "word": "SPUCKT",
       "hint": "to spit; to vomit"
+    },
+    {
+      "word": "SPUR",
+      "hint": "track; trail, track, spoor (path of signs leading somewhere, also e.g. through scent)"
+    },
+    {
+      "word": "SPÄHER",
+      "hint": "scout, spy, point man, one who looks out"
+    },
+    {
+      "word": "SPÄT",
+      "hint": "late"
     },
     {
       "word": "SPÄTE",
@@ -18620,6 +16104,10 @@
       "hint": "to descend, to originate, to be derived"
     },
     {
+      "word": "STAND",
+      "hint": "booth, stand"
+    },
+    {
       "word": "STANDE",
       "hint": "standing, state, status, position, situation; class, stratum (group of people with a certain social status)"
     },
@@ -18632,16 +16120,8 @@
       "hint": "location, place, site; base"
     },
     {
-      "word": "STANFORD",
-      "hint": ""
-    },
-    {
       "word": "STANGEN",
       "hint": "pole; bar; rod; post (a long stick, usually round and of metal, but also of other material, especially when fixed somewhere); small straight glass for beer (especially Kölsch)"
-    },
-    {
-      "word": "STARBUCKS",
-      "hint": ""
     },
     {
       "word": "STARKEM",
@@ -18688,10 +16168,6 @@
       "hint": "statue"
     },
     {
-      "word": "STAY",
-      "hint": ""
-    },
-    {
       "word": "STEAKS",
       "hint": "steak (slice of meat, chiefly beef)"
     },
@@ -18702,22 +16178,6 @@
     {
       "word": "STECKTEN",
       "hint": "inflection of stecken"
-    },
-    {
-      "word": "STEEL",
-      "hint": ""
-    },
-    {
-      "word": "STEELE",
-      "hint": ""
-    },
-    {
-      "word": "STEFANIE",
-      "hint": ""
-    },
-    {
-      "word": "STEFFEN",
-      "hint": ""
     },
     {
       "word": "STEG",
@@ -18752,8 +16212,8 @@
       "hint": "position, posture (specific way of holding or positioning the body); position (position attained against the competition of others, but not numerically quantified)"
     },
     {
-      "word": "STEP",
-      "hint": ""
+      "word": "STELLVERTRETER",
+      "hint": "deputy, vicegerent, lieutenant"
     },
     {
       "word": "STERBENDEN",
@@ -18812,6 +16272,10 @@
       "hint": "comparative degree of still"
     },
     {
+      "word": "STIMME",
+      "hint": "voice (speaking or singing), call of an animal"
+    },
+    {
       "word": "STIMMTEN",
       "hint": "to be right, to be correct, to be proper, to be true; to vote [with für (+ accusative) ‘for’]"
     },
@@ -18836,16 +16300,16 @@
       "hint": "to stumble, to trip; to stumble across"
     },
     {
+      "word": "STOLZ",
+      "hint": "pride"
+    },
+    {
       "word": "STOLZEN",
       "hint": "proud [with auf (+ accusative) ‘of someone/something’]; haughty"
     },
     {
       "word": "STOLZER",
       "hint": "proud [with auf (+ accusative) ‘of someone/something’]; haughty"
-    },
-    {
-      "word": "STONES",
-      "hint": ""
     },
     {
       "word": "STORCH",
@@ -19016,6 +16480,10 @@
       "hint": "dull, blunt; flat (as opposed to pointy)"
     },
     {
+      "word": "STUNDE",
+      "hint": "hour, moment, time (point in time); hour (unit of time consisting of 60 minutes)"
+    },
+    {
       "word": "STUTE",
       "hint": "mare (adult female horse); mare (of other equids) or female of other animals (especially in compounds)."
     },
@@ -19026,6 +16494,10 @@
     {
       "word": "STÄDTISCHE",
       "hint": "urban; municipal"
+    },
+    {
+      "word": "STÄHLERN",
+      "hint": "steel"
     },
     {
       "word": "STÄNDE",
@@ -19108,64 +16580,20 @@
       "hint": "subtle"
     },
     {
-      "word": "SUDAN",
-      "hint": ""
-    },
-    {
-      "word": "SUGAR",
-      "hint": ""
-    },
-    {
       "word": "SUIZID",
       "hint": "suicide"
-    },
-    {
-      "word": "SULLIVAN",
-      "hint": ""
-    },
-    {
-      "word": "SUNNY",
-      "hint": ""
-    },
-    {
-      "word": "SUNSHINE",
-      "hint": ""
     },
     {
       "word": "SUPERHELDEN",
       "hint": "superhero"
     },
     {
-      "word": "SUR",
-      "hint": ""
-    },
-    {
       "word": "SURE",
       "hint": "sura (of the Qur'an)"
     },
     {
-      "word": "SUSI",
-      "hint": ""
-    },
-    {
-      "word": "SUZANNE",
-      "hint": ""
-    },
-    {
-      "word": "SWIFT",
-      "hint": ""
-    },
-    {
       "word": "SWING",
       "hint": "swing; swing credit"
-    },
-    {
-      "word": "SYLVESTER",
-      "hint": ""
-    },
-    {
-      "word": "SYLVIE",
-      "hint": ""
     },
     {
       "word": "SYMBOLISCH",
@@ -19264,10 +16692,6 @@
       "hint": "meeting, conference / convention"
     },
     {
-      "word": "TAI",
-      "hint": ""
-    },
-    {
       "word": "TAILLE",
       "hint": "waist, waistline, midriff"
     },
@@ -19296,20 +16720,8 @@
       "hint": "Taliban, a member of the Taliban movement"
     },
     {
-      "word": "TAMARA",
-      "hint": ""
-    },
-    {
-      "word": "TAN",
-      "hint": ""
-    },
-    {
       "word": "TANKS",
       "hint": "tank (container for liquids or gases); tank (armoured fighting vehicle)"
-    },
-    {
-      "word": "TANNER",
-      "hint": ""
     },
     {
       "word": "TANZE",
@@ -19332,10 +16744,6 @@
       "hint": "inflection of tanzen"
     },
     {
-      "word": "TAPE",
-      "hint": ""
-    },
-    {
       "word": "TAPFERE",
       "hint": "brave, dauntless, hardy, tough (strong in the face of hardship, pain, danger)"
     },
@@ -19348,20 +16756,12 @@
       "hint": "bravery (being brave)"
     },
     {
-      "word": "TARZAN",
-      "hint": ""
-    },
-    {
       "word": "TASCHENTUCH",
       "hint": "handkerchief; tissue; paper handkerchief"
     },
     {
       "word": "TASTEN",
       "hint": "to feel with the hands, to fumble, to grope"
-    },
-    {
-      "word": "TATE",
-      "hint": ""
     },
     {
       "word": "TATSÄCHLICHE",
@@ -19408,10 +16808,6 @@
       "hint": "taxi, cab"
     },
     {
-      "word": "TEA",
-      "hint": ""
-    },
-    {
       "word": "TECHNISCHER",
       "hint": "technical; technological"
     },
@@ -19424,8 +16820,8 @@
       "hint": "technology"
     },
     {
-      "word": "TEHERAN",
-      "hint": ""
+      "word": "TEE",
+      "hint": "tea (drink made by infusing parts of a plant, especially leaves or buds of Camellia sinensis, in water)"
     },
     {
       "word": "TEIG",
@@ -19472,10 +16868,6 @@
       "hint": "tendency"
     },
     {
-      "word": "TENNESSEE",
-      "hint": ""
-    },
-    {
       "word": "TENOR",
       "hint": "tenor"
     },
@@ -19488,16 +16880,8 @@
       "hint": "tequila (an alcoholic liquor distilled from the fermented juice of the Central American century plant Agave tequilana)"
     },
     {
-      "word": "TER",
-      "hint": ""
-    },
-    {
       "word": "TERMINKALENDER",
       "hint": "appointment diary"
-    },
-    {
-      "word": "TERRA",
-      "hint": ""
     },
     {
       "word": "TERRAIN",
@@ -19506,10 +16890,6 @@
     {
       "word": "TESLA",
       "hint": "tesla"
-    },
-    {
-      "word": "TESSA",
-      "hint": ""
     },
     {
       "word": "TESTE",
@@ -19532,20 +16912,8 @@
       "hint": "to write (song, script etc); to text"
     },
     {
-      "word": "THAI",
-      "hint": ""
-    },
-    {
       "word": "THAN",
       "hint": "thane (rank of nobility in pre-Norman England)"
-    },
-    {
-      "word": "THANK",
-      "hint": ""
-    },
-    {
-      "word": "THEA",
-      "hint": ""
     },
     {
       "word": "THEATERS",
@@ -19556,24 +16924,8 @@
       "hint": "drama, piece, play (theatrical performance)"
     },
     {
-      "word": "THEIR",
-      "hint": ""
-    },
-    {
       "word": "THEKE",
       "hint": "bar (table or board in a pub or restaurant); counter (similar table in a shop)"
-    },
-    {
-      "word": "THEM",
-      "hint": ""
-    },
-    {
-      "word": "THEN",
-      "hint": ""
-    },
-    {
-      "word": "THEODOR",
-      "hint": ""
     },
     {
       "word": "THEOLOGIE",
@@ -19592,10 +16944,6 @@
       "hint": "female therapist"
     },
     {
-      "word": "THERESE",
-      "hint": ""
-    },
-    {
       "word": "THING",
       "hint": "Thing (historic Germanic council)"
     },
@@ -19604,16 +16952,8 @@
       "hint": "Thing (historic Germanic council)"
     },
     {
-      "word": "THROUGH",
-      "hint": ""
-    },
-    {
       "word": "THUNFISCH",
       "hint": "tuna; tunafish"
-    },
-    {
-      "word": "TI",
-      "hint": ""
     },
     {
       "word": "TIBET",
@@ -19652,24 +16992,12 @@
       "hint": "animal; beastly, brutal; extremely"
     },
     {
-      "word": "TIFFANY",
-      "hint": ""
-    },
-    {
       "word": "TIGERS",
       "hint": "tiger"
     },
     {
       "word": "TILL",
       "hint": "obsolete form of Dill (“dill”)"
-    },
-    {
-      "word": "TIMO",
-      "hint": ""
-    },
-    {
-      "word": "TIMOTHY",
-      "hint": ""
     },
     {
       "word": "TIP",
@@ -19688,14 +17016,6 @@
       "hint": "front page"
     },
     {
-      "word": "TITO",
-      "hint": ""
-    },
-    {
-      "word": "TITUS",
-      "hint": ""
-    },
-    {
       "word": "TK",
       "hint": "abbreviation of Tiefkühl"
     },
@@ -19708,20 +17028,8 @@
       "hint": "to rage, riot; to clamor"
     },
     {
-      "word": "TOBI",
-      "hint": ""
-    },
-    {
       "word": "TOBT",
       "hint": "inflection of toben"
-    },
-    {
-      "word": "TOBY",
-      "hint": ""
-    },
-    {
-      "word": "TODAY",
-      "hint": ""
     },
     {
       "word": "TODESFALL",
@@ -19740,24 +17048,12 @@
       "hint": "death warrant, execution warrant"
     },
     {
-      "word": "TOGETHER",
-      "hint": ""
-    },
-    {
-      "word": "TOI",
-      "hint": ""
-    },
-    {
       "word": "TOLERIEREN",
       "hint": "to tolerate"
     },
     {
       "word": "TOLERIERT",
       "hint": "to tolerate"
-    },
-    {
-      "word": "TOMAS",
-      "hint": ""
     },
     {
       "word": "TOMATE",
@@ -19768,16 +17064,12 @@
       "hint": "tone (of voice); intonation"
     },
     {
-      "word": "TONIGHT",
-      "hint": ""
+      "word": "TOPF",
+      "hint": "pot, jar (any flat-bottomed, usually open-topped vessel); cooking pot (flat-bottomed, open-topped vessel for cooking food)"
     },
     {
       "word": "TORNADO",
       "hint": "tornado"
-    },
-    {
-      "word": "TORONTO",
-      "hint": ""
     },
     {
       "word": "TORWART",
@@ -19814,14 +17106,6 @@
     {
       "word": "TRACHT",
       "hint": "a style of clothing or appearance, chiefly one that is typical of some group, region or age; a traditional costume; pollen carried to the hive"
-    },
-    {
-      "word": "TRACK",
-      "hint": ""
-    },
-    {
-      "word": "TRACY",
-      "hint": ""
     },
     {
       "word": "TRADE",
@@ -19920,14 +17204,6 @@
       "hint": "wedding vows; wedding"
     },
     {
-      "word": "TRAVIS",
-      "hint": ""
-    },
-    {
-      "word": "TREE",
-      "hint": ""
-    },
-    {
       "word": "TREFFT",
       "hint": "to meet; to encounter; to hit; to strike"
     },
@@ -19938,10 +17214,6 @@
     {
       "word": "TREIBENDE",
       "hint": "present participle of treiben"
-    },
-    {
-      "word": "TREK",
-      "hint": ""
     },
     {
       "word": "TRENNTE",
@@ -19958,10 +17230,6 @@
     {
       "word": "TREUER",
       "hint": "comparative degree of treu; inflection of treu"
-    },
-    {
-      "word": "TREVOR",
-      "hint": ""
     },
     {
       "word": "TRIBUT",
@@ -20016,10 +17284,6 @@
       "hint": "trophy; tropæum"
     },
     {
-      "word": "TROY",
-      "hint": ""
-    },
-    {
       "word": "TRUCKS",
       "hint": "truck"
     },
@@ -20038,10 +17302,6 @@
     {
       "word": "TRUST",
       "hint": "trust (company)"
-    },
-    {
-      "word": "TRY",
-      "hint": ""
     },
     {
       "word": "TRÄNE",
@@ -20080,16 +17340,8 @@
       "hint": "tube (container for semiliquids, usually with a screw top)"
     },
     {
-      "word": "TUCKER",
-      "hint": ""
-    },
-    {
       "word": "TUGENDEN",
       "hint": "virtue"
-    },
-    {
-      "word": "TUNESIEN",
-      "hint": ""
     },
     {
       "word": "TUNNELS",
@@ -20112,20 +17364,8 @@
       "hint": "tweet (post to Twitter)"
     },
     {
-      "word": "TWILIGHT",
-      "hint": ""
-    },
-    {
-      "word": "TWIN",
-      "hint": ""
-    },
-    {
       "word": "TWIST",
       "hint": "twist (surprising turn or variation); twist"
-    },
-    {
-      "word": "TY",
-      "hint": ""
     },
     {
       "word": "TYPISCHES",
@@ -20188,10 +17428,6 @@
       "hint": "a small to medium-sized bag, usually of paper or plastic (sometimes also of fabric, for which more properly Beutel is used); ellipsis of Eistüte (“ice cream cone”)"
     },
     {
-      "word": "UDSSR",
-      "hint": ""
-    },
-    {
       "word": "UEBER",
       "hint": "Nonstandard spelling of über used in some older texts and when technical limitations prevent the use of umlauts."
     },
@@ -20202,14 +17438,6 @@
     {
       "word": "UI",
       "hint": "An exclamation of surprise, joy, excitement, or admiration.; An exclamation of worry or lament."
-    },
-    {
-      "word": "ULF",
-      "hint": ""
-    },
-    {
-      "word": "ULRIKE",
-      "hint": ""
     },
     {
       "word": "ULTIMATUM",
@@ -20340,10 +17568,6 @@
       "hint": "to encircle, to surround"
     },
     {
-      "word": "UNA",
-      "hint": ""
-    },
-    {
       "word": "UNABHÄNGIG",
       "hint": "independent"
     },
@@ -20408,20 +17632,12 @@
       "hint": "useless; unusable; unsuitable"
     },
     {
-      "word": "UNCOOL",
-      "hint": ""
-    },
-    {
       "word": "UND",
       "hint": "and; links two nouns, often a person and an activity, in rhetoric questions to express an opposition between them"
     },
     {
       "word": "UNDENKBAR",
       "hint": "incogitable; unimaginable"
-    },
-    {
-      "word": "UNDER",
-      "hint": ""
     },
     {
       "word": "UNDEUTLICH",
@@ -20474,6 +17690,10 @@
     {
       "word": "UNGEHORSAM",
       "hint": "disobedient"
+    },
+    {
+      "word": "UNGEIL",
+      "hint": "uncool"
     },
     {
       "word": "UNGEMEIN",
@@ -20550,10 +17770,6 @@
     {
       "word": "UNINTERESSANT",
       "hint": "uninteresting"
-    },
-    {
-      "word": "UNIT",
-      "hint": ""
     },
     {
       "word": "UNIVERSAL",
@@ -20650,6 +17866,10 @@
     {
       "word": "UNTERGRABEN",
       "hint": "to undermine, to subvert"
+    },
+    {
+      "word": "UNTERHALTUNG",
+      "hint": "entertainment"
     },
     {
       "word": "UNTERHIELTEN",
@@ -20800,14 +18020,6 @@
       "hint": "countless, innumerable"
     },
     {
-      "word": "UPGRADE",
-      "hint": ""
-    },
-    {
-      "word": "UPPER",
-      "hint": ""
-    },
-    {
       "word": "URALTE",
       "hint": "very old, ancient"
     },
@@ -20824,36 +18036,20 @@
       "hint": "urban"
     },
     {
+      "word": "URLAUB",
+      "hint": "holiday, vacation"
+    },
+    {
       "word": "URNE",
       "hint": "urn; ballot box"
-    },
-    {
-      "word": "USER",
-      "hint": ""
-    },
-    {
-      "word": "UTAH",
-      "hint": ""
     },
     {
       "word": "VAKUUM",
       "hint": "vacuum"
     },
     {
-      "word": "VALENCIA",
-      "hint": ""
-    },
-    {
-      "word": "VALENTIN",
-      "hint": ""
-    },
-    {
-      "word": "VALENTINE",
-      "hint": ""
-    },
-    {
-      "word": "VANCOUVER",
-      "hint": ""
+      "word": "VALENTINSTAG",
+      "hint": "Valentine's Day"
     },
     {
       "word": "VANDALISMUS",
@@ -20862,10 +18058,6 @@
     {
       "word": "VANILLE",
       "hint": "vanilla"
-    },
-    {
-      "word": "VARGAS",
-      "hint": ""
     },
     {
       "word": "VARIABLEN",
@@ -20878,10 +18070,6 @@
     {
       "word": "VASE",
       "hint": "vase"
-    },
-    {
-      "word": "VEGA",
-      "hint": ""
     },
     {
       "word": "VEGANER",
@@ -21325,7 +18513,7 @@
     },
     {
       "word": "VERLIESS",
-      "hint": ""
+      "hint": "left (preterite of verlassen)"
     },
     {
       "word": "VERLÄSSLICH",
@@ -21382,10 +18570,6 @@
     {
       "word": "VERNÜNFTIGES",
       "hint": "strong/mixed nominative/accusative neuter singular of vernünftig"
-    },
-    {
-      "word": "VERONA",
-      "hint": ""
     },
     {
       "word": "VERPASSE",
@@ -21584,6 +18768,10 @@
       "hint": "to disturb (of someone's mental state)"
     },
     {
+      "word": "VERSUCHEN",
+      "hint": "to try, to taste; to try, to attempt (often with an uncertain result) [with zu (+ infinitive) ‘to do something’]"
+    },
+    {
       "word": "VERSUCHS",
       "hint": "attempt; experiment; test, trial"
     },
@@ -21780,24 +18968,8 @@
       "hint": "veteran (old soldier); vintage car"
     },
     {
-      "word": "VIAGRA",
-      "hint": ""
-    },
-    {
-      "word": "VIC",
-      "hint": ""
-    },
-    {
-      "word": "VICKY",
-      "hint": ""
-    },
-    {
       "word": "VIDEOSPIEL",
       "hint": "video game"
-    },
-    {
-      "word": "VIE",
-      "hint": ""
     },
     {
       "word": "VIECHER",
@@ -21826,30 +18998,6 @@
     {
       "word": "VIERTELSTUNDE",
       "hint": "quarter of an hour"
-    },
-    {
-      "word": "VIEW",
-      "hint": ""
-    },
-    {
-      "word": "VIKTORIA",
-      "hint": ""
-    },
-    {
-      "word": "VILLAGE",
-      "hint": ""
-    },
-    {
-      "word": "VIN",
-      "hint": ""
-    },
-    {
-      "word": "VINCE",
-      "hint": ""
-    },
-    {
-      "word": "VINCI",
-      "hint": ""
     },
     {
       "word": "VIOLA",
@@ -21884,10 +19032,6 @@
       "hint": "visiting card; business card"
     },
     {
-      "word": "VISTA",
-      "hint": ""
-    },
-    {
       "word": "VISUELLE",
       "hint": "visual"
     },
@@ -21896,24 +19040,8 @@
       "hint": "visa (permit to enter a country); visa (stamp on a passport)"
     },
     {
-      "word": "VITA",
-      "hint": ""
-    },
-    {
       "word": "VITAMINE",
       "hint": "vitamin"
-    },
-    {
-      "word": "VITO",
-      "hint": ""
-    },
-    {
-      "word": "VIVA",
-      "hint": ""
-    },
-    {
-      "word": "VIVIAN",
-      "hint": ""
     },
     {
       "word": "VIZE",
@@ -21924,16 +19052,12 @@
       "hint": "vice president"
     },
     {
-      "word": "VLADIMIR",
-      "hint": ""
-    },
-    {
       "word": "VO",
       "hint": "initialism of Verordnung (“regulation”); abbreviation of Vorlesung"
     },
     {
-      "word": "VOICE",
-      "hint": ""
+      "word": "VOGEL",
+      "hint": "a bird"
     },
     {
       "word": "VOLKER",
@@ -21982,10 +19106,6 @@
     {
       "word": "VOLUMEN",
       "hint": "volume"
-    },
-    {
-      "word": "VOLVO",
-      "hint": ""
     },
     {
       "word": "VON",
@@ -22217,7 +19337,7 @@
     },
     {
       "word": "VORWARNUNG",
-      "hint": ""
+      "hint": "advance warning"
     },
     {
       "word": "VORWIEGEND",
@@ -22248,18 +19368,6 @@
       "hint": "strong/mixed nominative/accusative neuter singular of vorübergehend"
     },
     {
-      "word": "VOSS",
-      "hint": ""
-    },
-    {
-      "word": "VOUS",
-      "hint": ""
-    },
-    {
-      "word": "VOYAGER",
-      "hint": ""
-    },
-    {
       "word": "VÖLKERMORD",
       "hint": "genocide"
     },
@@ -22270,6 +19378,10 @@
     {
       "word": "VÖLLIGE",
       "hint": "complete, total, utter"
+    },
+    {
+      "word": "WACHE",
+      "hint": "watch, sentry, guard duty; watch, guard (group of people perfoming such duty)"
     },
     {
       "word": "WACHMANN",
@@ -22360,12 +19472,8 @@
       "hint": "orphanage"
     },
     {
-      "word": "WAIT",
-      "hint": ""
-    },
-    {
-      "word": "WALDEMAR",
-      "hint": ""
+      "word": "WALD",
+      "hint": "forest; woods; woodland"
     },
     {
       "word": "WALE",
@@ -22376,16 +19484,8 @@
       "hint": "to tan (in leather-making), to full, to walk (in felt-making); to knead"
     },
     {
-      "word": "WALSH",
-      "hint": ""
-    },
-    {
       "word": "WALTEN",
       "hint": "to rule, to exercise control [with genitive or über (+ accusative) ‘over someone/something’]; to prevail"
-    },
-    {
-      "word": "WALTHER",
-      "hint": ""
     },
     {
       "word": "WALZER",
@@ -22394,10 +19494,6 @@
     {
       "word": "WAN",
       "hint": "whence"
-    },
-    {
-      "word": "WANDA",
-      "hint": ""
     },
     {
       "word": "WANDELN",
@@ -22440,6 +19536,10 @@
       "hint": "warning"
     },
     {
+      "word": "WARTEN",
+      "hint": "to wait (for) [with auf (+ accusative)]"
+    },
+    {
       "word": "WARTEZEIT",
       "hint": "waiting time"
     },
@@ -22476,10 +19576,6 @@
       "hint": "hydrogen; the lightest and most common element in the universe with the atomic number 1"
     },
     {
-      "word": "WATCH",
-      "hint": ""
-    },
-    {
       "word": "WATT",
       "hint": "intertidal zone, foreshore, especially the vast mudflats at the North Sea coast"
     },
@@ -22488,20 +19584,12 @@
       "hint": "WC (water closet)"
     },
     {
-      "word": "WEBBER",
-      "hint": ""
-    },
-    {
       "word": "WECK",
       "hint": "bread roll"
     },
     {
       "word": "WECKTE",
       "hint": "to wake, to wake up"
-    },
-    {
-      "word": "WEEK",
-      "hint": ""
     },
     {
       "word": "WEGFAHREN",
@@ -22560,8 +19648,16 @@
       "hint": "Christmas season, Christmastime, Yuletide (The period from Advent Sunday through the end of the year; specifically the days before and after Christmas. In some regions, this"
     },
     {
+      "word": "WEIL",
+      "hint": "because, given that"
+    },
+    {
       "word": "WEINBERG",
       "hint": "vineyard"
+    },
+    {
+      "word": "WEINEN",
+      "hint": "to weep, cry"
     },
     {
       "word": "WEINEND",
@@ -22574,6 +19670,10 @@
     {
       "word": "WEINST",
       "hint": "second-person singular present of weinen"
+    },
+    {
+      "word": "WEIT",
+      "hint": "far, distant (of the past or future); far"
     },
     {
       "word": "WEITERARBEITEN",
@@ -22608,10 +19708,6 @@
       "hint": "extensive"
     },
     {
-      "word": "WELCOME",
-      "hint": ""
-    },
-    {
       "word": "WELLENLÄNGE",
       "hint": "wavelength"
     },
@@ -22634,10 +19730,6 @@
     {
       "word": "WENDUNG",
       "hint": "turn; expression, phrase"
-    },
-    {
-      "word": "WENDY",
-      "hint": ""
     },
     {
       "word": "WENNGLEICH",
@@ -22668,10 +19760,6 @@
       "hint": "essential (concerning the essence or true nature of something); crucial, principal, significant (of fundamental importance)"
     },
     {
-      "word": "WESLEY",
-      "hint": ""
-    },
-    {
       "word": "WESTENS",
       "hint": "west; The area of Western Germany, i.e. those territories which were never part of the GDR."
     },
@@ -22684,6 +19772,10 @@
       "hint": "even, quits"
     },
     {
+      "word": "WETTEIFERN",
+      "hint": "to vie"
+    },
+    {
       "word": "WETTER",
       "hint": "weather; storm, rainstorm"
     },
@@ -22692,20 +19784,8 @@
       "hint": "abbreviation of Wohngemeinschaft (“flatshare”)"
     },
     {
-      "word": "WHEELER",
-      "hint": ""
-    },
-    {
       "word": "WHIRLPOOL",
       "hint": "jacuzzi (kind of hot tub)"
-    },
-    {
-      "word": "WHITNEY",
-      "hint": ""
-    },
-    {
-      "word": "WI",
-      "hint": ""
     },
     {
       "word": "WICHSEN",
@@ -22726,10 +19806,6 @@
     {
       "word": "WICKELN",
       "hint": "to wrap, wind around, coil; to swaddle (a baby)"
-    },
-    {
-      "word": "WIDE",
-      "hint": ""
     },
     {
       "word": "WIDERFAHREN",
@@ -22820,16 +19896,16 @@
       "hint": "willy, penis"
     },
     {
+      "word": "WILLKOMMEN",
+      "hint": "welcome (received with gladness); welcome"
+    },
+    {
       "word": "WILLKÜRLICH",
       "hint": "arbitrary, random, haphazard"
     },
     {
       "word": "WIN",
       "hint": "win-win situation"
-    },
-    {
-      "word": "WINCHESTER",
-      "hint": ""
     },
     {
       "word": "WINDEL",
@@ -22856,10 +19932,6 @@
       "hint": "to wave one's hand; to beckon"
     },
     {
-      "word": "WINKLER",
-      "hint": ""
-    },
-    {
       "word": "WINKT",
       "hint": "to wave one's hand; to beckon"
     },
@@ -22874,6 +19946,10 @@
     {
       "word": "WIRKE",
       "hint": "to function, to be effective, to work; to appear, to seem [with auf (+ accusative) ‘to someone’]"
+    },
+    {
+      "word": "WIRKLICH",
+      "hint": "really, actually"
     },
     {
       "word": "WIRKLICHER",
@@ -22904,10 +19980,6 @@
       "hint": "to wipe; to mop, scrub"
     },
     {
-      "word": "WISCONSIN",
-      "hint": ""
-    },
-    {
       "word": "WISSE",
       "hint": "first/third-person singular subjunctive I of wissen; singular imperative of wissen"
     },
@@ -22920,16 +19992,12 @@
       "hint": "science (a branch of knowledge or academic discipline dealing with a systematic body of facts or truths); science, the sciences taken as a whole"
     },
     {
-      "word": "WITHOUT",
-      "hint": ""
-    },
-    {
-      "word": "WLADIMIR",
-      "hint": ""
-    },
-    {
       "word": "WM",
       "hint": "initialism of Weltmeisterschaft (“world championship, World Cup”)"
+    },
+    {
+      "word": "WOCHE",
+      "hint": "week; weekdays (those days of a given week on which most people work); week (period of seven days counting from Monday to Sunday, or from Sunday to Saturday)"
     },
     {
       "word": "WOGEGEN",
@@ -22938,10 +20006,6 @@
     {
       "word": "WOHLBEFINDEN",
       "hint": "well-being"
-    },
-    {
-      "word": "WOHLER",
-      "hint": ""
     },
     {
       "word": "WOHLERGEHEN",
@@ -22972,32 +20036,8 @@
       "hint": "place of residence"
     },
     {
-      "word": "WOLFF",
-      "hint": ""
-    },
-    {
       "word": "WOLFRAM",
       "hint": "tungsten"
-    },
-    {
-      "word": "WON",
-      "hint": ""
-    },
-    {
-      "word": "WONDER",
-      "hint": ""
-    },
-    {
-      "word": "WONG",
-      "hint": ""
-    },
-    {
-      "word": "WOODS",
-      "hint": ""
-    },
-    {
-      "word": "WOODY",
-      "hint": ""
     },
     {
       "word": "WORK",
@@ -23010,10 +20050,6 @@
     {
       "word": "WORTWÖRTLICH",
       "hint": "word-for-word"
-    },
-    {
-      "word": "WOULD",
-      "hint": ""
     },
     {
       "word": "WRESTLING",
@@ -23032,6 +20068,10 @@
       "hint": "wounded, injured, sore"
     },
     {
+      "word": "WUNDER",
+      "hint": "wonder"
+    },
+    {
       "word": "WUNDERE",
       "hint": "miracle; wonder"
     },
@@ -23046,10 +20086,6 @@
     {
       "word": "WUSSTET",
       "hint": "second-person plural preterite of wissen"
-    },
-    {
-      "word": "WYATT",
-      "hint": ""
     },
     {
       "word": "WÄHLTEN",
@@ -23092,14 +20128,6 @@
       "hint": "strong/mixed nominative/accusative neuter singular of wütend"
     },
     {
-      "word": "XBOX",
-      "hint": ""
-    },
-    {
-      "word": "YA",
-      "hint": ""
-    },
-    {
       "word": "YACHT",
       "hint": "alternative spelling of Jacht (now less common)"
     },
@@ -23110,22 +20138,6 @@
     {
       "word": "YARDS",
       "hint": "yard (measure of length equal to ca. 91 cm)"
-    },
-    {
-      "word": "YAY",
-      "hint": ""
-    },
-    {
-      "word": "YEP",
-      "hint": ""
-    },
-    {
-      "word": "YI",
-      "hint": ""
-    },
-    {
-      "word": "YIN",
-      "hint": ""
     },
     {
       "word": "YUAN",
@@ -23226,10 +20238,6 @@
     {
       "word": "ZEITWEISE",
       "hint": "at times; for a time"
-    },
-    {
-      "word": "ZELDA",
-      "hint": ""
     },
     {
       "word": "ZELTE",
@@ -23348,6 +20356,10 @@
       "hint": "lemon (fruit); lemonade (still beverage)"
     },
     {
+      "word": "ZITRONENBAUM",
+      "hint": "lemon tree"
+    },
+    {
       "word": "ZITTERT",
       "hint": "to shiver, to tremble, to vibrate"
     },
@@ -23394,6 +20406,10 @@
     {
       "word": "ZUCKEN",
       "hint": "to jerk, twitch; to shrug (the shoulders)"
+    },
+    {
+      "word": "ZUCKER",
+      "hint": "sugar"
     },
     {
       "word": "ZUFÄLLE",
@@ -23454,6 +20470,10 @@
     {
       "word": "ZUHÖRT",
       "hint": "to listen [with dative ‘to someone/something’]"
+    },
+    {
+      "word": "ZUKNALLEN",
+      "hint": "to slam shut"
     },
     {
       "word": "ZUKOMMT",
@@ -23752,6 +20772,10 @@
       "hint": "onion (typically Allium cepa, the plant or its bulb); bulb (of a plant)"
     },
     {
+      "word": "ZWIELICHT",
+      "hint": "twilight"
+    },
+    {
       "word": "ZWILLING",
       "hint": "twin (male or female; the feminine form Zwillingin is rare); twin (used as a component in numerous compound words such as Zwillingstürme (“Twin Towers”), with (one or more) or"
     },
@@ -23766,10 +20790,6 @@
     {
       "word": "ZYNISCH",
       "hint": "cynical"
-    },
-    {
-      "word": "ZYPERN",
-      "hint": ""
     },
     {
       "word": "ZÄH",
@@ -23830,6 +20850,10 @@
     {
       "word": "ÄLTESTER",
       "hint": "an elder; oldest, eldest"
+    },
+    {
+      "word": "ÄNDERN",
+      "hint": "to change, to vary; to change, to alter"
     },
     {
       "word": "ÄNGSTEN",
@@ -24058,6 +21082,10 @@
     {
       "word": "ÜBLER",
       "hint": "comparative degree of übel"
+    },
+    {
+      "word": "ÜBRIG",
+      "hint": "left, left over; spare"
     },
     {
       "word": "ÜBRIGE",

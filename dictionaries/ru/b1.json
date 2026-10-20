@@ -24,20 +24,12 @@
       "hint": "agent; envoy"
     },
     {
-      "word": "АДАМ",
-      "hint": ""
-    },
-    {
       "word": "АДВОКАТА",
       "hint": "lawyer, attorney, barrister, solicitor, advocate"
     },
     {
       "word": "АЙ",
       "hint": "ouch! (it hurts!)"
-    },
-    {
-      "word": "АК",
-      "hint": ""
     },
     {
       "word": "АКАДЕМИИ",
@@ -48,10 +40,6 @@
       "hint": "share, stock; action, move, demarche"
     },
     {
-      "word": "АЛЕКС",
-      "hint": ""
-    },
-    {
       "word": "АЛЕКСАНДР",
       "hint": "Alexandrian (referring to the city of Alexandria in Egypt or to Alexander the Great); alexandrine (verse, etc.)"
     },
@@ -60,20 +48,8 @@
       "hint": "album"
     },
     {
-      "word": "АМЕРИКА",
-      "hint": ""
-    },
-    {
       "word": "АМЕРИКАНСКИЙ",
       "hint": "American"
-    },
-    {
-      "word": "АМЕРИКЕ",
-      "hint": ""
-    },
-    {
-      "word": "АМЕРИКИ",
-      "hint": ""
     },
     {
       "word": "АНГЕЛ",
@@ -98,10 +74,6 @@
     {
       "word": "АРМИЮ",
       "hint": "accusative singular of а́рмия (ármija)"
-    },
-    {
-      "word": "АРТУР",
-      "hint": ""
     },
     {
       "word": "АЭРОПОРТ",
@@ -172,10 +144,6 @@
       "hint": "short plural of бе́лый (bélyj)"
     },
     {
-      "word": "БЕН",
-      "hint": ""
-    },
-    {
       "word": "БЕРЕГУ",
       "hint": "bank, shore, coast, beach; land"
     },
@@ -202,10 +170,6 @@
     {
       "word": "БИЛЕТЫ",
       "hint": "nominative/accusative plural of биле́т (bilét)"
-    },
-    {
-      "word": "БИЛЛ",
-      "hint": ""
     },
     {
       "word": "БИТВА",
@@ -777,7 +741,7 @@
     },
     {
       "word": "ВТОРУЮ",
-      "hint": ""
+      "hint": "inflected form of второй: second; upper"
     },
     {
       "word": "ВХОД",
@@ -1224,30 +1188,6 @@
       "hint": "J, j"
     },
     {
-      "word": "ДЖЕЙН",
-      "hint": ""
-    },
-    {
-      "word": "ДЖЕК",
-      "hint": ""
-    },
-    {
-      "word": "ДЖО",
-      "hint": ""
-    },
-    {
-      "word": "ДЖОНА",
-      "hint": ""
-    },
-    {
-      "word": "ДЖОННИ",
-      "hint": ""
-    },
-    {
-      "word": "ДЖОНС",
-      "hint": ""
-    },
-    {
       "word": "ДИ",
       "hint": "D, d"
     },
@@ -1270,10 +1210,6 @@
     {
       "word": "ДНЕ",
       "hint": "prepositional singular of день (denʹ)"
-    },
-    {
-      "word": "ДНК",
-      "hint": ""
     },
     {
       "word": "ДНЯХ",
@@ -1428,10 +1364,6 @@
       "hint": "euro (€, currency)"
     },
     {
-      "word": "ЕВРОПЕ",
-      "hint": ""
-    },
-    {
       "word": "ЕДА",
       "hint": "food; meal"
     },
@@ -1462,10 +1394,6 @@
     {
       "word": "ЕЗДИТЬ",
       "hint": "to go (by horse or vehicle), to ride, to drive; to come, to visit"
-    },
-    {
-      "word": "ЕЛЕНА",
-      "hint": ""
     },
     {
       "word": "ЕЮ",
@@ -1565,7 +1493,7 @@
     },
     {
       "word": "ЖИВЫХ",
-      "hint": ""
+      "hint": "living; alive (genitive plural of живой)"
     },
     {
       "word": "ЖИЛА",
@@ -2044,10 +1972,6 @@
       "hint": "prepositional singular of иссле́дование (isslédovanije)"
     },
     {
-      "word": "ИТАЛИИ",
-      "hint": ""
-    },
-    {
       "word": "ИЩЕТ",
       "hint": "third-person singular present indicative imperfective of иска́ть (iskátʹ)"
     },
@@ -2118,10 +2042,6 @@
     {
       "word": "КАПИТАНА",
       "hint": "captain, commander, master, skipper, team leader; captain"
-    },
-    {
-      "word": "КАРЛ",
-      "hint": ""
     },
     {
       "word": "КАРТА",
@@ -2428,20 +2348,12 @@
       "hint": "first-person singular present indicative imperfective of кути́ть (kutítʹ)"
     },
     {
-      "word": "ЛА",
-      "hint": ""
-    },
-    {
       "word": "ЛАБОРАТОРИИ",
       "hint": "laboratory"
     },
     {
       "word": "ЛАГЕРЬ",
       "hint": "camp, camp-out; camp, party, faction"
-    },
-    {
-      "word": "ЛАРРИ",
-      "hint": ""
     },
     {
       "word": "ЛЕВОЙ",
@@ -2478,10 +2390,6 @@
     {
       "word": "ЛИДЕР",
       "hint": "leader"
-    },
-    {
-      "word": "ЛИЗА",
-      "hint": ""
     },
     {
       "word": "ЛИНИЮ",
@@ -2536,20 +2444,8 @@
       "hint": "female equivalent of ло́ндонец (lóndonec): female Londoner"
     },
     {
-      "word": "ЛОНДОНЕ",
-      "hint": ""
-    },
-    {
       "word": "ЛОШАДЬ",
       "hint": "horse"
-    },
-    {
-      "word": "ЛУИ",
-      "hint": ""
-    },
-    {
-      "word": "ЛУИС",
-      "hint": ""
     },
     {
       "word": "ЛУНА",
@@ -2608,10 +2504,6 @@
       "hint": "prepositional of лю́ди (ljúdi)"
     },
     {
-      "word": "МА",
-      "hint": ""
-    },
-    {
       "word": "МАГАЗИНА",
       "hint": "shop, store (establishment that sells goods); magazine (ammunition holder enabling multiple rounds of ammunition to be fed to a gun)"
     },
@@ -2622,10 +2514,6 @@
     {
       "word": "МАДАМ",
       "hint": "madam (polite term of address to a woman)"
-    },
-    {
-      "word": "МАЙК",
-      "hint": ""
     },
     {
       "word": "МАЙОР",
@@ -2674,10 +2562,6 @@
     {
       "word": "МАРИ",
       "hint": "Mari person"
-    },
-    {
-      "word": "МАРТИН",
-      "hint": ""
     },
     {
       "word": "МАСЛО",
@@ -2820,16 +2704,8 @@
       "hint": "mission; legation"
     },
     {
-      "word": "МИШЕЛЬ",
-      "hint": ""
-    },
-    {
       "word": "МЛАДШИЙ",
       "hint": "younger, youngest (in an earlier period of life); junior"
-    },
-    {
-      "word": "МММ",
-      "hint": ""
     },
     {
       "word": "МНЕНИЮ",
@@ -2922,10 +2798,6 @@
     {
       "word": "МЭРА",
       "hint": "genitive/accusative singular of мэр (mɛr)"
-    },
-    {
-      "word": "МЭРИ",
-      "hint": ""
     },
     {
       "word": "МЯСА",
@@ -3528,10 +3400,6 @@
       "hint": "to free, to liberate, to emancipate, to set free; to free (from); to exempt (from)"
     },
     {
-      "word": "ОСКАР",
-      "hint": ""
-    },
-    {
       "word": "ОСНОВАНИЯ",
       "hint": "base, foundation, pedestal; foundation, establishment"
     },
@@ -3790,10 +3658,6 @@
     {
       "word": "ПАРИЖ",
       "hint": "Parisian"
-    },
-    {
-      "word": "ПАРИЖЕ",
-      "hint": ""
     },
     {
       "word": "ПАРКЕ",
@@ -4217,7 +4081,7 @@
     },
     {
       "word": "ПОЛНОМ",
-      "hint": ""
+      "hint": "inflected form of полный: full, complete; absolute, perfect"
     },
     {
       "word": "ПОЛНУЮ",
@@ -5168,14 +5032,6 @@
       "hint": "risk (possible, usually negative, outcome)"
     },
     {
-      "word": "РИЧАРД",
-      "hint": ""
-    },
-    {
-      "word": "РОБЕРТ",
-      "hint": ""
-    },
-    {
       "word": "РОВНО",
       "hint": "smoothly; evenly, regularly, uniformly"
     },
@@ -5198,10 +5054,6 @@
     {
       "word": "РОК",
       "hint": "fate, doom"
-    },
-    {
-      "word": "РОССИИ",
-      "hint": ""
     },
     {
       "word": "РОСТ",
@@ -6025,7 +5877,7 @@
     },
     {
       "word": "СТАРАЯ",
-      "hint": ""
+      "hint": "inflected form of старый: old; ancient, antique"
     },
     {
       "word": "СТАРИК",
@@ -6432,10 +6284,6 @@
       "hint": "genitive singular of том (tom)"
     },
     {
-      "word": "ТОМАС",
-      "hint": ""
-    },
-    {
       "word": "ТОНИ",
       "hint": "second-person singular imperative imperfective of тону́ть (tonútʹ)"
     },
@@ -6628,10 +6476,6 @@
       "hint": "plural past indicative perfective of узна́ть (uznátʹ)"
     },
     {
-      "word": "УИЛЬЯМ",
-      "hint": ""
-    },
-    {
       "word": "УКАЗЫВАЕТ",
       "hint": "third-person singular present indicative imperfective of ука́зывать (ukázyvatʹ)"
     },
@@ -6820,10 +6664,6 @@
       "hint": "surname, last name, family name; clan"
     },
     {
-      "word": "ФБР",
-      "hint": ""
-    },
-    {
       "word": "ФИЛЬМЕ",
       "hint": "prepositional singular of фильм (filʹm)"
     },
@@ -6862,10 +6702,6 @@
     {
       "word": "ФРАНЦУЗСКИЙ",
       "hint": "French"
-    },
-    {
-      "word": "ФРЭНК",
-      "hint": ""
     },
     {
       "word": "ФУ",
@@ -6980,20 +6816,12 @@
       "hint": "figure, digit, cipher, numeral (a symbol representing a number); figure(s), number(s)"
     },
     {
-      "word": "ЦРУ",
-      "hint": ""
-    },
-    {
       "word": "ЧЁ",
       "hint": "what, wot (replacing the nominative singular or accusative singular form of the interrogative pronoun что (što))"
     },
     {
       "word": "ЧАРЛИ",
       "hint": "cocaine"
-    },
-    {
-      "word": "ЧАРЛЬЗ",
-      "hint": ""
     },
     {
       "word": "ЧЕЙ",
@@ -7194,10 +7022,6 @@
     {
       "word": "ЯЗЫКОМ",
       "hint": "instrumental singular of язы́к (jazýk)"
-    },
-    {
-      "word": "ЯПОНИИ",
-      "hint": ""
     },
     {
       "word": "ЯЩИК",

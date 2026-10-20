@@ -88,16 +88,8 @@
       "hint": "always"
     },
     {
-      "word": "AMERIKA",
-      "hint": ""
-    },
-    {
       "word": "AMERIKAANSE",
       "hint": "American"
-    },
-    {
-      "word": "AND",
-      "hint": ""
     },
     {
       "word": "ANDER",
@@ -785,7 +777,7 @@
     },
     {
       "word": "EÉN",
-      "hint": ""
+      "hint": "one"
     },
     {
       "word": "FAMILIE",
@@ -1268,10 +1260,6 @@
       "hint": "neuter singular of dezelfde (“the same”)"
     },
     {
-      "word": "HEY",
-      "hint": ""
-    },
-    {
       "word": "HIELD",
       "hint": "singular past indicative of houden"
     },
@@ -1462,10 +1450,6 @@
     {
       "word": "JIJ",
       "hint": "you; second-person singular subjective personal pronoun"
-    },
-    {
-      "word": "JOHN",
-      "hint": ""
     },
     {
       "word": "JONG",
@@ -2000,10 +1984,6 @@
       "hint": "myself"
     },
     {
-      "word": "MICHAEL",
-      "hint": ""
-    },
-    {
       "word": "MIDDEN",
       "hint": "middle, centre"
     },
@@ -2170,10 +2150,6 @@
     {
       "word": "NET",
       "hint": "net (mesh); net (device for catching and trapping)"
-    },
-    {
-      "word": "NEW",
-      "hint": ""
     },
     {
       "word": "NIEMAND",
@@ -3418,10 +3394,6 @@
     {
       "word": "WOU",
       "hint": "singular past indicative of willen"
-    },
-    {
-      "word": "YORK",
-      "hint": ""
     },
     {
       "word": "ZAAK",

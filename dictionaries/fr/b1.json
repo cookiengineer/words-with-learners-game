@@ -104,10 +104,6 @@
       "hint": "currently; in actuality"
     },
     {
-      "word": "ADAM",
-      "hint": ""
-    },
-    {
       "word": "ADAPTATION",
       "hint": "adaptation (all senses)"
     },
@@ -208,28 +204,12 @@
       "hint": "to add, append"
     },
     {
-      "word": "ALBERT",
-      "hint": ""
-    },
-    {
       "word": "ALBUM",
       "hint": "album (all meanings)"
     },
     {
       "word": "ALERTE",
       "hint": "alert; agile"
-    },
-    {
-      "word": "ALEX",
-      "hint": ""
-    },
-    {
-      "word": "ALI",
-      "hint": ""
-    },
-    {
-      "word": "ALICE",
-      "hint": ""
     },
     {
       "word": "ALL",
@@ -316,10 +296,6 @@
       "hint": "to improve, better, ameliorate"
     },
     {
-      "word": "ANDRÉ",
-      "hint": ""
-    },
-    {
       "word": "ANGE",
       "hint": "angel"
     },
@@ -336,24 +312,12 @@
       "hint": "a geometric angle; a location at the corner of something, such as streets, buildings, furniture etc."
     },
     {
-      "word": "ANNA",
-      "hint": ""
-    },
-    {
-      "word": "ANNE",
-      "hint": ""
-    },
-    {
       "word": "ANNONCER",
       "hint": "to announce; to predict, foretell"
     },
     {
       "word": "ANNONCÉ",
       "hint": "advertisement"
-    },
-    {
-      "word": "ANTOINE",
-      "hint": ""
     },
     {
       "word": "AOÛT",
@@ -438,10 +402,6 @@
     {
       "word": "ARRIVÉS",
       "hint": "masculine plural of arrivé"
-    },
-    {
-      "word": "ARTHUR",
-      "hint": ""
     },
     {
       "word": "ARTICLES",
@@ -912,10 +872,6 @@
       "hint": "branch (of tree); branch (of an organization)"
     },
     {
-      "word": "BRIAN",
-      "hint": ""
-    },
-    {
       "word": "BRILLANT",
       "hint": "shining; shiny"
     },
@@ -930,10 +886,6 @@
     {
       "word": "BRITANNIQUE",
       "hint": "British"
-    },
-    {
-      "word": "BROWN",
-      "hint": ""
     },
     {
       "word": "BRÛLER",
@@ -954,10 +906,6 @@
     {
       "word": "BUSINESS",
       "hint": "business, firm, company; business, affairs"
-    },
-    {
-      "word": "BY",
-      "hint": ""
     },
     {
       "word": "BÉBÉS",
@@ -982,10 +930,6 @@
     {
       "word": "CAISSE",
       "hint": "box, crate; cash register"
-    },
-    {
-      "word": "CALIFORNIE",
-      "hint": ""
     },
     {
       "word": "CALMER",
@@ -1058,18 +1002,6 @@
     {
       "word": "CARDIAQUE",
       "hint": "cardiac; heart"
-    },
-    {
-      "word": "CARL",
-      "hint": ""
-    },
-    {
-      "word": "CARLOS",
-      "hint": ""
-    },
-    {
-      "word": "CAROLINE",
-      "hint": ""
     },
     {
       "word": "CARRÉMENT",
@@ -1308,14 +1240,6 @@
       "hint": "owl (specifically, those species of owls without ear tufts; those with ear tufts are hiboux)"
     },
     {
-      "word": "CHRIS",
-      "hint": ""
-    },
-    {
-      "word": "CHRIST",
-      "hint": ""
-    },
-    {
       "word": "CHRISTIAN",
       "hint": "Christendom; Christian community, Christian congregation"
     },
@@ -1390,10 +1314,6 @@
     {
       "word": "CLINIQUE",
       "hint": "clinical"
-    },
-    {
-      "word": "CM",
-      "hint": ""
     },
     {
       "word": "COACH",
@@ -2072,10 +1992,6 @@
       "hint": "do, the note 'C'"
     },
     {
-      "word": "DOC",
-      "hint": ""
-    },
-    {
       "word": "DOCUMENT",
       "hint": "document; file"
     },
@@ -2317,7 +2233,7 @@
     },
     {
       "word": "ECOUTE",
-      "hint": ""
+      "hint": "listening; listen (imperative of écouter)"
     },
     {
       "word": "ED",
@@ -2340,16 +2256,8 @@
       "hint": "effort"
     },
     {
-      "word": "EL",
-      "hint": ""
-    },
-    {
       "word": "EMBRASSER",
       "hint": "to hug, embrace (to affectionately wrap one's arms around another); to kiss (to touch with the lips)"
-    },
-    {
-      "word": "EMMA",
-      "hint": ""
     },
     {
       "word": "EMMENER",
@@ -2456,16 +2364,8 @@
       "hint": "environment; nature"
     },
     {
-      "word": "ERIC",
-      "hint": ""
-    },
-    {
       "word": "ESCALIER",
       "hint": "step, stair; staircase"
-    },
-    {
-      "word": "ESPAGNE",
-      "hint": ""
     },
     {
       "word": "ESPAGNOL",
@@ -2622,10 +2522,6 @@
     {
       "word": "FAC",
       "hint": "university"
-    },
-    {
-      "word": "FACEBOOK",
-      "hint": ""
     },
     {
       "word": "FACILE",
@@ -2872,10 +2768,6 @@
       "hint": "feminine singular of français"
     },
     {
-      "word": "FRANÇOIS",
-      "hint": ""
-    },
-    {
       "word": "FRAPPER",
       "hint": "to hit, to strike, to bash; to knock (e.g. on a door)"
     },
@@ -3036,10 +2928,6 @@
       "hint": "governor"
     },
     {
-      "word": "GRACE",
-      "hint": ""
-    },
-    {
       "word": "GRANDI",
       "hint": "feminine singular of grandi"
     },
@@ -3058,6 +2946,10 @@
     {
       "word": "GROUPES",
       "hint": "group"
+    },
+    {
+      "word": "GRÂCE",
+      "hint": "grace, charm"
     },
     {
       "word": "GRÈVE",
@@ -3208,10 +3100,6 @@
       "hint": "ideal"
     },
     {
-      "word": "IE",
-      "hint": ""
-    },
-    {
       "word": "IGNORE",
       "hint": "masculine plural of ignorant"
     },
@@ -3286,10 +3174,6 @@
     {
       "word": "INCONNU",
       "hint": "unknown, obscure, unfamiliar, strange"
-    },
-    {
-      "word": "INDE",
-      "hint": ""
     },
     {
       "word": "INDICE",
@@ -3440,16 +3324,8 @@
       "hint": "exit, way out; outcome, result"
     },
     {
-      "word": "ITALIE",
-      "hint": ""
-    },
-    {
       "word": "ITALIEN",
       "hint": "Italian"
-    },
-    {
-      "word": "JACKSON",
-      "hint": ""
     },
     {
       "word": "JACQUES",
@@ -3462,10 +3338,6 @@
     {
       "word": "JAMBE",
       "hint": "leg"
-    },
-    {
-      "word": "JANE",
-      "hint": ""
     },
     {
       "word": "JANVIER",
@@ -3492,10 +3364,6 @@
       "hint": "couldn't care less attitude"
     },
     {
-      "word": "JEFF",
-      "hint": ""
-    },
-    {
       "word": "JETTE",
       "hint": "masculine plural of jetté"
     },
@@ -3508,14 +3376,6 @@
       "hint": "youth"
     },
     {
-      "word": "JIM",
-      "hint": ""
-    },
-    {
-      "word": "JIMMY",
-      "hint": ""
-    },
-    {
       "word": "JO",
       "hint": "initialism of journal officiel (“official journal, government gazette”)"
     },
@@ -3524,24 +3384,8 @@
       "hint": "job (employment role); work"
     },
     {
-      "word": "JOE",
-      "hint": ""
-    },
-    {
-      "word": "JOHNNY",
-      "hint": ""
-    },
-    {
       "word": "JOINDRE",
       "hint": "to join; to join up"
-    },
-    {
-      "word": "JONES",
-      "hint": ""
-    },
-    {
-      "word": "JOSEPH",
-      "hint": ""
     },
     {
       "word": "JOUENT",
@@ -3616,10 +3460,6 @@
       "hint": "boyfriend; pimp"
     },
     {
-      "word": "JULIE",
-      "hint": ""
-    },
-    {
       "word": "JUNIOR",
       "hint": "junior"
     },
@@ -3636,28 +3476,12 @@
       "hint": "until, up to"
     },
     {
-      "word": "JUSTIN",
-      "hint": ""
-    },
-    {
       "word": "KEVIN",
       "hint": "A boorish lower-class person of low intellect"
     },
     {
-      "word": "KG",
-      "hint": ""
-    },
-    {
       "word": "KILOMÈTRES",
       "hint": "kilometre (UK) / kilometer (US)"
-    },
-    {
-      "word": "KIM",
-      "hint": ""
-    },
-    {
-      "word": "KING",
-      "hint": ""
     },
     {
       "word": "LA",
@@ -3722,10 +3546,6 @@
     {
       "word": "LECTURE",
       "hint": "reading (act or process of reading, interpretation, material read, and some other senses); playback (the replaying of something previously recorded, especially sound or moving"
-    },
-    {
-      "word": "LEE",
-      "hint": ""
     },
     {
       "word": "LENTEMENT",
@@ -3820,10 +3640,6 @@
       "hint": "masculine plural of lié"
     },
     {
-      "word": "LL",
-      "hint": ""
-    },
-    {
       "word": "LOCAL",
       "hint": "local"
     },
@@ -3874,10 +3690,6 @@
     {
       "word": "LOYER",
       "hint": "rent (amount of money due for renting property)"
-    },
-    {
-      "word": "LUCAS",
-      "hint": ""
     },
     {
       "word": "LUMIÈRES",
@@ -4140,10 +3952,6 @@
       "hint": "feminine plural of meilleur"
     },
     {
-      "word": "MEME",
-      "hint": ""
-    },
-    {
       "word": "MENACES",
       "hint": "menacing, threatening"
     },
@@ -4216,10 +4024,6 @@
       "hint": "mi, the note 'E'"
     },
     {
-      "word": "MICHEL",
-      "hint": ""
-    },
-    {
       "word": "MICRO",
       "hint": "clipping of microphone (“microphone”): mic; clipping of micro-ordinateur (“microcomputer”): micro"
     },
@@ -4240,20 +4044,12 @@
       "hint": "cute (of a baby, an animal, etc.); cute (sexually attractive)"
     },
     {
-      "word": "MIKE",
-      "hint": ""
-    },
-    {
       "word": "MILITAIRES",
       "hint": "military, militaristic"
     },
     {
       "word": "MILLIARDS",
       "hint": "billion (10)"
-    },
-    {
-      "word": "MIN",
-      "hint": ""
     },
     {
       "word": "MINCE",
@@ -4384,6 +4180,10 @@
       "hint": "mystery; mystery play"
     },
     {
+      "word": "MÈME",
+      "hint": "meme (unit of cultural information); meme"
+    },
+    {
       "word": "MÈNE",
       "hint": "inflection of mener"
     },
@@ -4456,10 +4256,6 @@
       "hint": "Informal form of non ; nah, nope"
     },
     {
-      "word": "NANCY",
-      "hint": ""
-    },
-    {
       "word": "NATION",
       "hint": "nation"
     },
@@ -4502,10 +4298,6 @@
     {
       "word": "NI",
       "hint": "neither; nor"
-    },
-    {
-      "word": "NICK",
-      "hint": ""
     },
     {
       "word": "NO",
@@ -4692,10 +4484,6 @@
       "hint": "bear; A person like a bear"
     },
     {
-      "word": "OUT",
-      "hint": ""
-    },
-    {
       "word": "OUTILS",
       "hint": "tool (something designed to aid in a task)"
     },
@@ -4864,10 +4652,6 @@
       "hint": "masculine plural of patient"
     },
     {
-      "word": "PATRICK",
-      "hint": ""
-    },
-    {
       "word": "PATTES",
       "hint": "paw (of animal); leg (of animal)"
     },
@@ -4922,10 +4706,6 @@
     {
       "word": "PHASE",
       "hint": "phase"
-    },
-    {
-      "word": "PHILIPPE",
-      "hint": ""
     },
     {
       "word": "PHRASE",
@@ -5560,10 +5340,6 @@
       "hint": "ryegrass (Lolium)"
     },
     {
-      "word": "RAYMOND",
-      "hint": ""
-    },
-    {
       "word": "RAYON",
       "hint": "ray, beam (of light, etc.) [from 1474]; spoke (of wheel) [from 1538]"
     },
@@ -5586,10 +5362,6 @@
     {
       "word": "RECORD",
       "hint": "record (most extreme known value of some achievement)"
-    },
-    {
-      "word": "RED",
-      "hint": ""
     },
     {
       "word": "REFAIRE",
@@ -5828,8 +5600,8 @@
       "hint": "rock (style of music)"
     },
     {
-      "word": "ROGER",
-      "hint": ""
+      "word": "ROI",
+      "hint": "king"
     },
     {
       "word": "ROMAN",
@@ -5872,20 +5644,16 @@
       "hint": "feminine singular of royal"
     },
     {
+      "word": "RUE",
+      "hint": "street, road"
+    },
+    {
       "word": "RUPTURE",
       "hint": "breakup, rupture"
     },
     {
       "word": "RUSSES",
       "hint": "Russian"
-    },
-    {
-      "word": "RUSSIE",
-      "hint": ""
-    },
-    {
-      "word": "RYAN",
-      "hint": ""
     },
     {
       "word": "RYTHME",
@@ -6048,16 +5816,8 @@
       "hint": "slut (promiscuous woman); bitch (mean woman)"
     },
     {
-      "word": "SAM",
-      "hint": ""
-    },
-    {
       "word": "SANTE",
       "hint": "health"
-    },
-    {
-      "word": "SARAH",
-      "hint": ""
     },
     {
       "word": "SAUCE",
@@ -6102,10 +5862,6 @@
     {
       "word": "SCOLAIRE",
       "hint": "school; scholastic, academic; textbooklike, textbook; convenient for use in a school setting, but unrigorous and unscientific"
-    },
-    {
-      "word": "SCOTT",
-      "hint": ""
     },
     {
       "word": "SCÈNES",
@@ -6212,6 +5968,10 @@
       "hint": "if, whether; if (assuming that)"
     },
     {
+      "word": "SIEUR",
+      "hint": "sir, Mr., lord; title of respect for a man"
+    },
+    {
       "word": "SIGNAL",
       "hint": "signal"
     },
@@ -6228,16 +5988,8 @@
       "hint": "sign (indicator; indication; mathematical polarity); gesture"
     },
     {
-      "word": "SIMON",
-      "hint": ""
-    },
-    {
       "word": "SIMPLES",
       "hint": "single; simple, straightforward, easy"
-    },
-    {
-      "word": "SIR",
-      "hint": ""
     },
     {
       "word": "SITES",
@@ -6246,10 +5998,6 @@
     {
       "word": "SIÈCLES",
       "hint": "century (period of 100 years)"
-    },
-    {
-      "word": "SMITH",
-      "hint": ""
     },
     {
       "word": "SO",
@@ -6306,10 +6054,6 @@
     {
       "word": "SONNE",
       "hint": "inflection of sonner"
-    },
-    {
-      "word": "SOPHIE",
-      "hint": ""
     },
     {
       "word": "SORTANT",
@@ -6396,20 +6140,12 @@
       "hint": "status; statute"
     },
     {
-      "word": "STEVE",
-      "hint": ""
-    },
-    {
       "word": "STOP",
       "hint": "stop!"
     },
     {
       "word": "STRATÉGIE",
       "hint": "strategy"
-    },
-    {
-      "word": "STREET",
-      "hint": ""
     },
     {
       "word": "STRESS",
@@ -6580,10 +6316,6 @@
       "hint": "Taylorism"
     },
     {
-      "word": "TEAM",
-      "hint": ""
-    },
-    {
       "word": "TECHNIQUES",
       "hint": "technical"
     },
@@ -6680,10 +6412,6 @@
       "hint": "text (piece of writing); original, as opposed to translation"
     },
     {
-      "word": "THAT",
-      "hint": ""
-    },
-    {
       "word": "THÈME",
       "hint": "theme, topic; subject, theme"
     },
@@ -6698,10 +6426,6 @@
     {
       "word": "TIERS",
       "hint": "third; third-party"
-    },
-    {
-      "word": "TIM",
-      "hint": ""
     },
     {
       "word": "TIR",
@@ -6728,16 +6452,16 @@
       "hint": "large barrel; tonne, metric ton"
     },
     {
-      "word": "TONY",
-      "hint": ""
-    },
-    {
       "word": "TOTAL",
       "hint": "total; perfect"
     },
     {
       "word": "TOTALE",
       "hint": "feminine singular of total"
+    },
+    {
+      "word": "TOUBIB",
+      "hint": "medic, doc"
     },
     {
       "word": "TOURNAGE",
@@ -6821,7 +6545,7 @@
     },
     {
       "word": "TRES",
-      "hint": ""
+      "hint": "very (unaccented variant of très)"
     },
     {
       "word": "TROMPE",
@@ -6928,10 +6652,6 @@
       "hint": "plural of un"
     },
     {
-      "word": "UP",
-      "hint": ""
-    },
-    {
       "word": "US",
       "hint": "mores; traditional practices or manners"
     },
@@ -7032,10 +6752,6 @@
       "hint": "vice (bad habit)"
     },
     {
-      "word": "VICTOR",
-      "hint": ""
-    },
-    {
       "word": "VIDÉOS",
       "hint": "video"
     },
@@ -7062,10 +6778,6 @@
     {
       "word": "VILLES",
       "hint": "town, city"
-    },
-    {
-      "word": "VINCENT",
-      "hint": ""
     },
     {
       "word": "VIOL",
@@ -7204,40 +6916,8 @@
       "hint": "bike, bicycle, cycle; cycling (the activity of riding bicycles)"
     },
     {
-      "word": "WALTER",
-      "hint": ""
-    },
-    {
       "word": "WE",
       "hint": "ouais"
-    },
-    {
-      "word": "WEB",
-      "hint": ""
-    },
-    {
-      "word": "WILL",
-      "hint": ""
-    },
-    {
-      "word": "WILLIAM",
-      "hint": ""
-    },
-    {
-      "word": "WITH",
-      "hint": ""
-    },
-    {
-      "word": "WOW",
-      "hint": ""
-    },
-    {
-      "word": "YA",
-      "hint": ""
-    },
-    {
-      "word": "YOUR",
-      "hint": ""
     },
     {
       "word": "ZONES",
@@ -7370,6 +7050,10 @@
     {
       "word": "ÉQUIPAGE",
       "hint": "crew (of a boat), ship's company [since c. 1455]; equipment [since 1540]"
+    },
+    {
+      "word": "ÉQUIPE",
+      "hint": "team"
     },
     {
       "word": "ÉQUIPEMENT",
