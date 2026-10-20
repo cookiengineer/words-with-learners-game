@@ -178,6 +178,41 @@ func TestLoginOrRegister(t *testing.T) {
 	}
 }
 
+func TestStaticManifest(t *testing.T) {
+	server := newTestServer(t)
+	defer server.http.Close()
+
+	response, err := http.Get(server.http.URL + "/manifest.webmanifest")
+	if err != nil {
+		t.Fatal(err)
+	}
+	defer response.Body.Close()
+	if response.StatusCode != http.StatusOK {
+		t.Fatalf("manifest status = %d", response.StatusCode)
+	}
+	if contentType := response.Header.Get("Content-Type"); !strings.HasPrefix(contentType, "application/manifest+json") {
+		t.Fatalf("manifest content type = %q", contentType)
+	}
+	var manifest struct {
+		Name    string `json:"name"`
+		Display string `json:"display"`
+		Icons   []struct {
+			Src      string `json:"src"`
+			Purpose  string `json:"purpose"`
+			MimeType string `json:"type"`
+		} `json:"icons"`
+	}
+	if err := json.NewDecoder(response.Body).Decode(&manifest); err != nil {
+		t.Fatal(err)
+	}
+	if manifest.Name != "Words with Learners" || manifest.Display != "standalone" {
+		t.Fatalf("unexpected manifest: %#v", manifest)
+	}
+	if len(manifest.Icons) == 0 {
+		t.Fatal("manifest has no icons")
+	}
+}
+
 func TestWebSocketGameFlow(t *testing.T) {
 	server := newTestServer(t)
 	defer server.http.Close()

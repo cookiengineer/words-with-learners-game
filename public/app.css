@@ -162,7 +162,7 @@ output {
   place-content: center;
   justify-items: center;
   gap: 2rem;
-  padding: 2rem;
+  padding: calc(2rem + env(safe-area-inset-top)) max(2rem, env(safe-area-inset-right)) 2rem max(2rem, env(safe-area-inset-left));
 }
 
 .brand {
@@ -195,7 +195,7 @@ output {
 .overview {
   max-width: 68rem;
   margin: 0 auto;
-  padding: 2rem 1.25rem 4rem;
+  padding: calc(2rem + env(safe-area-inset-top)) max(1.25rem, env(safe-area-inset-right)) 4rem max(1.25rem, env(safe-area-inset-left));
 }
 
 .overview-top {
@@ -413,8 +413,10 @@ player-picker {
 /* Game layout */
 
 .game {
+  height: 100vh;
   height: 100dvh;
   display: grid;
+  grid-template-columns: minmax(0, 1fr);
   grid-template-rows: auto 1fr auto;
   overflow: hidden;
 }
@@ -425,7 +427,8 @@ player-picker {
   display: flex;
   align-items: center;
   gap: 0.8rem;
-  padding: 0.55rem 0.8rem;
+  min-width: 0;
+  padding: calc(0.55rem + env(safe-area-inset-top)) 0.8rem 0.55rem;
   background: var(--surface);
   border-bottom: 1px solid var(--line);
   min-height: 3.6rem;
@@ -458,6 +461,7 @@ player-picker {
   margin: 0;
   padding: 0;
   flex: 1;
+  min-width: 0;
 }
 
 .scoreboard li {
@@ -499,6 +503,7 @@ player-picker {
   position: relative;
   z-index: 1;
   min-height: 0;
+  min-width: 0;
   overflow: hidden;
   background:
     radial-gradient(circle at center, rgba(255, 255, 255, 0.7), transparent 70%),
@@ -675,6 +680,7 @@ player-picker {
   flex-direction: column;
   align-items: stretch;
   gap: 0.5rem;
+  min-width: 0;
   padding: 0.65rem 0.8rem calc(0.65rem + env(safe-area-inset-bottom));
   background: var(--surface);
   border-top: 1px solid var(--line);
@@ -755,6 +761,7 @@ player-picker {
   flex-wrap: wrap;
   justify-content: flex-end;
   width: 100%;
+  min-width: 0;
 }
 
 .preview {

@@ -1,4 +1,7 @@
-const ZOOM_LEVELS = [0.5, 0.6, 0.7, 0.8, 0.9, 1, 1.2, 1.4, 1.6, 1.8, 2];
+const BOARD_TILES = 15;
+const ZOOM_LEVELS = [0.3, 0.4, 0.5, 0.6, 0.7, 0.8, 0.9, 1, 1.2, 1.4, 1.6, 1.8, 2];
+const MIN_ZOOM = ZOOM_LEVELS[0];
+const MAX_ZOOM = ZOOM_LEVELS[ZOOM_LEVELS.length - 1];
 
 export class Camera {
   constructor(viewport, board, tileSize = 44) {
@@ -21,7 +24,7 @@ export class Camera {
   }
 
   boardSize() {
-    return this.tileSize * 15 * this.zoom;
+    return this.tileSize * BOARD_TILES * this.zoom;
   }
 
   fit(instant = false) {
@@ -29,18 +32,23 @@ export class Camera {
     if (width === 0 || height === 0) {
       return;
     }
-    const fit = Math.min(width / (this.tileSize * 15), height / (this.tileSize * 15));
-    let zoom = ZOOM_LEVELS[0];
-    for (const level of ZOOM_LEVELS) {
-      if (level <= fit) {
-        zoom = level;
+    const base = this.tileSize * BOARD_TILES;
+    const fit = Math.min(width / base, height / base);
+    if (width < height || width < base) {
+      this.zoom = Math.max(MIN_ZOOM, Math.min(MAX_ZOOM, fit));
+    } else {
+      let zoom = 0.5;
+      for (const level of ZOOM_LEVELS) {
+        if (level >= 0.5 && level <= fit) {
+          zoom = level;
+        }
       }
+      this.zoom = zoom;
     }
-    this.zoom = zoom;
     const board = this.boardSize();
     this.x = (width - board) / 2;
     this.y = (height - board) / 2;
-    this.snap();
+    this.clamp();
     this.apply(instant);
   }
 
@@ -51,7 +59,7 @@ export class Camera {
     const anchorY = clientY === undefined ? height / 2 : clientY - rect.top;
     const boardX = (anchorX - this.x) / this.zoom;
     const boardY = (anchorY - this.y) / this.zoom;
-    this.zoom = Math.max(ZOOM_LEVELS[0], Math.min(ZOOM_LEVELS[ZOOM_LEVELS.length - 1], zoom));
+    this.zoom = Math.max(MIN_ZOOM, Math.min(MAX_ZOOM, zoom));
     this.x = anchorX - boardX * this.zoom;
     this.y = anchorY - boardY * this.zoom;
     this.clamp();

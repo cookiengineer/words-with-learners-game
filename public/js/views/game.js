@@ -27,6 +27,7 @@ export class GameView {
     this.dragCleanup = null;
     this.blankResolver = null;
     this.resizeObserver = null;
+    this.lastViewportWidth = null;
   }
 
   mount() {
@@ -62,7 +63,16 @@ export class GameView {
     this.offConnected = socket.on("connected", () => {
       this.requestState();
     });
-    this.resizeObserver = new ResizeObserver(() => this.camera.resize());
+    this.resizeObserver = new ResizeObserver(() => {
+      const { width } = this.camera.viewportSize();
+      const roundedWidth = Math.round(width);
+      if (roundedWidth !== this.lastViewportWidth) {
+        this.lastViewportWidth = roundedWidth;
+        this.camera.fit(true);
+      } else {
+        this.camera.resize();
+      }
+    });
     this.resizeObserver.observe(this.viewport);
     requestAnimationFrame(() => this.camera.fit(true));
     this.requestState();

@@ -9,6 +9,7 @@ import (
 	"io"
 	"io/fs"
 	"log"
+	"mime"
 	"net"
 	"net/http"
 	"net/url"
@@ -27,6 +28,10 @@ import (
 	"github.com/cookiengineer/words-with-learners-app/internal/store"
 	"github.com/cookiengineer/words-with-learners-app/internal/view"
 )
+
+func init() {
+	_ = mime.AddExtensionType(".webmanifest", "application/manifest+json")
+}
 
 type gameSession struct {
 	mutex        sync.Mutex

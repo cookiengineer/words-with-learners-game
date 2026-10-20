@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#2b7a6f"/>
+      <stop offset="1" stop-color="#16443e"/>
+    </linearGradient>
+    <linearGradient id="tile" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#fff9e8"/>
+      <stop offset="1" stop-color="#f5e6b8"/>
+    </linearGradient>
+    <filter id="shadow" x="-30%" y="-30%" width="160%" height="180%">
+      <feDropShadow dx="0" dy="14" stdDeviation="12" flood-color="#0c2a26" flood-opacity="0.35"/>
+    </filter>
+  </defs>
+  <rect width="512" height="512" fill="url(#bg)"/>
+  <circle cx="112" cy="88" r="180" fill="#ffffff" opacity="0.08"/>
+  <g transform="translate(256 256) scale(0.72) translate(-256 -256)">
+    <g transform="rotate(-8 256 268)">
+      <rect x="138" y="154" width="236" height="236" rx="40" fill="#d9c58d" opacity="0.55"/>
+    </g>
+    <g transform="rotate(5 256 268)" filter="url(#shadow)">
+      <rect x="128" y="132" width="256" height="256" rx="44" fill="url(#tile)" stroke="#d9c58d" stroke-width="8"/>
+      <text x="246" y="300" font-family="ui-sans-serif, system-ui, -apple-system, 'Segoe UI', sans-serif" font-size="176" font-weight="800" text-anchor="middle" fill="#3c3022">W</text>
+      <text x="338" y="342" font-family="ui-sans-serif, system-ui, -apple-system, 'Segoe UI', sans-serif" font-size="58" font-weight="800" text-anchor="middle" fill="#3c3022">4</text>
+    </g>
+  </g>
+</svg>
