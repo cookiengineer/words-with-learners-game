@@ -131,6 +131,81 @@
       "letter": "Z",
       "value": 10,
       "count": 1
+    },
+    {
+      "letter": "À",
+      "value": 1,
+      "count": 1
+    },
+    {
+      "letter": "Â",
+      "value": 2,
+      "count": 1
+    },
+    {
+      "letter": "Ç",
+      "value": 5,
+      "count": 2
+    },
+    {
+      "letter": "È",
+      "value": 2,
+      "count": 2
+    },
+    {
+      "letter": "É",
+      "value": 2,
+      "count": 4
+    },
+    {
+      "letter": "Ê",
+      "value": 2,
+      "count": 2
+    },
+    {
+      "letter": "Ë",
+      "value": 2,
+      "count": 1
+    },
+    {
+      "letter": "Î",
+      "value": 2,
+      "count": 1
+    },
+    {
+      "letter": "Ï",
+      "value": 2,
+      "count": 1
+    },
+    {
+      "letter": "Ô",
+      "value": 2,
+      "count": 1
+    },
+    {
+      "letter": "Ù",
+      "value": 2,
+      "count": 1
+    },
+    {
+      "letter": "Ú",
+      "value": 2,
+      "count": 1
+    },
+    {
+      "letter": "Û",
+      "value": 2,
+      "count": 1
+    },
+    {
+      "letter": "Ü",
+      "value": 2,
+      "count": 1
+    },
+    {
+      "letter": "Œ",
+      "value": 10,
+      "count": 1
     }
   ],
   "blankCount": 2

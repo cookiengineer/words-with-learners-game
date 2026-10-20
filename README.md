@@ -1,12 +1,12 @@
 # Words with Learners
 
-A self-hosted, turn-based word game for language learners. The interface is in English, while the words on the board come from a selected foreign-language dictionary at a chosen CEFR level.
+A self-hosted, turn-based word game for language learners. The interface is in English, while hints and gameplay are centred on a selected foreign-language CEFR level.
 
 The game uses a Words With Friends style 15×15 board, a server-authoritative tile bag, and configurable rack sizes. Everything is served by one Go binary with an embedded static frontend.
 
 ## Features
 
-- Languages: Dutch, English, German, Spanish, French.
+- Languages: Dutch, English, German, Spanish, French, Italian, Russian.
 - CEFR levels: A1, A2, B1, B2, C1, C2.
 - 2–4 players per game.
 - Configurable maximum word length and rack size (5–15).
@@ -53,7 +53,7 @@ go run ./cmd/server -dev -addr :8080
 
 - Drag tiles from your rack onto the board.
 - The first word must cover the center square.
-- Every formed word must exist in the selected language and CEFR dictionary.
+- Every formed word must exist in the selected language, at any CEFR level.
 - `?` shows an English hint for a playable word.
 - `Recall` returns tentative board tiles to your rack.
 - `Submit` sends the move to the server. The server recalculates and validates everything.
@@ -85,7 +85,23 @@ Word files use this format:
 }
 ```
 
-The bundled dictionaries are small curated demo sets, not complete competitive word lists. Import larger lists with:
+The bundled dictionaries for Dutch, English, German, Spanish, French, Italian, and Russian are generated from the Lingvoberry A0–C2 word lists. A0 is merged into A1.
+
+Hints, suggestions, and automatic reshuffles use words from the selected level only. Move validation accepts any legitimate word from any level of that language, so an A1 game can use a C2 word if the player finds one.
+
+Hints are taken from the English definitions for each word's language section in English Wiktionary. The importer reads a ZIM file through the external `zimdump` and `zimsearch` commands, so the server itself does not need the ZIM at runtime.
+
+Regenerate all bundled dictionaries with:
+
+```sh
+go run ./cmd/dictimport \
+  -input ./path/to/wordlists \
+  -zim ./path/to/wiktionary_en_all_nopic_2026-08.zim \
+  -workers 16 \
+  -report /tmp/dictionary-report.csv
+```
+
+Single files can still be imported with:
 
 ```sh
 go run ./cmd/dictimport \
@@ -95,7 +111,9 @@ go run ./cmd/dictimport \
   -dictionaries dictionaries
 ```
 
-`words.csv` can contain `word,hint` rows. JSON input with a `words` array is also accepted. Words using letters missing from the alphabet are skipped with a warning.
+CSV input accepts both `word,hint` rows and the Lingvoberry `rank,word,cefr` format. JSON input with a `words` array is also accepted. Words with unknown letters, punctuation, or a length outside 2–15 are skipped and listed in the report. Words without a Wiktionary definition remain playable and use the game's generic length hint.
+
+The word lists are from [Lingvoberry](https://lingvoberry.com/) and are licensed under CC BY-SA 4.0. Hints are derived from English Wiktionary content, licensed under CC BY-SA.
 
 ## Data and security
 
@@ -123,11 +141,12 @@ cmd/server          HTTP + WebSocket server
 cmd/dictimport      dictionary importer
 internal/game       board, rules, scoring, bag, replay
 internal/dictionary loader and lookup
+internal/wiktionary Wiktionary ZIM lookup and hint extraction
 internal/server     protocol, WebSocket hub, hint search
 internal/store      atomic JSON storage
 internal/auth       bcrypt auth and sessions
 public              static HTML/CSS/ES modules (embedded)
-dictionaries        demo alphabets and word lists (embedded)
+dictionaries        alphabets and CEFR word lists (embedded)
 ```
 
 ## Current scope

@@ -1,0 +1,172 @@
+{
+  "schemaVersion": 1,
+  "language": "ru",
+  "letters": [
+    {
+      "letter": "О",
+      "value": 1,
+      "count": 10
+    },
+    {
+      "letter": "А",
+      "value": 1,
+      "count": 8
+    },
+    {
+      "letter": "Е",
+      "value": 1,
+      "count": 8
+    },
+    {
+      "letter": "И",
+      "value": 1,
+      "count": 5
+    },
+    {
+      "letter": "Н",
+      "value": 1,
+      "count": 5
+    },
+    {
+      "letter": "Р",
+      "value": 1,
+      "count": 5
+    },
+    {
+      "letter": "С",
+      "value": 1,
+      "count": 5
+    },
+    {
+      "letter": "Т",
+      "value": 1,
+      "count": 5
+    },
+    {
+      "letter": "В",
+      "value": 1,
+      "count": 4
+    },
+    {
+      "letter": "Д",
+      "value": 2,
+      "count": 4
+    },
+    {
+      "letter": "К",
+      "value": 2,
+      "count": 4
+    },
+    {
+      "letter": "Л",
+      "value": 2,
+      "count": 4
+    },
+    {
+      "letter": "П",
+      "value": 2,
+      "count": 4
+    },
+    {
+      "letter": "У",
+      "value": 2,
+      "count": 4
+    },
+    {
+      "letter": "М",
+      "value": 2,
+      "count": 3
+    },
+    {
+      "letter": "Б",
+      "value": 3,
+      "count": 2
+    },
+    {
+      "letter": "Г",
+      "value": 3,
+      "count": 2
+    },
+    {
+      "letter": "Ь",
+      "value": 3,
+      "count": 2
+    },
+    {
+      "letter": "Я",
+      "value": 3,
+      "count": 2
+    },
+    {
+      "letter": "Ё",
+      "value": 3,
+      "count": 1
+    },
+    {
+      "letter": "Ы",
+      "value": 4,
+      "count": 2
+    },
+    {
+      "letter": "Й",
+      "value": 4,
+      "count": 1
+    },
+    {
+      "letter": "З",
+      "value": 5,
+      "count": 2
+    },
+    {
+      "letter": "Ж",
+      "value": 5,
+      "count": 1
+    },
+    {
+      "letter": "Х",
+      "value": 5,
+      "count": 1
+    },
+    {
+      "letter": "Ц",
+      "value": 5,
+      "count": 1
+    },
+    {
+      "letter": "Ч",
+      "value": 5,
+      "count": 1
+    },
+    {
+      "letter": "Ш",
+      "value": 8,
+      "count": 1
+    },
+    {
+      "letter": "Э",
+      "value": 8,
+      "count": 1
+    },
+    {
+      "letter": "Ю",
+      "value": 8,
+      "count": 1
+    },
+    {
+      "letter": "Ф",
+      "value": 10,
+      "count": 1
+    },
+    {
+      "letter": "Щ",
+      "value": 10,
+      "count": 1
+    },
+    {
+      "letter": "Ъ",
+      "value": 10,
+      "count": 1
+    }
+  ],
+  "blankCount": 2
+}

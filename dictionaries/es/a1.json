@@ -4,184 +4,3632 @@
   "level": "A1",
   "words": [
     {
+      "word": "ABAJO",
+      "hint": "down, downwards; downstairs"
+    },
+    {
+      "word": "ACABA",
+      "hint": "inflection of acabar"
+    },
+    {
+      "word": "ACABO",
+      "hint": "to finish; to end; to end up (eventually doing) [with gerund ‘doing something’]"
+    },
+    {
+      "word": "ACCIÓN",
+      "hint": "action, act, deed (something done); action (way of motion or functioning)"
+    },
+    {
+      "word": "ACERCA",
+      "hint": "adjacent; only used in acerca de (“about; concerning”)"
+    },
+    {
+      "word": "ACUERDO",
+      "hint": "agreement; compromise"
+    },
+    {
+      "word": "ACÁ",
+      "hint": "here (in the speaker's location); as of, up to (used with a time phrase to represent continuity up to the present)"
+    },
+    {
+      "word": "ADELANTE",
+      "hint": "forward (toward the front); forward (into the future)"
+    },
+    {
+      "word": "ADEMÁS",
+      "hint": "in addition, moreover, furthermore, further, also, additionally; as well, also, not to mention (when in the middle of a sentence or toward the end)"
+    },
+    {
+      "word": "AFUERA",
+      "hint": "out, outside; peripheral"
+    },
+    {
       "word": "AGUA",
-      "hint": "water"
+      "hint": "water; body of water"
+    },
+    {
+      "word": "AH",
+      "hint": "ah (expression of relief, realization, awe); ah (expression of woe, grief)"
+    },
+    {
+      "word": "AHORA",
+      "hint": "now (at the present time); just now, just a moment ago (in the past)"
+    },
+    {
+      "word": "AHÍ",
+      "hint": "there (away from the speaker); that (in certain phrases)"
+    },
+    {
+      "word": "AIRE",
+      "hint": "air (the substance constituting earth's atmosphere); air (the open space above the ground)"
+    },
+    {
+      "word": "AL",
+      "hint": "contraction of a +‎ el, literally “at the, to the”; upon"
+    },
+    {
+      "word": "ALGO",
+      "hint": "something, anything"
+    },
+    {
+      "word": "ALGUIEN",
+      "hint": "someone, somebody; anyone, anybody"
+    },
+    {
+      "word": "ALGUNA",
+      "hint": "feminine singular of alguno"
+    },
+    {
+      "word": "ALGUNAS",
+      "hint": "feminine plural of alguno"
+    },
+    {
+      "word": "ALGUNOS",
+      "hint": "masculine plural of alguno"
+    },
+    {
+      "word": "ALGÚN",
+      "hint": "apocopic form of alguno; some, any"
+    },
+    {
+      "word": "ALLÁ",
+      "hint": "there, over there, thither, yonder (in a direction away from the speaker and the listener); then; back then (in time)"
+    },
+    {
+      "word": "ALLÍ",
+      "hint": "there (away from the speaker and the listener)"
+    },
+    {
+      "word": "ALMA",
+      "hint": "soul; web (strip of material between flanges)"
+    },
+    {
+      "word": "ALREDEDOR",
+      "hint": "surroundings"
+    },
+    {
+      "word": "ALTA",
+      "hint": "certificate of discharge (from a hospital); entry into a profession or organization"
+    },
+    {
+      "word": "ALTO",
+      "hint": "tall; high"
+    },
+    {
+      "word": "AMBOS",
+      "hint": "both"
+    },
+    {
+      "word": "AMIGA",
+      "hint": "female equivalent of amigo, friend"
     },
     {
       "word": "AMIGO",
-      "hint": "friend"
+      "hint": "friend; penis"
+    },
+    {
+      "word": "AMIGOS",
+      "hint": "friend; penis"
+    },
+    {
+      "word": "AMO",
+      "hint": "master (man who owns a slave); owner, master, keeper (man who owns an animal)"
+    },
+    {
+      "word": "AMOR",
+      "hint": "love; love affair"
+    },
+    {
+      "word": "ANTE",
+      "hint": "in front of, before; against, compared to"
+    },
+    {
+      "word": "ANTES",
+      "hint": "earlier; before; sooner; previously; formerly; beforehand (at an earlier time); soon (in certain phrases)"
+    },
+    {
+      "word": "APENAS",
+      "hint": "barely, scarcely; recently, just"
+    },
+    {
+      "word": "APOYO",
+      "hint": "support"
+    },
+    {
+      "word": "AQUI",
+      "hint": "misspelling of aquí"
+    },
+    {
+      "word": "AQUÍ",
+      "hint": "here (in the speaker's location)"
     },
     {
       "word": "ARBOL",
-      "hint": "tree"
+      "hint": "second-person singular present subjunctive of arbolar"
+    },
+    {
+      "word": "ARMAS",
+      "hint": "weapon, arm"
+    },
+    {
+      "word": "ARRIBA",
+      "hint": "above, over; up; uphill; upstream; upstairs"
+    },
+    {
+      "word": "ARTE",
+      "hint": "art; skill"
+    },
+    {
+      "word": "ASI",
+      "hint": "misspelling of así; obsolete spelling of así"
+    },
+    {
+      "word": "ASUNTO",
+      "hint": "matter, issue, business; affair (a romantic relationship)"
+    },
+    {
+      "word": "ASÍ",
+      "hint": "like this; like that; as such; thus; so; thereby; this way, that way; used to express wishes of misfortune against someone, or to cast a spell"
+    },
+    {
+      "word": "ATAQUE",
+      "hint": "attack (an attempt to damage an opponent or enemy); attack, offensive"
+    },
+    {
+      "word": "ATENCIÓN",
+      "hint": "attention; courtesy"
+    },
+    {
+      "word": "ATRÁS",
+      "hint": "behind; back in time, ago"
+    },
+    {
+      "word": "AUN",
+      "hint": "even (implying an extreme example in the case mentioned); still, yet"
+    },
+    {
+      "word": "AUNQUE",
+      "hint": "though, although, even though, albeit; even if, irrespective of (followed by subjunctive verb form)"
+    },
+    {
+      "word": "AUTO",
+      "hint": "car, automobile"
+    },
+    {
+      "word": "AYER",
+      "hint": "yesterday"
+    },
+    {
+      "word": "AYUDA",
+      "hint": "help, aid; assistance"
+    },
+    {
+      "word": "AYUDAR",
+      "hint": "to help"
     },
     {
       "word": "AZUL",
       "hint": "blue"
     },
     {
+      "word": "AÑO",
+      "hint": "year; age"
+    },
+    {
+      "word": "AÑOS",
+      "hint": "plural of año"
+    },
+    {
+      "word": "AÚN",
+      "hint": "still, yet; even (implying an extreme example in the case mentioned)"
+    },
+    {
+      "word": "BAJA",
+      "hint": "casualty, loss; drop, fall, reduction"
+    },
+    {
+      "word": "BAJO",
+      "hint": "short (of little height); low, ground (situated close to the ground)"
+    },
+    {
+      "word": "BANCO",
+      "hint": "bank (financial institution); bench"
+    },
+    {
+      "word": "BANDA",
+      "hint": "band (musical group); gang, band, group"
+    },
+    {
+      "word": "BASE",
+      "hint": "base; basis"
+    },
+    {
+      "word": "BASTA",
+      "hint": "stop!, enough! [with de ‘stop something’]; just because!; none of your business!; no need to ask!; whatever!"
+    },
+    {
+      "word": "BASTANTE",
+      "hint": "enough; sufficient; quite some; quite a bit (of)"
+    },
+    {
+      "word": "BAÑO",
+      "hint": "bath (act of taking a bath); bathroom"
+    },
+    {
       "word": "BEBER",
-      "hint": "to drink"
+      "hint": "to drink; to drink alcohol"
+    },
+    {
+      "word": "BEBÉ",
+      "hint": "baby"
+    },
+    {
+      "word": "BIEN",
+      "hint": "well (adverbial form of bueno); well; fine; okay (state of being satisfied with the status quo)"
+    },
+    {
+      "word": "BLANCO",
+      "hint": "white; white (of light skin)"
+    },
+    {
+      "word": "BOCA",
+      "hint": "mouth, oral cavity; entrance, opening"
+    },
+    {
+      "word": "BUEN",
+      "hint": "apocopic form of bueno (“good, fine”)"
+    },
+    {
+      "word": "BUENA",
+      "hint": "inheritance"
+    },
+    {
+      "word": "BUENAS",
+      "hint": "hello, good morning, good afternoon, good evening (greeting used irrespective of the time)"
+    },
+    {
+      "word": "BUENO",
+      "hint": "estar) good (of good quality); good (at/with something) [with para or en or con (see usage notes) or gerund]"
+    },
+    {
+      "word": "BUENOS",
+      "hint": "masculine plural of bueno"
+    },
+    {
+      "word": "BUSCA",
+      "hint": "search (an attempt to find something)"
+    },
+    {
+      "word": "BUSCANDO",
+      "hint": "gerund of buscar"
+    },
+    {
+      "word": "BUSCAR",
+      "hint": "to seek, search for, look for, try to find, to scour; to look up (in a search engine, dictionary, etc.)"
+    },
+    {
+      "word": "CABEZA",
+      "hint": "head; mind (in certain phrases)"
+    },
+    {
+      "word": "CABO",
+      "hint": "end, edge, extremity (furthest or terminal point of something); end, finish, conclusion (terminal point of something in time)"
+    },
+    {
+      "word": "CADA",
+      "hint": "each; every"
+    },
+    {
+      "word": "CAFÉ",
+      "hint": "brown"
+    },
+    {
+      "word": "CAJA",
+      "hint": "box, case; bank"
+    },
+    {
+      "word": "CALLE",
+      "hint": "street; lane (in a pool or racetrack, but not a highway)"
+    },
+    {
+      "word": "CAMA",
+      "hint": "bed"
+    },
+    {
+      "word": "CAMBIAR",
+      "hint": "to change, to shift, to switch, to alter; to modify"
+    },
+    {
+      "word": "CAMBIO",
+      "hint": "change, shift; change (money given back)"
+    },
+    {
+      "word": "CAMINO",
+      "hint": "way, route; road"
+    },
+    {
+      "word": "CAMPO",
+      "hint": "countryside, country; field (large open area)"
+    },
+    {
+      "word": "CANCIÓN",
+      "hint": "song"
+    },
+    {
+      "word": "CANTIDAD",
+      "hint": "amount; quantity"
+    },
+    {
+      "word": "CAPAZ",
+      "hint": "able, capable"
+    },
+    {
+      "word": "CAPITÁN",
+      "hint": "captain (leader)"
+    },
+    {
+      "word": "CARA",
+      "hint": "face (the front part of the head); face (one's facial expression)"
+    },
+    {
+      "word": "CARGO",
+      "hint": "charge, burden; position, post"
+    },
+    {
+      "word": "CARRERA",
+      "hint": "race; run (act of running)"
+    },
+    {
+      "word": "CARTA",
+      "hint": "letter (document); map"
     },
     {
       "word": "CASA",
       "hint": "house"
     },
     {
+      "word": "CASI",
+      "hint": "almost"
+    },
+    {
+      "word": "CASO",
+      "hint": "case (situation or fact); case (instance of a medical condition)"
+    },
+    {
+      "word": "CAUSA",
+      "hint": "cause; lawsuit"
+    },
+    {
+      "word": "CENTRO",
+      "hint": "center; center, moderate tendencies or ideas"
+    },
+    {
+      "word": "CERCA",
+      "hint": "close, near, around, about, nearly, nigh (referring to quantity or time-related); close, near, around, nigh, at hand, close at hand, in sight (spatially)"
+    },
+    {
+      "word": "CHICA",
+      "hint": "female equivalent of chico: girl; gal, chick"
+    },
+    {
+      "word": "CHICAS",
+      "hint": "feminine plural of chico"
+    },
+    {
+      "word": "CHICO",
+      "hint": "small"
+    },
+    {
+      "word": "CHICOS",
+      "hint": "masculine plural of chico"
+    },
+    {
+      "word": "CIELO",
+      "hint": "sky; heaven"
+    },
+    {
+      "word": "CIERTO",
+      "hint": "true"
+    },
+    {
+      "word": "CINCO",
+      "hint": "five"
+    },
+    {
+      "word": "CITA",
+      "hint": "date (romantic outing); appointment"
+    },
+    {
+      "word": "CIUDAD",
+      "hint": "city"
+    },
+    {
+      "word": "CLARO",
+      "hint": "clear; light, pale (not dark in hue)"
+    },
+    {
+      "word": "CLASE",
+      "hint": "lecture; class (lesson)"
+    },
+    {
+      "word": "CLUB",
+      "hint": "club (an association of members joining together for some common purpose, especially sports or recreation)"
+    },
+    {
+      "word": "COCHE",
+      "hint": "car, automobile; carriage, coach (a wheeled vehicle, generally drawn by horse power)"
+    },
+    {
+      "word": "COLOR",
+      "hint": "color / colour, hue; complexion"
+    },
+    {
       "word": "COMER",
-      "hint": "to eat"
+      "hint": "to eat; to have lunch"
+    },
+    {
+      "word": "COMIDA",
+      "hint": "food; lunch"
+    },
+    {
+      "word": "COMO",
+      "hint": "as (to such an extent or degree); like, about (approximately)"
+    },
+    {
+      "word": "COMPAÑÍA",
+      "hint": "company, enterprise, business, firm; alternative form of compaña"
+    },
+    {
+      "word": "COMPLETAMENTE",
+      "hint": "completely"
+    },
+    {
+      "word": "COMPRAR",
+      "hint": "to buy (to obtain in exchange of money or goods); to buy out"
+    },
+    {
+      "word": "COMÚN",
+      "hint": "common, ordinary; common, joint, shared"
     },
     {
       "word": "CON",
-      "hint": "with"
+      "hint": "with; Dependent preposition following certain verbs."
+    },
+    {
+      "word": "CONMIGO",
+      "hint": "with me; with myself"
+    },
+    {
+      "word": "CONOCE",
+      "hint": "knowable"
+    },
+    {
+      "word": "CONOCER",
+      "hint": "to know (a person or a place), to be familiar with, to be acquainted with; to meet"
+    },
+    {
+      "word": "CONOCIDO",
+      "hint": "known; well-known, famous, renowned"
+    },
+    {
+      "word": "CONOZCO",
+      "hint": "first-person singular present indicative of conocer"
+    },
+    {
+      "word": "CONSEGUIR",
+      "hint": "to achieve, succeed in, reach, accomplish, attain; to get, obtain, acquire, find, gain, procure, extract, get to"
+    },
+    {
+      "word": "CONSEJO",
+      "hint": "advice, counsel, piece of advice; council, board"
+    },
+    {
+      "word": "CONTACTO",
+      "hint": "contact"
+    },
+    {
+      "word": "CONTIGO",
+      "hint": "with you (singular); with yourself"
+    },
+    {
+      "word": "CONTRA",
+      "hint": "against, versus"
+    },
+    {
+      "word": "CONTROL",
+      "hint": "control, or running of a business; control of a machine"
+    },
+    {
+      "word": "CORAZÓN",
+      "hint": "heart (organ of the body); heart, emotions, kindness, spirit"
+    },
+    {
+      "word": "CORTE",
+      "hint": "cut (the act of cutting); cut (the result of cutting)"
+    },
+    {
+      "word": "COSA",
+      "hint": "thing (object, concept); thing (living being)"
+    },
+    {
+      "word": "COSAS",
+      "hint": "thing (object, concept); thing (living being)"
+    },
+    {
+      "word": "CREE",
+      "hint": "inflection of crear; inflection of creer"
+    },
+    {
+      "word": "CREER",
+      "hint": "to believe; to think, to believe, to reckon, to be of the opinion"
+    },
+    {
+      "word": "CREES",
+      "hint": "second-person singular present subjunctive of crear; second-person singular present indicative of creer"
+    },
+    {
+      "word": "CREO",
+      "hint": "first-person singular present indicative of crear"
+    },
+    {
+      "word": "CUAL",
+      "hint": "like, as, in the manner of"
+    },
+    {
+      "word": "CUALQUIER",
+      "hint": "apocopic form of cualquiera; any; whatever; whichever"
+    },
+    {
+      "word": "CUALQUIERA",
+      "hint": "anyone, whoever, whomever"
+    },
+    {
+      "word": "CUANDO",
+      "hint": "when"
+    },
+    {
+      "word": "CUANTO",
+      "hint": "whatever quantity, as much, however much"
+    },
+    {
+      "word": "CUARTO",
+      "hint": "fourth"
+    },
+    {
+      "word": "CUATRO",
+      "hint": "four"
+    },
+    {
+      "word": "CUENTA",
+      "hint": "count, tally; operation"
+    },
+    {
+      "word": "CUERPO",
+      "hint": "body (the physical structure of a human or animal); body, torso"
+    },
+    {
+      "word": "CUESTIÓN",
+      "hint": "matter, question, issue; a question; a sentence that asks for information"
+    },
+    {
+      "word": "CUIDADO",
+      "hint": "watch out!; beware!"
+    },
+    {
+      "word": "CULPA",
+      "hint": "fault; guilt"
+    },
+    {
+      "word": "CUÁL",
+      "hint": "what; which"
+    },
+    {
+      "word": "CUÁNDO",
+      "hint": "when"
+    },
+    {
+      "word": "CUÁNTO",
+      "hint": "how much; how many"
+    },
+    {
+      "word": "CÁMARA",
+      "hint": "room; camera"
+    },
+    {
+      "word": "CÓMO",
+      "hint": "how?"
+    },
+    {
+      "word": "DA",
+      "hint": "inflection of dar"
+    },
+    {
+      "word": "DADO",
+      "hint": "a die or dice"
+    },
+    {
+      "word": "DAN",
+      "hint": "dan"
+    },
+    {
+      "word": "DAR",
+      "hint": "to give, to give out; to hand over"
+    },
+    {
+      "word": "DARLE",
+      "hint": "infinitive of dar combined with le"
+    },
+    {
+      "word": "DATOS",
+      "hint": "datum (a single piece of information)"
+    },
+    {
+      "word": "DAVID",
+      "hint": ""
+    },
+    {
+      "word": "DAÑO",
+      "hint": "damage; hex, curse"
     },
     {
       "word": "DE",
-      "hint": "of or from"
+      "hint": "The name of the Latin script letter D/d."
+    },
+    {
+      "word": "DEBE",
+      "hint": "inflection of deber"
+    },
+    {
+      "word": "DEBEMOS",
+      "hint": "first-person plural present indicative of deber"
+    },
+    {
+      "word": "DEBEN",
+      "hint": "third-person plural present indicative of deber"
+    },
+    {
+      "word": "DEBERÍA",
+      "hint": "first/third-person singular conditional of deber"
+    },
+    {
+      "word": "DEBES",
+      "hint": "second-person singular present indicative of deber"
+    },
+    {
+      "word": "DEBIDO",
+      "hint": "owed; due"
+    },
+    {
+      "word": "DEBO",
+      "hint": "first-person singular present indicative of deber"
+    },
+    {
+      "word": "DECIR",
+      "hint": "to say, to tell, to name, to mention; to pronounce, sound out"
+    },
+    {
+      "word": "DECISIÓN",
+      "hint": "decision"
+    },
+    {
+      "word": "DECÍA",
+      "hint": "first/third-person singular imperfect indicative of decir"
+    },
+    {
+      "word": "DEFENSA",
+      "hint": "defense; retaining wall"
+    },
+    {
+      "word": "DEJA",
+      "hint": "rest (that remaining after cutting textiles)"
+    },
+    {
+      "word": "DEJAR",
+      "hint": "to leave (to place); to leave, to keep (to allow to continue)"
+    },
+    {
+      "word": "DEJÓ",
+      "hint": "third-person singular preterite indicative of dejar"
+    },
+    {
+      "word": "DEL",
+      "hint": "of the, from the (+ a masculine noun in singular)."
+    },
+    {
+      "word": "DEMASIADO",
+      "hint": "too much, too many, excessive"
+    },
+    {
+      "word": "DEMÁS",
+      "hint": "other, remaining"
+    },
+    {
+      "word": "DENTRO",
+      "hint": "inside (for space); indoors"
+    },
+    {
+      "word": "DEPARTAMENTO",
+      "hint": "department; apartment, flat"
+    },
+    {
+      "word": "DERECHA",
+      "hint": "right (direction); right (ensemble of right-wing political parties; political conservatives as a group)"
+    },
+    {
+      "word": "DERECHO",
+      "hint": "straight (not crooked or bent; having a constant direction throughout its length); straight; upright (perfectly horizontal or vertical; not diagonal or oblique)"
+    },
+    {
+      "word": "DESDE",
+      "hint": "since (from a specified time in the past); from (a location)"
+    },
+    {
+      "word": "DESEO",
+      "hint": "desire, wish"
+    },
+    {
+      "word": "DESPUÉS",
+      "hint": "later, afterwards, afterward, post; next"
+    },
+    {
+      "word": "DESTINO",
+      "hint": "destiny, fate; destination"
+    },
+    {
+      "word": "DETRÁS",
+      "hint": "behind, at the rear; after"
+    },
+    {
+      "word": "DI",
+      "hint": "first-person singular preterite indicative of dar"
     },
     {
       "word": "DIA",
-      "hint": "day"
+      "hint": "misspelling of día; obsolete spelling of día"
+    },
+    {
+      "word": "DICE",
+      "hint": "third-person singular present indicative of decir"
+    },
+    {
+      "word": "DICEN",
+      "hint": "third-person plural present indicative of decir"
+    },
+    {
+      "word": "DICES",
+      "hint": "second-person singular present indicative of decir"
+    },
+    {
+      "word": "DICHO",
+      "hint": "mentioned, said, aforementioned"
+    },
+    {
+      "word": "DICIENDO",
+      "hint": "gerund of decir"
+    },
+    {
+      "word": "DIEZ",
+      "hint": "ten"
+    },
+    {
+      "word": "DIFERENCIA",
+      "hint": "difference"
+    },
+    {
+      "word": "DIFERENTE",
+      "hint": "different [with a or de ‘from, to, than’]"
+    },
+    {
+      "word": "DIFERENTES",
+      "hint": "different [with a or de ‘from, to, than’]"
+    },
+    {
+      "word": "DIFÍCIL",
+      "hint": "difficult, hard, tough, challenging, rough, tricky, trying, arduous, testing; unlikely (i.e. improbable)"
+    },
+    {
+      "word": "DIGA",
+      "hint": "way to say hello on the telephone"
+    },
+    {
+      "word": "DIGO",
+      "hint": "I mean; used to explain or correct a previous utterance"
+    },
+    {
+      "word": "DIJE",
+      "hint": "adorns, locket; amulet, charm"
+    },
+    {
+      "word": "DIJERON",
+      "hint": "third-person plural preterite indicative of decir"
+    },
+    {
+      "word": "DIJO",
+      "hint": "third-person singular preterite indicative of decir"
+    },
+    {
+      "word": "DINERO",
+      "hint": "money; wealth"
+    },
+    {
+      "word": "DIO",
+      "hint": "god"
+    },
+    {
+      "word": "DIOS",
+      "hint": "god"
+    },
+    {
+      "word": "DIRECCIÓN",
+      "hint": "direction; address"
+    },
+    {
+      "word": "DIRECTOR",
+      "hint": "director; conductor (of a musical ensemble)"
+    },
+    {
+      "word": "DOCTOR",
+      "hint": "doctor (Ph.D.); physician"
+    },
+    {
+      "word": "DOLOR",
+      "hint": "pain, ache, aching soreness, tenderness (physical); grief"
+    },
+    {
+      "word": "DON",
+      "hint": "sir, master, lord; a title of respect to a man, prefixed to first names"
+    },
+    {
+      "word": "DONDE",
+      "hint": "where, in what place; whence"
+    },
+    {
+      "word": "DORMIR",
+      "hint": "to sleep; to fall asleep"
+    },
+    {
+      "word": "DOS",
+      "hint": "two"
+    },
+    {
+      "word": "DUDA",
+      "hint": "doubt; question"
+    },
+    {
+      "word": "DURANTE",
+      "hint": "during, in, over; for (as a duration)"
+    },
+    {
+      "word": "DURO",
+      "hint": "hard (not soft); firm, solid"
+    },
+    {
+      "word": "DÍA",
+      "hint": "day (any period of 24 hours); day (a period from midnight to the following midnight)"
+    },
+    {
+      "word": "DÍAS",
+      "hint": "plural of día"
+    },
+    {
+      "word": "DÓLARES",
+      "hint": "dollar (designation for specific currency)"
+    },
+    {
+      "word": "DÓNDE",
+      "hint": "where?; in what place?; from where? whence?"
+    },
+    {
+      "word": "EDAD",
+      "hint": "age; time since an event"
+    },
+    {
+      "word": "EDIFICIO",
+      "hint": "building"
+    },
+    {
+      "word": "EH",
+      "hint": "hey! (used to call, draw attention, warn or reprehend); uh, um (space filler in a conversation, expression of hesitation or pause in speech)"
+    },
+    {
+      "word": "EJEMPLO",
+      "hint": "example; instance"
+    },
+    {
+      "word": "EJÉRCITO",
+      "hint": "army"
     },
     {
       "word": "EL",
-      "hint": "the"
+      "hint": "masculine singular definite article; the"
+    },
+    {
+      "word": "ELLA",
+      "hint": "she, her (used subjectively and after prepositions); it (used subjectively and after prepositions to refer to feminine nouns)"
+    },
+    {
+      "word": "ELLAS",
+      "hint": "they, them (used subjectively and after prepositions; can refer to women and feminine nouns)"
+    },
+    {
+      "word": "ELLO",
+      "hint": "it, neuter third-person subject and disjunctive pronoun"
+    },
+    {
+      "word": "ELLOS",
+      "hint": "it, neuter third-person subject and disjunctive pronoun"
+    },
+    {
+      "word": "EMBARGO",
+      "hint": "embargo; trade embargo"
+    },
+    {
+      "word": "EMPEZAR",
+      "hint": "to start, begin, to get started; to start [with a (+ infinitive) ‘to do something’]"
+    },
+    {
+      "word": "EMPRESA",
+      "hint": "company; enterprise, undertaking"
     },
     {
       "word": "EN",
-      "hint": "in or on"
+      "hint": "in, at, on; in (a time)"
+    },
+    {
+      "word": "ENCANTA",
+      "hint": "to charm, to enchant; to please, to delight"
+    },
+    {
+      "word": "ENCIMA",
+      "hint": "on top of something; above something"
+    },
+    {
+      "word": "ENCONTRAR",
+      "hint": "to meet; to find, encounter, come across"
+    },
+    {
+      "word": "ENCUENTRA",
+      "hint": "inflection of encontrar"
+    },
+    {
+      "word": "ENCUENTRO",
+      "hint": "encounter, meeting; dispute, row"
+    },
+    {
+      "word": "ENERGÍA",
+      "hint": "energy"
+    },
+    {
+      "word": "ENTENDER",
+      "hint": "to understand, to fathom; to hear"
+    },
+    {
+      "word": "ENTIENDO",
+      "hint": "first-person singular present indicative of entender"
+    },
+    {
+      "word": "ENTONCES",
+      "hint": "then, next, thereupon, at that time, at that point; then, therefore, so, thus; in that case"
+    },
+    {
+      "word": "ENTRADA",
+      "hint": "entrance; entry, entering, admission, entryway"
+    },
+    {
+      "word": "ENTRAR",
+      "hint": "to enter; to come in; to get in; to go in; to get inside; to come on in; to break in"
+    },
+    {
+      "word": "ENTRE",
+      "hint": "between; among, amongst, from"
+    },
+    {
+      "word": "EQUIPO",
+      "hint": "team; equipment, kit, hardware"
+    },
+    {
+      "word": "ERA",
+      "hint": "first/third-person singular imperfect indicative of ser"
+    },
+    {
+      "word": "ERAN",
+      "hint": "third-person plural imperfect indicative of ser"
+    },
+    {
+      "word": "ERES",
+      "hint": "second-person singular present indicative of ser; you are"
+    },
+    {
+      "word": "ERROR",
+      "hint": "error"
     },
     {
       "word": "ES",
-      "hint": "is"
+      "hint": "third-person singular present indicative of ser"
+    },
+    {
+      "word": "ESA",
+      "hint": "feminine singular of ese"
+    },
+    {
+      "word": "ESAS",
+      "hint": "feminine plural of ese; those"
+    },
+    {
+      "word": "ESCRIBIR",
+      "hint": "to write (to form letters, words or symbols on a surface in order to communicate); to write (to) someone (a letter, etc.)"
+    },
+    {
+      "word": "ESCUCHAR",
+      "hint": "to listen to, to hear out; to hear"
     },
     {
       "word": "ESCUELA",
-      "hint": "school"
+      "hint": "school (an institution dedicated to teaching and learning); school (the followers of a particular doctrine)"
+    },
+    {
+      "word": "ESE",
+      "hint": "The name of the Latin script letter S/s."
+    },
+    {
+      "word": "ESO",
+      "hint": "neuter singular of ése; that"
+    },
+    {
+      "word": "ESOS",
+      "hint": "plural of ese; those"
+    },
+    {
+      "word": "ESPACIO",
+      "hint": "space (distance between things); space (physical extent across two or three dimensions)"
+    },
+    {
+      "word": "ESPECIAL",
+      "hint": "special (distinguished by a unique quality); special (of particular interest or value)"
+    },
+    {
+      "word": "ESPECIALMENTE",
+      "hint": "specially; especially"
+    },
+    {
+      "word": "ESPERA",
+      "hint": "wait"
+    },
+    {
+      "word": "ESPERANDO",
+      "hint": "gerund of esperar"
+    },
+    {
+      "word": "ESPERAR",
+      "hint": "to hope [with direct object ‘for something’ or infinitive ‘to do something’ or que (+ subjunctive clause) ‘that something happens’]; to expect [with direct object ‘something’ or"
+    },
+    {
+      "word": "ESPERO",
+      "hint": "first-person singular present indicative of esperar"
+    },
+    {
+      "word": "ESPOSA",
+      "hint": "wife"
+    },
+    {
+      "word": "ESTA",
+      "hint": "feminine singular of este"
+    },
+    {
+      "word": "ESTABA",
+      "hint": "first/third-person singular imperfect indicative of estar"
+    },
+    {
+      "word": "ESTABAN",
+      "hint": "obsolete spelling of estaban"
+    },
+    {
+      "word": "ESTADO",
+      "hint": "country, land (any broad area or territory); alternative letter-case form of Estado (“state, a territory with a formally recognized sovereign government; administration, its"
+    },
+    {
+      "word": "ESTADOS",
+      "hint": "country, land (any broad area or territory); alternative letter-case form of Estado (“state, a territory with a formally recognized sovereign government; administration, its"
+    },
+    {
+      "word": "ESTAMOS",
+      "hint": "first-person plural present indicative of estar"
+    },
+    {
+      "word": "ESTAR",
+      "hint": "to be (have a temporary or permanent location in space); to be present"
+    },
+    {
+      "word": "ESTARÁ",
+      "hint": "third-person singular future indicative of estar"
+    },
+    {
+      "word": "ESTARÍA",
+      "hint": "first/third-person singular conditional of estar"
+    },
+    {
+      "word": "ESTAS",
+      "hint": "feminine plural of este"
+    },
+    {
+      "word": "ESTE",
+      "hint": "this"
+    },
+    {
+      "word": "ESTILO",
+      "hint": "style (way of doing things); style (grace; fashionable skill)"
+    },
+    {
+      "word": "ESTO",
+      "hint": "neuter singular of éste (“this one”); substitutes a noun one can't remember or can't remember the name of"
+    },
+    {
+      "word": "ESTOS",
+      "hint": "masculine plural of este"
+    },
+    {
+      "word": "ESTOY",
+      "hint": "first-person singular present indicative of estar; am"
+    },
+    {
+      "word": "ESTUDIO",
+      "hint": "study; studio"
+    },
+    {
+      "word": "ESTUVO",
+      "hint": "third-person singular preterite indicative of estar"
+    },
+    {
+      "word": "ESTÁ",
+      "hint": "inflection of estar"
+    },
+    {
+      "word": "ESTÁN",
+      "hint": "third-person plural present indicative of estar"
+    },
+    {
+      "word": "ESTÁS",
+      "hint": "inflection of estar"
+    },
+    {
+      "word": "ESTÉ",
+      "hint": "inflection of estar"
+    },
+    {
+      "word": "EVITAR",
+      "hint": "to avoid, to bypass, to evade, to circumvent, to dodge, to shun, to eschew (to steer clear of); to avoid, to prevent, to keep from, to stop from, to avert, to obviate, to deter"
+    },
+    {
+      "word": "EXACTAMENTE",
+      "hint": "exactly"
+    },
+    {
+      "word": "EXISTE",
+      "hint": "inflection of existir; second-person singular preterite indicative of exir"
+    },
+    {
+      "word": "EXPERIENCIA",
+      "hint": "experience; expertise"
+    },
+    {
+      "word": "EXTRAÑO",
+      "hint": "strange, unusual, odd, weird, bizarre, uncanny, rare, peculiar, freaky, freakish, freak, curious; foreign, alien, extraneous"
+    },
+    {
+      "word": "FALTA",
+      "hint": "lack, shortage; absence"
     },
     {
       "word": "FAMILIA",
-      "hint": "family"
+      "hint": "family (group of people related to each other); family (grouping of things possessing common characteristics)"
+    },
+    {
+      "word": "FAVOR",
+      "hint": "favor/favour"
+    },
+    {
+      "word": "FELIZ",
+      "hint": "happy, merry (trait); pleased, glad"
+    },
+    {
+      "word": "FIESTA",
+      "hint": "party; feast"
+    },
+    {
+      "word": "FIN",
+      "hint": "end; purpose, aim, objective, goal"
+    },
+    {
+      "word": "FINAL",
+      "hint": "final (last, ultimate); final (conclusive, decisive)"
+    },
+    {
+      "word": "FINALMENTE",
+      "hint": "lastly, finally, in the end"
+    },
+    {
+      "word": "FONDO",
+      "hint": "bottom; back"
+    },
+    {
+      "word": "FORMA",
+      "hint": "shape; form; figure; way; manner"
+    },
+    {
+      "word": "FORMAS",
+      "hint": "plural of forma"
+    },
+    {
+      "word": "FOTO",
+      "hint": "photo, photograph"
+    },
+    {
+      "word": "FOTOS",
+      "hint": "photo"
+    },
+    {
+      "word": "FRENTE",
+      "hint": "forehead, brow"
+    },
+    {
+      "word": "FUE",
+      "hint": "third-person singular preterite indicative of ir; third-person singular preterite indicative of ser"
+    },
+    {
+      "word": "FUEGO",
+      "hint": "fire"
+    },
+    {
+      "word": "FUERA",
+      "hint": "outside; out"
+    },
+    {
+      "word": "FUERON",
+      "hint": "third-person plural preterite indicative of ir; third-person plural preterite indicative of ser"
+    },
+    {
+      "word": "FUERTE",
+      "hint": "strong; loud"
+    },
+    {
+      "word": "FUERZA",
+      "hint": "force; strength"
+    },
+    {
+      "word": "FUI",
+      "hint": "first-person singular preterite indicative of ir; first-person singular preterite indicative of ser"
+    },
+    {
+      "word": "FUNCIONA",
+      "hint": "inflection of funcionar"
+    },
+    {
+      "word": "FUTURO",
+      "hint": "future (occurring in the future)"
+    },
+    {
+      "word": "FÁCIL",
+      "hint": "easy, facile, simple (requiring little effort); easy-to-use, user-friendly (clipping of fácil de usar)"
+    },
+    {
+      "word": "GANAR",
+      "hint": "to gain; to earn"
     },
     {
       "word": "GATO",
-      "hint": "cat"
+      "hint": "cat (unspecified gender); tomcat, gib (male cat)"
+    },
+    {
+      "word": "GENERAL",
+      "hint": "general, overall"
+    },
+    {
+      "word": "GENIAL",
+      "hint": "great, very good; genial, pleasant"
+    },
+    {
+      "word": "GENTE",
+      "hint": "people; guys, lads (used to address a group of people)"
+    },
+    {
+      "word": "GOBIERNO",
+      "hint": "government"
+    },
+    {
+      "word": "GRACIAS",
+      "hint": "thank you, thanks"
+    },
+    {
+      "word": "GRAN",
+      "hint": "apocopic form of grande; great, grand"
+    },
+    {
+      "word": "GRANDE",
+      "hint": "big, large; great, grand"
+    },
+    {
+      "word": "GRANDES",
+      "hint": "plural of grande"
+    },
+    {
+      "word": "GRUPO",
+      "hint": "group; party, team, crew, gang, squad, (when interchangeable with \"group\")"
+    },
+    {
+      "word": "GUERRA",
+      "hint": "war, warfare"
+    },
+    {
+      "word": "GUSTA",
+      "hint": "inflection of gustar"
+    },
+    {
+      "word": "GUSTARÍA",
+      "hint": "first/third-person singular conditional of gustar"
+    },
+    {
+      "word": "GUSTO",
+      "hint": "taste (sense); taste (flavour)"
+    },
+    {
+      "word": "HA",
+      "hint": "initialism of ácido hialurónico"
+    },
+    {
+      "word": "HABER",
+      "hint": "have; forms the perfect aspect [with masculine singular past participle]; to hold, to possess"
+    },
+    {
+      "word": "HABLA",
+      "hint": "speech (faculty of speech); speaking (action)"
+    },
+    {
+      "word": "HABLANDO",
+      "hint": "gerund of hablar"
+    },
+    {
+      "word": "HABLAR",
+      "hint": "to talk; to speak; to communicate using words; to speak (a language)"
+    },
+    {
+      "word": "HABRÁ",
+      "hint": "third-person singular future indicative of haber"
+    },
+    {
+      "word": "HABRÍA",
+      "hint": "first/third-person singular conditional of haber"
+    },
+    {
+      "word": "HABÍA",
+      "hint": "first/third-person singular imperfect indicative of haber; makes pluperfect to verbs as part of the auxiliary verb haber."
+    },
+    {
+      "word": "HABÍAN",
+      "hint": "third-person plural imperfect indicative of haber"
+    },
+    {
+      "word": "HACE",
+      "hint": "handyman; jack of all trades"
+    },
+    {
+      "word": "HACEMOS",
+      "hint": "first-person plural present indicative of hacer"
+    },
+    {
+      "word": "HACEN",
+      "hint": "third-person plural present indicative of hacer"
+    },
+    {
+      "word": "HACER",
+      "hint": "to do, perform, execute, carry out; to make"
+    },
+    {
+      "word": "HACERLO",
+      "hint": "infinitive of hacer combined with lo"
+    },
+    {
+      "word": "HACES",
+      "hint": "handyman; jack of all trades"
+    },
+    {
+      "word": "HACIA",
+      "hint": "toward, towards; around, about (indicating time)"
+    },
+    {
+      "word": "HACIENDO",
+      "hint": "gerund of hacer"
+    },
+    {
+      "word": "HACÍA",
+      "hint": "first/third-person singular imperfect indicative of hacer"
+    },
+    {
+      "word": "HAGA",
+      "hint": "inflection of hacer"
+    },
+    {
+      "word": "HAGO",
+      "hint": "first-person singular present indicative of hacer"
+    },
+    {
+      "word": "HAMBRE",
+      "hint": "hunger"
+    },
+    {
+      "word": "HAN",
+      "hint": "third-person plural present indicative of haber"
+    },
+    {
+      "word": "HARÁ",
+      "hint": "third-person singular future indicative of hacer"
+    },
+    {
+      "word": "HAS",
+      "hint": "inflection of haber"
+    },
+    {
+      "word": "HASTA",
+      "hint": "even"
+    },
+    {
+      "word": "HAY",
+      "hint": "third-person singular present indicative of haber (“there is, there are”)"
+    },
+    {
+      "word": "HAYA",
+      "hint": "beech, beech tree"
+    },
+    {
+      "word": "HE",
+      "hint": "here is [with (suffixed) accusative or aquí or ahí or allí]; behold (+ aquí)"
+    },
+    {
+      "word": "HECHO",
+      "hint": "done, completed; made"
+    },
+    {
+      "word": "HEMOS",
+      "hint": "heme"
+    },
+    {
+      "word": "HERMANA",
+      "hint": "sister; female equivalent of hermano (“brother”)"
+    },
+    {
+      "word": "HERMANO",
+      "hint": "brother; sibling"
+    },
+    {
+      "word": "HICE",
+      "hint": "first-person singular preterite indicative of hacer"
+    },
+    {
+      "word": "HICIERON",
+      "hint": "third-person plural preterite indicative of hacer"
+    },
+    {
+      "word": "HIJA",
+      "hint": "daughter; female equivalent of hijo"
+    },
+    {
+      "word": "HIJO",
+      "hint": "son; child (of unknown gender)"
+    },
+    {
+      "word": "HIJOS",
+      "hint": "son; child (of unknown gender)"
+    },
+    {
+      "word": "HISTORIA",
+      "hint": "history (the aggregate of past events); history (the branch of knowledge that studies the past)"
+    },
+    {
+      "word": "HIZO",
+      "hint": "third-person singular preterite indicative of hacer"
+    },
+    {
+      "word": "HOLA",
+      "hint": "hello, hi, hey"
+    },
+    {
+      "word": "HOMBRE",
+      "hint": "man, (adult male human); man, (all humans collectively); mankind, humankind"
+    },
+    {
+      "word": "HOMBRES",
+      "hint": "man, (adult male human); man, (all humans collectively); mankind, humankind"
+    },
+    {
+      "word": "HORA",
+      "hint": "hour (a time period of sixty minutes); time (the moment, as indicated by a clock or similar device)"
+    },
+    {
+      "word": "HORAS",
+      "hint": "hour (a time period of sixty minutes); time (the moment, as indicated by a clock or similar device)"
+    },
+    {
+      "word": "HOSPITAL",
+      "hint": "hospital"
+    },
+    {
+      "word": "HOTEL",
+      "hint": "hotel"
+    },
+    {
+      "word": "HOY",
+      "hint": "today, tonight (on the current day)"
+    },
+    {
+      "word": "HUBIERA",
+      "hint": "first/third-person singular imperfect subjunctive of haber"
+    },
+    {
+      "word": "HUBO",
+      "hint": "third-person singular preterite indicative of haber"
+    },
+    {
+      "word": "HUMANO",
+      "hint": "human; humane"
+    },
+    {
+      "word": "HUMANOS",
+      "hint": "masculine plural of humano"
+    },
+    {
+      "word": "IBA",
+      "hint": "first/third-person singular imperfect indicative of ir"
+    },
+    {
+      "word": "IDEA",
+      "hint": "idea"
+    },
+    {
+      "word": "IDO",
+      "hint": "away with the fairies; absent-minded; nuts; cuckoo; bonkers (crazy)"
+    },
+    {
+      "word": "IGLESIA",
+      "hint": "church"
+    },
+    {
+      "word": "IGUAL",
+      "hint": "equal, same; identical, sharing the same characteristics"
+    },
+    {
+      "word": "IMAGEN",
+      "hint": "image"
+    },
+    {
+      "word": "IMPORTA",
+      "hint": "inflection of importar"
+    },
+    {
+      "word": "IMPORTANTE",
+      "hint": "important, that cares, that matters."
+    },
+    {
+      "word": "IMPOSIBLE",
+      "hint": "impossible; unable"
+    },
+    {
+      "word": "INCLUSO",
+      "hint": "enclosed, included"
+    },
+    {
+      "word": "INCREÍBLE",
+      "hint": "incredible, unbelievable"
+    },
+    {
+      "word": "INFORMACIÓN",
+      "hint": "information, data"
+    },
+    {
+      "word": "INGLÉS",
+      "hint": "English"
+    },
+    {
+      "word": "INTERESANTE",
+      "hint": "interesting"
+    },
+    {
+      "word": "INTERIOR",
+      "hint": "inner, interior"
+    },
+    {
+      "word": "INVESTIGACIÓN",
+      "hint": "investigation; research"
+    },
+    {
+      "word": "IR",
+      "hint": "to go (away from speaker and listener); to be suitable or apt for its purpose, to match or suit well (of clothing)"
+    },
+    {
+      "word": "IZQUIERDA",
+      "hint": "left (side, direction); left"
+    },
+    {
+      "word": "JAMÁS",
+      "hint": "never; ever"
+    },
+    {
+      "word": "JEFE",
+      "hint": "chief; president; head; leader of a business, political party, or other organization; boss; supervisor; manager"
+    },
+    {
+      "word": "JOHN",
+      "hint": ""
+    },
+    {
+      "word": "JOVEN",
+      "hint": "young, youthful"
+    },
+    {
+      "word": "JUEGO",
+      "hint": "play; game; sport"
     },
     {
       "word": "JUGAR",
-      "hint": "to play"
+      "hint": "to play; to risk, take a chance"
+    },
+    {
+      "word": "JUICIO",
+      "hint": "good judgement; reason; opinion, judgment"
+    },
+    {
+      "word": "JUNTO",
+      "hint": "together; joined"
+    },
+    {
+      "word": "JUNTOS",
+      "hint": "masculine plural of junto"
+    },
+    {
+      "word": "JUSTICIA",
+      "hint": "justice; righteousness"
+    },
+    {
+      "word": "JUSTO",
+      "hint": "right, just; exactly"
+    },
+    {
+      "word": "JÓVENES",
+      "hint": "obsolete spelling of joven; misspelling of joven"
     },
     {
       "word": "LA",
-      "hint": "the"
+      "hint": "feminine singular definite article; the"
+    },
+    {
+      "word": "LADO",
+      "hint": "side; face"
+    },
+    {
+      "word": "LARGO",
+      "hint": "long (having much distance from one terminating point to another); long, lengthy, extended, prolonged, protracted, (having great duration)"
     },
     {
       "word": "LAS",
-      "hint": "the"
+      "hint": "feminine plural definite article; the"
+    },
+    {
+      "word": "LE",
+      "hint": "to him, for him; dative of él; to her, for her; dative of ella"
     },
     {
       "word": "LEER",
       "hint": "to read"
     },
     {
+      "word": "LEJOS",
+      "hint": "far, far away"
+    },
+    {
+      "word": "LES",
+      "hint": "dative of ellos and ellas; to them, for them; dative of ustedes; to you all, for you all (formal)"
+    },
+    {
+      "word": "LEY",
+      "hint": "law (a well-established characteristic of nature); law (body of rules issued by a legislative body)"
+    },
+    {
+      "word": "LIBERTAD",
+      "hint": "liberty, freedom; latitude, leeway"
+    },
+    {
+      "word": "LIBRE",
+      "hint": "free (not imprisoned or enslaved); free (unconstrained)"
+    },
+    {
       "word": "LIBRO",
       "hint": "book"
     },
     {
+      "word": "LIBROS",
+      "hint": "book"
+    },
+    {
+      "word": "LISTA",
+      "hint": "list, roll; stripe"
+    },
+    {
+      "word": "LISTO",
+      "hint": "clever, smart (with ser); ready, set, all set, prepared, poised, up, down (with estar)"
+    },
+    {
+      "word": "LLAMA",
+      "hint": "flame"
+    },
+    {
+      "word": "LLAMADA",
+      "hint": "call"
+    },
+    {
+      "word": "LLAMADO",
+      "hint": "call"
+    },
+    {
+      "word": "LLAMAR",
+      "hint": "to summon, to call; to refer to, to call"
+    },
+    {
+      "word": "LLEGA",
+      "hint": "inflection of llegar"
+    },
+    {
+      "word": "LLEGADO",
+      "hint": "arrived, received, delivered"
+    },
+    {
+      "word": "LLEGAR",
+      "hint": "to arrive, get (to); to get up to, to go up to, to reach (+ a or + hasta)"
+    },
+    {
+      "word": "LLEGÓ",
+      "hint": "to arrive, get (to); to get up to, to go up to, to reach (+ a or + hasta)"
+    },
+    {
+      "word": "LLEVA",
+      "hint": "to take somewhere; to carry, bear, hold"
+    },
+    {
+      "word": "LLEVAR",
+      "hint": "to take somewhere; to carry, bear, hold"
+    },
+    {
       "word": "LO",
-      "hint": "it"
+      "hint": "accusative of él and usted (when referring to a man), and a variant of ello in many constructions; him, you (formal), it, that"
+    },
+    {
+      "word": "LOCO",
+      "hint": "crazy, insane, mad, nuts (asserting that something is out of place in the head); rash, risky, imprudent"
     },
     {
       "word": "LOS",
-      "hint": "the"
+      "hint": "masculine plural of el (“the”)"
+    },
+    {
+      "word": "LUEGO",
+      "hint": "then (afterward); later, later on (at some point in the future)"
+    },
+    {
+      "word": "LUGAR",
+      "hint": "place"
     },
     {
       "word": "LUZ",
-      "hint": "light"
+      "hint": "light; lumen"
+    },
+    {
+      "word": "LÍNEA",
+      "hint": "line (a straight path through two or more points); line (a piece of spoken dialogue in a script)"
+    },
+    {
+      "word": "MADRE",
+      "hint": "mother; mother (source or origin)"
+    },
+    {
+      "word": "MAL",
+      "hint": "badly, poorly, ill; awry, amiss, wrong, wrongly"
+    },
+    {
+      "word": "MALA",
+      "hint": "female equivalent of malo"
+    },
+    {
+      "word": "MALO",
+      "hint": "estar) bad (of bad quality); bad (in a bad state)"
+    },
+    {
+      "word": "MAMÁ",
+      "hint": "mum, mom; a term of affection for a woman"
+    },
+    {
+      "word": "MANERA",
+      "hint": "way; manner; method; style"
+    },
+    {
+      "word": "MANO",
+      "hint": "hand; front foot"
+    },
+    {
+      "word": "MANOS",
+      "hint": "hand; front foot"
+    },
+    {
+      "word": "MANTENER",
+      "hint": "to keep; to maintain, to support"
     },
     {
       "word": "MAR",
-      "hint": "sea"
+      "hint": "sea; seaside"
+    },
+    {
+      "word": "MAS",
+      "hint": "but; however"
+    },
+    {
+      "word": "MATAR",
+      "hint": "to kill, slay; to put out, extinguish (a flame or light)"
+    },
+    {
+      "word": "MAYOR",
+      "hint": "comparative degree of grande: bigger; comparative degree of viejo: older; elder"
+    },
+    {
+      "word": "MAYORÍA",
+      "hint": "majority"
+    },
+    {
+      "word": "MAÑANA",
+      "hint": "tomorrow; soon, shortly"
+    },
+    {
+      "word": "ME",
+      "hint": "initialism of muerte encefálica (“brain death”)"
+    },
+    {
+      "word": "MEDIA",
+      "hint": "half (one of two equal parts of any whole); synonym of cuarto, half-fanega (a traditional unit of dry measure equivalent to about 27.8 L)"
+    },
+    {
+      "word": "MEDIO",
+      "hint": "half (of or related to one of two equal divisions of a whole); half (of or related to any large proportion of a whole)"
+    },
+    {
+      "word": "MEJOR",
+      "hint": "better; better off"
+    },
+    {
+      "word": "MEJORES",
+      "hint": "better; better off"
+    },
+    {
+      "word": "MENOS",
+      "hint": "less; least"
+    },
+    {
+      "word": "MENSAJE",
+      "hint": "message; speech"
+    },
+    {
+      "word": "MENTE",
+      "hint": "mind, intellect"
+    },
+    {
+      "word": "MES",
+      "hint": "month"
+    },
+    {
+      "word": "MESA",
+      "hint": "table; dinner table"
+    },
+    {
+      "word": "MESES",
+      "hint": "plural of mes"
     },
     {
       "word": "MI",
-      "hint": "my"
+      "hint": "apocopic form of mío, my"
+    },
+    {
+      "word": "MIEDO",
+      "hint": "fear"
+    },
+    {
+      "word": "MIENTRAS",
+      "hint": "meanwhile"
+    },
+    {
+      "word": "MIERDA",
+      "hint": "shit (solid excretory product evacuated from the bowels; feces.); shit (in expressions)"
+    },
+    {
+      "word": "MIL",
+      "hint": "thousand"
+    },
+    {
+      "word": "MILES",
+      "hint": "thousands"
+    },
+    {
+      "word": "MILLONES",
+      "hint": "million (10)"
+    },
+    {
+      "word": "MINUTOS",
+      "hint": "minute (a unit of time equal to 60 seconds or ⁄60 hour); minute (a unit of angle measure equal to 60 seconds or ⁄60 degree)"
+    },
+    {
+      "word": "MIRA",
+      "hint": "target; purpose, object"
+    },
+    {
+      "word": "MIS",
+      "hint": "plural of mi"
+    },
+    {
+      "word": "MISMA",
+      "hint": "feminine singular of mismo"
+    },
+    {
+      "word": "MISMO",
+      "hint": "same; identical; one and the same; indicates that the two compared noun clauses both represent the one thing; similar; alike; practically identical; indicates that the two"
+    },
+    {
+      "word": "MISMOS",
+      "hint": "masculine plural of mismo"
+    },
+    {
+      "word": "MITAD",
+      "hint": "half"
+    },
+    {
+      "word": "MODO",
+      "hint": "way, manner; mood"
+    },
+    {
+      "word": "MOMENTO",
+      "hint": "moment, instant; timing"
+    },
+    {
+      "word": "MORIR",
+      "hint": "to die; to be dying (for, to)"
+    },
+    {
+      "word": "MOVIMIENTO",
+      "hint": "movement (physical motion between points in space); movement (a trend in various fields or social categories)"
+    },
+    {
+      "word": "MUCHA",
+      "hint": "feminine singular of mucho"
+    },
+    {
+      "word": "MUCHAS",
+      "hint": "feminine plural of mucho"
+    },
+    {
+      "word": "MUCHO",
+      "hint": "much, a lot of; many, a lot of"
+    },
+    {
+      "word": "MUCHOS",
+      "hint": "masculine plural of mucho"
+    },
+    {
+      "word": "MUERTE",
+      "hint": "death (the cessation of life); death (the personification of death as a hooded figure)"
+    },
+    {
+      "word": "MUERTO",
+      "hint": "dead; exhausted; dead tired"
+    },
+    {
+      "word": "MUERTOS",
+      "hint": "masculine plural of muerto"
+    },
+    {
+      "word": "MUJER",
+      "hint": "woman; wife"
+    },
+    {
+      "word": "MUJERES",
+      "hint": "woman; wife"
+    },
+    {
+      "word": "MUNDO",
+      "hint": "world, earth (human collective existence); world, globe (the Earth)"
+    },
+    {
+      "word": "MURIÓ",
+      "hint": "third-person singular preterite indicative of morir"
+    },
+    {
+      "word": "MUY",
+      "hint": "apocopic form of mucho; very"
+    },
+    {
+      "word": "MÁS",
+      "hint": "more; -er (used to make comparisons); most; -est (used to make superlatives)"
+    },
+    {
+      "word": "MÉDICO",
+      "hint": "doctor; physician"
+    },
+    {
+      "word": "MÍ",
+      "hint": "me; (declined form of yo used as the object of a preposition)"
+    },
+    {
+      "word": "MÍO",
+      "hint": "mine; of mine"
+    },
+    {
+      "word": "MÚSICA",
+      "hint": "music; song"
+    },
+    {
+      "word": "NACIONAL",
+      "hint": "national, nationwide (of or relating to a nation); national (native to a nation)"
+    },
+    {
+      "word": "NADA",
+      "hint": "nothing, zero, zilch, not...anything"
+    },
+    {
+      "word": "NADIE",
+      "hint": "no one; nobody (anyone or anybody)"
+    },
+    {
+      "word": "NECESARIO",
+      "hint": "necessary, requisite"
+    },
+    {
+      "word": "NECESITA",
+      "hint": "to need"
+    },
+    {
+      "word": "NECESITAMOS",
+      "hint": "to need"
+    },
+    {
+      "word": "NECESITAS",
+      "hint": "to need"
+    },
+    {
+      "word": "NECESITO",
+      "hint": "to need"
+    },
+    {
+      "word": "NEGOCIO",
+      "hint": "business, enterprise (commercial enterprise or establishment); deal (a particular instance of buying or selling, a transaction)"
+    },
+    {
+      "word": "NEGOCIOS",
+      "hint": "business, enterprise (commercial enterprise or establishment); deal (a particular instance of buying or selling, a transaction)"
+    },
+    {
+      "word": "NEGRO",
+      "hint": "black (the color perceived in the absence of light)"
+    },
+    {
+      "word": "NI",
+      "hint": "Used when negating two or more elements, and not, not A or B, not A nor B, neither A nor B"
+    },
+    {
+      "word": "NINGUNA",
+      "hint": "feminine singular of ninguno"
+    },
+    {
+      "word": "NINGÚN",
+      "hint": "apocopic form of ninguno (“not any”)"
+    },
+    {
+      "word": "NIVEL",
+      "hint": "level, tier, height (distance relative to a given reference elevation); level, standard (degree or amount)"
+    },
+    {
+      "word": "NIÑA",
+      "hint": "girl, female equivalent of niño; pupil (of eye)"
+    },
+    {
+      "word": "NIÑO",
+      "hint": "child, boy"
+    },
+    {
+      "word": "NIÑOS",
+      "hint": "child, boy"
     },
     {
       "word": "NO",
-      "hint": "no"
+      "hint": "not"
     },
     {
       "word": "NOCHE",
-      "hint": "night"
+      "hint": "night (the period between sunset and sunrise); evening (after sunset)"
+    },
+    {
+      "word": "NOCHES",
+      "hint": "night (the period between sunset and sunrise); evening (after sunset)"
+    },
+    {
+      "word": "NOMBRE",
+      "hint": "name; noun"
+    },
+    {
+      "word": "NORMAL",
+      "hint": "normal (customary, standard, not deviating from a norm); normal (typical, usual)"
+    },
+    {
+      "word": "NORTE",
+      "hint": "north, northern"
+    },
+    {
+      "word": "NOS",
+      "hint": "dative of nosotros: to us, for us; accusative of nosotros: us"
+    },
+    {
+      "word": "NOSOTROS",
+      "hint": "we (masculine plural); ourselves"
+    },
+    {
+      "word": "NOTA",
+      "hint": "note, memo; note"
+    },
+    {
+      "word": "NOTICIAS",
+      "hint": "notice; news, piece of news"
+    },
+    {
+      "word": "NOVIA",
+      "hint": "female equivalent of novio, girlfriend; female equivalent of novio, fiancée"
+    },
+    {
+      "word": "NUESTRA",
+      "hint": "feminine singular of nuestro"
+    },
+    {
+      "word": "NUESTRAS",
+      "hint": "feminine plural of nuestro"
+    },
+    {
+      "word": "NUESTRO",
+      "hint": "ours"
+    },
+    {
+      "word": "NUESTROS",
+      "hint": "masculine plural of nuestro"
+    },
+    {
+      "word": "NUEVA",
+      "hint": "news, novelty"
+    },
+    {
+      "word": "NUEVO",
+      "hint": "new; brand new, all-new"
+    },
+    {
+      "word": "NUEVOS",
+      "hint": "masculine plural of nuevo"
+    },
+    {
+      "word": "NUNCA",
+      "hint": "never; ever"
+    },
+    {
+      "word": "NÚMERO",
+      "hint": "number (counting); musical number"
+    },
+    {
+      "word": "OBJETIVO",
+      "hint": "objective"
+    },
+    {
+      "word": "OBRA",
+      "hint": "work (usually literary or artistic); construction"
+    },
+    {
+      "word": "OCHO",
+      "hint": "eight (8)"
+    },
+    {
+      "word": "OCURRE",
+      "hint": "to happen, to occur; to come up with"
+    },
+    {
+      "word": "ODIO",
+      "hint": "hate, hatred, loathing (strong aversion; intense dislike); odium (hatred coupled with disgust)"
+    },
+    {
+      "word": "OFICIAL",
+      "hint": "official"
+    },
+    {
+      "word": "OFICINA",
+      "hint": "office (a room used for non-manual work); workshop"
+    },
+    {
+      "word": "OH",
+      "hint": "oh (expression of awe, surprise, pain or realization)"
+    },
+    {
+      "word": "OJOS",
+      "hint": "plural of ojo"
+    },
+    {
+      "word": "OK",
+      "hint": "OK"
+    },
+    {
+      "word": "OPINIÓN",
+      "hint": "opinion"
+    },
+    {
+      "word": "OPORTUNIDAD",
+      "hint": "opportunity, chance, shot, break, occasion, time (in both senses: “chance for advancement, progress or profit” and “favorable circumstance or occasion”); timeliness"
+    },
+    {
+      "word": "ORDEN",
+      "hint": "order (command); order (request, purchase, or food)"
+    },
+    {
+      "word": "ORO",
+      "hint": "gold.; or"
+    },
+    {
+      "word": "OS",
+      "hint": "you, to you, for you; dative and accusative of vosotros"
     },
     {
       "word": "OSO",
-      "hint": "bear"
+      "hint": "bear (in general); boar, male bear"
+    },
+    {
+      "word": "OTRA",
+      "hint": "feminine singular of otro"
+    },
+    {
+      "word": "OTRAS",
+      "hint": "feminine plural of otro"
+    },
+    {
+      "word": "OTRO",
+      "hint": "other, another"
+    },
+    {
+      "word": "OTROS",
+      "hint": "masculine plural of otro"
+    },
+    {
+      "word": "PADRE",
+      "hint": "father, parent; father"
+    },
+    {
+      "word": "PADRES",
+      "hint": "father, parent; father"
+    },
+    {
+      "word": "PAGAR",
+      "hint": "to pay [with le ‘someone’; or with lo ‘something or someone’]; to be worthwhile, to have a pay off"
+    },
+    {
+      "word": "PALABRA",
+      "hint": "word; wording"
+    },
+    {
+      "word": "PALABRAS",
+      "hint": "word; wording"
     },
     {
       "word": "PAN",
-      "hint": "bread"
+      "hint": "bread (food made by baking cereal dough); money, dough"
+    },
+    {
+      "word": "PAPEL",
+      "hint": "paper; role"
+    },
+    {
+      "word": "PAPÁ",
+      "hint": "dad; parents"
+    },
+    {
+      "word": "PAR",
+      "hint": "even (divisible by two)"
     },
     {
       "word": "PARA",
-      "hint": "for"
+      "hint": "for, to (expressing a recipient); to, in order to, so, for (expressing the intended purpose of an action)"
+    },
+    {
+      "word": "PARECE",
+      "hint": "to seem, to see fit; to look like, to seem like"
+    },
+    {
+      "word": "PARTE",
+      "hint": "part; section; portion; share; piece; bit; cut; proportion; place; somewhere"
+    },
+    {
+      "word": "PARTES",
+      "hint": "genitalia"
+    },
+    {
+      "word": "PARTIDO",
+      "hint": "broken; divided into two equal parts vertically, per pale"
+    },
+    {
+      "word": "PARTIR",
+      "hint": "to divide, split; to go away, leave, depart"
+    },
+    {
+      "word": "PASA",
+      "hint": "raisin"
+    },
+    {
+      "word": "PASADO",
+      "hint": "past; former"
+    },
+    {
+      "word": "PASANDO",
+      "hint": "gerund of pasar"
+    },
+    {
+      "word": "PASAR",
+      "hint": "to pass, to hand, to slip; to happen"
+    },
+    {
+      "word": "PASE",
+      "hint": "pass, permit; pass (the act of moving the ball or puck from one player to another)"
+    },
+    {
+      "word": "PASO",
+      "hint": "step, footstep; pace (rough distance of a brisk stride)"
+    },
+    {
+      "word": "PASÓ",
+      "hint": "wonder, marvel (something astonishing)"
+    },
+    {
+      "word": "PAZ",
+      "hint": "peace (warlessness); peace (a state of tranquility, quiet, and harmony)"
+    },
+    {
+      "word": "PAÍS",
+      "hint": "country (the territory of a nation); country, land (a set region of land having particular human occupation or agreed limits)"
+    },
+    {
+      "word": "PELO",
+      "hint": "hair (a single hair); hair (all hair on the head)"
+    },
+    {
+      "word": "PELÍCULA",
+      "hint": "film (layer); movie (US, Canada), film"
+    },
+    {
+      "word": "PENA",
+      "hint": "punishment, sentence; pity (sympathy)"
+    },
+    {
+      "word": "PENSANDO",
+      "hint": "gerund of pensar"
+    },
+    {
+      "word": "PENSAR",
+      "hint": "to think, ponder; to reflect, think through"
+    },
+    {
+      "word": "PENSÉ",
+      "hint": "first-person singular preterite indicative of pensar"
+    },
+    {
+      "word": "PEOR",
+      "hint": "comparative degree of malo: worse; superlative degree of malo: worst"
+    },
+    {
+      "word": "PEQUEÑA",
+      "hint": "feminine singular of pequeño"
+    },
+    {
+      "word": "PEQUEÑO",
+      "hint": "small; little"
+    },
+    {
+      "word": "PERDER",
+      "hint": "to lose; to get lost"
+    },
+    {
+      "word": "PERDIDO",
+      "hint": "lost"
+    },
+    {
+      "word": "PERDÓN",
+      "hint": "sorry, pardon me (excuse me); sorry, pardon (I didn't hear you)"
+    },
+    {
+      "word": "PERFECTO",
+      "hint": "perfect"
+    },
+    {
+      "word": "PERO",
+      "hint": "but; well well; so; well (used for emphasis)"
     },
     {
       "word": "PERRO",
-      "hint": "dog"
+      "hint": "dog (the species Canis familiaris (sometimes designated Canis lupus familiaris), domesticated for thousands of years and of highly variable appearance because of human breeding);"
+    },
+    {
+      "word": "PERSONA",
+      "hint": "person (an individual; usually a human being); a socially distinguished person, a personality"
+    },
+    {
+      "word": "PERSONAL",
+      "hint": "personal"
+    },
+    {
+      "word": "PERSONAS",
+      "hint": "person (an individual; usually a human being); a socially distinguished person, a personality"
+    },
+    {
+      "word": "PESAR",
+      "hint": "to weigh (to determine the weight of an object); to weigh (to have a certain weight)"
     },
     {
       "word": "PEZ",
-      "hint": "fish"
+      "hint": "fish (especially if alive or not intended for consumption); idiot, dimwit"
+    },
+    {
+      "word": "PIE",
+      "hint": "foot (a part of the body); English or American foot (a unit of length equal to 30.48 cm)"
+    },
+    {
+      "word": "PIENSA",
+      "hint": "to feed livestock"
+    },
+    {
+      "word": "PIENSO",
+      "hint": "animal feed"
+    },
+    {
+      "word": "PLAN",
+      "hint": "plan; scheme (systematic plan of future action)"
+    },
+    {
+      "word": "POBRE",
+      "hint": "poor (lacking money, resources, etc.); poor (pitiable, pitiful)"
+    },
+    {
+      "word": "POCO",
+      "hint": "little, not much; few, not many"
+    },
+    {
+      "word": "PODEMOS",
+      "hint": "pertaining to Podemos, a Spanish political party"
+    },
+    {
+      "word": "PODER",
+      "hint": "to be able to, can; to be familiar with something, or with someone's personality"
+    },
+    {
+      "word": "PODRÍA",
+      "hint": "first/third-person singular conditional of poder"
+    },
+    {
+      "word": "PODÍA",
+      "hint": "first/third-person singular imperfect indicative of poder"
+    },
+    {
+      "word": "POLICÍA",
+      "hint": "Civility, polity, public order, police, fineness, neatness, urbanity; police, police department, police force, police service"
+    },
+    {
+      "word": "POLÍTICA",
+      "hint": "politics (activities associated with running a government or organisation); policy (a formal principle or protocol of conduct)"
+    },
+    {
+      "word": "PONE",
+      "hint": "third-person singular present indicative of poner"
+    },
+    {
+      "word": "PONER",
+      "hint": "to put, to place (cause to assume a specified position); to write"
     },
     {
       "word": "POR",
-      "hint": "by or through"
+      "hint": "by; for (indicates something given in an exchange)"
+    },
+    {
+      "word": "PORQUE",
+      "hint": "because"
+    },
+    {
+      "word": "POSIBLE",
+      "hint": "possible"
+    },
+    {
+      "word": "POSICIÓN",
+      "hint": "position"
+    },
+    {
+      "word": "PRECIO",
+      "hint": "price; worth, cost"
+    },
+    {
+      "word": "PREGUNTA",
+      "hint": "question (sentence that asks for information)"
+    },
+    {
+      "word": "PREGUNTAS",
+      "hint": "question (sentence that asks for information)"
+    },
+    {
+      "word": "PRESIDENTE",
+      "hint": "president, head (leader)"
+    },
+    {
+      "word": "PRIMER",
+      "hint": "apocopic form of primero (first); apocopic form of primera (first)"
+    },
+    {
+      "word": "PRIMERA",
+      "hint": "first gear (lowest gear in a motor vehicle); first class"
+    },
+    {
+      "word": "PRIMERO",
+      "hint": "former (in contrast to the latter), first, first one; one of the five bids in the card game of Primero, consisting of a combination of four cards in the hand"
+    },
+    {
+      "word": "PRINCIPAL",
+      "hint": "main, most important; essential"
+    },
+    {
+      "word": "PRINCIPIO",
+      "hint": "principle; cause, origin"
+    },
+    {
+      "word": "PROBABLEMENTE",
+      "hint": "probably, likely"
+    },
+    {
+      "word": "PROBLEMA",
+      "hint": "problem, issue, challenge (a difficulty or obstacle that has to be dealt with); trouble (in the singular or in the plural)"
+    },
+    {
+      "word": "PROBLEMAS",
+      "hint": "problem, issue, challenge (a difficulty or obstacle that has to be dealt with); trouble (in the singular or in the plural)"
+    },
+    {
+      "word": "PROFESOR",
+      "hint": "professor (a faculty member); teacher"
+    },
+    {
+      "word": "PROGRAMA",
+      "hint": "programme, program; show, programme"
+    },
+    {
+      "word": "PRONTO",
+      "hint": "prompt, on time; ready"
+    },
+    {
+      "word": "PROPIA",
+      "hint": "feminine singular of propio"
+    },
+    {
+      "word": "PROPIO",
+      "hint": "own (belonging to); proper"
+    },
+    {
+      "word": "PROYECTO",
+      "hint": "project, plan"
+    },
+    {
+      "word": "PRUEBA",
+      "hint": "proof; evidence (usually in the plural); an examination, test, or quiz"
+    },
+    {
+      "word": "PRUEBAS",
+      "hint": "proof; evidence (usually in the plural); an examination, test, or quiz"
+    },
+    {
+      "word": "PUDO",
+      "hint": "third-person singular preterite indicative of poder; first-person singular present indicative of pudir"
+    },
+    {
+      "word": "PUEBLO",
+      "hint": "town, village; the common people, the working classes"
+    },
+    {
+      "word": "PUEDA",
+      "hint": "inflection of poder"
+    },
+    {
+      "word": "PUEDE",
+      "hint": "it's possible; could be"
+    },
+    {
+      "word": "PUEDEN",
+      "hint": "third-person plural present indicative of poder"
+    },
+    {
+      "word": "PUEDES",
+      "hint": "it's possible; could be"
+    },
+    {
+      "word": "PUEDO",
+      "hint": "first-person singular present indicative of poder"
+    },
+    {
+      "word": "PUERTA",
+      "hint": "door (portal of entry into a building); gate (doorlike structure outside a house)"
+    },
+    {
+      "word": "PUES",
+      "hint": "so, then; in that case; because, since"
+    },
+    {
+      "word": "PUESTO",
+      "hint": "position, employment, job; place (physical location where something is found)"
+    },
+    {
+      "word": "PUNTO",
+      "hint": "point (specific spot, location, or place); point (unit of scoring)"
+    },
+    {
+      "word": "PUSO",
+      "hint": "third-person singular preterite indicative of poner"
+    },
+    {
+      "word": "PUTA",
+      "hint": "whore, slut, prostitute; bitch"
+    },
+    {
+      "word": "PÚBLICO",
+      "hint": "public"
     },
     {
       "word": "QUE",
-      "hint": "that or what"
+      "hint": "that; than"
+    },
+    {
+      "word": "QUEDA",
+      "hint": "curfew"
+    },
+    {
+      "word": "QUEREMOS",
+      "hint": "first-person plural present indicative of querer"
+    },
+    {
+      "word": "QUERIDO",
+      "hint": "dear (also used in letter introductions, etc.); handsome (guy), beautiful (girl)"
+    },
+    {
+      "word": "QUERÍA",
+      "hint": "first/third-person singular imperfect indicative of querer"
+    },
+    {
+      "word": "QUIEN",
+      "hint": "who; whom"
+    },
+    {
+      "word": "QUIENES",
+      "hint": "who; whom"
+    },
+    {
+      "word": "QUIERA",
+      "hint": "whoever; whomever"
+    },
+    {
+      "word": "QUIERAS",
+      "hint": "whoever; whomever"
+    },
+    {
+      "word": "QUIERE",
+      "hint": "whether; be it; whether it be; should it be"
+    },
+    {
+      "word": "QUIEREN",
+      "hint": "third-person plural present indicative of querer"
+    },
+    {
+      "word": "QUIERES",
+      "hint": "whether; be it; whether it be; should it be"
+    },
+    {
+      "word": "QUIERO",
+      "hint": "first-person singular present indicative of querer"
+    },
+    {
+      "word": "QUIZÁ",
+      "hint": "perhaps, maybe"
+    },
+    {
+      "word": "QUIZÁS",
+      "hint": "perhaps, maybe"
+    },
+    {
+      "word": "QUIÉN",
+      "hint": "who?, whom?; (with “de”) whose?; if only; I wish"
+    },
+    {
+      "word": "QUÉ",
+      "hint": "what; which; what a; such"
+    },
+    {
+      "word": "RADIO",
+      "hint": "radio (device)"
+    },
+    {
+      "word": "RARO",
+      "hint": "rare; strange, odd"
+    },
+    {
+      "word": "RATO",
+      "hint": "a while, bit (a short period of time); time"
+    },
+    {
+      "word": "RAZÓN",
+      "hint": "reason; reasoning"
+    },
+    {
+      "word": "REAL",
+      "hint": "real"
+    },
+    {
+      "word": "REALIDAD",
+      "hint": "reality; commodity"
+    },
+    {
+      "word": "REALMENTE",
+      "hint": "really, actually, genuinely"
+    },
+    {
+      "word": "RECUERDA",
+      "hint": "inflection of recordar"
+    },
+    {
+      "word": "RECUERDO",
+      "hint": "memory (a specific thing that is remembered); souvenir"
+    },
+    {
+      "word": "RED",
+      "hint": "web, mesh; net"
+    },
+    {
+      "word": "RELACIÓN",
+      "hint": "relation; relationship"
+    },
+    {
+      "word": "RESPECTO",
+      "hint": "respect, regard, connection, relation, relationship"
+    },
+    {
+      "word": "RESPETO",
+      "hint": "respect"
+    },
+    {
+      "word": "RESPUESTA",
+      "hint": "reply, response, answer"
+    },
+    {
+      "word": "RESTO",
+      "hint": "rest, remainder; remainder"
+    },
+    {
+      "word": "REUNIÓN",
+      "hint": "meeting, session, appointment; powwow"
+    },
+    {
+      "word": "REY",
+      "hint": "king; darling, fellow"
     },
     {
       "word": "RIO",
-      "hint": "river"
+      "hint": "misspelling of río"
     },
     {
       "word": "ROJO",
-      "hint": "red"
+      "hint": "red (colour)"
+    },
+    {
+      "word": "ROPA",
+      "hint": "garment, clothing, clothes, robes"
+    },
+    {
+      "word": "RÁPIDO",
+      "hint": "rapid, quick, fast"
+    },
+    {
+      "word": "RÍO",
+      "hint": "river"
+    },
+    {
+      "word": "SABE",
+      "hint": "you know? (rhetorical question)"
+    },
+    {
+      "word": "SABEMOS",
+      "hint": "first-person plural present indicative of saber"
+    },
+    {
+      "word": "SABEN",
+      "hint": "third-person plural present indicative of saber"
+    },
+    {
+      "word": "SABER",
+      "hint": "to know, to understand (a fact); to know how to do something"
+    },
+    {
+      "word": "SABES",
+      "hint": "you know? (rhetorical question)"
+    },
+    {
+      "word": "SABÍA",
+      "hint": "first/third-person singular imperfect indicative of saber"
+    },
+    {
+      "word": "SACAR",
+      "hint": "to put out, to get out (e.g. a public statement, an APB, a release of media or entertainment); to take out (e.g. the trash)"
+    },
+    {
+      "word": "SALA",
+      "hint": "room (a separate part of a building); large hall"
+    },
+    {
+      "word": "SALE",
+      "hint": "ok"
+    },
+    {
+      "word": "SALIR",
+      "hint": "to go out, to leave, to depart, to head out; to go out, to come out (to leave one's abode to go to public places)"
+    },
+    {
+      "word": "SALIÓ",
+      "hint": "masculine plural of salio"
+    },
+    {
+      "word": "SALUD",
+      "hint": "health"
+    },
+    {
+      "word": "SAN",
+      "hint": "financial, temporal-savings scheme; the participants periodically contribute a quota to a communal pot that is given to one member, based on his/her turn amongst all the others"
+    },
+    {
+      "word": "SANGRE",
+      "hint": "blood"
+    },
+    {
+      "word": "SANTA",
+      "hint": "saintess; female equivalent of santo"
+    },
+    {
+      "word": "SE",
+      "hint": "A reflexive or reciprocal pronoun: oneself, himself, herself, itself, yourself; themselves; yourselves; each other; one another; A pronoun used with transitive verbs to create the"
+    },
+    {
+      "word": "SEA",
+      "hint": "inflection of ser"
+    },
+    {
+      "word": "SEAN",
+      "hint": "inflection of ser"
+    },
+    {
+      "word": "SEGUIR",
+      "hint": "to follow; to continue (on); to keep, to keep on (can be combined with the gerund to indicate that someone or something continues doing something)"
+    },
+    {
+      "word": "SEGUNDA",
+      "hint": "second gear; double meaning"
+    },
+    {
+      "word": "SEGUNDO",
+      "hint": "second (after the first)"
+    },
+    {
+      "word": "SEGURIDAD",
+      "hint": "safety, security; self-confidence"
+    },
+    {
+      "word": "SEGURO",
+      "hint": "secure; safe (free from danger); certain; sure; positive; definite (of being correct)"
+    },
+    {
+      "word": "SEGÚN",
+      "hint": "according to; as, just as, the same way"
+    },
+    {
+      "word": "SEIS",
+      "hint": "six"
+    },
+    {
+      "word": "SEMANA",
+      "hint": "week (7 days)"
+    },
+    {
+      "word": "SEMANAS",
+      "hint": "week (7 days)"
+    },
+    {
+      "word": "SENTIDO",
+      "hint": "deeply felt, heartfelt"
+    },
+    {
+      "word": "SENTIR",
+      "hint": "to feel; to regret, feel or be sorry"
+    },
+    {
+      "word": "SER",
+      "hint": "to be (essentially or identified as); to be (in the passive voice sense)"
+    },
+    {
+      "word": "SERIE",
+      "hint": "series (a number of things that follow one another); series (a television or radio program with several episodes)"
+    },
+    {
+      "word": "SERIO",
+      "hint": "serious, earnest, sober, solemn (without humor); serious, grave, deep (important, weighty)"
+    },
+    {
+      "word": "SERVICIO",
+      "hint": "service; public toilet"
+    },
+    {
+      "word": "SERÁ",
+      "hint": "third-person singular future indicative of ser"
+    },
+    {
+      "word": "SERÁN",
+      "hint": "third-person plural future indicative of ser"
+    },
+    {
+      "word": "SERÍA",
+      "hint": "first/third-person singular conditional of ser"
+    },
+    {
+      "word": "SEXO",
+      "hint": "sex (the biological category); sex (men or women)"
+    },
+    {
+      "word": "SEÑOR",
+      "hint": "mister, sir, lord (title conferred on a married or older male); gentleman"
+    },
+    {
+      "word": "SEÑORA",
+      "hint": "Ms; a title or form of address for a woman; formerly for a married, divorced, or widowed woman and now commonly for any adult woman regardless of marital status, depending on the"
     },
     {
       "word": "SI",
-      "hint": "if or yes"
+      "hint": "if, whether; points out a contradiction (and often implies that it's obvious or that it's easy to find out about)"
+    },
+    {
+      "word": "SIDO",
+      "hint": "masculine plural of sido"
+    },
+    {
+      "word": "SIEMPRE",
+      "hint": "always; in spite of it, still...at least"
+    },
+    {
+      "word": "SIENDO",
+      "hint": "gerund of ser"
+    },
+    {
+      "word": "SIENTE",
+      "hint": "inflection of sentar"
+    },
+    {
+      "word": "SIENTO",
+      "hint": "first-person singular present indicative of sentar"
+    },
+    {
+      "word": "SIETE",
+      "hint": "seven"
+    },
+    {
+      "word": "SIGNIFICA",
+      "hint": "inflection of significar"
+    },
+    {
+      "word": "SIGUE",
+      "hint": "inflection of seguir"
+    },
+    {
+      "word": "SIGUIENTE",
+      "hint": "following; next"
+    },
+    {
+      "word": "SILENCIO",
+      "hint": "silence; rest"
+    },
+    {
+      "word": "SIMPLE",
+      "hint": "simple (uncomplicated); mere, ordinary"
+    },
+    {
+      "word": "SIMPLEMENTE",
+      "hint": "simply"
+    },
+    {
+      "word": "SIN",
+      "hint": "without"
+    },
+    {
+      "word": "SINO",
+      "hint": "destiny, fate, lot"
+    },
+    {
+      "word": "SIQUIERA",
+      "hint": "at least, at the least; even"
+    },
+    {
+      "word": "SISTEMA",
+      "hint": "system; scheme (a systematic plan of future action; also, a group of independent but interrelated elements comprising a unified whole)"
+    },
+    {
+      "word": "SITIO",
+      "hint": "site, place; ellipsis of sitio web (“website”)"
+    },
+    {
+      "word": "SITUACIÓN",
+      "hint": "situation, scenario, picture; position (based on circumstance or the effect of another's actions)"
+    },
+    {
+      "word": "SOBRE",
+      "hint": "over, above, on, upon, atop; about"
+    },
+    {
+      "word": "SOCIEDAD",
+      "hint": "society, social order; high society"
     },
     {
       "word": "SOL",
-      "hint": "sun"
+      "hint": "sun; sunlight"
+    },
+    {
+      "word": "SOLA",
+      "hint": "feminine singular of solo"
+    },
+    {
+      "word": "SOLO",
+      "hint": "sole; one; only; single (unique); lonely, lonesome"
+    },
+    {
+      "word": "SOMOS",
+      "hint": "summit; peak"
+    },
+    {
+      "word": "SON",
+      "hint": "tone (pleasant sound); son (Afro-Cuban musical form)"
+    },
+    {
+      "word": "SOY",
+      "hint": "first-person singular present indicative of ser"
     },
     {
       "word": "SU",
-      "hint": "his or her"
+      "hint": "apocopic form of suyo"
+    },
+    {
+      "word": "SUELO",
+      "hint": "dirt, earth, ground, soil; floor, ground"
+    },
+    {
+      "word": "SUENA",
+      "hint": "inflection of sonar"
+    },
+    {
+      "word": "SUERTE",
+      "hint": "luck, fortune; lot, fate"
+    },
+    {
+      "word": "SUEÑO",
+      "hint": "sleep, slumber; sleepiness"
+    },
+    {
+      "word": "SUFICIENTE",
+      "hint": "sufficient, enough"
+    },
+    {
+      "word": "SUPONE",
+      "hint": "third-person singular present indicative of suponer"
+    },
+    {
+      "word": "SUPONGO",
+      "hint": "to suppose, to surmise, to assume, to guess, to imagine, to figure, to say, to take it; to presume, to expect"
+    },
+    {
+      "word": "SUPUESTO",
+      "hint": "supposed, self-styled, alleged"
+    },
+    {
+      "word": "SUR",
+      "hint": "south"
+    },
+    {
+      "word": "SUS",
+      "hint": "plural of su; one's, his, her, its, their (with plural possessee); your (with plural possessee)"
+    },
+    {
+      "word": "SÉ",
+      "hint": "first-person singular present indicative of saber; inflection of ser"
+    },
+    {
+      "word": "SÍ",
+      "hint": "yes, yeah, (used to respond affirmatively to a question, used both informally and formally); Used to give positive emphasis to a verb, which is often replaced. Functions similarly"
+    },
+    {
+      "word": "SÓLO",
+      "hint": "superseded spelling of solo"
+    },
+    {
+      "word": "TAL",
+      "hint": "such"
+    },
+    {
+      "word": "TAMBIÉN",
+      "hint": "also, too, as well; so"
+    },
+    {
+      "word": "TAMPOCO",
+      "hint": "neither; nor; also not; either (as well, with implied negative)"
+    },
+    {
+      "word": "TAN",
+      "hint": "so, as; very"
+    },
+    {
+      "word": "TANTO",
+      "hint": "so much; as much; that much; so many, as many, that many"
+    },
+    {
+      "word": "TARDE",
+      "hint": "late (after a specified deadline); late in the day"
+    },
+    {
+      "word": "TE",
+      "hint": "The name of the Latin script letter T/t."
+    },
+    {
+      "word": "TELÉFONO",
+      "hint": "telephone (a telecommunication device used for two-way talking with another person); telephone number (the sequence of digits used to identify a particular destination telephone"
+    },
+    {
+      "word": "TEMA",
+      "hint": "theme; plot (of a book, film or other media); topic; matter; subject"
+    },
+    {
+      "word": "TENDRÁ",
+      "hint": "third-person singular future indicative of tener"
+    },
+    {
+      "word": "TENEMOS",
+      "hint": "first-person plural present indicative of tener"
+    },
+    {
+      "word": "TENER",
+      "hint": "to have; to possess; to have; to possess; to be (a condition or quality)"
+    },
+    {
+      "word": "TENGA",
+      "hint": "inflection of tener"
+    },
+    {
+      "word": "TENGO",
+      "hint": "first-person singular present indicative of tener"
+    },
+    {
+      "word": "TENIDO",
+      "hint": "masculine plural of tenido"
+    },
+    {
+      "word": "TENÍA",
+      "hint": "first/third-person singular imperfect indicative of tener"
+    },
+    {
+      "word": "TENÍAN",
+      "hint": "third-person plural imperfect indicative of tener"
+    },
+    {
+      "word": "TERMINAR",
+      "hint": "to (cause to) finish, to (cause to) end, to (cause to) terminate, to (cause to) conclude; to finish, to end, to terminate, to be over, to conclude (of a thing)"
+    },
+    {
+      "word": "THE",
+      "hint": ""
+    },
+    {
+      "word": "TI",
+      "hint": "prepositional of tú"
+    },
+    {
+      "word": "TIEMPO",
+      "hint": "time; a while, period of time, long time, length of time, indeterminate amount of time"
+    },
+    {
+      "word": "TIENE",
+      "hint": "third-person singular present indicative of tener"
+    },
+    {
+      "word": "TIENEN",
+      "hint": "third-person plural present indicative of tener"
+    },
+    {
+      "word": "TIENES",
+      "hint": "second-person singular present indicative of tener"
+    },
+    {
+      "word": "TIERRA",
+      "hint": "Earth (planet of the Solar System in which all of humanity resides); land, ground (Earth surface not covered by oceans or other bodies of water)"
+    },
+    {
+      "word": "TIPO",
+      "hint": "kind, type, sort, manner; rate, interest rate"
+    },
+    {
+      "word": "TIPOS",
+      "hint": "masculine plural of tipo"
+    },
+    {
+      "word": "TODA",
+      "hint": "feminine singular of todo"
+    },
+    {
+      "word": "TODAS",
+      "hint": "feminine plural of todo"
+    },
+    {
+      "word": "TODAVÍA",
+      "hint": "still, yet; even, still"
+    },
+    {
+      "word": "TODO",
+      "hint": "all; every; each; every"
+    },
+    {
+      "word": "TODOS",
+      "hint": "masculine plural of todo"
+    },
+    {
+      "word": "TOMA",
+      "hint": "conquest, capture, taking, takeover; dose, serving"
+    },
+    {
+      "word": "TOMAR",
+      "hint": "to take (put under one's physical or mental control, often in one's hands); to grip, grasp, grab"
+    },
+    {
+      "word": "TOTAL",
+      "hint": "total, complete, outright"
+    },
+    {
+      "word": "TOTALMENTE",
+      "hint": "totally"
+    },
+    {
+      "word": "TRABAJANDO",
+      "hint": "gerund of trabajar"
+    },
+    {
+      "word": "TRABAJAR",
+      "hint": "to work; to work in, work on, to workshop (+ en)"
+    },
+    {
+      "word": "TRABAJO",
+      "hint": "work, job; work"
+    },
+    {
+      "word": "TRAS",
+      "hint": "after, following, in the wake of; upon; behind (on the far side of)"
+    },
+    {
+      "word": "TRATA",
+      "hint": "trafficking, trade, slave trade"
+    },
+    {
+      "word": "TRAVÉS",
+      "hint": "bend, turn"
+    },
+    {
+      "word": "TRES",
+      "hint": "three"
     },
     {
       "word": "TU",
-      "hint": "your"
+      "hint": "apocopic form of tuyo, your"
+    },
+    {
+      "word": "TUS",
+      "hint": "plural of tu"
+    },
+    {
+      "word": "TUVE",
+      "hint": "first-person singular preterite indicative of tener"
+    },
+    {
+      "word": "TUVO",
+      "hint": "third-person singular preterite indicative of tener"
+    },
+    {
+      "word": "TÚ",
+      "hint": "you (second-person singular pronoun)"
     },
     {
       "word": "UN",
-      "hint": "a or one"
+      "hint": "an; a"
     },
     {
       "word": "UNA",
-      "hint": "a or one"
+      "hint": "feminine of uno"
+    },
+    {
+      "word": "UNAS",
+      "hint": "feminine plural of un"
+    },
+    {
+      "word": "UNIDOS",
+      "hint": "masculine plural of unido"
+    },
+    {
+      "word": "UNIVERSIDAD",
+      "hint": "university, (US) college"
+    },
+    {
+      "word": "UNO",
+      "hint": "one"
+    },
+    {
+      "word": "UNOS",
+      "hint": "masculine plural of un"
+    },
+    {
+      "word": "USAR",
+      "hint": "to use; to wear"
+    },
+    {
+      "word": "USO",
+      "hint": "use; usage; habit"
+    },
+    {
+      "word": "USTED",
+      "hint": "second person formal; you (singular); Equatorial Guinea, informal) second person informal; you (singular)"
+    },
+    {
+      "word": "USTEDES",
+      "hint": "(Latin America, US, Canary Islands, Western Andalusia, Equatorial Guinea, Philippines, in Spain formal) you (plural), you guys, y'all, yous, yinz, ye"
+    },
+    {
+      "word": "VA",
+      "hint": "third-person singular present indicative of ir"
+    },
+    {
+      "word": "VALE",
+      "hint": "a voucher; an IOU"
+    },
+    {
+      "word": "VALOR",
+      "hint": "value (all senses) (clarification of this definition is needed); security"
+    },
+    {
+      "word": "VAMOS",
+      "hint": "let's go!; come on! (not in the disbelief sense)"
+    },
+    {
+      "word": "VAN",
+      "hint": "van (vehicle)"
+    },
+    {
+      "word": "VARIOS",
+      "hint": "various, several"
+    },
+    {
+      "word": "VAS",
+      "hint": "inflection of ir"
+    },
+    {
+      "word": "VAYA",
+      "hint": "expresses surprise: wow!, why, oh!, whoa!, well!, man!, boy!; expresses dismay, worry, indignation or frustration: gee!, jeez!, gosh!, why, man!, oh dear!"
+    },
+    {
+      "word": "VE",
+      "hint": "The name of the Latin script letter V/v."
+    },
+    {
+      "word": "VECES",
+      "hint": "by, times (multiplication)"
+    },
+    {
+      "word": "VEMOS",
+      "hint": "first-person plural present indicative of ver"
+    },
+    {
+      "word": "VEN",
+      "hint": "second-person singular imperative of venir"
+    },
+    {
+      "word": "VENGA",
+      "hint": "A cheer or expression of support, encouragement, etc.; come on, attaboy; An expression of amazement or surprise; wow, whoa"
+    },
+    {
+      "word": "VENIR",
+      "hint": "Senses relating to literal movement. [with de ‘from’ or desde ‘from’, along with a ‘to’ or para ‘to, toward’ or hacia ‘toward’]; Figurative senses."
+    },
+    {
+      "word": "VEO",
+      "hint": "first-person singular present indicative of ver"
+    },
+    {
+      "word": "VER",
+      "hint": "to see, to spot; to see, to look at, to view (perceive)"
+    },
+    {
+      "word": "VERDAD",
+      "hint": "truth; fact"
+    },
+    {
+      "word": "VERDADERO",
+      "hint": "true, real; honest"
     },
     {
       "word": "VERDE",
-      "hint": "green"
+      "hint": "green (color/colour); green, eco-friendly"
+    },
+    {
+      "word": "VES",
+      "hint": "evening"
+    },
+    {
+      "word": "VEZ",
+      "hint": "time, instance; place (in a queue)"
+    },
+    {
+      "word": "VI",
+      "hint": "winegrower"
+    },
+    {
+      "word": "VIAJE",
+      "hint": "voyage; journey, trip"
+    },
+    {
+      "word": "VIDA",
+      "hint": "life; lifestyle"
+    },
+    {
+      "word": "VIEJA",
+      "hint": "female equivalent of viejo; hag"
+    },
+    {
+      "word": "VIEJO",
+      "hint": "old (having existed for a long time); old (having lived for many years)"
+    },
+    {
+      "word": "VIENDO",
+      "hint": "gerund of ver"
+    },
+    {
+      "word": "VIENE",
+      "hint": "apocopic form of viene"
+    },
+    {
+      "word": "VINO",
+      "hint": "wine (an alcoholic beverage made by fermenting grape juice, with an ABV ranging from 5.5–16%)"
+    },
+    {
+      "word": "VIO",
+      "hint": "third-person singular preterite indicative of ver"
+    },
+    {
+      "word": "VISTA",
+      "hint": "sight, vision, eyesight (the ability to see); sight (the act of seeing or witnessing)"
+    },
+    {
+      "word": "VISTO",
+      "hint": "seen; obvious, clear"
+    },
+    {
+      "word": "VIVE",
+      "hint": "inflection of vivar; inflection of vivir"
+    },
+    {
+      "word": "VIVIR",
+      "hint": "to live; to be alive; to make a living, to live on"
+    },
+    {
+      "word": "VIVO",
+      "hint": "alive, living (having life); vivid, lively"
+    },
+    {
+      "word": "VOLVER",
+      "hint": "to return, to revert, to get back; to come back, go back"
+    },
+    {
+      "word": "VOS",
+      "hint": "(Argentina, Uruguay, Paraguay, Bolivia, Chile, Central America, Chiapas, Zulia, parts of Colombia, Ecuador, Peru and the Philippines) you, familiar form of the second-person"
+    },
+    {
+      "word": "VOY",
+      "hint": "first-person singular present indicative of ir"
+    },
+    {
+      "word": "VOZ",
+      "hint": "voice; term; word"
+    },
+    {
+      "word": "VUELTA",
+      "hint": "turn; return"
+    },
+    {
+      "word": "VUELVE",
+      "hint": "turnstone (bird)"
+    },
+    {
+      "word": "YA",
+      "hint": "now, right now, (in the negative) anymore, no longer; indicates completion of an action (difference from sense 4 depends on context)"
     },
     {
       "word": "YO",
-      "hint": "I"
+      "hint": "first-person singular pronoun in the nominative case; I"
+    },
+    {
+      "word": "YORK",
+      "hint": ""
+    },
+    {
+      "word": "ZONA",
+      "hint": "zone, district, area"
+    },
+    {
+      "word": "ÉL",
+      "hint": "he, him, masculine personal third person subject and disjunctive pronoun (used as a subject and after prepositions); it, masculine non-personal third-person subject and"
+    },
+    {
+      "word": "ÉSTA",
+      "hint": "feminine singular of éste"
+    },
+    {
+      "word": "ÉSTE",
+      "hint": "this one; substitutes a noun one can't remember or can't remember the name of"
+    },
+    {
+      "word": "ÉXITO",
+      "hint": "success; hit (something popular or well received)"
+    },
+    {
+      "word": "ÚLTIMA",
+      "hint": "feminine singular of último"
+    },
+    {
+      "word": "ÚLTIMO",
+      "hint": "final; last; latest; most recent"
+    },
+    {
+      "word": "ÚLTIMOS",
+      "hint": "masculine plural of último"
+    },
+    {
+      "word": "ÚNICA",
+      "hint": "feminine singular of único"
+    },
+    {
+      "word": "ÚNICO",
+      "hint": "only; single; sole; unique, one-of-a-kind"
     }
   ]
 }

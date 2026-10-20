@@ -24,6 +24,8 @@ const (
 	LanguageGerman  Language = "de"
 	LanguageSpanish Language = "es"
 	LanguageFrench  Language = "fr"
+	LanguageItalian Language = "it"
+	LanguageRussian Language = "ru"
 )
 
 var Languages = []Language{
@@ -32,11 +34,13 @@ var Languages = []Language{
 	LanguageGerman,
 	LanguageSpanish,
 	LanguageFrench,
+	LanguageItalian,
+	LanguageRussian,
 }
 
 func (language Language) Valid() bool {
 	switch language {
-	case LanguageDutch, LanguageEnglish, LanguageGerman, LanguageSpanish, LanguageFrench:
+	case LanguageDutch, LanguageEnglish, LanguageGerman, LanguageSpanish, LanguageFrench, LanguageItalian, LanguageRussian:
 		return true
 	default:
 		return false
@@ -55,6 +59,10 @@ func (language Language) Name() string {
 		return "Spanish"
 	case LanguageFrench:
 		return "French"
+	case LanguageItalian:
+		return "Italian"
+	case LanguageRussian:
+		return "Russian"
 	default:
 		return string(language)
 	}

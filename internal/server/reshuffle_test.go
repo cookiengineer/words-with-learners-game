@@ -1,8 +1,10 @@
 package server
 
 import (
+	"encoding/json"
 	"io/fs"
 	"testing"
+	"testing/fstest"
 	"time"
 
 	app "github.com/cookiengineer/words-with-learners-app"
@@ -11,6 +13,56 @@ import (
 	"github.com/cookiengineer/words-with-learners-app/internal/game"
 	"github.com/cookiengineer/words-with-learners-app/internal/store"
 )
+
+type overlayFS struct {
+	base    fs.FS
+	overlay fs.FS
+}
+
+func (value overlayFS) Open(name string) (fs.File, error) {
+	if _, err := fs.Stat(value.overlay, name); err == nil {
+		return value.overlay.Open(name)
+	}
+	return value.base.Open(name)
+}
+
+func loadReplayEnglish(t *testing.T) *dictionary.Dictionary {
+	t.Helper()
+	root, err := fs.Sub(app.Files, "dictionaries")
+	if err != nil {
+		t.Fatal(err)
+	}
+	payload := dictionary.WordFile{
+		SchemaVersion: 1,
+		Language:      game.LanguageEnglish,
+		Level:         game.LevelA1,
+		Words: []dictionary.WordEntry{
+			{Word: "QI", Hint: "life force"},
+			{Word: "QAT", Hint: "a plant"},
+			{Word: "QUIT", Hint: "to leave"},
+			{Word: "QUIZ", Hint: "a test"},
+			{Word: "QUAD", Hint: "a courtyard"},
+			{Word: "QUEST", Hint: "a search"},
+			{Word: "QUILT", Hint: "a blanket"},
+		},
+	}
+	raw, err := json.Marshal(payload)
+	if err != nil {
+		t.Fatal(err)
+	}
+	overlay := fstest.MapFS{
+		"en/a1.json": &fstest.MapFile{Data: raw},
+	}
+	library, err := dictionary.LoadLibrary(overlayFS{base: root, overlay: overlay})
+	if err != nil {
+		t.Fatal(err)
+	}
+	dict, err := library.Get(game.LanguageEnglish, game.LevelA1)
+	if err != nil {
+		t.Fatal(err)
+	}
+	return dict
+}
 
 func loadEnglish(t *testing.T) *dictionary.Dictionary {
 	t.Helper()
@@ -164,7 +216,7 @@ func findTestMove(value *game.Game, dict *dictionary.Dictionary) []game.Placemen
 }
 
 func TestReplayWithAutoReshuffle(t *testing.T) {
-	dict := loadEnglish(t)
+	dict := loadReplayEnglish(t)
 	var value *game.Game
 	for seed := int64(1); seed < 400; seed++ {
 		config := game.Config{

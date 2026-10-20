@@ -148,8 +148,18 @@
       "count": 2
     },
     {
-      "letter": "ß",
+      "letter": "ẞ",
       "value": 3,
+      "count": 1
+    },
+    {
+      "letter": "Ç",
+      "value": 4,
+      "count": 1
+    },
+    {
+      "letter": "É",
+      "value": 2,
       "count": 1
     }
   ],

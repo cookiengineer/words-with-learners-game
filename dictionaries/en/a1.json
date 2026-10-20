@@ -4,188 +4,3600 @@
   "level": "A1",
   "words": [
     {
+      "word": "ABOUT",
+      "hint": "In a circle around; all round; on every side of; on the outside of; around. [from before 1150]; Over or upon different parts of; through or over in various directions; here and"
+    },
+    {
+      "word": "ABOVE",
+      "hint": "Physically over; on top of; worn on top of, said of clothing. [first attested before 1150.]; In or to a higher place; higher than; on or over the upper surface. [first attested"
+    },
+    {
+      "word": "ACCORD",
+      "hint": "Agreement of opinion, will, or action.; Agreement in pitch and tone; harmony, musical concord."
+    },
+    {
+      "word": "ACTION",
+      "hint": "The effort of performing or doing something.; Something done, often so as to accomplish a purpose."
+    },
+    {
+      "word": "ACTIVITY",
+      "hint": "The state or quality of being active; activeness.; Something done as an action or a movement."
+    },
+    {
+      "word": "ACTOR",
+      "hint": "Someone who institutes a legal suit; a plaintiff or complainant. [13th–19th c.]; Someone acting on behalf of someone else; a guardian. [14th–18th c.]"
+    },
+    {
+      "word": "ADD",
+      "hint": "To join or unite (e.g. one thing to another, or as several particulars) so as to increase the number, augment the quantity, or enlarge the magnitude, or so as to form into one"
+    },
+    {
+      "word": "ADDRESS",
+      "hint": "Direction.; Preparation."
+    },
+    {
+      "word": "AFRAID",
+      "hint": "Impressed with fear or apprehension; in fear.; Regretful, sorry; expressing a reluctance to face an unpleasant situation. [with that (+ clause) or clause; or with so or not]"
+    },
+    {
+      "word": "AFTER",
+      "hint": "Behind; later in time; following."
+    },
+    {
+      "word": "AFTERNOON",
+      "hint": "The part of the day from noon or lunchtime until sunset, evening, or suppertime or 6pm.; The later part of anything, often with implications of decline."
+    },
+    {
+      "word": "AGAIN",
+      "hint": "Another time: indicating a repeat of an action. [from 14c.]; Back (to a former place or state). [from 11c.]"
+    },
+    {
+      "word": "AGE",
+      "hint": "The amount of time that some being has been alive, or that some thing has been in existence, as measured from its birth or origin until the present or until some other given"
+    },
+    {
+      "word": "AGO",
+      "hint": "Before now, before the present time"
+    },
+    {
+      "word": "AGREE",
+      "hint": "To be in harmony about an opinion, statement, or action; to have a consistent idea between two or more people.; To give assent; to accede."
+    },
+    {
+      "word": "AIRPORT",
+      "hint": "An airfield (an area designated for the takeoff and landing of aircraft), including one or more runways and (for commercial airports) one or more passenger terminals."
+    },
+    {
+      "word": "ALBUM",
+      "hint": "In Ancient Rome, a white tablet or register on which the praetor's edicts and other public notices were recorded.; A book specially designed to keep photographs, stamps, or"
+    },
+    {
+      "word": "ALL",
+      "hint": "Every individual or anything of the given class, with no exceptions (the noun or noun phrase denoting the class must be plural or uncountable).; Throughout the whole of (a stated"
+    },
+    {
+      "word": "ALMOST",
+      "hint": "Very close to, but not quite.; Up to, except for a negligible set (where negligible is not universally but contextually defined)."
+    },
+    {
+      "word": "ALONE",
+      "hint": "By oneself, solitary.; Lacking peers who share one's beliefs, experiences, practices, etc."
+    },
+    {
+      "word": "ALONG",
+      "hint": "By the length of; in a line with the length of; lengthwise next to.; In a line with, with a progressive motion on; onward on; forward on."
+    },
+    {
+      "word": "ALREADY",
+      "hint": "Prior to some specified time, either past, present, or future; by this time; previously.; So soon."
+    },
+    {
+      "word": "ALSO",
+      "hint": "In addition; besides; as well; further; too. [from 14 c.]; To the same degree or extent; so, as."
+    },
+    {
+      "word": "ALWAYS",
+      "hint": "At all times; throughout all time; since the beginning.; Constantly during a certain period, or regularly at stated intervals (opposed to sometimes or occasionally)."
+    },
+    {
       "word": "AN",
-      "hint": "a or an"
+      "hint": "A set of sizes for screw threads agreed upon and jointly used by the United States Army and Navy."
+    },
+    {
+      "word": "AND",
+      "hint": "As a coordinating conjunction; expressing two elements to be taken together or in addition to each other.; Expressing a condition."
+    },
+    {
+      "word": "ANGRY",
+      "hint": "Displaying or feeling anger.; Inflamed and painful."
+    },
+    {
+      "word": "ANIMAL",
+      "hint": "A multicellular organism of the kingdom Animalia that is usually mobile, with cells that are not encased in a rigid cell wall (distinguishing them from plants and fungi) and"
+    },
+    {
+      "word": "ANOTHER",
+      "hint": "One more further, in addition to the quantity by then; a second or additional one, similar in likeness or in effect.; Not the same; different."
+    },
+    {
+      "word": "ANSWER",
+      "hint": "A response or reply; something said or done in reaction to a statement or question.; A solution to a problem."
+    },
+    {
+      "word": "ANY",
+      "hint": "To even the slightest extent; at all."
+    },
+    {
+      "word": "ANYBODY",
+      "hint": "Any one out of an indefinite number of persons; anyone; any person.; A person of some consideration or standing."
+    },
+    {
+      "word": "ANYONE",
+      "hint": "Any person; anybody."
+    },
+    {
+      "word": "ANYTHING",
+      "hint": "Any object, act, state, event, or fact whatsoever; a thing of any kind; something or other.; Expressing an indefinite comparison."
+    },
+    {
+      "word": "APPLE",
+      "hint": "A common, firm, round fruit produced by a tree of the genus Malus.; A tree of the genus Malus; especially Malus domestica which is cultivated for its edible fruit; the apple tree."
+    },
+    {
+      "word": "APRIL",
+      "hint": "To prank on April Fool's Day."
+    },
+    {
+      "word": "ARM",
+      "hint": "The portion of the upper human appendage, from the shoulder to the wrist and sometimes including the hand.; The extended portion of the upper limb, from the shoulder to the elbow."
+    },
+    {
+      "word": "AROUND",
+      "hint": "Forming a circle or closed curve containing (something).; Centred upon; surrounding; regarding."
+    },
+    {
+      "word": "ARRIVE",
+      "hint": "To reach; to get to a certain place.; To obtain a level of success or fame; to succeed."
+    },
+    {
+      "word": "ART",
+      "hint": "The conscious production or arrangement of sounds, colours, forms, movements, or other elements in a manner that affects the senses and emotions, usually specifically the"
+    },
+    {
+      "word": "ARTICLE",
+      "hint": "A piece of nonfiction writing such as a story, report, opinion piece, or entry in a newspaper, magazine, journal, encyclopedia, etc.; An object, a member of a group or class."
     },
     {
       "word": "AS",
-      "hint": "like or because"
+      "hint": "To such an extent or degree; to the same extent or degree.; Considered to be, in relation to something else; in the relation (specified)."
+    },
+    {
+      "word": "ASK",
+      "hint": "To request or petition.; To put forward (a question) to be answered."
     },
     {
       "word": "AT",
-      "hint": "at"
+      "hint": "In, near, or in the general vicinity of (a particular place).; Present or taking place during (an event)."
+    },
+    {
+      "word": "AUGUST",
+      "hint": "Awe-inspiring, majestic, noble, venerable.; Of noble birth."
+    },
+    {
+      "word": "AUNT",
+      "hint": "The sister or sister-in-law of one’s parent.; The female cousin or cousin-in-law of one’s parent."
+    },
+    {
+      "word": "AWAY",
+      "hint": "From a place, hence.; Aside; off; in another direction."
+    },
+    {
+      "word": "BABY",
+      "hint": "A very young human, particularly from birth to a couple of years old or until walking is fully mastered.; Any very young animal, especially a vertebrate; many species have"
+    },
+    {
+      "word": "BACK",
+      "hint": "At or near the rear.; Returned or restored to a previous place or condition."
+    },
+    {
+      "word": "BAD",
+      "hint": "Of low quality.; Inaccurate; incorrect"
+    },
+    {
+      "word": "BAG",
+      "hint": "A soft container made out of cloth, paper, thin plastic, etc. and open at the top, used to hold food, commodities, and other goods.; A container made of leather, plastic, or other"
+    },
+    {
+      "word": "BALL",
+      "hint": "A solid or hollow sphere, or roughly spherical mass.; Homologue or analogue of a disk in the Euclidean plane."
+    },
+    {
+      "word": "BAND",
+      "hint": "A strip of material used for strengthening or coupling.; A long strip of material, color, etc, that is different from the surrounding area."
+    },
+    {
+      "word": "BANK",
+      "hint": "An institution where one can place and borrow money and take care of financial affairs.; A branch office of such an institution."
+    },
+    {
+      "word": "BAR",
+      "hint": "A solid, more or less rigid object of metal or wood with a uniform cross-section smaller than its length.; A solid metal object with uniform (round, square, hexagonal, octagonal"
+    },
+    {
+      "word": "BASEBALL",
+      "hint": "A sport common in North America, the Caribbean, and East Asia, in which the objective is to strike a ball so that one of a nine-person team can run counter-clockwise among four"
+    },
+    {
+      "word": "BASKETBALL",
+      "hint": "A sport in which two opposing teams of five players strive to put a ball through a hoop.; The particular kind of ball used in the sport of basketball."
+    },
+    {
+      "word": "BAT",
+      "hint": "Any flying mammal of the order Chiroptera, usually small and nocturnal, insectivorous or frugivorous.; An old woman."
+    },
+    {
+      "word": "BATH",
+      "hint": "A tub or pool which is used for bathing: bathtub.; A building or area where bathing occurs."
+    },
+    {
+      "word": "BATHROOM",
+      "hint": "A room containing a shower or bathtub, and (typically but not necessarily) a toilet.; A lavatory: a room containing a toilet and (typically but not necessarily) a bathtub."
     },
     {
       "word": "BE",
-      "hint": "to exist"
+      "hint": "As an auxiliary verb; As a copulative verb"
+    },
+    {
+      "word": "BEACH",
+      "hint": "The shore of a body of water, especially when sandy or pebbly.; A horizontal strip of land, usually sandy, adjoining water."
+    },
+    {
+      "word": "BEAR",
+      "hint": "A large, generally omnivorous mammal (a few species are purely carnivorous or herbivorous) of the family Ursidae; having shaggy fur, a very small tail, and flat feet.; A rough,"
+    },
+    {
+      "word": "BEAUTIFUL",
+      "hint": "Possessing beauty, impressing the eye; attractive. [from 1520s]; That one likes very much."
+    },
+    {
+      "word": "BECAUSE",
+      "hint": "By or for the cause that; on this account that; for the reason that.; As is known, inferred, or determined from the fact that."
+    },
+    {
+      "word": "BECOME",
+      "hint": "begin to be; turn into (often with permanent states). [from 12th c.]; To come about; happen; come into being; arise. [from 12th c.]"
+    },
+    {
+      "word": "BED",
+      "hint": "A piece of furniture, usually flat and soft, on which to rest or sleep.; A place, or flat surface or layer, on which something else rests or is laid."
+    },
+    {
+      "word": "BEDROOM",
+      "hint": "A room in a house, apartment, hotel, or other dwelling where a bed is kept for sleeping.; The location of sexual activity."
+    },
+    {
+      "word": "BEEF",
+      "hint": "The meat from cattle or other bovines; especially, that from adults.; Bovine animals."
+    },
+    {
+      "word": "BEFORE",
+      "hint": "Earlier than (in time).; In front of in space."
+    },
+    {
+      "word": "BEGIN",
+      "hint": "To start, to initiate or take the first step into something.; To come into existence."
+    },
+    {
+      "word": "BEHIND",
+      "hint": "At or to the back or far side of.; Less forward or advanced than; after."
+    },
+    {
+      "word": "BELIEVE",
+      "hint": "To accept as true, particularly without absolute certainty (i.e., as opposed to knowing).; To accept that someone is telling the truth."
+    },
+    {
+      "word": "BELL",
+      "hint": "A percussive instrument made of metal or other hard material, typically but not always in the shape of an inverted cup with a flared rim, which resonates when struck.; An"
+    },
+    {
+      "word": "BELOW",
+      "hint": "Lower in spatial position than.; Lower than in value, price, rank, concentration, etc."
+    },
+    {
+      "word": "BEST",
+      "hint": "superlative form of good: most good.; Most; largest."
+    },
+    {
+      "word": "BETTER",
+      "hint": "comparative degree of good and well; Greater in amount or quantity"
+    },
+    {
+      "word": "BETWEEN",
+      "hint": "In the position or interval that separates (two things), or intermediate in quantity or degree. (See Usage notes below.); Done together or reciprocally."
     },
     {
       "word": "BIG",
-      "hint": "large"
+      "hint": "A biological insulation garment; an air-tight, full-body suit intended to prevent the spread of contaminants."
+    },
+    {
+      "word": "BIKE",
+      "hint": "Clipping of bicycle.; Clipping of motorbike."
+    },
+    {
+      "word": "BIRD",
+      "hint": "An animal of the clade (traditionally class) Aves in the phylum Chordata, characterized by being warm-blooded, having feathers and wings usually capable of flight, having a beaked"
+    },
+    {
+      "word": "BIRTH",
+      "hint": "The process of childbearing; the beginning of life; the emergence of a human baby or other viviparous animal offspring from the mother's body into the environment.; An instance of"
+    },
+    {
+      "word": "BIRTHDAY",
+      "hint": "The anniversary of the day on which someone is born. [from 1570s]; The anniversary of the day on which something is created."
+    },
+    {
+      "word": "BLACK",
+      "hint": "Absorbing all light and reflecting none; dark and hueless.; Without light."
+    },
+    {
+      "word": "BLOCK",
+      "hint": "A substantial, often approximately cuboid, piece of any substance.; A physical area or extent of something, often rectangular or approximately rectangular."
+    },
+    {
+      "word": "BLOW",
+      "hint": "To produce an air current.; To propel by an air current (or, if under water, a water current), usually with the mouth."
     },
     {
       "word": "BLUE",
-      "hint": "color of the sky"
+      "hint": "Of a blue hue.; Depressed, melancholic, sad."
+    },
+    {
+      "word": "BOARD",
+      "hint": "A relatively long, wide and thin piece of any material, usually wood or similar, often for use in construction or furniture-making.; A device (e.g., switchboard) containing"
+    },
+    {
+      "word": "BOAT",
+      "hint": "Vessel for travelling by water."
+    },
+    {
+      "word": "BODY",
+      "hint": "Physical frame.; Main section."
+    },
+    {
+      "word": "BONE",
+      "hint": "A composite material consisting largely of calcium phosphate and collagen and making up the skeleton of most vertebrates.; Any of the components of an endoskeleton, made of this"
     },
     {
       "word": "BOOK",
-      "hint": "pages to read"
+      "hint": "A collection of sheets of paper bound together to hinge at one edge, containing printed or written material, pictures, etc.; A long work fit for publication, typically prose, such"
+    },
+    {
+      "word": "BORING",
+      "hint": "The act or process of boring holes; such practice as an area of expertise in manufacturing.; A pit or hole which has been bored."
+    },
+    {
+      "word": "BORN",
+      "hint": "past participle of bear; given birth to.; past participle of bear in other senses."
+    },
+    {
+      "word": "BOTH",
+      "hint": "Each of the two; one and the other; referring to two individuals or items."
+    },
+    {
+      "word": "BOTTLE",
+      "hint": "A container, typically made of glass or plastic and having a tapered neck, used primarily for holding liquids.; The contents of such a container."
+    },
+    {
+      "word": "BOTTOM",
+      "hint": "The lowest part of anything.; The remotest or innermost part of something."
+    },
+    {
+      "word": "BOWL",
+      "hint": "A roughly hemispherical container used to hold, mix, prepare or present food, such as salad, fruit or soup, or other items.; The round hollow part of anything; anything shaped"
+    },
+    {
+      "word": "BOX",
+      "hint": "Senses relating to a three-dimensional object or space.; Senses relating to a two-dimensional object or space"
+    },
+    {
+      "word": "BOY",
+      "hint": "A male child. [from 15th c.]; A young man."
+    },
+    {
+      "word": "BOYFRIEND",
+      "hint": "A male partner in an unmarried romantic relationship.; A male friend."
+    },
+    {
+      "word": "BRAIN",
+      "hint": "The control center of the central nervous system of an animal located in the skull, consisting of the cerebrum, cerebellum, and brainstem, which is responsible for perception,"
     },
     {
       "word": "BREAD",
-      "hint": "food made from flour"
+      "hint": "Any variety of bread.; Money."
+    },
+    {
+      "word": "BREAK",
+      "hint": "To separate into two or more pieces, to fracture or crack, by a process that cannot easily be reversed for reassembly.; To cause (a person or animal) to lose spirit or will; to"
+    },
+    {
+      "word": "BREAKFAST",
+      "hint": "The first meal of the day, usually eaten in the morning.; A meal consisting of food normally eaten in the morning, which may typically include eggs, sausages, toast, bacon, etc."
+    },
+    {
+      "word": "BREATHE",
+      "hint": "To draw air into (inhale), and expel air from (exhale), the lungs in order to extract oxygen and excrete waste gases.; To take in needed gases and expel waste gases in a similar"
+    },
+    {
+      "word": "BRIDGE",
+      "hint": "A construction or natural feature that spans a divide.; An arch or superstructure."
+    },
+    {
+      "word": "BRIGHT",
+      "hint": "Emitting much light; visually dazzling; luminous, lucent, radiant.; Of light: brilliant, intense."
+    },
+    {
+      "word": "BRING",
+      "hint": "To transport toward somebody/somewhere.; To supply or contribute."
+    },
+    {
+      "word": "BROKE",
+      "hint": "simple past of break; past participle of break"
+    },
+    {
+      "word": "BROKEN",
+      "hint": "In a broken manner.; with gaps between words so that normal flow or fluency is affected, as due to emotion; disjointedly."
+    },
+    {
+      "word": "BROTHER",
+      "hint": "Son of the same parents as another person.; A male having at least one parent in common with another person (see half-brother, stepbrother)."
+    },
+    {
+      "word": "BROWN",
+      "hint": "A colour like that of chocolate or coffee.; One of the colour balls used in snooker, with a value of 4 points."
+    },
+    {
+      "word": "BUILD",
+      "hint": "To form (something) by combining materials or parts.; To develop or give form to (something) according to a plan or process."
+    },
+    {
+      "word": "BUILDING",
+      "hint": "The act or process by which something is built; construction.; A closed structure with walls and a roof."
+    },
+    {
+      "word": "BUS",
+      "hint": "A motor vehicle for transporting large numbers of people along roads.; Any motorized vehicle, such as a motorbike or car."
+    },
+    {
+      "word": "BUSINESS",
+      "hint": "A specific commercial enterprise or establishment.; A person's occupation, work, or trade."
+    },
+    {
+      "word": "BUSY",
+      "hint": "Crowded with business or activities; having a great deal going on.; Engaged with or preoccupied by an activity or person."
+    },
+    {
+      "word": "BUT",
+      "hint": "Apart from, except (for), excluding.; Outside of."
+    },
+    {
+      "word": "BUTTER",
+      "hint": "A soft, fatty foodstuff made by churning the cream of milk (generally cow's milk).; Any of various foodstuffs made from other foods or oils, similar in consistency to, eaten like"
+    },
+    {
+      "word": "BUTTON",
+      "hint": "A knob or disc that is passed through a loop or (buttonhole), serving as a fastener. [from mid-13th c.]; A mechanical device designed to be pressed with a finger in order to open"
+    },
+    {
+      "word": "BUY",
+      "hint": "To obtain (something) in exchange for money or goods.; To obtain, especially by some sacrifice."
     },
     {
       "word": "BY",
-      "hint": "next to"
+      "hint": "Near or next to.; From one side of something to the other, passing close by; past."
+    },
+    {
+      "word": "BYE",
+      "hint": "The position of a person or team in a tournament or competition who draws no opponent in a particular round so advances to the next round unopposed, or is awarded points for a win"
+    },
+    {
+      "word": "CAKE",
+      "hint": "A rich, sweet dessert food, typically made of flour, sugar, and eggs and baked in an oven, and often covered in icing.; A small mass of baked dough, especially a thin loaf from"
+    },
+    {
+      "word": "CALL",
+      "hint": "To reach out with one's voice.; To visit."
+    },
+    {
+      "word": "CAMERA",
+      "hint": "A device for taking still or moving pictures or photographs.; The viewpoint in a three-dimensional game or simulation."
+    },
+    {
+      "word": "CAMP",
+      "hint": "An outdoor place acting as temporary accommodation in tents or other simple structures.; An organised event, often taking place in tents or temporary accommodation."
+    },
+    {
+      "word": "CAN",
+      "hint": "ceric ammonium nitrate; Abbreviation of controller area network."
+    },
+    {
+      "word": "CANDY",
+      "hint": "Crystallized sugar formed by boiling down sugar syrup.; Edible, sweet-tasting confectionery containing sugar, or sometimes artificial sweeteners, and often flavored with fruit,"
+    },
+    {
+      "word": "CANNOT",
+      "hint": "Can not; be unable to (whether due to physical inability, logical impossibility, etc.).; Be forbidden or not permitted to."
+    },
+    {
+      "word": "CAP",
+      "hint": "A close-fitting hat, either brimless or peaked.; A special hat to indicate rank, occupation, etc."
+    },
+    {
+      "word": "CAR",
+      "hint": "A wheeled vehicle that moves independently, with at least three wheels, powered mechanically, steered by a driver and mostly for personal transportation but relatively smaller"
+    },
+    {
+      "word": "CARD",
+      "hint": "A playing card.; Any game using playing cards; a card game."
+    },
+    {
+      "word": "CARE",
+      "hint": "Close attention; concern; responsibility.; Worry."
+    },
+    {
+      "word": "CAREFUL",
+      "hint": "Taking care; attentive to potential danger, error or harm; cautious.; Conscientious and painstaking; meticulous."
+    },
+    {
+      "word": "CAREFULLY",
+      "hint": "Sorrowfully.; With care; attentively, circumspectly."
+    },
+    {
+      "word": "CARRY",
+      "hint": "To lift (something) and take it to another place; to transport (something) by lifting.; To notionally transfer from one place (such as a country, book, or column) to another."
+    },
+    {
+      "word": "CASE",
+      "hint": "An actual event, situation, or fact.; A given condition or state."
     },
     {
       "word": "CAT",
-      "hint": "a small pet animal"
+      "hint": "Terms relating to animals.; Terms relating to people."
+    },
+    {
+      "word": "CATCH",
+      "hint": "The act of seizing or capturing.; The act of catching an object in motion, especially a ball."
+    },
+    {
+      "word": "CELEBRATE",
+      "hint": "To extol or honour in a solemn manner.; To honour by rites, by ceremonies of joy and respect, or by refraining from ordinary business; to observe duly."
+    },
+    {
+      "word": "CHAIR",
+      "hint": "An item of furniture used to sit on or in, comprising a seat, legs or wheels, back, and sometimes arm rests, for use by one person.; Clipping of chairperson."
+    },
+    {
+      "word": "CHANGE",
+      "hint": "To become something different.; To make something into something else."
+    },
+    {
+      "word": "CHARACTER",
+      "hint": "A being involved in the action of a story; a persona.; A distinguishing feature; characteristic; trait; nature; phene."
+    },
+    {
+      "word": "CHECK",
+      "hint": "An inspection or examination.; A control; a limit or stop."
+    },
+    {
+      "word": "CHEESE",
+      "hint": "A dairy product made from curdled or cultured milk.; Any particular variety of cheese."
+    },
+    {
+      "word": "CHICKEN",
+      "hint": "A domesticated subspecies of red junglefowl (Gallus gallus domesticus).; The meat from this bird eaten as food."
+    },
+    {
+      "word": "CHILD",
+      "hint": "A person who has not yet reached adulthood, whether natural (puberty), cultural (initiation), or legal (majority).; One's direct descendant by birth, regardless of age; one's"
+    },
+    {
+      "word": "CHOCOLATE",
+      "hint": "A food made from ground roasted cocoa beans.; A drink made by dissolving this food in boiling milk or water."
+    },
+    {
+      "word": "CHOOSE",
+      "hint": "To pick; to make the choice of; to select.; To elect."
+    },
+    {
+      "word": "CHURCH",
+      "hint": "A Christian house of worship; a building where Christian religious services take place. [from 9th c.]; Christians collectively seen as a single spiritual community; Christianity;"
+    },
+    {
+      "word": "CIRCLE",
+      "hint": "A two-dimensional geometric figure, a line, consisting of the set of all those points in a plane that are equally distant from a given point (center).; A two-dimensional geometric"
+    },
+    {
+      "word": "CITY",
+      "hint": "A large settlement, bigger than a town; sometimes with a specific legal definition, depending on the place.; A settlement granted special status by royal charter or letters"
+    },
+    {
+      "word": "CLASS",
+      "hint": "A group, collection, category or set sharing characteristics or attributes.; A social grouping, based on job, wealth, etc. In Britain, society is commonly split into three main"
+    },
+    {
+      "word": "CLEAN",
+      "hint": "Free of dirt, filth, or impurities (extraneous matter); not dirty, filthy, or soiled.; Free of contamination, (unwanted) germs, infection, or disease."
+    },
+    {
+      "word": "CLEVER",
+      "hint": "Nimble with hands or body; dexterous; skillful; adept.; Quick to understand, learn, and devise or apply ideas; intelligent."
+    },
+    {
+      "word": "CLIMB",
+      "hint": "To traverse a slope or contour, either upwards (ascending) or downwards (descending).; To ascend; rise; to go up."
+    },
+    {
+      "word": "CLOCK",
+      "hint": "A chronometer, an instrument that measures time, particularly the time of day.; A common noun relating to an instrument that measures or keeps track of time."
+    },
+    {
+      "word": "CLOSE",
+      "hint": "To remove or block an opening, gap or passage through.; To finish."
+    },
+    {
+      "word": "CLOSED",
+      "hint": "Physically obstructed, sealed, etc.; Not available for operation, participation, interaction, etc."
+    },
+    {
+      "word": "CLOTHES",
+      "hint": "Items of clothing; apparel.; plural of cloth."
+    },
+    {
+      "word": "CLOUD",
+      "hint": "A visible mass of water droplets suspended in the air.; Any mass of dust, steam or smoke resembling such a mass."
+    },
+    {
+      "word": "CLUB",
+      "hint": "A heavy object, often a kind of stick, intended for use as a bludgeoning weapon or a plaything.; An association of members joining together for some common purpose, especially"
+    },
+    {
+      "word": "COACH",
+      "hint": "A wheeled vehicle, generally pulled by a horse.; A passenger car, either drawn by a locomotive or part of a multiple unit."
+    },
+    {
+      "word": "COAT",
+      "hint": "An outer garment covering the upper torso and arms.; A covering of material, such as paint."
+    },
+    {
+      "word": "CODE",
+      "hint": "A short textual designation, often with little relation to the item it represents.; A body of law, sanctioned by legislation, in which the rules of law to be specifically applied"
+    },
+    {
+      "word": "COFFEE",
+      "hint": "A beverage made by infusing the beans of the coffee plant in hot water. [from 1598]; A serving of this beverage."
+    },
+    {
+      "word": "COLD",
+      "hint": "Having a low temperature.; Causing the air to be cold."
+    },
+    {
+      "word": "COLLECT",
+      "hint": "To gather together; amass.; To get; particularly, get from someone."
+    },
+    {
+      "word": "COLLECTION",
+      "hint": "A set of items or amount of material procured, gathered or presented together.; A set of pitch classes used by a composer."
+    },
+    {
+      "word": "COLLEGE",
+      "hint": "An academic institution. [From 1560s.]; A group of people sharing common purposes or goals, especially ecclesiastics or professionals; a corporate group; a group of colleagues."
+    },
+    {
+      "word": "COLOR",
+      "hint": "The spectral composition of visible light.; A subset thereof"
+    },
+    {
+      "word": "COME",
+      "hint": "To move nearer to the point of perspective.; To arrive."
+    },
+    {
+      "word": "COMPUTER",
+      "hint": "A programmable electronic device that performs mathematical calculations and logical operations, especially one that can process, store and retrieve large amounts of data very"
+    },
+    {
+      "word": "CONCERT",
+      "hint": "To plan together; to settle or adjust by conference, agreement, or consultation.; To plan; to devise; to arrange."
+    },
+    {
+      "word": "CONTEST",
+      "hint": "Controversy; debate.; Struggle for superiority; combat."
+    },
+    {
+      "word": "CONVERSATION",
+      "hint": "Expression and exchange of individual ideas through talking with other people; also, a set instance or occasion of such talking. [from 16th c.]; The back-and-forth play of the"
+    },
+    {
+      "word": "COOK",
+      "hint": "A person who prepares food.; The head cook of a manor house."
+    },
+    {
+      "word": "COOL",
+      "hint": "Of a mildly low temperature.; Allowing or suggesting heat relief."
+    },
+    {
+      "word": "COP",
+      "hint": "To capture or arrest someone.; (transitive, originally New York dialectal, informal, African-American Vernacular) To obtain, to purchase (items including but not limited to"
+    },
+    {
+      "word": "COPY",
+      "hint": "The result of copying; an identical or nearly identical duplicate of an original.; An imitation, sometimes of inferior quality."
+    },
+    {
+      "word": "CORNER",
+      "hint": "The point where two converging lines meet; an angle, either external or internal.; An edge or extremity; the part farthest from the center; hence, any quarter or part, or the"
+    },
+    {
+      "word": "CORRECT",
+      "hint": "Free from error; true; accurate.; With good manners; well behaved; conforming with accepted standards of behaviour."
+    },
+    {
+      "word": "COULD",
+      "hint": "simple past of can; conditional of can"
+    },
+    {
+      "word": "COURSE",
+      "hint": "A sequence of events.; A path that something or someone moves along."
+    },
+    {
+      "word": "COUSIN",
+      "hint": "Chiefly with a qualifying word: Any relation (especially a distant one) who is not a direct ancestor or descendant but part of a person's extended family; a kinsman or kinswoman.;"
+    },
+    {
+      "word": "COVER",
+      "hint": "A lid.; Area or situation which screens a person or thing from view."
+    },
+    {
+      "word": "CREAM",
+      "hint": "The butterfat or milkfat part of milk which rises to the top; this part when separated from the remainder.; A yellowish white color; the color of cream."
+    },
+    {
+      "word": "CRY",
+      "hint": "To shed tears; to weep, especially in anger or sadness.; To utter loudly; to call out; to declare publicly."
+    },
+    {
+      "word": "CULTURE",
+      "hint": "The arts, customs, lifestyles, background, and habits that characterize humankind, or a particular society or nation.; The beliefs, values, behaviour, and material objects that"
+    },
+    {
+      "word": "CUP",
+      "hint": "A concave vessel for drinking, usually made of opaque material (as opposed to a glass) and with a handle.; The contents of said vessel."
+    },
+    {
+      "word": "CUT",
+      "hint": "To incise, to cut into the surface of something.; To admit of incision or severance; to yield to a cutting instrument."
+    },
+    {
+      "word": "CUTE",
+      "hint": "Possessing physical features, behaviors, personality traits or other properties that are mainly attributed to infants and small or cuddly animals; e.g. fair, dainty, round, and"
+    },
+    {
+      "word": "DAD",
+      "hint": "A designation on prerecorded compact discs indicating that the contents were recorded in digital but mixed in analog before being mastered to a digital medium.; Acronym of diffuse"
+    },
+    {
+      "word": "DADDY",
+      "hint": "Also used as a term of address: a father; one's father.; Often in the form old daddy: a man or an organization regarded as having the qualities of a father, especially in being in"
+    },
+    {
+      "word": "DANCE",
+      "hint": "A sequence of rhythmic steps or movements usually performed to music, for pleasure or as a form of social interaction.; A social gathering where dancing is the main activity."
+    },
+    {
+      "word": "DANCING",
+      "hint": "The activity of taking part in a dance.; A dance club in France."
+    },
+    {
+      "word": "DARK",
+      "hint": "Having an absolute or (more often) relative lack of light.; Transmitting, reflecting, or receiving inadequate light to render timely discernment or comprehension"
+    },
+    {
+      "word": "DATE",
+      "hint": "The fruit of the date palm, Phoenix dactylifera, somewhat in the shape of an olive, containing a soft, sweet pulp and enclosing a hard kernel. [from 14th c.]; The date palm. [from"
+    },
+    {
+      "word": "DAUGHTER",
+      "hint": "One’s female offspring.; A female descendant."
     },
     {
       "word": "DAY",
-      "hint": "time with sunlight"
+      "hint": "The time when the Sun is above the horizon and it lights the sky.; A period of time equal or almost equal to a full day-night cycle, being 24 hours long."
+    },
+    {
+      "word": "DEAR",
+      "hint": ") High in price; expensive.; Loved; lovable."
+    },
+    {
+      "word": "DECEMBER",
+      "hint": "Characteristic of the month of December."
+    },
+    {
+      "word": "DELICIOUS",
+      "hint": "Pleasing to the sense of taste; tasty.; Pleasing to a person's taste; pleasing to the eyes or mind."
+    },
+    {
+      "word": "DESCRIBE",
+      "hint": "To represent in words.; To represent by drawing; to draw a plan of; to delineate; to trace or mark out."
+    },
+    {
+      "word": "DESIGN",
+      "hint": "A specification of an object or process, referring to requirements to be satisfied and thus conditions to be met for them to solve a problem.; A plan (with more or less detail)"
+    },
+    {
+      "word": "DESK",
+      "hint": "A table, frame, or case, in past centuries usually with a sloping top but now usually with a flat top, for the use of writers and readers. It often has a drawer or repository"
+    },
+    {
+      "word": "DIFFERENCE",
+      "hint": "The quality of being different.; A characteristic of something that makes it different from something else."
+    },
+    {
+      "word": "DIFFERENT",
+      "hint": "Not the same; exhibiting a difference.; Various, assorted, diverse."
+    },
+    {
+      "word": "DIFFICULT",
+      "hint": "Hard, not easy, requiring much effort.; Hard to manage, uncooperative, troublesome."
+    },
+    {
+      "word": "DIG",
+      "hint": "To move hard-packed earth out of the way, especially downward to make a hole with a shovel. Or to drill, or the like, through rocks, roads, or the like. More generally, to make"
+    },
+    {
+      "word": "DINNER",
+      "hint": "The main meal of the day, often eaten in the evening.; An evening meal."
+    },
+    {
+      "word": "DIRTY",
+      "hint": "Unclean; covered with or containing unpleasant substances such as dirt or grime.; That makes one unclean; corrupting, infecting."
+    },
+    {
+      "word": "DISCUSS",
+      "hint": "To converse or debate concerning a particular topic.; To communicate, tell, or disclose (information, a message, etc.)."
     },
     {
       "word": "DO",
-      "hint": "to perform"
+      "hint": "A syntactic marker.; To perform; to execute."
+    },
+    {
+      "word": "DOCTOR",
+      "hint": "A mnemonic to help remember the difference between the Spanish verbs ser and estar (both meaning \"to be\"); ser is generally used for: Descriptions, Occupations, Characteristics,"
     },
     {
       "word": "DOG",
-      "hint": "a pet that barks"
+      "hint": "A mammal of the family Canidae; The meat of this animal, eaten as food."
+    },
+    {
+      "word": "DOLLAR",
+      "hint": "Official designation for currency in some parts of the world, including Canada, the United States, Australia, New Zealand, Singapore, Hong Kong, and elsewhere. Its symbol is $.;"
+    },
+    {
+      "word": "DOOR",
+      "hint": "A portal of entry into a building, room, or vehicle, typically consisting of a rigid plane movable on a hinge. It may have a handle to help open and close, a latch to hold it"
+    },
+    {
+      "word": "DOWN",
+      "hint": "From a higher position to a lower one; downwards.; To or towards what is considered the bottom of something, irrespective of whether this is presently physically lower."
+    },
+    {
+      "word": "DRAMA",
+      "hint": "A composition, normally in prose, telling a story and intended to be represented by actors impersonating the characters and speaking the dialogue.; Such a work for television,"
+    },
+    {
+      "word": "DRAW",
+      "hint": "Senses relating to exerting force or pulling.; Senses relating to attracting."
+    },
+    {
+      "word": "DREAM",
+      "hint": "Imaginary events seen in the mind while sleeping.; A hope or wish."
+    },
+    {
+      "word": "DRESS",
+      "hint": "To prepare (oneself); to make ready. [14th–16th c.]"
+    },
+    {
+      "word": "DRINK",
+      "hint": "To consume (a liquid) through the mouth.; To consume the liquid contained within (a bottle, glass, etc.)."
+    },
+    {
+      "word": "DRIVE",
+      "hint": "To operate a vehicle; To compel to move"
+    },
+    {
+      "word": "DRIVER",
+      "hint": "One who drives something.; Something that drives something else."
+    },
+    {
+      "word": "DROP",
+      "hint": "A small quantity of liquid, just large enough to hold its own rounded shape through surface tension, especially one that falls from a source of liquid.; A very small quantity of"
+    },
+    {
+      "word": "DRY",
+      "hint": "Free from or lacking moisture.; Unable to produce a liquid, as water, (petrochemistry) oil, or (agriculture) milk."
+    },
+    {
+      "word": "DUE",
+      "hint": "Owed or owing.; Appropriate."
+    },
+    {
+      "word": "EACH",
+      "hint": "All; every; qualifying a singular noun, indicating all examples of the thing so named seen as individual or separate items (compare every)."
+    },
+    {
+      "word": "EAR",
+      "hint": "The organ of hearing, consisting of the pinna or auricle, auditory canal, eardrum, malleus, incus, stapes and cochlea.; The external part of the organ of hearing, the auricle."
+    },
+    {
+      "word": "EARLY",
+      "hint": "At a time in advance of the usual or expected event.; Arriving a time before expected; sooner than on time."
+    },
+    {
+      "word": "EASY",
+      "hint": "Comfortable; at ease.; Requiring little skill or effort."
+    },
+    {
+      "word": "EAT",
+      "hint": "To ingest.; To be ingested."
+    },
+    {
+      "word": "EGG",
+      "hint": "A thing which looks like or is shaped like an egg (sense 1.1)."
+    },
+    {
+      "word": "EIGHT",
+      "hint": "A numerical value equal to 8; the number occurring after seven and before nine.; Describing a group or set with eight elements."
+    },
+    {
+      "word": "EITHER",
+      "hint": "Any one (of two).; Each of two; both. [from 9th c.]"
+    },
+    {
+      "word": "ELSE",
+      "hint": "Other; in addition to previously mentioned items."
+    },
+    {
+      "word": "END",
+      "hint": "The terminal point of something in space or time.; Share of joint responsibility."
+    },
+    {
+      "word": "ENGINEER",
+      "hint": "An honorific title given to engineers before their name."
+    },
+    {
+      "word": "ENJOY",
+      "hint": "To receive pleasure or satisfaction from something.; To have the use or benefit of something."
+    },
+    {
+      "word": "EVENING",
+      "hint": "The time of day between afternoon and night.; The time of the day between the approximate time of midwinter dusk and midnight (compare afternoon); the period after the end of"
+    },
+    {
+      "word": "EVENT",
+      "hint": "An occurrence; something that happens.; A prearranged social activity (function, etc.)"
+    },
+    {
+      "word": "EVERY",
+      "hint": "All of a countable group (considered individually), without exception.; Denotes equal spacing at a stated interval, or a proportion corresponding to such a spacing."
+    },
+    {
+      "word": "EVERYBODY",
+      "hint": "All people."
+    },
+    {
+      "word": "EVERYDAY",
+      "hint": "Appropriate for ordinary use, rather than for special occasions.; Commonplace, ordinary."
+    },
+    {
+      "word": "EVERYONE",
+      "hint": "Every person."
+    },
+    {
+      "word": "EVERYTHING",
+      "hint": "All the things under discussion.; Many or most things."
+    },
+    {
+      "word": "EVERYWHERE",
+      "hint": "In or to all locations under discussion.; In or to a few or more locations."
+    },
+    {
+      "word": "EXAMPLE",
+      "hint": "Something that is representative of all such things in a group.; Something that serves to illustrate or explain a rule."
+    },
+    {
+      "word": "EXCELLENT",
+      "hint": "Having excelled, having surpassed.; Of higher or the highest quality; splendid."
+    },
+    {
+      "word": "EXCITED",
+      "hint": "Having great enthusiasm, passion and energy.; Being in a state of higher energy."
+    },
+    {
+      "word": "EXCITING",
+      "hint": "exciting; stimulating"
+    },
+    {
+      "word": "EXCUSE",
+      "hint": "To forgive; to pardon; to overlook.; To allow to leave, or release from any obligation."
+    },
+    {
+      "word": "EXERCISE",
+      "hint": "Any activity designed to develop or hone a skill or ability.; Activity intended to improve physical, or sometimes mental, strength and fitness."
+    },
+    {
+      "word": "EXPENSIVE",
+      "hint": "Having a high price or cost.; Taking a lot of system time or resources."
+    },
+    {
+      "word": "EYE",
+      "hint": "An organ through which animals see (“perceive surroundings via light”).; The visual sense."
+    },
+    {
+      "word": "FACE",
+      "hint": "A mnemonic phrase to help remember the order of the four spaces of a musical treble clef in order from the bottom to the top."
+    },
+    {
+      "word": "FACTORY",
+      "hint": "A building or other place where manufacturing takes place. [from 17th c.]; A police station. [from 19th c.]"
+    },
+    {
+      "word": "FAIR",
+      "hint": "Beautiful, of a pleasing appearance, with a pure and fresh quality.; Unblemished (figuratively or literally); clean and pure; innocent."
+    },
+    {
+      "word": "FALSE",
+      "hint": "one of two states of a Boolean variable; logic 0."
     },
     {
       "word": "FAMILY",
-      "hint": "parents and children"
+      "hint": "A group of people who are closely related to one another (by blood, marriage or adoption); kin; in particular, a set of parents and their children; an immediate family.; An"
+    },
+    {
+      "word": "FAMOUS",
+      "hint": "Well known.; In the public eye."
+    },
+    {
+      "word": "FAN",
+      "hint": "A hand-held device consisting of concertinaed material, or slats of material, gathered together at one end, that may be opened out into the shape of a sector of a circle and waved"
+    },
+    {
+      "word": "FARM",
+      "hint": "A place where agricultural and similar activities take place, especially the growing of crops or the raising of livestock.; A tract of land held on lease for the purpose of"
+    },
+    {
+      "word": "FAST",
+      "hint": "Firmly or securely fixed in place; stable. [from 9th c.]; Firm against attack; fortified by nature or art; impregnable; strong."
+    },
+    {
+      "word": "FAT",
+      "hint": "Carrying more fat than usual on one's body; plump; not lean or thin.; Thick; large."
+    },
+    {
+      "word": "FATHER",
+      "hint": "A male parent, especially of a human; a male who parents a child (which he has sired, adopted, fostered, etc.).; A male ancestor more remote than a parent; a progenitor;"
+    },
+    {
+      "word": "FAVORITE",
+      "hint": "US standard spelling of favourite."
+    },
+    {
+      "word": "FEBRUARY",
+      "hint": ""
+    },
+    {
+      "word": "FEED",
+      "hint": "To give (someone or something) food to eat.; To eat (usually of animals)."
+    },
+    {
+      "word": "FEEL",
+      "hint": "To use or experience the sense of touch.; To sense or think emotionally or judgmentally."
+    },
+    {
+      "word": "FEELING",
+      "hint": "Emotionally sensitive.; Expressive of great sensibility; attended by, or evincing, sensibility."
+    },
+    {
+      "word": "FELT",
+      "hint": "A cloth or stuff made of matted fibres of wool, or wool and fur, fulled or wrought into a compact substance by rolling and pressure, with lees or size, without spinning or"
+    },
+    {
+      "word": "FESTIVAL",
+      "hint": "Pertaining to a feast or feast day; festive. (Now only as the noun used attributively.)"
+    },
+    {
+      "word": "FIELD",
+      "hint": "A land area free of woodland, cities, and towns; an area of open country.; A wide, open space that is used to grow crops or to hold farm animals, usually enclosed by a fence,"
+    },
+    {
+      "word": "FIGHT",
+      "hint": "Senses relating to physical conflict; To strive for something; to campaign or contend for success."
+    },
+    {
+      "word": "FILE",
+      "hint": "A collection of papers collated and archived together.; A roll or list."
+    },
+    {
+      "word": "FILL",
+      "hint": "To make full; To become full."
+    },
+    {
+      "word": "FIND",
+      "hint": "To locate; To discover by study or experiment directed to an object or end."
+    },
+    {
+      "word": "FINE",
+      "hint": "Senses referring to subjective quality.; Senses referring to objective quality."
+    },
+    {
+      "word": "FINISH",
+      "hint": "An end; the end of anything.; A protective coating given to wood or metal and other surfaces."
+    },
+    {
+      "word": "FIRE",
+      "hint": "A (usually self-sustaining) chemical reaction involving the bonding of oxygen with carbon or other fuel, with the production of heat and the presence of flame or smouldering.; An"
+    },
+    {
+      "word": "FIRST",
+      "hint": "Preceding all others of a series or kind; the ordinal of one; earliest.; Most eminent or exalted; most excellent; chief; highest."
     },
     {
       "word": "FISH",
-      "hint": "an animal in water"
+      "hint": "A typically cold-blooded vertebrate animal that lives in water, moving with the help of fins and breathing with gills; any vertebrate that is not a tetrapod.; Any vertebrate,"
+    },
+    {
+      "word": "FISHING",
+      "hint": "The act of catching fish.; The act of catching other forms of seafood, separately or together with fish."
+    },
+    {
+      "word": "FIVE",
+      "hint": "A numerical value equal to 5; the number following four and preceding six.; Describing a group or set with five elements."
+    },
+    {
+      "word": "FLAG",
+      "hint": "A piece of cloth, often decorated with an emblem, used as a visual signal or symbol.; The design that could be placed on a flag, typically a rectangular graphic that is used to"
+    },
+    {
+      "word": "FLAT",
+      "hint": "Having no variations in height.; Without variation in level, quantity, value, tone etc."
+    },
+    {
+      "word": "FLOOR",
+      "hint": "The interior bottom or surface of a house or building; the supporting surface of a room.; The bottom surface of a natural structure, entity, or space (e.g. cave, forest, ocean,"
+    },
+    {
+      "word": "FLOWER",
+      "hint": "A colorful, conspicuous structure associated with angiosperms, frequently scented and attracting various insects, and which may or may not be used for sexual reproduction.; A"
+    },
+    {
+      "word": "FLY",
+      "hint": "Any insect of the order Diptera; characterized by having two wings (except for some wingless species), also called true flies.; Especially, any of the insects of the family"
+    },
+    {
+      "word": "FOCUS",
+      "hint": "A point at which reflected or refracted rays of light converge.; A point of a conic at which rays reflected from a curve or surface converge."
+    },
+    {
+      "word": "FOLLOWING",
+      "hint": "Coming next, either in sequence or in time.; About to be specified."
+    },
+    {
+      "word": "FOOD",
+      "hint": "Any solid substance that can be consumed by living organisms, especially by eating, in order to sustain life.; A foodstuff, a type of food."
+    },
+    {
+      "word": "FOOTBALL",
+      "hint": "A sport played on foot in which teams attempt to get a ball into a goal or zone defended by the other team.; The ball used in any game called \"football\"."
+    },
+    {
+      "word": "FOR",
+      "hint": "Because."
+    },
+    {
+      "word": "FOREIGN",
+      "hint": "Located outside a country or place, especially one's own.; Originating from, characteristic of, belonging to, or being a citizen of a country or place other than the one under"
+    },
+    {
+      "word": "FORGET",
+      "hint": "To lose remembrance of.; To unintentionally not do, neglect."
+    },
+    {
+      "word": "FORM",
+      "hint": "To do with shape.; To do with structure or procedure."
+    },
+    {
+      "word": "FOUR",
+      "hint": "A numerical value equal to 4; the number after three and before five; two plus two. This many dots (••••); Describing a set or group with four elements."
+    },
+    {
+      "word": "FREE",
+      "hint": "Unconstrained.; Obtainable without any payment."
+    },
+    {
+      "word": "FRENCH",
+      "hint": "To prepare food by cutting it into strips.; To kiss (another person) while inserting one’s tongue into the other person's mouth."
+    },
+    {
+      "word": "FRIDAY",
+      "hint": "The sixth day of the week in many religious traditions, and the fifth day of the week in systems using the ISO 8601 norm; the Muslim Sabbath; it follows Thursday and precedes"
     },
     {
       "word": "FRIEND",
-      "hint": "person you like"
+      "hint": "A person, typically someone other than a family member, spouse or lover, whose company one enjoys and towards whom one feels affection.; An associate who provides assistance;"
+    },
+    {
+      "word": "FROM",
+      "hint": "Used to indicate source or provenance.; Originating at (a year, time, etc.)"
+    },
+    {
+      "word": "FRONT",
+      "hint": "The foremost side of something or the end that faces the direction it normally moves.; The side of a building with the main entrance."
+    },
+    {
+      "word": "FRUIT",
+      "hint": "A product of fertilization in a plant, specifically; Any sweet or sour, edible part of a plant that resembles seed-bearing fruit (see former sense) even if it does not develop"
+    },
+    {
+      "word": "FULL",
+      "hint": "Containing the maximum possible amount that can fit in the space available.; Complete; with nothing omitted."
+    },
+    {
+      "word": "FUN",
+      "hint": "Amusement, enjoyment or pleasure.; Playful, often noisy, activity."
+    },
+    {
+      "word": "FUNNY",
+      "hint": "Amusing; humorous; comical. [from mid-18th c.]; Strange or unusual, often in an unpleasant way. [from early 19th c.]"
+    },
+    {
+      "word": "FUTURE",
+      "hint": "The time ahead; those moments yet to be experienced.; Something that will happen in moments yet to come."
+    },
+    {
+      "word": "GAME",
+      "hint": "A playful or competitive activity.; A field of gainful activity, as an industry or profession."
+    },
+    {
+      "word": "GARDEN",
+      "hint": "An outdoor area containing one or more types of plants, usually plants grown for food or ornamental purposes.; The grounds at the front or back of a house."
+    },
+    {
+      "word": "GET",
+      "hint": "To obtain; to acquire.; To receive."
+    },
+    {
+      "word": "GHOST",
+      "hint": "A disembodied soul; a soul or spirit of a deceased person; a spirit appearing after death.; A spirit; a human soul."
+    },
+    {
+      "word": "GIFT",
+      "hint": "Something given to another voluntarily, without charge.; A talent or natural ability."
+    },
+    {
+      "word": "GIRL",
+      "hint": "A female child.; A woman, especially a young and often attractive woman."
+    },
+    {
+      "word": "GIRLFRIEND",
+      "hint": "A female partner in an unmarried romantic relationship.; A female friend of a woman or girl."
+    },
+    {
+      "word": "GIVE",
+      "hint": "To move, shift, provide something abstract or concrete to someone or something or somewhere.; To provide, as, a service or a broadcast."
+    },
+    {
+      "word": "GLAD",
+      "hint": "Pleased; happy; gratified.; Having a bright or cheerful appearance; expressing or exciting joy; producing gladness."
+    },
+    {
+      "word": "GLASS",
+      "hint": "An amorphous solid, often transparent substance, usually made by melting silica sand with various additives (for most purposes, a mixture of soda, potash and lime is added).; Any"
+    },
+    {
+      "word": "GLASSES",
+      "hint": "An amorphous solid, often transparent substance, usually made by melting silica sand with various additives (for most purposes, a mixture of soda, potash and lime is added).; Any"
     },
     {
       "word": "GO",
-      "hint": "to move away"
+      "hint": "To move, either physically or in an abstract sense; To work or function (properly); to move or perform (as required)."
+    },
+    {
+      "word": "GOAL",
+      "hint": "A result that one is attempting to achieve.; To do with sports"
+    },
+    {
+      "word": "GOLD",
+      "hint": "A heavy yellow elemental metal of great value, with atomic number 79.; A coin or coinage made of this material, or supposedly so."
+    },
+    {
+      "word": "GONNA",
+      "hint": "A modal used to express a future action that is being planned or prepared for in the present."
+    },
+    {
+      "word": "GOOD",
+      "hint": "Of a person or an animal; Of a capability"
+    },
+    {
+      "word": "GOTTA",
+      "hint": "Synonym of have got to, have to"
+    },
+    {
+      "word": "GRADE",
+      "hint": "A rating.; Performance on a test or other evaluation(s), expressed by a number, letter, or other symbol; a score."
+    },
+    {
+      "word": "GRANDFATHER",
+      "hint": "A father of someone's parent. [from 15th c.]; A male forefather."
+    },
+    {
+      "word": "GRANDMA",
+      "hint": "Grandmother.; Any elderly woman, regardless of if she has grandchildren."
+    },
+    {
+      "word": "GRASS",
+      "hint": "Any plant of the family Poaceae, characterized by leaves that arise from nodes in the stem and leaf bases that wrap around the stem, especially those grown as ground cover rather"
+    },
+    {
+      "word": "GRAY",
+      "hint": "Of a color between black and white, having neutral hue and intermediate brightness.; Dreary, gloomy, cloudy."
+    },
+    {
+      "word": "GREAT",
+      "hint": "Taking much space; large.; Very good; excellent; wonderful; fantastic. [from 1848]"
     },
     {
       "word": "GREEN",
-      "hint": "color of grass"
+      "hint": "The color of grass and leaves; a primary additive color midway between yellow and blue which is evoked by light between roughly 495–570 nm.; A member of a green party; an"
+    },
+    {
+      "word": "GROUND",
+      "hint": "The surface of the Earth, as opposed to the sky or water or underground.; Terrain."
+    },
+    {
+      "word": "GROUP",
+      "hint": "A number of things or persons being in some relation to one another.; A set with an associative binary operation, under which there exists an identity element, and such that each"
+    },
+    {
+      "word": "GROW",
+      "hint": "To become larger, to increase in magnitude.; To undergo growth; to be present (somewhere)."
+    },
+    {
+      "word": "GUESS",
+      "hint": "To reach a partly (or totally) unconfirmed conclusion; to engage in conjecture; to speculate.; To solve by a correct conjecture; to conjecture rightly."
+    },
+    {
+      "word": "GUEST",
+      "hint": "A recipient of hospitality, especially someone staying by invitation at the house of another.; A patron or customer in a hotel etc."
+    },
+    {
+      "word": "GUITAR",
+      "hint": "A stringed musical instrument, of European origin, usually with a fretted fingerboard and six strings, played with the fingers or a plectrum (guitar pick).; Any type of musical"
+    },
+    {
+      "word": "GUY",
+      "hint": "An effigy of a man burned on a bonfire on the anniversary of the Gunpowder Plot (5th November).; A person of eccentric appearance or dress; a \"fright\"."
+    },
+    {
+      "word": "HAIR",
+      "hint": "A pigmented filament of keratin which grows from a follicle on the skin of humans and other mammals.; The collection or mass of such growths growing from the skin of humans and"
+    },
+    {
+      "word": "HALF",
+      "hint": "One of two usually roughly equal parts into which anything may be divided, or considered as divided.; Half of a standard measure, chiefly"
+    },
+    {
+      "word": "HALL",
+      "hint": "A corridor; a hallway.; A large meeting room."
+    },
+    {
+      "word": "HAND",
+      "hint": "The part of the forelimb below the forearm or wrist in humans and other primates, and the corresponding part in many other animals.; That which resembles, or to some extent"
+    },
+    {
+      "word": "HANDSOME",
+      "hint": "Having a pleasing appearance, good-looking, attractive, particularly; Good, appealing, appropriate."
+    },
+    {
+      "word": "HAPPEN",
+      "hint": "To occur or take place.; To happen to; to befall."
     },
     {
       "word": "HAPPY",
-      "hint": "feeling good"
+      "hint": "Having a feeling arising from a consciousness of well-being or of enjoyment; enjoying good of any kind, such as comfort, peace, or tranquillity; blissful, contented, joyous.;"
+    },
+    {
+      "word": "HARD",
+      "hint": "An acronym for remembering desirable characteristics for goal-setting: heartfelt, animated, required, difficult."
+    },
+    {
+      "word": "HAT",
+      "hint": "A covering for the head, often in the approximate form of a cone, dome or cylinder closed at its top end, and sometimes having a brim and other decoration.; A particular role or"
+    },
+    {
+      "word": "HAVE",
+      "hint": "To possess, own.; To hold, as something at someone's disposal."
     },
     {
       "word": "HE",
-      "hint": "a male person"
+      "hint": "A person who identifies as male, or animal already known or implied.; They; he or she (a person whose gender is unknown or irrelevant)."
+    },
+    {
+      "word": "HEAD",
+      "hint": "The part of the body of an animal or human which contains the brain, mouth, and main sense organs.; The topmost, foremost, or leading part."
+    },
+    {
+      "word": "HEALTH",
+      "hint": "The state of being free from physical or psychological disease, illness, or malfunction; wellness. [from 11th c.]; A state of well-being or balance, often physical but sometimes"
+    },
+    {
+      "word": "HEALTHY",
+      "hint": "Enjoying good health; free from disease or disorder.; Conducive to health."
+    },
+    {
+      "word": "HEAR",
+      "hint": "To perceive sounds through the ear. [from 10th c.]; To perceive (a sound, or something producing a sound) with the ear, to recognize (something) in an auditory way. [from 10th c.]"
+    },
+    {
+      "word": "HEART",
+      "hint": "A muscular organ that pumps blood through the body, traditionally thought to be the seat of emotion.; One's feelings and emotions, especially considered as part of one's character."
+    },
+    {
+      "word": "HEAVY",
+      "hint": "Having great weight.; Serious, somber."
+    },
+    {
+      "word": "HELLO",
+      "hint": "A greeting (salutation) said when meeting someone or acknowledging someone’s arrival or presence.; A greeting used when answering the telephone."
+    },
+    {
+      "word": "HELP",
+      "hint": "Action given to provide assistance; aid.; Something or someone which provides assistance with a task."
+    },
+    {
+      "word": "HER",
+      "hint": "Belonging to her (belonging to that female person or animal, or in poetic or old-fashioned language that ship, city, season, etc).; Belonging to a person of unspecified gender (to"
+    },
+    {
+      "word": "HERE",
+      "hint": "In, on, or at this place (a place perceived to be close to the speaker); compare there.; To this place; used in place of the literary or archaic hither."
+    },
+    {
+      "word": "HI",
+      "hint": "A friendly, informal, casual greeting said upon someone's arrival.; An exclamation to call attention."
+    },
+    {
+      "word": "HIDE",
+      "hint": "To put (something) in a place where it will be out of sight or harder to discover.; To put oneself in a place where one will be out of sight or harder to find."
+    },
+    {
+      "word": "HIGH",
+      "hint": "Physically elevated, extending above a base or average level; Having a specified elevation or height; tall."
+    },
+    {
+      "word": "HILL",
+      "hint": "An elevated landmass smaller than a mountain.; A sloping road."
+    },
+    {
+      "word": "HIM",
+      "hint": "A masculine pronoun; he as a grammatical object.; As a grammatical subject or object when joined with a conjunction."
+    },
+    {
+      "word": "HIS",
+      "hint": "Belonging to him. [from 8th c.]; Belonging to a person of unspecified gender."
+    },
+    {
+      "word": "HISTORY",
+      "hint": "The aggregate of past events, both unrecorded and recorded.; The empirical study of past events, as distinct from literature, myth, or scripture; the assessment of notable events."
+    },
+    {
+      "word": "HOLD",
+      "hint": "To grasp or grip.; To contain or store."
+    },
+    {
+      "word": "HOLE",
+      "hint": "A hollow place or cavity; an excavation; a pit; a dent; a depression; a fissure.; An opening that goes all the way through a solid body, a fabric, etc.; a perforation; a rent."
+    },
+    {
+      "word": "HOLIDAY",
+      "hint": "A day on which a religious event or secular celebration is traditionally observed.; A day declared free from work by the state or government."
+    },
+    {
+      "word": "HOME",
+      "hint": "A dwelling.; One’s native land; the place or country in which one dwells; the place where one’s ancestors dwell or dwelt."
+    },
+    {
+      "word": "HOPE",
+      "hint": "To want (something) to happen, with a sense of expectation that it might [with that (+ clause); or (informal) with clause; or with so or (negative) not].; To intend to do"
+    },
+    {
+      "word": "HORSE",
+      "hint": "A poker variant consisting of five different poker variants, with the rules changing from one variant to the next after every hand."
+    },
+    {
+      "word": "HOSPITAL",
+      "hint": "A large medical facility, usually in a building with multiple floors, where seriously ill or injured patients are given extensive medical or surgical treatment.; A building"
+    },
+    {
+      "word": "HOT",
+      "hint": "Relating to heat and conditions which produce it.; Active, in use or ready for use (like a bullet or a firing range), turned on (like a microphone or camera)."
+    },
+    {
+      "word": "HOTEL",
+      "hint": "A large town house or mansion; a grand private residence, especially in France. [from 17th c.]; An establishment that provides accommodation and other services for paying guests;"
+    },
+    {
+      "word": "HOUR",
+      "hint": "A unit of time of one twenty-fourth of a day (sixty minutes).; A season, moment, or time."
     },
     {
       "word": "HOUSE",
-      "hint": "a building to live in"
+      "hint": "A structure built or serving as an abode of human beings. [from 9th c.]; A container; a thing which houses another."
+    },
+    {
+      "word": "HOW",
+      "hint": "To what degree or extent.; In what manner"
+    },
+    {
+      "word": "HUNGRY",
+      "hint": "Affected by hunger; having the physical need for food.; Causing hunger."
+    },
+    {
+      "word": "HURRY",
+      "hint": "A rushed action.; An urgency."
+    },
+    {
+      "word": "HURT",
+      "hint": "To cause (a person or animal) physical pain and/or injury.; To cause (somebody) emotional pain."
+    },
+    {
+      "word": "HUSBAND",
+      "hint": "A man in a marriage or marital relationship, especially in relation to his spouse.; A manager of property; one who has the care of another's belongings, owndom, or interests; a"
+    },
+    {
+      "word": "ICE",
+      "hint": "Water in frozen (solid) form.; Any frozen volatile chemical, such as ammonia or carbon dioxide."
+    },
+    {
+      "word": "IDEA",
+      "hint": "An abstract archetype of a given thing, compared to which real-life examples are seen as imperfect approximations; pure essence, as opposed to actual examples. [from 14th c.]; The"
     },
     {
       "word": "IF",
-      "hint": "in that case"
+      "hint": "Supposing that, assuming that, in the circumstances that; suppositive used to introduce a condition that may be (or prove to be) either true or false.; Supposing that; used with"
+    },
+    {
+      "word": "IMAGINE",
+      "hint": "To form a mental image of something; to envision or create something in one's mind.; To believe in something created by one's own mind, often something false."
+    },
+    {
+      "word": "IMPORTANT",
+      "hint": "Having relevant and crucial value; having import.; Pompous; self-important."
     },
     {
       "word": "IN",
-      "hint": "inside"
+      "hint": "Used to indicate location, inclusion, or position within spatial, temporal or abstract limits.; As to enter; from outside to inside; into."
+    },
+    {
+      "word": "INFORMATION",
+      "hint": "Something that provides a definitive characterization or description of the nature and attributes of a specified entity.; Things that are or can be known about a given topic;"
+    },
+    {
+      "word": "INSIDE",
+      "hint": "The interior or inner part.; The left-hand side of a road if one drives on the left, or right-hand side if one drives on the right."
+    },
+    {
+      "word": "INTERESTED",
+      "hint": "Having or showing interest (attention or curiosity).; Having an interest (stake); being a stakeholder; motivated by considerations of self-interest; self-serving."
+    },
+    {
+      "word": "INTERESTING",
+      "hint": "Of concern; affecting, important.; Arousing or holding the attention or interest of someone."
+    },
+    {
+      "word": "INTERNET",
+      "hint": "Internet access or connection; internet connectivity.; Any set of computer networks that communicate using the Internet Protocol; an intranet."
+    },
+    {
+      "word": "INTERVIEW",
+      "hint": "An official face-to-face meeting of monarchs or other important figures. [16th–19th c.]; Any face-to-face meeting, especially of an official or adversarial nature. [from 17th c.]"
+    },
+    {
+      "word": "INTO",
+      "hint": "To or towards the inside of.; To or towards the region of."
+    },
+    {
+      "word": "INTRODUCE",
+      "hint": "To cause (someone) to be acquainted (with someone else).; To make (something or someone) known, such as by formal announcement or recommendation."
     },
     {
       "word": "IS",
-      "hint": "exists"
+      "hint": "Initialism of International Sign.; Initialism of information system(s)."
+    },
+    {
+      "word": "ISLAND",
+      "hint": "A contiguous area of land, smaller than a continent, totally surrounded by water.; A contiguous area of land, smaller than a continent, partially surrounded by water; a peninsula;"
     },
     {
       "word": "IT",
-      "hint": "a thing"
+      "hint": "The third-person singular neuter personal pronoun used to refer to an inanimate object, abstract entity, or non-human living thing.; A third-person singular personal pronoun used"
+    },
+    {
+      "word": "ITEM",
+      "hint": "A distinct physical object.; An object that can be picked up for later use."
+    },
+    {
+      "word": "ITS",
+      "hint": "Belonging to it. [from 16th c.]"
+    },
+    {
+      "word": "JACKET",
+      "hint": "Any of certain types of outerwear.; A protective or insulating cover for an object (e.g. a book, bullet, hot water tank, vinyl record)."
+    },
+    {
+      "word": "JANUARY",
+      "hint": "In January."
+    },
+    {
+      "word": "JOB",
+      "hint": "A task.; An economic role for which a person is paid."
+    },
+    {
+      "word": "JOIN",
+      "hint": "To connect or combine into one; to put together.; To come together; to meet."
+    },
+    {
+      "word": "JUDGE",
+      "hint": "A public official whose duty it is to administer the law, especially by presiding over trials and rendering judgments; a justice.; A person who decides the fate of someone or"
+    },
+    {
+      "word": "JUICE",
+      "hint": "A liquid made from plant, especially fruit.; A beverage made of juice."
+    },
+    {
+      "word": "JULY",
+      "hint": "plural of July-flower"
+    },
+    {
+      "word": "JUMP",
+      "hint": "To propel oneself rapidly upward, downward and/or in any horizontal direction such that momentum causes the body to become airborne.; To cause oneself to leave an elevated"
+    },
+    {
+      "word": "JUNE",
+      "hint": "To rush."
+    },
+    {
+      "word": "JUST",
+      "hint": "Factually right, correct; factual.; Rationally right, correct."
+    },
+    {
+      "word": "KEEP",
+      "hint": "To continue in (a course or mode of action); to not intermit or fall from; to uphold or maintain.; To remain faithful to a given promise or word."
+    },
+    {
+      "word": "KEY",
+      "hint": "An object designed to open and close a lock or to activate or deactivate something, especially a length of metal inserted into a narrow opening on the lock to which it is matched"
+    },
+    {
+      "word": "KICK",
+      "hint": "To strike or hit with the foot or other extremity of the leg.; To make a sharp jerking movement of the leg, as to strike something."
+    },
+    {
+      "word": "KID",
+      "hint": "A child, adolescent, or (loosely) a young adult.; A young goat."
+    },
+    {
+      "word": "KILL",
+      "hint": "To put to death; to extinguish the life of.; To render inoperative."
+    },
+    {
+      "word": "KIND",
+      "hint": "A type, race or category; a group of entities that have common characteristics such that they may be grouped together.; A makeshift or otherwise atypical specimen."
+    },
+    {
+      "word": "KING",
+      "hint": "A male monarch; a man who heads a monarchy; in an absolute monarchy, the supreme ruler of his nation.; A component of certain games."
+    },
+    {
+      "word": "KISS",
+      "hint": "To touch with the lips or press the lips against, usually to show love or affection or passion, or as part of a greeting.; To (cause to) touch lightly or slightly; to come into"
+    },
+    {
+      "word": "KITCHEN",
+      "hint": "A room or area for preparing food.; Cuisine; style of cooking."
+    },
+    {
+      "word": "KNIFE",
+      "hint": "A utensil or a tool designed for cutting, consisting of a flat piece of hard material, usually steel or other metal (the blade), usually sharpened on one edge, attached to a"
+    },
+    {
+      "word": "KNOW",
+      "hint": "To perceive the truth or factuality of; to be certain of; to be certain that.; To be or become aware or cognizant."
+    },
+    {
+      "word": "LA",
+      "hint": "A syllable used in solfège to represent the sixth note of a major scale."
+    },
+    {
+      "word": "LADY",
+      "hint": "The mistress of a household.; A woman of breeding or higher class, a woman of authority."
+    },
+    {
+      "word": "LANGUAGE",
+      "hint": "A body of words, and set of methods of combining them (called a grammar), understood by a community and used as a form of communication.; The ability to communicate using words."
     },
     {
       "word": "LARGE",
-      "hint": "big"
+      "hint": "Of considerable or relatively great size or extent.; That is large (the manufactured size)."
+    },
+    {
+      "word": "LATE",
+      "hint": "Near the end of a period of time.; Specifically, near the end of the day."
+    },
+    {
+      "word": "LATER",
+      "hint": "comparative form of late: more late; Afterward in time (used with than when comparing with another time)."
+    },
+    {
+      "word": "LAUGH",
+      "hint": "An expression of mirth particular to the human species; the sound heard in laughing; laughter.; Something that provokes mirth or scorn."
+    },
+    {
+      "word": "LEADER",
+      "hint": "Any person who leads or directs.; An animal that leads."
+    },
+    {
+      "word": "LEARN",
+      "hint": "To acquire, or attempt to acquire knowledge or an ability to do something.; To attend a course or other educational activity."
+    },
+    {
+      "word": "LEAVE",
+      "hint": "To have a consequence or remnant.; To depart; to separate from."
+    },
+    {
+      "word": "LEFT",
+      "hint": "Designating the side of the body toward the west when one is facing north; the side of the body on which the heart is located in most humans; the opposite of right. This arrow"
+    },
+    {
+      "word": "LEG",
+      "hint": "A limb or appendage that an animal uses for support or locomotion on land.; In humans, the lower limb extending from the groin to the ankle."
+    },
+    {
+      "word": "LESSON",
+      "hint": "To instruct to teach."
+    },
+    {
+      "word": "LET",
+      "hint": "To allow to, not to prevent (+ infinitive, but usually without to).; To allow to be or do without interference; to not disturb or meddle with; to leave alone."
+    },
+    {
+      "word": "LETTER",
+      "hint": "A symbol in an alphabet.; A written or printed communication, usually defined as longer and more formal than a note. (Sometimes specifically one that is on paper.)"
+    },
+    {
+      "word": "LIBRARY",
+      "hint": "An institution which holds books and/or other forms of media for use by the public or qualified people often lending them out, as well as providing various other services for its"
+    },
+    {
+      "word": "LIFE",
+      "hint": "The state of organisms preceding their death, characterized by biological processes such as metabolism and reproduction and distinguishing them from inanimate objects; the state"
+    },
+    {
+      "word": "LIGHT",
+      "hint": "Electromagnetic radiation in the wavelength range visible to the human eye (about 400–750 nanometers): visible light.; Electromagnetic radiation in the wavelength range visible to"
+    },
+    {
+      "word": "LIKE",
+      "hint": "To enjoy, be pleased by; favor; be in favor of.; To prefer and maintain (an action) as a regular habit or activity."
+    },
+    {
+      "word": "LINE",
+      "hint": "A path through two or more points (compare ‘segment’); a continuous mark, including as made by a pen; any path, curved or straight.; A rope, cord, string, thread, or cable, of any"
+    },
+    {
+      "word": "LIST",
+      "hint": "A strip of fabric, especially from the edge of a piece of cloth.; Material used for cloth selvage."
+    },
+    {
+      "word": "LISTEN",
+      "hint": "To use one's sense of hearing and auditory cognition in an intentional way; to make deliberate use of one's ears; to pay attention to or wait for a specific sound.; To accept"
+    },
+    {
+      "word": "LITTLE",
+      "hint": "Small, not large, limited, particularly"
+    },
+    {
+      "word": "LIVE",
+      "hint": "To be alive; to have life.; To have permanent residence somewhere, to inhabit, to reside."
+    },
+    {
+      "word": "LIVING",
+      "hint": "Enough to fill a living room."
+    },
+    {
+      "word": "LONELY",
+      "hint": "Unhappy due to feeling isolated from contact with other people.; Unfrequented by people; desolate."
+    },
+    {
+      "word": "LONG",
+      "hint": "Having much distance in space from one end to the other.; Travelling or extending too great a distance in space."
+    },
+    {
+      "word": "LOOK",
+      "hint": "To try to see, to pay attention to with one’s eyes.; To appear, to seem."
+    },
+    {
+      "word": "LORD",
+      "hint": "The master of the servants of a household; (historical) the master of a feudal manor; One possessing similar mastery over others; (historical) any feudal superior generally; any"
+    },
+    {
+      "word": "LOT",
+      "hint": "A large quantity or number; a great deal.; A separate, appropriated portion; a quantized, subdivided set consisting a whole."
+    },
+    {
+      "word": "LOVE",
+      "hint": "A deep caring for the existence of another.; Strong affection."
+    },
+    {
+      "word": "LOVELY",
+      "hint": "Delightful for beauty, harmony, or grace.; Nice; wonderful."
+    },
+    {
+      "word": "LUCK",
+      "hint": "Something that happens to someone by chance, a chance occurrence.; A superstitious feeling that brings fortune or success."
+    },
+    {
+      "word": "LUCKY",
+      "hint": "Favoured by luck; fortunate; having good success or good fortune.; Producing, or resulting in, good fortune"
+    },
+    {
+      "word": "LUNCH",
+      "hint": "A light meal usually eaten around midday, notably when not as main meal of the day.; A break in play between the first and second sessions."
+    },
+    {
+      "word": "MACHINE",
+      "hint": "A device that directs and controls energy, often in the form of movement or electricity, to produce a certain effect.; A vehicle operated mechanically, such as an automobile or an"
+    },
+    {
+      "word": "MAGAZINE",
+      "hint": "A nonacademic, periodical publication which consists of articles by multiple writers on some broad topic or theme.; An ammunition storehouse."
+    },
+    {
+      "word": "MAIL",
+      "hint": "A bag or wallet. [from 13c.]; A bag containing letters to be delivered by post."
+    },
+    {
+      "word": "MAKE",
+      "hint": "To create.; To behave, to act."
+    },
+    {
+      "word": "MAN",
+      "hint": "An adult male human.; A human, a person regardless of gender or sex, usually an adult."
+    },
+    {
+      "word": "MANY",
+      "hint": "before a countable noun: A large, indefinite number of.; before a countable noun: (in combinations such as ‘as many’, ‘so many’, ‘this many’) Used to indicate, demonstrate or"
+    },
+    {
+      "word": "MAP",
+      "hint": "A visual representation of an area, whether real or imaginary, showing the relative positions of places and other features.; A graphical or logical representation of any structure"
+    },
+    {
+      "word": "MARCH",
+      "hint": "A formal, rhythmic way of walking, used especially by soldiers, by bands, and in ceremonies.; A journey so walked."
+    },
+    {
+      "word": "MATCH",
+      "hint": "Any contest or trial of strength or skill, or to determine superiority.; Equality of conditions in contest or competition."
+    },
+    {
+      "word": "MATH",
+      "hint": "Clipping of mathematics.; Arithmetic calculations; (see do the math)."
+    },
+    {
+      "word": "MATTER",
+      "hint": "Material; substance.; An affair, condition, or subject, especially one of concern or (especially when preceded by the) one that is problematic."
+    },
+    {
+      "word": "MAY",
+      "hint": "To be strong; to have power (over). [8th–17th c.]; To be able; can. [8th–17th c.]"
+    },
+    {
+      "word": "MAYBE",
+      "hint": "Perhaps, possibly.; Perhaps that is true (expressing no commitment to a decision or a neutral viewpoint to a statement)."
     },
     {
       "word": "ME",
-      "hint": "myself"
+      "hint": "Earth mass: a unit of measurement, equal to the mass of planet Earth, which is 6×10 kg or 3×10 M☉.; The mass of the Earth specifically."
+    },
+    {
+      "word": "MEAL",
+      "hint": "Food that is prepared and eaten, usually at a specific time, and usually in a comparatively large quantity.; Food served or eaten as a repast."
+    },
+    {
+      "word": "MEAN",
+      "hint": "To intend.; To convey (a meaning)."
+    },
+    {
+      "word": "MEAT",
+      "hint": "The flesh (muscle tissue) of a killed animal used as food. [from 14th c.]; A food designed to replicate its taste and texture (such as plant-based meat)."
+    },
+    {
+      "word": "MEDICINE",
+      "hint": "A substance which specifically promotes healing when ingested or consumed in some way; a pharmaceutical drug.; Any treatment or cure."
+    },
+    {
+      "word": "MEET",
+      "hint": "To make contact (with someone) while in proximity.; To come together."
+    },
+    {
+      "word": "MEETING",
+      "hint": "The act of persons or things that meet.; A gathering of persons for a purpose; an assembly."
+    },
+    {
+      "word": "MEMORY",
+      "hint": "The ability of the brain to record information or impressions with the facility of recalling them later, usually at will.; A record of a thing or an event stored and available for"
+    },
+    {
+      "word": "MESSAGE",
+      "hint": "A communication, or what is communicated; any concept or information conveyed. [from 14th c.]; An errand. [from 14th c.]"
+    },
+    {
+      "word": "MIDDLE",
+      "hint": "A centre, midpoint.; The part between the beginning and the end."
     },
     {
       "word": "MILK",
-      "hint": "a white drink"
+      "hint": "A white liquid produced by the mammary glands of female mammals to nourish their young. From certain animals, especially cows, it is also called dairy milk and is a common food"
+    },
+    {
+      "word": "MIND",
+      "hint": "The capability for rational thought.; The ability to be aware of things."
+    },
+    {
+      "word": "MINE",
+      "hint": "That or those belonging to me."
+    },
+    {
+      "word": "MINUTE",
+      "hint": "A unit of time which is one sixtieth of an hour (sixty seconds).; A short but unspecified time period."
+    },
+    {
+      "word": "MISS",
+      "hint": "To fail to hit, catch, grasp, etc.; To avoid hitting."
+    },
+    {
+      "word": "MOBILE",
+      "hint": "Capable of being moved, especially on wheels.; Able to move freely or easily."
+    },
+    {
+      "word": "MOM",
+      "hint": "Mother.; An adult female owner of a pet."
+    },
+    {
+      "word": "MOMENT",
+      "hint": "A particular point, or relatively small region.; A brief, unspecified amount of time."
+    },
+    {
+      "word": "MONDAY",
+      "hint": "The second day of the week in many religious traditions, and the first day of the week in systems using the ISO 8601 norm. It follows Sunday and precedes Tuesday."
+    },
+    {
+      "word": "MONEY",
+      "hint": "A generally accepted means of exchange.; A currency maintained by a state or other entity which can guarantee its value (such as a monetary union). (Can we clean up this sense?)"
+    },
+    {
+      "word": "MONTH",
+      "hint": "A period into which a year is divided, historically based on the phases of the moon.; A period of 30 days, 31 days, or some alternation thereof."
+    },
+    {
+      "word": "MOON",
+      "hint": "Any natural satellite of a planet.; A month, particularly a lunar month."
+    },
+    {
+      "word": "MORE",
+      "hint": "comparative degree of many: in greater number. (Used for a discrete quantity.); comparative degree of much: in greater quantity, amount, or proportion. (Used for a continuous"
+    },
+    {
+      "word": "MORNING",
+      "hint": "The early part of the day, especially from midnight to noon. [from 13th c.]; The early part of anything. [from 16th c.]"
+    },
+    {
+      "word": "MOST",
+      "hint": "superlative degree of much.; superlative degree of many: the comparatively largest number of (construed with the definite article)"
+    },
+    {
+      "word": "MOTHER",
+      "hint": "A female parent, especially of a human; a female who parents a child (which she has given birth to, adopted, fostered, etc).; A pregnant female; mother-to-be; a female who"
+    },
+    {
+      "word": "MOUNTAIN",
+      "hint": "An elevation of land of considerable dimensions rising more or less abruptly, forming a conspicuous figure in the landscape, usually having a small extent of surface at its"
+    },
+    {
+      "word": "MOUTH",
+      "hint": "The front opening of a creature through which food is ingested.; The end of a river out of which water flows into a sea or other large body of water; or the end of a tributary out"
+    },
+    {
+      "word": "MOVE",
+      "hint": "To change place or posture; to go, in any manner, from one place or position to another.; To act; to take action; to begin to act"
+    },
+    {
+      "word": "MOVIE",
+      "hint": "A recorded sequence of images displayed on a screen at a rate sufficiently fast to create the appearance of motion; a film; a video.; A professionally made motion picture of a"
+    },
+    {
+      "word": "MUCH",
+      "hint": "A large amount of. [from 13th c.]; Used to indicate, demonstrate or compare the quantity of something."
+    },
+    {
+      "word": "MUM",
+      "hint": "(UK, Ireland, Canada, New England, South Africa, India, Singapore, Australia, New Zealand, informal) mother"
+    },
+    {
+      "word": "MUSIC",
+      "hint": "A series of sounds organized in time, usually employing some combination of harmony, melody, rhythm, tempo, etc., often to convey a mood.; Any interesting or pleasing sounds."
+    },
+    {
+      "word": "MUST",
+      "hint": "To do as a requirement; indicates that the sentence subject is required as an imperative or directive to execute the sentence predicate, with failure to do so resulting in a"
     },
     {
       "word": "MY",
-      "hint": "belonging to me"
+      "hint": "Symbol for megayear(s)."
+    },
+    {
+      "word": "NAME",
+      "hint": "Any nounal word or phrase which indicates a particular person, place, class, or thing.; A reputation."
+    },
+    {
+      "word": "NEAR",
+      "hint": "Physically close.; Close in time."
+    },
+    {
+      "word": "NECK",
+      "hint": "The part of the body connecting the head and the trunk found in humans and some animals.; The corresponding part in some other anatomical contexts."
+    },
+    {
+      "word": "NEED",
+      "hint": "A requirement for something; something needed.; A desire or craving for the satisfaction of a requirement perceived as essential or primal."
+    },
+    {
+      "word": "NEVER",
+      "hint": "At no time; on no occasion; in no circumstance.; Not at any other time; not on any other occasion; not previously."
+    },
+    {
+      "word": "NEW",
+      "hint": "Recently made, or created.; Additional; recently discovered."
+    },
+    {
+      "word": "NEWS",
+      "hint": "New information of interest.; Information about current events disseminated by the media."
+    },
+    {
+      "word": "NEWSPAPER",
+      "hint": "A publication, usually published daily or weekly, containing news and other articles. Traditionally a print publication typically printed on cheap, low-quality paper; today"
+    },
+    {
+      "word": "NICE",
+      "hint": "Pleasant, satisfactory, complimentary. [from 18th c.]; Of a person: friendly, attractive. [from 18th c.]"
     },
     {
       "word": "NIGHT",
-      "hint": "time with darkness"
+      "hint": "The time when the Sun is below the horizon when the sky is dark.; The period of darkness beginning at the end of evening astronomical twilight when the sun is 18 degrees below the"
+    },
+    {
+      "word": "NINE",
+      "hint": "A numerical value equal to 9; the number following eight and preceding ten.; Describing a group or set with nine elements."
     },
     {
       "word": "NO",
-      "hint": "not any"
+      "hint": "Not any.; Hardly any."
+    },
+    {
+      "word": "NOISE",
+      "hint": "Various sounds, usually unwanted or unpleasant.; Any sound."
+    },
+    {
+      "word": "NOSE",
+      "hint": "A protuberance on the face housing the nostrils, which are used to breathe or smell.; A snout, the nose of an animal."
+    },
+    {
+      "word": "NOT",
+      "hint": "A unary operation on logical values that changes true to false, and false to true."
+    },
+    {
+      "word": "NOTE",
+      "hint": "A symbol or annotation.; A written or printed communication or commitment."
+    },
+    {
+      "word": "NOTHING",
+      "hint": "Not any thing; no thing.; An absence of anything, including empty space, brightness, darkness, matter, or a vacuum."
+    },
+    {
+      "word": "NOVEMBER",
+      "hint": "Alternative letter-case form of November from the NATO/ICAO Phonetic Alphabet."
+    },
+    {
+      "word": "NOW",
+      "hint": "Present; current.; Fashionable; popular; up to date; current."
+    },
+    {
+      "word": "NUMBER",
+      "hint": "Quantity of countable things.; An abstract entity used to describe quantity."
+    },
+    {
+      "word": "NURSE",
+      "hint": "A person involved in providing direct care for the sick; A person (usually a woman) who takes care of other people’s children."
+    },
+    {
+      "word": "OCTOBER",
+      "hint": "A type of ale traditionally brewed in October. [from 18th c.]"
     },
     {
       "word": "OF",
-      "hint": "belonging to"
+      "hint": "Expressing distance or motion.; Expressing separation."
+    },
+    {
+      "word": "OFF",
+      "hint": "In a direction away from the speaker or other reference point.; Into a state of non-operation or non-existence."
+    },
+    {
+      "word": "OFFICE",
+      "hint": "A ceremonial duty or service, particularly; A position of responsibility."
+    },
+    {
+      "word": "OFFICER",
+      "hint": "One who has a position of authority in a hierarchical organization, especially in military, police or government organizations.; A respectful term of address for an officer,"
+    },
+    {
+      "word": "OFTEN",
+      "hint": "Frequently; many times on different occasions."
+    },
+    {
+      "word": "OH",
+      "hint": "Expression of surprise.; Expression of wonder, amazement, or awe."
+    },
+    {
+      "word": "OK",
+      "hint": "Endorsement; approval; acceptance; acquiescence."
+    },
+    {
+      "word": "OLD",
+      "hint": "Of an object, concept, relationship, etc., having existed for a relatively long period of time.; Having been used and thus no longer new or unused."
     },
     {
       "word": "ON",
-      "hint": "on top"
+      "hint": "In the state of being active, functioning or operating.; Happening; taking place; being or due to be put into action."
+    },
+    {
+      "word": "ONCE",
+      "hint": "One and only one time.; Formerly; during some period in the past."
+    },
+    {
+      "word": "ONE",
+      "hint": "The number represented by the Arabic numeral 1; the numerical value equal to that cardinal number.; The first positive number in the set of natural numbers."
+    },
+    {
+      "word": "ONLY",
+      "hint": "Alone in a category.; Singularly superior; the best."
+    },
+    {
+      "word": "OPEN",
+      "hint": "Physically unobstructed, uncovered, etc.; Able to be used or interacted with in some way."
     },
     {
       "word": "OR",
-      "hint": "as an alternative"
+      "hint": "Inclusive or; either one proposition or the other is true or both.; A lexical symbol to implement inclusive or in a computer language."
+    },
+    {
+      "word": "ORANGE",
+      "hint": "An evergreen tree of the genus Citrus such as Citrus sinensis which yields oranges (the fruit).; Any round citrus fruit with a yellow-red colour when ripe and a sour-sweet taste;"
+    },
+    {
+      "word": "ORDER",
+      "hint": "Arrangement, disposition, or sequence.; A position in an arrangement, disposition, or sequence."
+    },
+    {
+      "word": "OTHER",
+      "hint": "See other (determiner) below.; Second."
+    },
+    {
+      "word": "OUR",
+      "hint": "Belonging to us, excluding the person(s) being addressed (exclusive our).; Belonging to us, including the person(s) being addressed (inclusive our)."
+    },
+    {
+      "word": "OURS",
+      "hint": "That or those belonging to us.; That or those belonging to any entity that the speaker is a part of or identifies with, such as place of employment or education, nation, region,"
+    },
+    {
+      "word": "OUT",
+      "hint": "Away from the inside or centre.; Away from, or at a distance from, some point of reference or focus."
+    },
+    {
+      "word": "OUTSIDE",
+      "hint": "The part of something that faces out; the outer surface.; The external appearance of someone or something."
+    },
+    {
+      "word": "OVER",
+      "hint": "Finished; ended; concluded.; Hopeless; irrecoverable."
+    },
+    {
+      "word": "OWN",
+      "hint": "Belonging to; possessed; acquired and designated by; proper to; property of; titled to; held in one's name; under/using the name of. Often marks a possessive determiner as"
+    },
+    {
+      "word": "OWNER",
+      "hint": "One who owns something.; The captain of a ship."
+    },
+    {
+      "word": "PAGE",
+      "hint": "One of the many pieces of paper bound together within a book or similar document.; One side of a paper leaf in a bound document."
+    },
+    {
+      "word": "PAINT",
+      "hint": "A substance that is applied as a liquid or paste, and dries into a solid coating that protects or adds colour to an object or surface to which it has been applied.; A set of"
+    },
+    {
+      "word": "PAINTING",
+      "hint": "An illustration or artwork done with the use of paint.; The action of applying paint to a surface."
+    },
+    {
+      "word": "PAIR",
+      "hint": "Two alike or identical things taken together; often followed by of.; Two people in a relationship, partnership or friendship."
+    },
+    {
+      "word": "PALACE",
+      "hint": "Official residence of a head of state or other dignitary, especially in a monarchical or imperial governmental system.; A large and lavishly ornate residence."
+    },
+    {
+      "word": "PANTS",
+      "hint": "(Canada, US, Australia, New Zealand, South Africa, India, Philippines, Singapore, Northern England) An outer garment that covers the body from the waist downwards, covering each"
+    },
+    {
+      "word": "PAPER",
+      "hint": "A sheet material typically used for writing on or printing on (or as a non-waterproof container), usually made by draining cellulose fibres from a suspension in water.; Ellipsis"
+    },
+    {
+      "word": "PARENT",
+      "hint": "A person who raises a child (which they have made, adopted, fostered, taken as their own, etc.). [from 15th c.]; A person who has had a baby; this person in relation to their"
+    },
+    {
+      "word": "PARK",
+      "hint": "An area of land set aside for environment preservation or recreation.; A wide, flat-bottomed valley in a mountainous region."
+    },
+    {
+      "word": "PARTNER",
+      "hint": "Either of a pair of people or things that belong together.; Someone who is associated with another in a common activity or interest."
+    },
+    {
+      "word": "PARTY",
+      "hint": "A person or group of people constituting one side in a legal proceeding, such as in a legal action or a contract. [from ca. 1300s]; A person; an individual. [from after 1475]"
+    },
+    {
+      "word": "PAST",
+      "hint": "The period of time that has already happened, in contrast to the present and the future.; The past tense."
+    },
+    {
+      "word": "PAY",
+      "hint": "To give money or other compensation to in exchange for goods or services.; To deposit into an account."
+    },
+    {
+      "word": "PEACE",
+      "hint": "A state of tranquility, quiet, and harmony. For instance, a state free from civil disturbance.; A feeling of tranquility, free from oppressive and unpleasant thoughts and emotions."
+    },
+    {
+      "word": "PEN",
+      "hint": "An enclosure (enclosed area) used to contain domesticated animals, especially sheep or cattle.; A penitentiary, i.e. a state or federal prison for convicted felons."
+    },
+    {
+      "word": "PEOPLE",
+      "hint": "To observe people and their behavior as a recreational activity."
+    },
+    {
+      "word": "PERIOD",
+      "hint": "A length of time. [from 17th c.]; A length of time in history seen as a single coherent entity; an epoch, era. [from 16th c.]"
+    },
+    {
+      "word": "PERSON",
+      "hint": "An individual who has been granted personhood; usually a human being. [from 13th c.]; The physical body of a being seen as distinct from the mind, character, etc. [from 14th c.]"
+    },
+    {
+      "word": "PERSONAL",
+      "hint": "Pertaining to persons (human beings as opposed to things or animals).; Of or pertaining to a particular person; relating to, or affecting, an individual, or each of many"
+    },
+    {
+      "word": "PET",
+      "hint": "An animal kept as a companion or otherwise for pleasure, rather than for some practical benefit or use.; Something kept as a companion, including inanimate objects."
+    },
+    {
+      "word": "PHONE",
+      "hint": "A device for transmitting conversations and other sounds in real time across distances, now often a small portable unit also capable of running software etc.; A person's telephone"
+    },
+    {
+      "word": "PHOTO",
+      "hint": "A photograph.; A photo finish."
+    },
+    {
+      "word": "PIANO",
+      "hint": "A percussive keyboard musical instrument, usually ranging over seven octaves, with white and black colored keys, played by pressing these keys, causing hammers to strike strings."
+    },
+    {
+      "word": "PICK",
+      "hint": "A tool used for digging; a pickaxe.; An anchor."
+    },
+    {
+      "word": "PICTURE",
+      "hint": "A representation of anything (as a person, a landscape, a building) upon canvas, paper, or other surface, by drawing, painting, printing, photography, etc.; An image; a"
+    },
+    {
+      "word": "PIECE",
+      "hint": "A part of a larger whole, usually in such a form that it is able to be separated from other parts.; A single item belonging to a class of similar items."
+    },
+    {
+      "word": "PIG",
+      "hint": "Persuade, Identify, GOTV, an electoral technique commonly employed in the United Kingdom.; Police in gear."
+    },
+    {
+      "word": "PINK",
+      "hint": "A color reminiscent of pinks, the flowers. [from 17th c.]; Any of various flowers of that colour in the genus Dianthus, sometimes called carnations. [from 16th c.]"
+    },
+    {
+      "word": "PIZZA",
+      "hint": "A baked Italian dish of a thinly rolled bread crust typically topped before baking with tomato sauce, cheese, and other ingredients such as meat or vegetables.; A single instance"
+    },
+    {
+      "word": "PLACE",
+      "hint": "An area; somewhere within an area.; A location or position in space."
+    },
+    {
+      "word": "PLAN",
+      "hint": "A drawing showing technical details of a building, machine, etc., with unwanted details omitted, and often using symbols rather than detailed drawing to represent doors, valves,"
+    },
+    {
+      "word": "PLANE",
+      "hint": "Of a surface: flat or level."
+    },
+    {
+      "word": "PLAY",
+      "hint": "To act in a manner such that one has fun; to engage in activities expressly for the purpose of recreation or entertainment.; To toy or trifle; to act with levity or"
+    },
+    {
+      "word": "PLAYER",
+      "hint": "One that plays.; One who is playful; one without serious aims; an idler; a trifler."
+    },
+    {
+      "word": "PLEASE",
+      "hint": "To make happy or satisfy; to give pleasure to.; To desire; to will; to be pleased by."
+    },
+    {
+      "word": "PLEASURE",
+      "hint": "A state of being pleased or contented; gratification.; A person, thing or action that causes enjoyment."
+    },
+    {
+      "word": "POCKET",
+      "hint": "A bag stitched to an item of clothing, used for carrying small items.; A person's financial resources."
+    },
+    {
+      "word": "POINT",
+      "hint": "A small dot or mark.; A small discrete division or individual feature of something."
+    },
+    {
+      "word": "POOL",
+      "hint": "A small and rather deep area of (usually) fresh water, as one supplied by a spring, or occurring in the course of a stream or river; a reservoir for water.; Any small body of"
+    },
+    {
+      "word": "POOR",
+      "hint": "With no or few possessions or money, particularly in relation to contemporaries who do have them.; Of low quality."
+    },
+    {
+      "word": "POP",
+      "hint": "A loud, sharp sound, as of a cork coming out of a bottle, especially when the contents are pressurized by fizziness.; (uncountable, regional, Midwestern US, Canada, Inland"
+    },
+    {
+      "word": "POST",
+      "hint": "A long dowel or plank protruding from the ground; a fencepost; a lightpost.; A pole in a battery."
+    },
+    {
+      "word": "PRACTICE",
+      "hint": "Repetition of an activity to improve a skill.; The ongoing pursuit of a craft or profession, particularly in medicine or the fine arts."
+    },
+    {
+      "word": "PRAY",
+      "hint": "To direct words, thoughts, or one's attention to a deity or any higher being, for the sake of adoration, thanks, petition for help, etc.; To humbly beg a person for aid or their"
+    },
+    {
+      "word": "PRESENT",
+      "hint": "Relating to now, for the time being; current.; Located in the immediate vicinity."
+    },
+    {
+      "word": "PRETTY",
+      "hint": "Pleasant to the sight or other senses; attractive, especially of women or children. [from 15th c.]; Of objects or things: nice-looking, appealing. [from 15th c.]"
+    },
+    {
+      "word": "PRICE",
+      "hint": "The cost required to gain possession of something.; The cost of an action or deed."
+    },
+    {
+      "word": "PRINCE",
+      "hint": "A (male) ruler, a sovereign; a king, monarch. [from 13th c.]; A female monarch."
+    },
+    {
+      "word": "PRINCESS",
+      "hint": "A female member of a royal family other than a queen, especially a daughter or granddaughter of a monarch. [from 14th c.]; A woman or girl who excels in a given field or class."
+    },
+    {
+      "word": "PROBLEM",
+      "hint": "A difficulty that has to be resolved or dealt with.; A question to be answered, schoolwork exercise."
+    },
+    {
+      "word": "PROGRAM",
+      "hint": "A set of structured activities; a plan of action.; A leaflet listing information about a play, game or other activity."
+    },
+    {
+      "word": "PUSH",
+      "hint": "To apply a force to (an object) such that it moves away from the person or thing applying the force.; To continually attempt to persuade (a person) into a particular course of"
+    },
+    {
+      "word": "PUT",
+      "hint": "To physically place (sth or sb swh).; To place in abstract; to attach or attribute; to assign."
+    },
+    {
+      "word": "QUARTER",
+      "hint": "A fourth part of something.; Place or position."
+    },
+    {
+      "word": "QUESTION",
+      "hint": "A worded or expressed sentence, phrase, or only a word on its own, which asks for information, a reply, or a response; an interrogative.; A subject or topic for consideration or"
+    },
+    {
+      "word": "QUICKLY",
+      "hint": "Rapidly; with speed; fast; with expedition.; Very soon."
+    },
+    {
+      "word": "QUIET",
+      "hint": "With little or no sound; free of disturbing noise.; Having little motion or activity; calm."
+    },
+    {
+      "word": "RADIO",
+      "hint": "The technology that allows for the transmission of sound or other signals by modulation of electromagnetic waves.; A device that can capture (receive) the signal sent over radio"
+    },
+    {
+      "word": "RAIN",
+      "hint": "Condensed water falling from a cloud.; Any matter moving or falling, usually through air, and especially if liquid or otherwise figuratively identifiable with raindrops."
+    },
+    {
+      "word": "RE",
+      "hint": "About, regarding, with reference to; used especially in letters, documents, emails and case law."
+    },
+    {
+      "word": "READ",
+      "hint": "To look at and interpret letters or other information that is written.; To speak aloud words or other information that is written. (often construed with a to phrase or an indirect"
+    },
+    {
+      "word": "READING",
+      "hint": "An event at which children gather to listen to a story being read aloud."
+    },
+    {
+      "word": "READY",
+      "hint": "Prepared for immediate action or use.; Inclined; apt to happen."
+    },
+    {
+      "word": "REAL",
+      "hint": "True, genuine, not merely nominal or apparent.; Genuine, not artificial, counterfeit, or fake."
+    },
+    {
+      "word": "REALLY",
+      "hint": "In a way or manner that is real, not unreal.; Actually; in fact; in reality."
+    },
+    {
+      "word": "REASON",
+      "hint": "A cause; Rational thinking (or the capacity for it); the cognitive faculties, collectively, of conception, judgment, deduction and intuition."
     },
     {
       "word": "RED",
-      "hint": "color of blood"
+      "hint": "The colour of the setting sun, blood, and strawberries; the colour which is evoked by the longest visible wavelengths (between about 625–740 nm), and a primary additive colour.; A"
+    },
+    {
+      "word": "REMEMBER",
+      "hint": "To recall from one's memory; to have an image in one's memory.; To memorize; to put something into memory."
+    },
+    {
+      "word": "REPEAT",
+      "hint": "To do or say again (and again).; To refill (a prescription)."
+    },
+    {
+      "word": "REPORTER",
+      "hint": "Someone or something that reports.; A journalist who investigates, edits and reports news stories for newspapers, radio and television."
+    },
+    {
+      "word": "RESTAURANT",
+      "hint": "An eating establishment in which diners are served food, usually by waiters at their tables but sometimes (as in a fast food restaurant) at a counter."
+    },
+    {
+      "word": "RESULT",
+      "hint": "To proceed, spring up or rise, as a consequence, from facts, arguments, premises, combination of circumstances, consultation, thought or endeavor.; To have as a consequence; to"
+    },
+    {
+      "word": "REVIEW",
+      "hint": "A second or subsequent reading of a text or artifact in an attempt to gain new insights.; An account intended as a critical evaluation of a text or a piece of work."
+    },
+    {
+      "word": "RICE",
+      "hint": "Cereal plants, Oryza sativa of the grass family whose seeds are used as food.; A specific variety of this plant."
+    },
+    {
+      "word": "RICH",
+      "hint": "Wealthy: having a lot of money and possessions.; Having an intense fatty or sugary flavour."
+    },
+    {
+      "word": "RIDE",
+      "hint": "To transport oneself by sitting on and directing a horse, later also a bicycle etc. [from 8th c., transitive usage from 9th c.]; To be transported in a vehicle; to travel as a"
+    },
+    {
+      "word": "RIGHT",
+      "hint": "Designating the side of the body which is positioned to the east if one is facing north, the side on which the heart is not located in most humans. This arrow points to the"
+    },
+    {
+      "word": "RING",
+      "hint": "A solid object in the shape of a circle.; A group of objects arranged in a circle."
+    },
+    {
+      "word": "RIVER",
+      "hint": "A large and often winding stream which drains a land mass, carrying water down from higher areas to a lower point, oftentimes ending in another body of water, such as an ocean or"
+    },
+    {
+      "word": "ROLE",
+      "hint": "A character or part played by a performer or actor.; The expected behaviour of an individual in a society."
+    },
+    {
+      "word": "ROOM",
+      "hint": "An opportunity or scope (to do something). [from 9th c.]; Space for something, or to carry out an activity. [from 10th c.]"
+    },
+    {
+      "word": "ROSE",
+      "hint": "A shrub of the genus Rosa, with red, pink, white or yellow flowers.; A flower of the rose plant."
+    },
+    {
+      "word": "ROW",
+      "hint": "A line of objects, often regularly spaced, such as seats in a theatre, vegetable plants in a garden, etc.; A horizontal line of entries in a table, etc., going from left to right,"
+    },
+    {
+      "word": "RUDE",
+      "hint": "Lacking in refinement or civility; bad-mannered; discourteous.; Lacking refinement or skill; untaught; ignorant; raw."
+    },
+    {
+      "word": "RULE",
+      "hint": "A regulation, law, guideline.; A regulating principle."
     },
     {
       "word": "RUN",
-      "hint": "to move quickly"
+      "hint": "To move swiftly.; To flow."
+    },
+    {
+      "word": "SAD",
+      "hint": "Emotionally negative.; Sated, having had one's fill; satisfied, weary."
+    },
+    {
+      "word": "SALE",
+      "hint": "An exchange of goods or services for currency or credit.; Ellipsis of discount sale (“the sale of goods at reduced prices”)."
+    },
+    {
+      "word": "SAME",
+      "hint": "Not different or other; not another or others; not different as regards self; selfsame; identical.; Lacking variety from; indistinguishable."
+    },
+    {
+      "word": "SATURDAY",
+      "hint": "The seventh day of the week in many religious traditions, and the sixth day of the week in systems using the ISO 8601 norm; the Jewish Sabbath; it follows Friday and precedes"
+    },
+    {
+      "word": "SAVE",
+      "hint": "To prevent harm or difficulty.; To put aside; to avoid."
+    },
+    {
+      "word": "SAW",
+      "hint": "صَلَّى اللّٰهُ عَلَيْهِ وَسَلَّمَ (ṣallā llāhu ʕalayhi wa-sallama, “peace be upon him”)"
+    },
+    {
+      "word": "SAY",
+      "hint": "To pronounce.; To recite."
     },
     {
       "word": "SCHOOL",
-      "hint": "place to learn"
+      "hint": "An institution dedicated to teaching and learning; an educational institution.; An educational institution providing primary and secondary education, prior to tertiary education"
+    },
+    {
+      "word": "SCIENCE",
+      "hint": "A particular discipline or branch of knowledge that is natural, measurable or consisting of systematic principles rather than intuition or technical skill. [from 14th c.];"
+    },
+    {
+      "word": "SCIENTIST",
+      "hint": "One whose activities make use of the scientific method to answer questions regarding the measurable universe. A scientist may be involved in original research, or make use of the"
+    },
+    {
+      "word": "SEA",
+      "hint": "A large body of salt water.; A lake, especially if large or if salty or brackish."
+    },
+    {
+      "word": "SEAT",
+      "hint": "Something to be sat upon.; A location or site."
+    },
+    {
+      "word": "SECOND",
+      "hint": "Number-two; following after the first one with nothing between them. The ordinal number corresponding to the cardinal number two.; Next to the first in value, power, excellence,"
+    },
+    {
+      "word": "SECTION",
+      "hint": "A cutting; a part cut out from the rest of something.; A part, piece, subdivision of anything."
+    },
+    {
+      "word": "SEE",
+      "hint": "To perceive or detect someone or something with the eyes, or as if by sight.; To form a mental picture of, to perceive in a certain way."
+    },
+    {
+      "word": "SELF",
+      "hint": "Himself, herself, itself, themself, themselves; that specific (person mentioned).; Myself, oneself."
+    },
+    {
+      "word": "SELL",
+      "hint": "To transfer goods or provide services in exchange for money.; To be sold."
+    },
+    {
+      "word": "SENTENCE",
+      "hint": "The decision or judgement of a jury or court; a verdict. [from 14th c.]; The judicial order for a punishment to be imposed on a person convicted of a crime. [from 14th c.]"
+    },
+    {
+      "word": "SEPTEMBER",
+      "hint": "Characteristic of the month of September."
+    },
+    {
+      "word": "SET",
+      "hint": "Gene for a human protein involved in apoptosis, transcription and nucleosome assembly.; Initialism of Simulated Emergency Test, an amateur radio training exercise."
+    },
+    {
+      "word": "SEVEN",
+      "hint": "A numerical value equal to 7; the number following six and preceding eight. This many dots: (•••••••). Describing a group or set with seven elements."
+    },
+    {
+      "word": "SHAKE",
+      "hint": "To cause (something) to move rapidly in opposite directions alternatingly.; To move (one's head) from side to side, especially to indicate refusal, reluctance, or disapproval."
+    },
+    {
+      "word": "SHARE",
+      "hint": "A portion of something, especially a portion given or allotted to someone.; A financial instrument that shows that one owns a part of a company that provides the benefit of"
+    },
+    {
+      "word": "SHE",
+      "hint": "The female (typically) person or animal previously mentioned or implied.; A ship or boat."
+    },
+    {
+      "word": "SHIP",
+      "hint": "A water-borne vessel generally larger than a boat.; A vessel which travels through any medium other than across land, such as an airship or spaceship."
+    },
+    {
+      "word": "SHIRT",
+      "hint": "An article of clothing that is worn on the upper part of the body, often with sleeves that cover some or all of the arms.; An interior lining in a blast furnace."
+    },
+    {
+      "word": "SHOE",
+      "hint": "A protective covering for the foot, with a bottom part composed of thick leather or plastic sole and often a thicker heel, and a softer upper part made of leather or synthetic"
+    },
+    {
+      "word": "SHOP",
+      "hint": "An establishment that sells goods or services to the public; originally only a physical location, but now a virtual establishment as well.; A place where things are manufactured"
+    },
+    {
+      "word": "SHOPPING",
+      "hint": "An establishment that sells goods or services to the public; originally only a physical location, but now a virtual establishment as well.; A place where things are manufactured"
+    },
+    {
+      "word": "SHORT",
+      "hint": "Having a small distance from one end or edge to another, either horizontally or vertically.; Of a person, living being, or object, having a comparatively small height."
+    },
+    {
+      "word": "SHOULD",
+      "hint": "simple past of shall"
+    },
+    {
+      "word": "SHOULDER",
+      "hint": "The part of an animal's body between the base of the neck and arm socket.; Anything forming a shape resembling a human shoulder."
+    },
+    {
+      "word": "SHOW",
+      "hint": "To display, convey or exhibit; to have something available for others to see; to direct attention to something.; To prove (a fact) to be true; to demonstrate; to instruct."
+    },
+    {
+      "word": "SHOWER",
+      "hint": "A brief fall of precipitation (spell of rain, or a similar fall of snow, sleet, or cascade); burst of hefty precipitation.; A device for bathing by which water is made to fall on"
+    },
+    {
+      "word": "SICK",
+      "hint": "In poor health; ill.; Having an urge to vomit."
+    },
+    {
+      "word": "SIDE",
+      "hint": "A bounding straight edge of a two-dimensional shape.; A flat surface of a three-dimensional object; a face."
+    },
+    {
+      "word": "SIGHT",
+      "hint": "The sense or faculty by which objects are perceived through the agency of light; the sense by which we see.; An act or instance of seeing; the perception of objects by the eye;"
+    },
+    {
+      "word": "SIGN",
+      "hint": "A visible fact that shows that something exists or may happen.; A mark or another symbol used to represent something."
+    },
+    {
+      "word": "SING",
+      "hint": "To produce musical or harmonious sounds with one’s voice.; To perform a vocal part in a musical composition, regardless of technique."
+    },
+    {
+      "word": "SINGER",
+      "hint": "A person who sings, often professionally.; dance figure with a fixed structure, sung by a caller, or a piece of music with that structure."
+    },
+    {
+      "word": "SIR",
+      "hint": "A man of a higher rank or position.; A respectful term of address to a man of higher rank or position, particularly"
+    },
+    {
+      "word": "SISTER",
+      "hint": "A daughter of the same parents as another person; a female sibling.; A female member of a religious order; especially one devoted to more active service; (informal) a nun."
+    },
+    {
+      "word": "SIT",
+      "hint": "To be in a position in which the upper body is upright and supported by the buttocks.; To move oneself into such a position."
+    },
+    {
+      "word": "SITE",
+      "hint": "The place where anything is fixed; situation; local position; A place fitted or chosen for any certain permanent use or occupation"
+    },
+    {
+      "word": "SIX",
+      "hint": "A numerical value equal to 6; the number following five and preceding seven. This number of dots: (••••••)."
+    },
+    {
+      "word": "SIZE",
+      "hint": "The dimensions or magnitude of a thing; how big something is. [from 15th c.]; A specific set of dimensions for a manufactured article, especially clothing. [from 16th c.]"
+    },
+    {
+      "word": "SKILL",
+      "hint": "A capacity to do something well; a technique, an ability, usually acquired or learned, as opposed to abilities that are regarded as innate.; A reusable configuration (prompt) that"
+    },
+    {
+      "word": "SKY",
+      "hint": "The atmosphere above a given point, especially as visible from the surface of the Earth as the place where the sun, moon, stars, and clouds are seen.; With a descriptive word: the"
+    },
+    {
+      "word": "SLEEP",
+      "hint": "To rest in a state of reduced consciousness.; To have sexual intercourse (see sleep with)."
+    },
+    {
+      "word": "SLOW",
+      "hint": "Taking a long time to move or go a short distance, or to perform an action; not quick in motion; proceeding at a low speed.; Not happening in a short time; spread over a"
     },
     {
       "word": "SMALL",
-      "hint": "not big"
+      "hint": "Not large or big; insignificant; few in number.; Young, as a child."
+    },
+    {
+      "word": "SMART",
+      "hint": "To hurt or sting.; To cause a smart or sting in."
+    },
+    {
+      "word": "SMELL",
+      "hint": "A sensation, pleasant or unpleasant, detected by inhaling air (or, the case of water-breathing animals, water) carrying airborne molecules of a substance.; The sense that detects"
+    },
+    {
+      "word": "SMILE",
+      "hint": "A facial expression comprised by flexing the muscles of both ends of one's mouth, often showing the front teeth, without vocalisation, and in humans is a common involuntary or"
+    },
+    {
+      "word": "SMITH",
+      "hint": "A craftsperson who works metal into desired forms using a hammer and other tools, sometimes heating the metal to make it more workable, especially a blacksmith.; One who makes"
+    },
+    {
+      "word": "SMOKE",
+      "hint": "The visible vapor/vapour, gases, and fine particles given off by burning or smoldering material.; A cigarette."
+    },
+    {
+      "word": "SMOKING",
+      "hint": "Full of smoke; smoky."
+    },
+    {
+      "word": "SNAKE",
+      "hint": "Any of the suborder Serpentes of legless reptiles with long, thin bodies and fork-shaped tongues.; A person who acts deceitfully for personal or social gain; a treacherous person."
+    },
+    {
+      "word": "SNOW",
+      "hint": "The partly frozen, crystalline state of water that falls from the atmosphere as precipitation in flakes; also, the falling of such flakes; and the accumulation of them on the"
     },
     {
       "word": "SO",
-      "hint": "therefore"
+      "hint": "Reduced form of 'so that', used to express purpose; in order that.; As a result; for that reason; therefore; because of this; due to this."
+    },
+    {
+      "word": "SOCIAL",
+      "hint": "Being extroverted or outgoing.; Of or relating to society."
+    },
+    {
+      "word": "SOLVE",
+      "hint": "To find an answer or solution to a problem or question; to work out.; to find out the perpetrator, the motive etc (of crime)"
+    },
+    {
+      "word": "SOME",
+      "hint": "A certain number (multiple but not all).; An indefinite quantity."
+    },
+    {
+      "word": "SOMEONE",
+      "hint": "One or some person of unspecified or indefinite identity."
+    },
+    {
+      "word": "SOMETHING",
+      "hint": "An uncertain or unspecified thing; one thing.; A quality to a moderate degree."
+    },
+    {
+      "word": "SON",
+      "hint": "One's male offspring.; A male adopted person in relation to his adoptive parents."
+    },
+    {
+      "word": "SONG",
+      "hint": "A musical composition with lyrics for voice or voices, performed by singing.; Any musical composition."
+    },
+    {
+      "word": "SOON",
+      "hint": "Short in length of time from the present.; Early."
+    },
+    {
+      "word": "SORRY",
+      "hint": "Regretful or apologetic for one's actions.; Grieved or saddened, especially by the loss of something or someone."
+    },
+    {
+      "word": "SPEAK",
+      "hint": "To communicate with one's voice, to say words out loud.; To have a conversation."
+    },
+    {
+      "word": "SPECIAL",
+      "hint": "Distinguished by a unique, particular, or unusual quality.; Of particular value or interest; dear; beloved."
+    },
+    {
+      "word": "SPEECH",
+      "hint": "The ability to speak; the faculty of uttering words or articulate sounds and vocalizations to communicate.; The act of speaking, a certain style of it."
+    },
+    {
+      "word": "SPELL",
+      "hint": "Words or a formula supposed to have magical powers. [from 16th c.]; A magical effect or influence induced by an incantation or formula. [from 16th c.]"
+    },
+    {
+      "word": "SPEND",
+      "hint": "To pay out (money).; To bestow; to employ; often with on or upon."
+    },
+    {
+      "word": "SPORT",
+      "hint": "Any activity that uses physical exertion or skills competitively under a set of rules that is not based on aesthetics.; A person who exhibits either good or bad sportsmanship."
+    },
+    {
+      "word": "SPOT",
+      "hint": "A round or irregular patch on the surface of a thing having a different color, texture etc. and generally round in shape.; A stain or disfiguring mark."
+    },
+    {
+      "word": "SPRING",
+      "hint": "To move or burst forth.; To cause to spring (all senses)."
+    },
+    {
+      "word": "SPY",
+      "hint": "A person who secretly watches and examines the actions of other individuals or organizations and gathers information on them (usually to gain an advantage).; A defensive player"
+    },
+    {
+      "word": "STAGE",
+      "hint": "A phase.; One of the portions of a device (such as a rocket or thermonuclear weapon) which are used or activated in a particular order, one after another."
+    },
+    {
+      "word": "STAND",
+      "hint": "To position or be positioned physically; To position or be positioned mentally"
+    },
+    {
+      "word": "STAR",
+      "hint": "Any small, natural and bright dot in the sky, most visible in the night or twilight sky. This sense includes the planets, but it is now sometimes used in exclusion of them due to"
+    },
+    {
+      "word": "START",
+      "hint": "The beginning of an activity.; A sudden involuntary movement."
+    },
+    {
+      "word": "STATION",
+      "hint": "A stopping place.; A place where workers are stationed."
+    },
+    {
+      "word": "STAY",
+      "hint": "To remain in a particular place, especially for a definite or short period of time; sojourn; abide.; To continue to have a particular quality."
+    },
+    {
+      "word": "STEP",
+      "hint": "An advance or movement made from one foot to the other; a pace.; A rest, or one of a set of rests, for the foot in ascending or descending, as a stair, or a rung of a ladder."
+    },
+    {
+      "word": "STILL",
+      "hint": "Not moving; calm.; Not effervescing; not sparkling."
+    },
+    {
+      "word": "STONE",
+      "hint": "A hard earthen substance that can form rocks; especially, such substance when regarded as a building material.; A piece of such material: a block of stone, rock or a pebble."
+    },
+    {
+      "word": "STOP",
+      "hint": "To cease moving.; Not to continue."
+    },
+    {
+      "word": "STORE",
+      "hint": "A place where items may be accumulated or routinely kept.; A supply held in storage."
+    },
+    {
+      "word": "STORY",
+      "hint": "An account of real or fictional events.; A lie, fiction."
+    },
+    {
+      "word": "STRAIGHT",
+      "hint": "Not crooked, curly, or bent; having a constant direction throughout its length. [from 14th c.]; Direct, undeviating. [from 15th c.]"
+    },
+    {
+      "word": "STRANGE",
+      "hint": "Not normal; odd, unusual, surprising, out of the ordinary, often with a negative connotation.; Unfamiliar, not yet part of one's experience."
+    },
+    {
+      "word": "STREET",
+      "hint": "A paved part of road, usually in a village or a town.; A road as above, but including the sidewalks (pavements) and buildings."
+    },
+    {
+      "word": "STRONG",
+      "hint": "Capable of producing great physical force.; Capable of withstanding great physical force."
+    },
+    {
+      "word": "STUDENT",
+      "hint": "A person who studies or learns about a particular subject.; A person who is formally enrolled at a school, a college or university, or another educational institution."
+    },
+    {
+      "word": "STUDY",
+      "hint": "To review materials already learned in order to make sure one does not forget them, usually in preparation for an examination.; To take a course or courses on a subject."
+    },
+    {
+      "word": "SUBJECT",
+      "hint": "Likely to be affected by or to experience something; liable.; Conditional upon something; used with to."
+    },
+    {
+      "word": "SUCCESSFUL",
+      "hint": "Resulting in success; assuring or promoting success; accomplishing what was proposed; having the desired effect."
+    },
+    {
+      "word": "SUGAR",
+      "hint": "A food consisting of small, sweet crystals, principally of sucrose, obtained from sugar cane or sugar beet and used as sweetener and preservative.; Any specific variety of sugar."
+    },
+    {
+      "word": "SUMMER",
+      "hint": "One of four seasons, traditionally the second, marked by the longest and typically hottest days of the year due to the inclination of the Earth and thermal lag. Typically regarded"
     },
     {
       "word": "SUN",
-      "hint": "the star in our sky"
+      "hint": "A star, especially when seen as the centre of any single solar system.; The light and heat which are received from the Sun; sunshine or sunlight."
+    },
+    {
+      "word": "SUNDAY",
+      "hint": "The first day of the week in many religious traditions, and the seventh day of the week in systems using the ISO 8601 standard; the Christian Sabbath; it follows Saturday and"
+    },
+    {
+      "word": "SUPER",
+      "hint": "Of excellent quality, superfine.; Better than average, better than usual; wonderful."
+    },
+    {
+      "word": "SURE",
+      "hint": "Physically secure and certain, non-failing, reliable.; Certain in one's knowledge or belief."
+    },
+    {
+      "word": "SURPRISE",
+      "hint": "Something unexpected.; The feeling that something unexpected has happened."
+    },
+    {
+      "word": "SWEET",
+      "hint": "Tasting of sugars.; Retaining a portion of sugar."
+    },
+    {
+      "word": "SWIM",
+      "hint": "Someone who isn't me; someone who isn't myself"
+    },
+    {
+      "word": "SWIMMING",
+      "hint": "The act or art of sustaining and propelling the body in water."
+    },
+    {
+      "word": "TABLE",
+      "hint": "Furniture with a top surface to accommodate a variety of uses.; A group of people at a table, for example, for a meal, meeting or game."
+    },
+    {
+      "word": "TAKE",
+      "hint": "To get into one's hands, possession, or control, with or without force.; To receive or accept (something, especially something which was given)."
+    },
+    {
+      "word": "TALK",
+      "hint": "To communicate, usually by means of speech.; To discuss; to talk about."
+    },
+    {
+      "word": "TALL",
+      "hint": "Having a top that is far up (contrast: deep ('having a bottom that is far down' ).); Hard to believe, such as a tall story or a tall tale."
+    },
+    {
+      "word": "TAXI",
+      "hint": "A vehicle that may be hired for single journeys by members of the public, particularly one with an automated meter to calculate the fare.; An aircraft used for practicing ground"
+    },
+    {
+      "word": "TEA",
+      "hint": "The tea plant (Camellia sinensis); (countable) a variety of this plant.; The dried leaves or buds of the tea plant; (countable) a variety of such leaves."
+    },
+    {
+      "word": "TEACH",
+      "hint": "To pass on knowledge to.; To pass on knowledge generally, especially as one's profession; to act as a teacher."
+    },
+    {
+      "word": "TEACHER",
+      "hint": "A person who teaches, especially one employed in a school; preceptor.; The index finger; the forefinger."
+    },
+    {
+      "word": "TEAM",
+      "hint": "A set of draught animals, such as two horses in front of a carriage.; Any group of people involved in the same activity, especially sports or work."
+    },
+    {
+      "word": "TECHNOLOGY",
+      "hint": "The combined application of science and art in practical ways in industry, as for example in designing new machines.; Machines or equipment thus designed."
+    },
+    {
+      "word": "TELEPHONE",
+      "hint": "A telecommunication device which converts data or sounds (usually speech) into electrical signals which are then transmitted to enable two or more people to communicate with each"
+    },
+    {
+      "word": "TELEVISION",
+      "hint": "An electronic communication medium that allows the transmission of real-time visual images, and often sound.; An electronic home entertainment device equipped with a screen and a"
+    },
+    {
+      "word": "TELL",
+      "hint": "Mental senses related to determining, reckoning, or perceiving; Social senses of communicating"
+    },
+    {
+      "word": "TEMPLE",
+      "hint": "A house of worship, especially; A meeting house of the Oddfellows fraternity; its members."
+    },
+    {
+      "word": "TEN",
+      "hint": "The number occurring after nine and before eleven, represented in Arabic numerals (base ten) as 10 and in Roman numerals as X."
+    },
+    {
+      "word": "TERRIBLE",
+      "hint": "Dreadful; causing terror, alarm and fear; awesome; Formidable, powerful."
+    },
+    {
+      "word": "TEST",
+      "hint": "A challenge, trial.; The external calciferous shell, or endoskeleton, of an echinoderm, e.g. sand dollars and sea urchins; testa."
+    },
+    {
+      "word": "THAN",
+      "hint": "Used in comparisons, to introduce the basis of comparison.; Because; for."
+    },
+    {
+      "word": "THANK",
+      "hint": "An expression of gratitude.; That expresses thanks."
+    },
+    {
+      "word": "THANKS",
+      "hint": "Used to express appreciation or gratitude."
+    },
+    {
+      "word": "THAT",
+      "hint": "Introducing a clause that is the object of a verb, especially a reporting verb or verb expressing belief, knowledge, perception, etc.; Introducing a clause that is the subject of"
+    },
+    {
+      "word": "THE",
+      "hint": "Used before a noun phrase, including a simple noun; Used with an adjective"
+    },
+    {
+      "word": "THEATER",
+      "hint": "A place or building, consisting of a stage and seating, in which an audience gathers to watch plays, musical performances, public ceremonies, and so on.; A region where a"
+    },
+    {
+      "word": "THEIR",
+      "hint": "Belonging to, from, of, or relating to, them (plural).; Belonging to someone (one person, singular), or occasionally to something."
+    },
+    {
+      "word": "THEM",
+      "hint": "Those ones.; A single person, previously mentioned, whose gender is unknown, irrelevant, or (since 21st c.) non-binary."
+    },
+    {
+      "word": "THEN",
+      "hint": "At that time.; Soon afterward."
+    },
+    {
+      "word": "THERE",
+      "hint": "In or at a place or location (stated, implied or otherwise indicated) that is perceived to be away from, or at a relative distance from, the speaker (compare here).; To or into a"
+    },
+    {
+      "word": "THESE",
+      "hint": "The quality or characteristic of being these (something referred to)."
+    },
+    {
+      "word": "THEY",
+      "hint": "A group of entities previously mentioned. [since 13th c.]; A single person, previously mentioned, whose gender is unknown, irrelevant, or (since late 20th c.) non-binary. [since"
+    },
+    {
+      "word": "THICK",
+      "hint": "Relatively great in extent from one surface to the opposite in its smallest solid dimension.; Measuring a certain number of units in this dimension."
+    },
+    {
+      "word": "THIN",
+      "hint": "Having little thickness or extent from one surface to its opposite.; Very narrow in all diameters; having a cross section that is small in all directions."
+    },
+    {
+      "word": "THING",
+      "hint": "That which is considered to exist as a separate entity, object, quality or concept.; A word, symbol, sign, or other referent that can be used to refer to any entity."
+    },
+    {
+      "word": "THINK",
+      "hint": "To ponder, to go over in one's mind.; To have (some statement) in one's mind; to say to oneself mentally."
+    },
+    {
+      "word": "THIRTY",
+      "hint": "The cardinal number occurring after twenty-nine and before thirty-one, represented in Arabic numerals as 30."
+    },
+    {
+      "word": "THIS",
+      "hint": "The (thing) here (used in indicating something or someone nearby).; The known (thing) (used in indicating something or someone just mentioned)."
+    },
+    {
+      "word": "THOSE",
+      "hint": "The quality or characteristic of being those (something referred to)."
+    },
+    {
+      "word": "THREE",
+      "hint": "A numerical value equal to 3; the number following two and preceding four.; Describing a set or group with three elements."
+    },
+    {
+      "word": "THROUGH",
+      "hint": "From one side or end of (something) to the other.; Via or by way of."
+    },
+    {
+      "word": "THROW",
+      "hint": "To hurl; to release (an object) with some force from one’s hands, an apparatus, etc. so that it moves rapidly through the air.; To eject or cause to fall off."
+    },
+    {
+      "word": "THURSDAY",
+      "hint": "The fifth day of the week in many religious traditions, and the fourth day of the week in systems using the ISO 8601 norm; it follows Wednesday and precedes Friday."
+    },
+    {
+      "word": "TICKET",
+      "hint": "A small document that acts as proof of something, often thereby granting the holder some ability.; A citation for a traffic violation."
+    },
+    {
+      "word": "TIGER",
+      "hint": "Panthera tigris, a large predatory mammal of the cat family, indigenous to Asia.; Other animals that resemble true tigers in appearance, pattern, colouration, etc."
+    },
+    {
+      "word": "TIGHT",
+      "hint": "Firmly held together; compact; not loose or open.; Narrow, such that it is difficult for something or someone to pass through it."
+    },
+    {
+      "word": "TIME",
+      "hint": "The inevitable progression into the future with the passing of present and past events.; A duration of time."
+    },
+    {
+      "word": "TIRED",
+      "hint": "simple past and past participle of tire"
     },
     {
       "word": "TO",
-      "hint": "towards"
+      "hint": "A particle used for marking the following verb as an infinitive.; As above, with the verb implied."
+    },
+    {
+      "word": "TODAY",
+      "hint": "On the current day or date.; In the current era; nowadays; these days."
+    },
+    {
+      "word": "TOGETHER",
+      "hint": "At the same time, in the same place; in close association or proximity.; Into one place; into a single thing; combined."
+    },
+    {
+      "word": "TOILET",
+      "hint": "A room, enclosed area or single-purpose building containing a fixture or fixtures used for urination and defecation; a bathroom or water closet. [from 19th c.]; A fixture used for"
+    },
+    {
+      "word": "TOMORROW",
+      "hint": "On the day after the present day.; At some point in the future; later on"
+    },
+    {
+      "word": "TONIGHT",
+      "hint": "During the night following the current day; during the evening of today.; Last night."
+    },
+    {
+      "word": "TOO",
+      "hint": "Likewise.; Also, in addition marks a statement as equally valid as the preceding one."
+    },
+    {
+      "word": "TOOL",
+      "hint": "Any physical device meant to ease or do a task.; Anything that aids someone to perform an operation; an instrument; a means."
+    },
+    {
+      "word": "TOOTH",
+      "hint": "A hard, calcareous structure present in the mouth of many vertebrate animals, generally used for biting and chewing food.; A sharp projection on the blade of a saw or similar"
+    },
+    {
+      "word": "TOP",
+      "hint": "The highest or uppermost part of something.; The near end of somewhere."
+    },
+    {
+      "word": "TOUCH",
+      "hint": "Primarily physical senses.; Primarily non-physical senses."
+    },
+    {
+      "word": "TOWER",
+      "hint": "A tall, narrow structure (significantly taller than it is wide, either standing alone or forming part of a larger structure.; An item of various kinds, such as a computer case,"
+    },
+    {
+      "word": "TOWN",
+      "hint": "A settlement; an area with residential districts, shops and amenities, and its own local government; especially one larger than a village and smaller than a city, historically"
+    },
+    {
+      "word": "TOY",
+      "hint": "Something to play with, especially as intended for use by a child. [from 16th c.]; A thing of little importance or value; a trifle. [from 16th c.]"
+    },
+    {
+      "word": "TRAIN",
+      "hint": "Elongated or trailing portion.; Connected sequence of people or things."
+    },
+    {
+      "word": "TRAVEL",
+      "hint": "To be on a journey, often for pleasure or business and with luggage; to go from one place to another.; To pass from one place to another; to move or transmit."
     },
     {
       "word": "TREE",
-      "hint": "a tall plant"
+      "hint": "An extremely fast-growing function based on Kruskal's tree theorem."
+    },
+    {
+      "word": "TRIP",
+      "hint": "A journey; an excursion or jaunt.; An unusual or remarkable experience."
+    },
+    {
+      "word": "TRUCK",
+      "hint": "A small wheel or roller, specifically the wheel of a gun carriage.; The ball on top of a flagpole."
+    },
+    {
+      "word": "TRUE",
+      "hint": "one of two states of a Boolean variable; logic 1."
+    },
+    {
+      "word": "TRY",
+      "hint": "To attempt; to endeavour. Followed by infinitive.; To divide; to separate."
+    },
+    {
+      "word": "TUESDAY",
+      "hint": "The third day of the week in many religious traditions, and the second day of the week in systems that use the ISO 8601 norm; it follows Monday and precedes Wednesday."
+    },
+    {
+      "word": "TURKEY",
+      "hint": "The guinea fowl (family Numididae). [from c. 1600]; A bird in the genus Meleagris with a fan-shaped tail and wattled neck."
+    },
+    {
+      "word": "TURN",
+      "hint": "To make a non-linear physical movement.; To change condition or attitude."
+    },
+    {
+      "word": "TV",
+      "hint": "Abbreviation of television.; Initialism of tricuspid valve."
+    },
+    {
+      "word": "TWELVE",
+      "hint": "The cardinal number occurring after eleven and before thirteen, represented in Arabic numerals as 12 and in Roman numerals as XII."
+    },
+    {
+      "word": "TWENTY",
+      "hint": "The cardinal number 20, occurring after nineteen and before twenty-one."
+    },
+    {
+      "word": "TWO",
+      "hint": "A numerical value equal to 2; this many dots (••).; Describing a set or group with two elements."
+    },
+    {
+      "word": "TYPE",
+      "hint": "A grouping based on shared characteristics; a class.; An individual considered typical of its class, one regarded as typifying a certain profession, environment, etc."
+    },
+    {
+      "word": "UGLY",
+      "hint": "Displeasing to the eye; aesthetically unpleasing.; Displeasing to the ear or some other sense."
+    },
+    {
+      "word": "UNCLE",
+      "hint": "The brother or brother-in-law of one’s parent.; The male cousin of one’s parent."
+    },
+    {
+      "word": "UNDER",
+      "hint": "Beneath; below; at or to the bottom of, or the area covered or surmounted by.; From one side of to the other, passing beneath."
+    },
+    {
+      "word": "UNTIL",
+      "hint": "Up to the time of (something happening); pending.; Up to (a certain place)"
     },
     {
       "word": "UP",
-      "hint": "towards the sky"
+      "hint": "Indicating movement towards or location at a higher place or position.; Indicating movement in any other direction visualised as “up”."
     },
     {
       "word": "US",
-      "hint": "you and me"
+      "hint": "Me and at least one other person, excluding the person(s) being addressed. (exclusive us.); Me and at least one other person, including the person(s) being addressed. (inclusive"
+    },
+    {
+      "word": "USE",
+      "hint": "The act of using.; The act of consuming alcohol or narcotics."
+    },
+    {
+      "word": "USUALLY",
+      "hint": "Most of the time; less than always, but more than occasionally.; Under normal conditions."
+    },
+    {
+      "word": "VACATION",
+      "hint": "An extended trip or journey away from home for rest or pleasure. [from 19th c.]; An extended period of leisure time away from work or school."
+    },
+    {
+      "word": "VERY",
+      "hint": "To a great extent or degree.; Conforming to fact, reality or rule; true."
+    },
+    {
+      "word": "VIDEO",
+      "hint": "Transient visual content or media, processed with technology, especially electronic.; A recording or medium of visual content, especially audiovisual content for playback; a"
+    },
+    {
+      "word": "VISIT",
+      "hint": "To habitually go to (someone in distress, sickness etc.) to comfort them. (Now generally merged into later senses, below.) [from 13th c.]; To go and meet (a person) as an act of"
+    },
+    {
+      "word": "VOTE",
+      "hint": "A formalized choice on legally relevant measures such as employment or appointment to office or a proceeding about a legal dispute.; An act or instance of participating in such a"
+    },
+    {
+      "word": "WAIT",
+      "hint": "To delay movement or action until some event or time; to remain neglected or in readiness.; To wait tables; to serve customers in a restaurant or other eating establishment."
+    },
+    {
+      "word": "WAKE",
+      "hint": "To stop sleeping.; To make somebody stop sleeping; to rouse from sleep."
+    },
+    {
+      "word": "WALK",
+      "hint": "To move on the feet by alternately setting each foot (or pair or group of feet, in the case of animals with four or more feet) forward, with at least one foot on the ground at all"
+    },
+    {
+      "word": "WALL",
+      "hint": "A rampart of earth, stones etc. built up for defensive purposes.; A structure built for defense surrounding a city, castle etc."
+    },
+    {
+      "word": "WANNA",
+      "hint": "Represents a contracted pronunciation of want to.; Represents a contracted pronunciation of want a."
+    },
+    {
+      "word": "WANT",
+      "hint": "To wish for or desire (something); to feel a need or desire for; to crave, hanker, or demand. [from 18th c.]; To wish, desire, or demand to see, have the presence of or do"
+    },
+    {
+      "word": "WAR",
+      "hint": "Organized, large-scale, armed conflict between countries or between national, ethnic, or other sizeable groups, usually but not always involving active engagement of military"
+    },
+    {
+      "word": "WARM",
+      "hint": "Of a somewhat high temperature, often but not always connoting that the high temperature is pleasant rather than uncomfortable.; Friendly and with affection."
+    },
+    {
+      "word": "WASH",
+      "hint": "To clean with water.; To carry away or erode by the force of water in motion."
+    },
+    {
+      "word": "WATCH",
+      "hint": "A portable or wearable timepiece.; The act of guarding and observing someone or something."
     },
     {
       "word": "WATER",
-      "hint": "liquid we drink"
+      "hint": "An inorganic compound (of molecular formula H2O) found at room temperature and pressure as a clear liquid; it is present naturally as rain, and found in rivers, lakes and seas;"
+    },
+    {
+      "word": "WAY",
+      "hint": "To do with a place or places.; A method or manner of doing something; a mannerism."
     },
     {
       "word": "WE",
-      "hint": "I and others"
+      "hint": "Two or more people including or consisting of the speaker(s)/writer(s).; The institution which the speaker/writer is acting for. (This is the editorial we, used by writers and"
+    },
+    {
+      "word": "WEAR",
+      "hint": "To have on; To erode"
+    },
+    {
+      "word": "WEATHER",
+      "hint": "The short-term state of the atmosphere at a specific time and place, including the temperature, relative humidity, cloud cover, precipitation, wind, etc.; Unpleasant or"
+    },
+    {
+      "word": "WEDNESDAY",
+      "hint": "The fourth day of the week in many religious traditions, and the third day of the week in systems using the ISO 8601 norm; it follows Tuesday and precedes Thursday."
+    },
+    {
+      "word": "WEEK",
+      "hint": "Any period of seven consecutive days.; A period of seven days beginning with Sunday or Monday."
+    },
+    {
+      "word": "WEEKEND",
+      "hint": "The break in the working week, usually two days including the traditional holy or sabbath day. Thus in Western countries, Saturday and Sunday."
+    },
+    {
+      "word": "WELCOME",
+      "hint": "Whose arrival is a cause of joy; received with gladness; admitted willingly to the house, entertainment, or company.; Producing gladness."
+    },
+    {
+      "word": "WELL",
+      "hint": "Accurately, competently, satisfactorily.; Completely, fully."
+    },
+    {
+      "word": "WHAT",
+      "hint": "Which, especially which of an open-ended set of possibilities.; Which."
+    },
+    {
+      "word": "WHEEL",
+      "hint": "A circular device capable of rotating on its axis, facilitating movement or transportation or performing labour in machines.; The breaking wheel, an old instrument of torture."
+    },
+    {
+      "word": "WHEN",
+      "hint": "At what time? At which time? Upon which occasion or circumstance? Used to introduce direct or indirect questions about time.; At an earlier time and under different, usually less"
+    },
+    {
+      "word": "WHERE",
+      "hint": "In, at or to what place.; In what situation."
+    },
+    {
+      "word": "WHICH",
+      "hint": "What, of those mentioned or implied.; The/Any ... that; whichever."
+    },
+    {
+      "word": "WHITE",
+      "hint": "Bright and colourless; reflecting equal quantities of all frequencies of visible light.; Of or relating to Europeans or those of European descent, regardless if their skin has"
+    },
+    {
+      "word": "WHO",
+      "hint": "What person or people; which person or people; asks for the identity of someone; used in a direct or indirect question.; Introduces a relative clause having a human antecedent."
+    },
+    {
+      "word": "WHOSE",
+      "hint": "Of whom, belonging to whom; which person's or people's.; Of whom, belonging to whom."
+    },
+    {
+      "word": "WHY",
+      "hint": "For what cause, reason, or purpose.; For which cause, reason, or purpose."
+    },
+    {
+      "word": "WIFE",
+      "hint": "A married woman, especially in relation to her spouse.; The female of a pair of mated animals."
+    },
+    {
+      "word": "WILL",
+      "hint": "Used to express the future tense, sometimes with an implication of volition or determination when used in the first person. Compare shall. [from 10th c.]; To be able to, to have"
+    },
+    {
+      "word": "WIN",
+      "hint": "To conquer, defeat.; To reach some destination or object, despite difficulty or toil (now usually intransitive, with preposition or locative adverb)."
+    },
+    {
+      "word": "WIND",
+      "hint": "Real or perceived movement of atmospheric air usually caused by convection or differences in air pressure.; Air artificially put in motion by any force or action."
+    },
+    {
+      "word": "WINDOW",
+      "hint": "An opening, usually covered by one or more panes of clear glass, to allow light and air from outside to enter a building or vehicle.; An opening, usually covered by glass, in a"
+    },
+    {
+      "word": "WINTER",
+      "hint": "Traditionally the fourth of the four seasons, typically regarded as spanning either the period between the winter solstice to the spring equinox, or the months of December,"
+    },
+    {
+      "word": "WISH",
+      "hint": "A desire, hope, or longing for something or for something to happen.; An expression of such a desire, often connected with ideas of magic and supernatural power."
+    },
+    {
+      "word": "WITH",
+      "hint": "Against.; In the company of; alongside, close to; near to."
+    },
+    {
+      "word": "WOMAN",
+      "hint": "An adult female human.; All female humans collectively; womankind."
+    },
+    {
+      "word": "WONDERFUL",
+      "hint": "Tending to excite wonder; surprising, extraordinary.; Surprisingly excellent; very good or admirable, extremely impressive."
+    },
+    {
+      "word": "WORD",
+      "hint": "The smallest unit of language that has a particular meaning and can be expressed by itself; the smallest discrete, meaningful unit of language. (contrast morpheme.); Something"
+    },
+    {
+      "word": "WORK",
+      "hint": "Employment.; Effort."
+    },
+    {
+      "word": "WORKER",
+      "hint": "One who works: a person who performs labor for a living; traditionally, especially, manual labor.; A nonreproductive social insect, such as ant, bee, termite, or wasp."
+    },
+    {
+      "word": "WORLD",
+      "hint": "The subjective human experience, regarded collectively; human collective existence; existence in general; the reality we live in.; The subjective human experience, regarded"
+    },
+    {
+      "word": "WORRY",
+      "hint": "To be troubled; to give way to mental anxiety or doubt.; Disturb the peace of mind of; afflict with mental agitation or distress; to exercise."
+    },
+    {
+      "word": "WOULD",
+      "hint": "Past tense of will; usually followed by a bare infinitive.; A modal verb, the subjunctive of will; usually followed by a bare infinitive."
+    },
+    {
+      "word": "WOW",
+      "hint": "An indication of excitement, surprise, astonishment, or pleasure.; An expression of amazement, awe, or admiration."
+    },
+    {
+      "word": "WRITE",
+      "hint": "To form letters, words or symbols on a surface in order to communicate.; To be the author of (a book, article, poem, etc.)."
+    },
+    {
+      "word": "WRITER",
+      "hint": "A person who writes, or produces literary work; an author can refer to themselves as \"the writer\".; Anything that writes or produces output."
+    },
+    {
+      "word": "WRONG",
+      "hint": "Incorrect or untrue.; Asserting something incorrect or untrue."
+    },
+    {
+      "word": "YARD",
+      "hint": "A small, usually uncultivated area adjoining or (now especially) within the precincts of a house or other building.; The property surrounding one's house, typically dominated by"
+    },
+    {
+      "word": "YEAR",
+      "hint": "A period of time akin to the time taken for the Earth to undergo a full cycle of seasons.; An orbital period: the period of one revolution in any particular orbit: The time it"
+    },
+    {
+      "word": "YELLOW",
+      "hint": "The color of sunflower petals and lemons; the color obtained by mixing green and red light, or by subtracting blue from white light; the color evoked by light of wavelength around"
+    },
+    {
+      "word": "YES",
+      "hint": "Used to show agreement or acceptance.; Used to indicate disagreement or dissent in reply to a negative statement."
+    },
+    {
+      "word": "YESTERDAY",
+      "hint": "The day immediately before today; one day ago.; The past, often in terms of being outdated."
+    },
+    {
+      "word": "YET",
+      "hint": "Thus far; up to the present; up to some unspecified time.; At some future time; eventually."
+    },
+    {
+      "word": "YOU",
+      "hint": "The people spoken, or written to, as an object. [from 9th c.]; yourselves, (to) yourself. [from 9th c.]"
+    },
+    {
+      "word": "YOUNG",
+      "hint": "In the early part of growth or life; born not long ago.; At an early stage of existence or development; having recently come into existence."
+    },
+    {
+      "word": "YOUR",
+      "hint": "Belonging to you; of you; related to you (singular; one owner).; Belonging to you; of you; related to you (plural; more owners)."
+    },
+    {
+      "word": "YOURS",
+      "hint": "That or those belonging to you; the possessive second-person singular pronoun used without a following noun.; Your house or home."
+    },
+    {
+      "word": "YOURSELF",
+      "hint": "Your own self (singular).; You (singular); used emphatically, especially to indicate exclusiveness of the referent's participation in the predicate, i.e., that no one else is"
     }
   ]
 }

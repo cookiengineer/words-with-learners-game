@@ -1,0 +1,7207 @@
+{
+  "schemaVersion": 1,
+  "language": "ru",
+  "level": "B1",
+  "words": [
+    {
+      "word": "АВАРИИ",
+      "hint": "damage, breakdown, fault, failure, crash (rarely); accident, crash, wreck, emergency (situation caused by damage, breakdown or failure)"
+    },
+    {
+      "word": "АВГУСТА",
+      "hint": "August"
+    },
+    {
+      "word": "АВТОБУС",
+      "hint": "bus, motorbus"
+    },
+    {
+      "word": "АВТОМОБИЛЬ",
+      "hint": "car, automobile, motorcar; vehicle"
+    },
+    {
+      "word": "АГЕНТА",
+      "hint": "agent; envoy"
+    },
+    {
+      "word": "АДАМ",
+      "hint": ""
+    },
+    {
+      "word": "АДВОКАТА",
+      "hint": "lawyer, attorney, barrister, solicitor, advocate"
+    },
+    {
+      "word": "АЙ",
+      "hint": "ouch! (it hurts!)"
+    },
+    {
+      "word": "АК",
+      "hint": ""
+    },
+    {
+      "word": "АКАДЕМИИ",
+      "hint": "academy; college"
+    },
+    {
+      "word": "АКЦИИ",
+      "hint": "share, stock; action, move, demarche"
+    },
+    {
+      "word": "АЛЕКС",
+      "hint": ""
+    },
+    {
+      "word": "АЛЕКСАНДР",
+      "hint": "Alexandrian (referring to the city of Alexandria in Egypt or to Alexander the Great); alexandrine (verse, etc.)"
+    },
+    {
+      "word": "АЛЬБОМ",
+      "hint": "album"
+    },
+    {
+      "word": "АМЕРИКА",
+      "hint": ""
+    },
+    {
+      "word": "АМЕРИКАНСКИЙ",
+      "hint": "American"
+    },
+    {
+      "word": "АМЕРИКЕ",
+      "hint": ""
+    },
+    {
+      "word": "АМЕРИКИ",
+      "hint": ""
+    },
+    {
+      "word": "АНГЕЛ",
+      "hint": "angel; an innocent"
+    },
+    {
+      "word": "АНГЛИЙСКИЙ",
+      "hint": "English"
+    },
+    {
+      "word": "АПРЕЛЯ",
+      "hint": "genitive singular of апре́ль (aprélʹ)"
+    },
+    {
+      "word": "АРЕСТОВАЛИ",
+      "hint": "plural past indicative perfective of арестова́ть (arestovátʹ)"
+    },
+    {
+      "word": "АРЕСТОВАН",
+      "hint": "short masculine singular of аресто́ванный (arestóvannyj)"
+    },
+    {
+      "word": "АРМИЮ",
+      "hint": "accusative singular of а́рмия (ármija)"
+    },
+    {
+      "word": "АРТУР",
+      "hint": ""
+    },
+    {
+      "word": "АЭРОПОРТ",
+      "hint": "airport"
+    },
+    {
+      "word": "АЭРОПОРТУ",
+      "hint": "dative singular of аэропо́рт (aeropórt)"
+    },
+    {
+      "word": "БАЗЕ",
+      "hint": "dative/prepositional singular of ба́за (báza)"
+    },
+    {
+      "word": "БАЗУ",
+      "hint": "accusative singular of ба́за (báza)"
+    },
+    {
+      "word": "БАЗЫ",
+      "hint": "inflection of ба́за (báza)"
+    },
+    {
+      "word": "БАНКА",
+      "hint": "jar, pot; can, tin"
+    },
+    {
+      "word": "БАНКЕ",
+      "hint": "prepositional singular of банк (bank)"
+    },
+    {
+      "word": "БАНКИ",
+      "hint": "jar, pot; can, tin"
+    },
+    {
+      "word": "БАР",
+      "hint": "saloon, bar, snack bar; bar, jib"
+    },
+    {
+      "word": "БЕДА",
+      "hint": "misfortune, trouble, disaster, mischief"
+    },
+    {
+      "word": "БЕЖАТЬ",
+      "hint": "to run, to be running; to flee, to be fleeing"
+    },
+    {
+      "word": "БЕЗОПАСНОСТЬ",
+      "hint": "safety; security"
+    },
+    {
+      "word": "БЕЗУСЛОВНО",
+      "hint": "certainly, undoubtedly, absolutely; there is no doubt that..."
+    },
+    {
+      "word": "БЕЛАЯ",
+      "hint": "nominative feminine singular of бе́лый (bélyj)"
+    },
+    {
+      "word": "БЕЛОГО",
+      "hint": "white-blue-white flag (Russian anti-war flag)"
+    },
+    {
+      "word": "БЕЛЫЕ",
+      "hint": "white; white skinned"
+    },
+    {
+      "word": "БЕЛЫХ",
+      "hint": "short plural of бе́лый (bélyj)"
+    },
+    {
+      "word": "БЕН",
+      "hint": ""
+    },
+    {
+      "word": "БЕРЕГУ",
+      "hint": "bank, shore, coast, beach; land"
+    },
+    {
+      "word": "БЕРЕТ",
+      "hint": "beret"
+    },
+    {
+      "word": "БЕСПЛАТНО",
+      "hint": "gratis, free of charge"
+    },
+    {
+      "word": "БИ",
+      "hint": "B, b"
+    },
+    {
+      "word": "БИЗНЕСА",
+      "hint": "business (commercial activity; enterprise)"
+    },
+    {
+      "word": "БИЛЕТ",
+      "hint": "ticket (admission to entertainment or transportation); banknote"
+    },
+    {
+      "word": "БИЛЕТЫ",
+      "hint": "nominative/accusative plural of биле́т (bilét)"
+    },
+    {
+      "word": "БИЛЛ",
+      "hint": ""
+    },
+    {
+      "word": "БИТВА",
+      "hint": "battle, fight, combat"
+    },
+    {
+      "word": "БИТЬ",
+      "hint": "to beat; to chime (of a clock)"
+    },
+    {
+      "word": "БЛАГОДАРЮ",
+      "hint": "thanks! (conversational)"
+    },
+    {
+      "word": "БЛЯДЬ",
+      "hint": "whore, slut, prostitute; bitch, slut, promiscuous person"
+    },
+    {
+      "word": "БО",
+      "hint": "boo-boo, owie (an expression that a body part hurts or someone is in pain)"
+    },
+    {
+      "word": "БОБ",
+      "hint": "bean"
+    },
+    {
+      "word": "БОГОМ",
+      "hint": "instrumental singular of бог (box)"
+    },
+    {
+      "word": "БОИТСЯ",
+      "hint": "third-person singular present indicative imperfective of боя́ться (bojátʹsja)"
+    },
+    {
+      "word": "БОЛЕЗНИ",
+      "hint": "disease, sickness, illness; abnormality"
+    },
+    {
+      "word": "БОЛЕЗНЬ",
+      "hint": "disease, sickness, illness; abnormality"
+    },
+    {
+      "word": "БОЛИТ",
+      "hint": "third-person singular present indicative imperfective of боле́ть (bolétʹ)"
+    },
+    {
+      "word": "БОЛЬНИЦЫ",
+      "hint": "hospital"
+    },
+    {
+      "word": "БОЛЬНОЙ",
+      "hint": "sick, ill; painful"
+    },
+    {
+      "word": "БОЛЬШЕГО",
+      "hint": "comparative degree of большо́й (bolʹšój) and вели́кий (velíkij) bigger, greater"
+    },
+    {
+      "word": "БОЛЬШЕЕ",
+      "hint": "comparative degree of большо́й (bolʹšój) and вели́кий (velíkij) bigger, greater"
+    },
+    {
+      "word": "БОЛЬШЕЙ",
+      "hint": "comparative degree of большо́й (bolʹšój) and вели́кий (velíkij) bigger, greater"
+    },
+    {
+      "word": "БОЛЬШИХ",
+      "hint": "comparative degree of большо́й (bolʹšój) and вели́кий (velíkij) bigger, greater"
+    },
+    {
+      "word": "БОЛЬШОМ",
+      "hint": "prepositional masculine/neuter singular of большо́й (bolʹšój)"
+    },
+    {
+      "word": "БОРТ",
+      "hint": "board, side; aircraft, flight"
+    },
+    {
+      "word": "БОРТУ",
+      "hint": "board, side; aircraft, flight"
+    },
+    {
+      "word": "БОРЬБА",
+      "hint": "struggle, fight, conflict, combat; wrestling"
+    },
+    {
+      "word": "БОРЬБЕ",
+      "hint": "struggle, fight, conflict, combat; wrestling"
+    },
+    {
+      "word": "БОРЬБЫ",
+      "hint": "struggle, fight, conflict, combat; wrestling"
+    },
+    {
+      "word": "БОЮ",
+      "hint": "dative/partitive singular of бой (boj)"
+    },
+    {
+      "word": "БОЯ",
+      "hint": "inflection of бой (boj)"
+    },
+    {
+      "word": "БОЯТСЯ",
+      "hint": "third-person plural present indicative imperfective of боя́ться (bojátʹsja)"
+    },
+    {
+      "word": "БОЯТЬСЯ",
+      "hint": "to fear, to be afraid [with genitive ‘of someone/something’ or (colloquial) accusative ‘of someone’ or infinitive ‘to do something’]; to suffer from, to be vulnerable to"
+    },
+    {
+      "word": "БРАКА",
+      "hint": "marriage, matrimony"
+    },
+    {
+      "word": "БРАТОМ",
+      "hint": "instrumental singular of брат (brat)"
+    },
+    {
+      "word": "БРАТЬЕВ",
+      "hint": "genitive/accusative plural of брат (brat)"
+    },
+    {
+      "word": "БРАТЬЯ",
+      "hint": "nominative plural of брат (brat)"
+    },
+    {
+      "word": "БРЕД",
+      "hint": "delirium, ravings; nonsense, baloney"
+    },
+    {
+      "word": "БРОСИЛ",
+      "hint": "masculine singular past indicative perfective of бро́сить (brósitʹ)"
+    },
+    {
+      "word": "БРОСИТЬ",
+      "hint": "to throw; to send urgently"
+    },
+    {
+      "word": "БУДУЧИ",
+      "hint": "present adverbial imperfective participle of быть (bytʹ)"
+    },
+    {
+      "word": "БУТЫЛКУ",
+      "hint": "accusative singular of буты́лка (butýlka)"
+    },
+    {
+      "word": "БЫВАЮТ",
+      "hint": "third-person plural present indicative imperfective of быва́ть (byvátʹ)"
+    },
+    {
+      "word": "БЫВШАЯ",
+      "hint": "past active imperfective participle of быть (bytʹ)"
+    },
+    {
+      "word": "БЫВШЕГО",
+      "hint": "past active imperfective participle of быть (bytʹ)"
+    },
+    {
+      "word": "БЮРО",
+      "hint": "office, bureau, agency; bureau, writing desk, secretary"
+    },
+    {
+      "word": "ВАЖНЕЕ",
+      "hint": "comparative degree of ва́жный (vážnyj); comparative degree of ва́жно (vážno)"
+    },
+    {
+      "word": "ВАЖНЫЕ",
+      "hint": "important; proud, majestic, imposing (important-looking or -seeming)"
+    },
+    {
+      "word": "ВАЖНЫЙ",
+      "hint": "important; proud, majestic, imposing (important-looking or -seeming)"
+    },
+    {
+      "word": "ВАЖНЫМ",
+      "hint": "short plural of ва́жный (vážnyj)"
+    },
+    {
+      "word": "ВАРИАНТОВ",
+      "hint": "version, revision, edition (of a work); version, idea (personal take on a thing or concept)"
+    },
+    {
+      "word": "ВАРИАНТЫ",
+      "hint": "version, revision, edition (of a work); version, idea (personal take on a thing or concept)"
+    },
+    {
+      "word": "ВАУ",
+      "hint": "wow (excitement)"
+    },
+    {
+      "word": "ВАШЕМ",
+      "hint": "prepositional masculine/neuter singular of ваш (vaš)"
+    },
+    {
+      "word": "ВАШЕМУ",
+      "hint": "dative masculine/neuter singular of ваш (vaš)"
+    },
+    {
+      "word": "ВАШИМ",
+      "hint": "inflection of ваш (vaš)"
+    },
+    {
+      "word": "ВАШИНГТОН",
+      "hint": "Washington; Washingtonian"
+    },
+    {
+      "word": "ВДОЛЬ",
+      "hint": "along"
+    },
+    {
+      "word": "ВЕДУТ",
+      "hint": "third-person plural present indicative imperfective of вести́ (vestí)"
+    },
+    {
+      "word": "ВЕК",
+      "hint": "century; lifetime"
+    },
+    {
+      "word": "ВЕЛ",
+      "hint": "masculine singular past indicative imperfective of вести́ (vestí)"
+    },
+    {
+      "word": "ВЕЛИКОГО",
+      "hint": "large, big; great, outstanding"
+    },
+    {
+      "word": "ВЕЛИКОЙ",
+      "hint": "Pre-1918 spelling of вели́кий (velíkij)."
+    },
+    {
+      "word": "ВЕРА",
+      "hint": "belief, faith; trust, faith (belief in someone's honesty and reliability)"
+    },
+    {
+      "word": "ВЕРИТ",
+      "hint": "third-person singular present indicative imperfective of ве́рить (véritʹ)"
+    },
+    {
+      "word": "ВЕРНЕТСЯ",
+      "hint": "to return, to come back (from); to revert (to)"
+    },
+    {
+      "word": "ВЕРНУЛИСЬ",
+      "hint": "plural past indicative perfective of верну́ться (vernútʹsja)"
+    },
+    {
+      "word": "ВЕРНУСЬ",
+      "hint": "to return, to come back (from); to revert (to)"
+    },
+    {
+      "word": "ВЕРОЯТНОСТЬ",
+      "hint": "probability, likelihood"
+    },
+    {
+      "word": "ВЕРСИИ",
+      "hint": "version; account, story, theory, narrative (a version of events)"
+    },
+    {
+      "word": "ВЕРСИЮ",
+      "hint": "accusative singular of ве́рсия (vérsija)"
+    },
+    {
+      "word": "ВЕРСИЯ",
+      "hint": "version; account, story, theory, narrative (a version of events)"
+    },
+    {
+      "word": "ВЕРЫ",
+      "hint": "inflection of ве́ра (véra)"
+    },
+    {
+      "word": "ВЕС",
+      "hint": "weight; influence, authority, importance"
+    },
+    {
+      "word": "ВЗРОСЛЫХ",
+      "hint": "grown, grown-up, adult"
+    },
+    {
+      "word": "ВЗРЫВ",
+      "hint": "explosion; blast"
+    },
+    {
+      "word": "ВЗРЫВА",
+      "hint": "explosion; blast"
+    },
+    {
+      "word": "ВИДА",
+      "hint": "genitive singular of вид (vid)"
+    },
+    {
+      "word": "ВИДИМ",
+      "hint": "present passive imperfective participle of ви́деть (vídetʹ)"
+    },
+    {
+      "word": "ВИДОМ",
+      "hint": "instrumental singular of вид (vid)"
+    },
+    {
+      "word": "ВИДЯТ",
+      "hint": "third-person plural present indicative imperfective of ви́деть (vídetʹ)"
+    },
+    {
+      "word": "ВИНО",
+      "hint": "wine; any strong alcoholic beverage (especially vodka)"
+    },
+    {
+      "word": "ВИНОВАТ",
+      "hint": "short masculine singular of винова́тый (vinovátyj)"
+    },
+    {
+      "word": "ВИНУ",
+      "hint": "dative singular of вино́ (vinó)"
+    },
+    {
+      "word": "ВИНЫ",
+      "hint": "genitive singular of вина́ (viná)"
+    },
+    {
+      "word": "ВКУСНО",
+      "hint": "that tastes good, yummy; that smells delicious"
+    },
+    {
+      "word": "ВЛАДЕЛЕЦ",
+      "hint": "owner"
+    },
+    {
+      "word": "ВЛИЯНИЕ",
+      "hint": "influence, effect; weight, credibility, power"
+    },
+    {
+      "word": "ВНИЗУ",
+      "hint": "below, underneath; at the foot of, at the bottom of"
+    },
+    {
+      "word": "ВНИМАТЕЛЬНО",
+      "hint": "attentively, carefully"
+    },
+    {
+      "word": "ВНУТРЬ",
+      "hint": "into, inside (direction)"
+    },
+    {
+      "word": "ВОДЕ",
+      "hint": "dative/prepositional singular of вода́ (vodá)"
+    },
+    {
+      "word": "ВОДИТЕЛЬ",
+      "hint": "guide, leader (a person who guides others or leads the way); driver, operator (of an automobile or other land vehicle)"
+    },
+    {
+      "word": "ВОДОЙ",
+      "hint": "instrumental singular of вода́ (vodá)"
+    },
+    {
+      "word": "ВОЕННОЙ",
+      "hint": "war; military; martial"
+    },
+    {
+      "word": "ВОЕННЫЕ",
+      "hint": "war; military; martial"
+    },
+    {
+      "word": "ВОЕННЫЙ",
+      "hint": "war; military; martial"
+    },
+    {
+      "word": "ВОЕННЫХ",
+      "hint": "war; military; martial"
+    },
+    {
+      "word": "ВОЗВРАЩАЕТСЯ",
+      "hint": "third-person singular present indicative imperfective of возвраща́ться (vozvraščátʹsja)"
+    },
+    {
+      "word": "ВОЗВРАЩАТЬСЯ",
+      "hint": "to return, to come back"
+    },
+    {
+      "word": "ВОЗВРАЩЕНИЕ",
+      "hint": "return; restitution"
+    },
+    {
+      "word": "ВОЗВРАЩЕНИЯ",
+      "hint": "return; restitution"
+    },
+    {
+      "word": "ВОЗДУХА",
+      "hint": "air raid siren"
+    },
+    {
+      "word": "ВОЗДУХЕ",
+      "hint": "prepositional singular of во́здух (vózdux)"
+    },
+    {
+      "word": "ВОЗРАСТ",
+      "hint": "age (whole duration of a being)"
+    },
+    {
+      "word": "ВОЗРАСТА",
+      "hint": "age (whole duration of a being)"
+    },
+    {
+      "word": "ВОЙСКА",
+      "hint": "troops, armed forces"
+    },
+    {
+      "word": "ВОЙТИ",
+      "hint": "to enter, to go in(to) (by foot), to get in(to); to penetrate into"
+    },
+    {
+      "word": "ВОЛИ",
+      "hint": "inflection of во́ля (vólja)"
+    },
+    {
+      "word": "ВОЛНУЕТ",
+      "hint": "third-person singular present indicative imperfective of волнова́ть (volnovátʹ)"
+    },
+    {
+      "word": "ВОЛОС",
+      "hint": "a hair"
+    },
+    {
+      "word": "ВОПРОСА",
+      "hint": "question; matter, issue"
+    },
+    {
+      "word": "ВОПРОСОМ",
+      "hint": "instrumental singular of вопро́с (voprós)"
+    },
+    {
+      "word": "ВОПРОСУ",
+      "hint": "dative singular of вопро́с (voprós)"
+    },
+    {
+      "word": "ВОРОТА",
+      "hint": "gate; goal (in many sports, e.g. soccer, an area into which the players attempt to put an object)"
+    },
+    {
+      "word": "ВОСПОЛЬЗОВАТЬСЯ",
+      "hint": "to use, to utilize [with instrumental ‘something’]; to enjoy [with instrumental ‘health, good fortune, power, privilege, etc.’]"
+    },
+    {
+      "word": "ВОССТАНОВИТЬ",
+      "hint": "to restore, to reestablish, to reinstate; to recover, to recuperate"
+    },
+    {
+      "word": "ВОСТОК",
+      "hint": "east"
+    },
+    {
+      "word": "ВОШЕЛ",
+      "hint": "masculine singular past indicative perfective of войти́ (vojtí)"
+    },
+    {
+      "word": "ВОШЛИ",
+      "hint": "plural past indicative perfective of войти́ (vojtí)"
+    },
+    {
+      "word": "ВПЕРЁД",
+      "hint": "forward; from now on, for the future"
+    },
+    {
+      "word": "ВПЕЧАТЛЕНИЕ",
+      "hint": "impression"
+    },
+    {
+      "word": "ВПРОЧЕМ",
+      "hint": "however, nevertheless"
+    },
+    {
+      "word": "ВРАГ",
+      "hint": "enemy, foe"
+    },
+    {
+      "word": "ВРАГА",
+      "hint": "enemy, foe"
+    },
+    {
+      "word": "ВРАГОВ",
+      "hint": "enemy, foe"
+    },
+    {
+      "word": "ВРАЧА",
+      "hint": "therapist, not surgeon, not hospital nurse; doc, vet, medic, physician, doctor"
+    },
+    {
+      "word": "ВРАЧИ",
+      "hint": "nominative plural of врач (vrač)"
+    },
+    {
+      "word": "ВРЕД",
+      "hint": "harm, damage; detriment"
+    },
+    {
+      "word": "ВРЕДА",
+      "hint": "harm, damage; detriment"
+    },
+    {
+      "word": "ВРЕМЕН",
+      "hint": "favourite/favorite, minion (of a monarch); timeserver (someone temporarily and undeservedly raised to a position of authority)"
+    },
+    {
+      "word": "ВРЕМЕННО",
+      "hint": "temporarily"
+    },
+    {
+      "word": "ВСЁМ",
+      "hint": "prepositional masculine/neuter singular of весь (vesʹ)"
+    },
+    {
+      "word": "ВСЕЛЕННОЙ",
+      "hint": "the Universe (the specific universe in which we all live)"
+    },
+    {
+      "word": "ВСПОМНИЛ",
+      "hint": "masculine singular past indicative perfective of вспо́мнить (vspómnitʹ)"
+    },
+    {
+      "word": "ВСТАЛ",
+      "hint": "masculine singular past indicative perfective of встать (vstatʹ)"
+    },
+    {
+      "word": "ВСТАТЬ",
+      "hint": "to stand up, to get up, to rise; to rise (of the sun)"
+    },
+    {
+      "word": "ВСТРЕТИЛ",
+      "hint": "masculine singular past indicative perfective of встре́тить (vstrétitʹ)"
+    },
+    {
+      "word": "ВСТРЕТИЛИСЬ",
+      "hint": "plural past indicative perfective of встре́титься (vstrétitʹsja)"
+    },
+    {
+      "word": "ВСТРЕТИТЬ",
+      "hint": "to meet, to encounter, to come across; to meet, to receive, to welcome"
+    },
+    {
+      "word": "ВСТРЕЧАЕТСЯ",
+      "hint": "third-person singular present indicative imperfective of встреча́ться (vstrečátʹsja)"
+    },
+    {
+      "word": "ВСТРЕЧАЛИСЬ",
+      "hint": "plural past indicative imperfective of встреча́ться (vstrečátʹsja)"
+    },
+    {
+      "word": "ВСТРЕЧАТЬСЯ",
+      "hint": "to meet, to encounter, to come across [with с (s, + instrumental) ‘someone/something’]; to see each other, to meet, to date"
+    },
+    {
+      "word": "ВСТРЕЧЕ",
+      "hint": "meeting, encounter; date"
+    },
+    {
+      "word": "ВСЯКИЙ",
+      "hint": "any, every; all sorts of"
+    },
+    {
+      "word": "ВСЯКИХ",
+      "hint": "any, every; all sorts of"
+    },
+    {
+      "word": "ВТОРНИК",
+      "hint": "Tuesday"
+    },
+    {
+      "word": "ВТОРОМ",
+      "hint": "prepositional singular of второ́е (vtoróje)"
+    },
+    {
+      "word": "ВТОРУЮ",
+      "hint": ""
+    },
+    {
+      "word": "ВХОД",
+      "hint": "entrance, entry"
+    },
+    {
+      "word": "ВХОДИТ",
+      "hint": "third-person singular present indicative imperfective of входи́ть (vxodítʹ)"
+    },
+    {
+      "word": "ВЫБИРАТЬ",
+      "hint": "to choose, to select, to pick, to pick out; to elect"
+    },
+    {
+      "word": "ВЫБОРОВ",
+      "hint": "election"
+    },
+    {
+      "word": "ВЫБОРЫ",
+      "hint": "election"
+    },
+    {
+      "word": "ВЫБРАЛ",
+      "hint": "masculine singular past indicative perfective of вы́брать (výbratʹ)"
+    },
+    {
+      "word": "ВЫБРАЛИ",
+      "hint": "plural past indicative perfective of вы́брать (výbratʹ)"
+    },
+    {
+      "word": "ВЫГЛЯДЕТЬ",
+      "hint": "to look, to appear, to seem"
+    },
+    {
+      "word": "ВЫГЛЯДЯТ",
+      "hint": "to look, to appear, to seem"
+    },
+    {
+      "word": "ВЫЖИТЬ",
+      "hint": "to survive (continue to live); to make someone leave (an apartment, work or study place) by making their stay miserable or inconvenient, to squeeze out"
+    },
+    {
+      "word": "ВЫЗВАЛ",
+      "hint": "masculine singular past indicative perfective of вы́звать (výzvatʹ)"
+    },
+    {
+      "word": "ВЫЗВАТЬ",
+      "hint": "to call, to send for; to challenge, to defy"
+    },
+    {
+      "word": "ВЫЗОВ",
+      "hint": "call; shot (critical or insulting comment)"
+    },
+    {
+      "word": "ВЫИГРАЛА",
+      "hint": "feminine singular past indicative perfective of вы́играть (výigratʹ)"
+    },
+    {
+      "word": "ВЫИГРАЛИ",
+      "hint": "plural past indicative perfective of вы́играть (výigratʹ)"
+    },
+    {
+      "word": "ВЫНУЖДЕН",
+      "hint": "short masculine singular of вы́нужденный (výnuždennyj)"
+    },
+    {
+      "word": "ВЫПИТЬ",
+      "hint": "to drink, to drink up; to have a drink"
+    },
+    {
+      "word": "ВЫПОЛНИТЬ",
+      "hint": "to carry out, to implement, to accomplish, to fulfill, to execute, to perform; to make up, to create"
+    },
+    {
+      "word": "ВЫПОЛНЯТЬ",
+      "hint": "to carry out, to implement, to accomplish, to fulfill, to execute, to perform; to make up, to create"
+    },
+    {
+      "word": "ВЫПУСК",
+      "hint": "issue, output; emission, discharge"
+    },
+    {
+      "word": "ВЫРАЖЕНИЕ",
+      "hint": "act of expressing something, mostly one's feelings or thoughts; face expression"
+    },
+    {
+      "word": "ВЫРОС",
+      "hint": "masculine singular past indicative perfective of вы́расти (výrasti)"
+    },
+    {
+      "word": "ВЫСОКИЙ",
+      "hint": "tall; high-altitude"
+    },
+    {
+      "word": "ВЫСОКО",
+      "hint": "high, aloft, high up"
+    },
+    {
+      "word": "ВЫСТУПАТЬ",
+      "hint": "to project, to protrude, to jut, to jut out, to come out, to stand out; to step forth, to step forward"
+    },
+    {
+      "word": "ВЫСТУПЛЕНИЕ",
+      "hint": "appearance, speech, address; performance"
+    },
+    {
+      "word": "ВЫХОДИТЬ",
+      "hint": "to go out, to come out, to walk out; to withdraw, to retire"
+    },
+    {
+      "word": "ВЫЯСНИТЬ",
+      "hint": "to clear up, to elucidate, to clarify, to find out, to ascertain"
+    },
+    {
+      "word": "ГАЗ",
+      "hint": "GAZ car (vehicle produced by the Gorky Automobile Plant)"
+    },
+    {
+      "word": "ГАЗА",
+      "hint": "genitive singular of газ (gaz)"
+    },
+    {
+      "word": "ГАЗЕТЕ",
+      "hint": "dative/prepositional singular of газе́та (gazéta)"
+    },
+    {
+      "word": "ГЕЙ",
+      "hint": "hey!; hi!"
+    },
+    {
+      "word": "ГЕРМАНИИ",
+      "hint": "germanium"
+    },
+    {
+      "word": "ГЕРОЯ",
+      "hint": "hero; character"
+    },
+    {
+      "word": "ГЛАВЕ",
+      "hint": "head, top, summit; cupola, dome"
+    },
+    {
+      "word": "ГЛАВНАЯ",
+      "hint": "instrumental singular of гла́вная (glávnaja)"
+    },
+    {
+      "word": "ГЛАВНОГО",
+      "hint": "the main thing, the essentials; chiefly, above all"
+    },
+    {
+      "word": "ГЛАВНОЙ",
+      "hint": "chief, leading, main, principal, head, central"
+    },
+    {
+      "word": "ГЛУБОКО",
+      "hint": "deep, deeply; profoundly"
+    },
+    {
+      "word": "ГЛУПО",
+      "hint": "foolishly, stupidly"
+    },
+    {
+      "word": "ГО",
+      "hint": "go (board game)"
+    },
+    {
+      "word": "ГОВОРИ",
+      "hint": "the sound of talking, the sound of voices, the sound of speech; murmur"
+    },
+    {
+      "word": "ГОВОРИМ",
+      "hint": "present passive imperfective participle of говори́ть (govorítʹ)"
+    },
+    {
+      "word": "ГОВОРИТСЯ",
+      "hint": "passive of говори́ть (govorítʹ)"
+    },
+    {
+      "word": "ГОДАМИ",
+      "hint": "for years; for years on end"
+    },
+    {
+      "word": "ГОДОМ",
+      "hint": "instrumental singular of год (god)"
+    },
+    {
+      "word": "ГОРЕ",
+      "hint": "grief, distress, sadness; trouble"
+    },
+    {
+      "word": "ГОРЖУСЬ",
+      "hint": "first-person singular present indicative imperfective of горди́ться (gordítʹsja)"
+    },
+    {
+      "word": "ГОРЛО",
+      "hint": "throat; gullet"
+    },
+    {
+      "word": "ГОРОДСКОЙ",
+      "hint": "town, city; urban, municipal"
+    },
+    {
+      "word": "ГОРОДУ",
+      "hint": "city, town; a bigger part of a city, including the downtown and inner city areas (as opposed to the suburbs and outskirts)"
+    },
+    {
+      "word": "ГОРЫ",
+      "hint": "genitive singular of гора́ (gorá)"
+    },
+    {
+      "word": "ГОСПОДЬ",
+      "hint": "alternative letter-case form of Госпо́дь (Gospódʹ)"
+    },
+    {
+      "word": "ГОСПОЖА",
+      "hint": "female equivalent of господи́н (gospodín): lady, gentlewoman, dame (a woman of a high rank or position); madam, ma'am, Mrs., Miss (polite, formal term of address for a woman)"
+    },
+    {
+      "word": "ГОСТЕЙ",
+      "hint": "genitive/accusative plural of гость (gostʹ)"
+    },
+    {
+      "word": "ГОСУДАРСТВА",
+      "hint": "State"
+    },
+    {
+      "word": "ГОТОВИТЬ",
+      "hint": "to prepare, to make ready; to cook"
+    },
+    {
+      "word": "ГОТОВО",
+      "hint": "short neuter singular of гото́вый (gotóvyj)"
+    },
+    {
+      "word": "ГРАНИЦУ",
+      "hint": "border, boundary, bounds, confines, frontier"
+    },
+    {
+      "word": "ГРАФ",
+      "hint": "count, earl (the male ruler of a county)"
+    },
+    {
+      "word": "ГРОМКО",
+      "hint": "loudly, aloud"
+    },
+    {
+      "word": "ГРУДИ",
+      "hint": "chest; breast, bosom"
+    },
+    {
+      "word": "ГРУДЬ",
+      "hint": "chest; breast, bosom"
+    },
+    {
+      "word": "ГРУППОЙ",
+      "hint": "instrumental singular of гру́ппа (grúppa)"
+    },
+    {
+      "word": "ГРУСТНО",
+      "hint": "sadly"
+    },
+    {
+      "word": "ГУБЕРНАТОР",
+      "hint": "governor"
+    },
+    {
+      "word": "ГУБЫ",
+      "hint": "genitive singular of губа́ (gubá)"
+    },
+    {
+      "word": "ДАЁТ",
+      "hint": "third-person singular present indicative imperfective of дава́ть (davátʹ)"
+    },
+    {
+      "word": "ДАВАЛ",
+      "hint": "masculine singular past indicative imperfective of дава́ть (davátʹ)"
+    },
+    {
+      "word": "ДАДУТ",
+      "hint": "third-person plural future indicative perfective of дать (datʹ)"
+    },
+    {
+      "word": "ДАМ",
+      "hint": "lady; dance partner"
+    },
+    {
+      "word": "ДАМЫ",
+      "hint": "inflection of да́ма (dáma)"
+    },
+    {
+      "word": "ДАННОМ",
+      "hint": "past passive perfective participle of дать (datʹ)"
+    },
+    {
+      "word": "ДАННЫМ",
+      "hint": "past passive perfective participle of дать (datʹ)"
+    },
+    {
+      "word": "ДАР",
+      "hint": "gift, present; talent, aptitude"
+    },
+    {
+      "word": "ДАТА",
+      "hint": "date (point in time)"
+    },
+    {
+      "word": "ДВИГАТЕЛЬ",
+      "hint": "engine, motor"
+    },
+    {
+      "word": "ДВИГАТЬСЯ",
+      "hint": "to move (intransitive)"
+    },
+    {
+      "word": "ДВОР",
+      "hint": "yard; courtyard"
+    },
+    {
+      "word": "ДВОРЕ",
+      "hint": "prepositional singular of двор (dvor)"
+    },
+    {
+      "word": "ДВОРЕЦ",
+      "hint": "palace"
+    },
+    {
+      "word": "ДЕВОЧЕК",
+      "hint": "girl, teenage girl (at the age of puberty)"
+    },
+    {
+      "word": "ДЕВОЧКУ",
+      "hint": "girl, teenage girl (at the age of puberty)"
+    },
+    {
+      "word": "ДЕВУШЕК",
+      "hint": "girl, lass (from the age of puberty to womanhood); miss (informal but common form of address to a young woman; may also apply to middle-aged women working in the service industry,"
+    },
+    {
+      "word": "ДЕВУШКЕ",
+      "hint": "girl, lass (from the age of puberty to womanhood); miss (informal but common form of address to a young woman; may also apply to middle-aged women working in the service industry,"
+    },
+    {
+      "word": "ДЕВУШКОЙ",
+      "hint": "instrumental singular of де́вушка (dévuška)"
+    },
+    {
+      "word": "ДЕД",
+      "hint": "grandfather; old man"
+    },
+    {
+      "word": "ДЕДУШКА",
+      "hint": "diminutive of дед (ded); top of the house, ninety in the lotto game"
+    },
+    {
+      "word": "ДЕЙСТВИЕ",
+      "hint": "action, activity; effect, efficacy"
+    },
+    {
+      "word": "ДЕЙСТВИЙ",
+      "hint": "prepositional singular of де́йствие (déjstvije)"
+    },
+    {
+      "word": "ДЕЙСТВУЕТ",
+      "hint": "to do an action or activity"
+    },
+    {
+      "word": "ДЕЛАЕМ",
+      "hint": "present passive imperfective participle of де́лать (délatʹ)"
+    },
+    {
+      "word": "ДЕЛАЕТЕ",
+      "hint": "second-person plural present indicative imperfective of де́лать (délatʹ)"
+    },
+    {
+      "word": "ДЕЛАЕТСЯ",
+      "hint": "to become, to get, to grow, to turn; to happen (with, to), to be going on"
+    },
+    {
+      "word": "ДЕЛАЛА",
+      "hint": "feminine singular past indicative imperfective of де́лать (délatʹ)"
+    },
+    {
+      "word": "ДЕЛАМ",
+      "hint": "dative plural of де́ло (délo)"
+    },
+    {
+      "word": "ДЕЛАМИ",
+      "hint": "instrumental plural of де́ло (délo)"
+    },
+    {
+      "word": "ДЕЛАХ",
+      "hint": "prepositional plural of де́ло (délo)"
+    },
+    {
+      "word": "ДЕНЬГАМИ",
+      "hint": "instrumental plural of де́ньга (dénʹga)"
+    },
+    {
+      "word": "ДЕРЕВНЕ",
+      "hint": "dative/prepositional singular of дере́вня (derévnja)"
+    },
+    {
+      "word": "ДЕРЕВНИ",
+      "hint": "village, hamlet; the countryside, the rural population"
+    },
+    {
+      "word": "ДЕРЕВО",
+      "hint": "tree; wood (only singular)"
+    },
+    {
+      "word": "ДЕРЖИТ",
+      "hint": "third-person singular present indicative imperfective of держа́ть (deržátʹ)"
+    },
+    {
+      "word": "ДЕРЬМО",
+      "hint": "shit, crap (excrement); shit, crap (stuff, things)"
+    },
+    {
+      "word": "ДЕСЯТИ",
+      "hint": "decahedron"
+    },
+    {
+      "word": "ДЕТАЛИ",
+      "hint": "detail, nicety; minutiae"
+    },
+    {
+      "word": "ДЕТСКИЙ",
+      "hint": "child; child's, children's; childish"
+    },
+    {
+      "word": "ДЕТСТВА",
+      "hint": "childhood"
+    },
+    {
+      "word": "ДЕТСТВЕ",
+      "hint": "prepositional singular of де́тство (détstvo)"
+    },
+    {
+      "word": "ДЕЯТЕЛЬНОСТИ",
+      "hint": "activity; work"
+    },
+    {
+      "word": "ДЖЕЙ",
+      "hint": "J, j"
+    },
+    {
+      "word": "ДЖЕЙН",
+      "hint": ""
+    },
+    {
+      "word": "ДЖЕК",
+      "hint": ""
+    },
+    {
+      "word": "ДЖО",
+      "hint": ""
+    },
+    {
+      "word": "ДЖОНА",
+      "hint": ""
+    },
+    {
+      "word": "ДЖОННИ",
+      "hint": ""
+    },
+    {
+      "word": "ДЖОНС",
+      "hint": ""
+    },
+    {
+      "word": "ДИ",
+      "hint": "D, d"
+    },
+    {
+      "word": "ДИН",
+      "hint": "genitive plural of ди́на (dína)"
+    },
+    {
+      "word": "ДИРЕКТОРА",
+      "hint": "manager, director, principal, headmaster"
+    },
+    {
+      "word": "ДИСК",
+      "hint": "disk, disc; discus, platter"
+    },
+    {
+      "word": "ДНЁМ",
+      "hint": "by day, during the day"
+    },
+    {
+      "word": "ДНЕ",
+      "hint": "prepositional singular of день (denʹ)"
+    },
+    {
+      "word": "ДНК",
+      "hint": ""
+    },
+    {
+      "word": "ДНЯХ",
+      "hint": "prepositional plural of день (denʹ)"
+    },
+    {
+      "word": "ДОБАВИТЬ",
+      "hint": "to add"
+    },
+    {
+      "word": "ДОБИТЬСЯ",
+      "hint": "to (try to) achieve, to attain, to get, to reach [with genitive ‘something’]; to find out [with genitive ‘about something’]"
+    },
+    {
+      "word": "ДОБРА",
+      "hint": "good (that which is ethical or moral, the opposite of evil); goods, property"
+    },
+    {
+      "word": "ДОБРАТЬСЯ",
+      "hint": "to get (to), to reach; passive of добра́ть (dobrátʹ)"
+    },
+    {
+      "word": "ДОБРОЙ",
+      "hint": "good; benevolent, kind, kindly, good-hearted, kindhearted"
+    },
+    {
+      "word": "ДОВЕРИЕ",
+      "hint": "trust (confidence in or reliance on some person or quality)"
+    },
+    {
+      "word": "ДОВЕРЯТЬ",
+      "hint": "to trust, to have confidence in [with dative ‘someone’]; to entrust (to give someone or something to someone for safekeeping) [with dative ‘someone’ and accusative ‘with"
+    },
+    {
+      "word": "ДОВОЛЕН",
+      "hint": "short masculine singular of дово́льный (dovólʹnyj)"
+    },
+    {
+      "word": "ДОГОВОР",
+      "hint": "agreement, contract, pact, treaty"
+    },
+    {
+      "word": "ДОГОВОРИЛИСЬ",
+      "hint": "plural past indicative perfective of договори́ться (dogovorítʹsja)"
+    },
+    {
+      "word": "ДОКАЗАТЕЛЬСТВ",
+      "hint": "evidence, proof, justification; proof"
+    },
+    {
+      "word": "ДОКАЗАТЕЛЬСТВА",
+      "hint": "evidence, proof, justification; proof"
+    },
+    {
+      "word": "ДОКАЗАТЕЛЬСТВО",
+      "hint": "evidence, proof, justification; proof"
+    },
+    {
+      "word": "ДОКУМЕНТОВ",
+      "hint": "document, paper"
+    },
+    {
+      "word": "ДОЛГОЕ",
+      "hint": "long (having great duration)"
+    },
+    {
+      "word": "ДОЛЖНОСТИ",
+      "hint": "office, post, appointment, position"
+    },
+    {
+      "word": "ДОЛЖНОСТЬ",
+      "hint": "office, post, appointment, position"
+    },
+    {
+      "word": "ДОЛЬШЕ",
+      "hint": "comparative degree of до́лгий (dólgij); comparative degree of до́лго (dólgo)"
+    },
+    {
+      "word": "ДОЛЮ",
+      "hint": "accusative singular of до́ля (dólja)"
+    },
+    {
+      "word": "ДОМОВ",
+      "hint": "genitive plural of дом (dom)"
+    },
+    {
+      "word": "ДОМОМ",
+      "hint": "instrumental singular of дом (dom)"
+    },
+    {
+      "word": "ДОМУ",
+      "hint": "dative/partitive singular of дом (dom)"
+    },
+    {
+      "word": "ДОРОГ",
+      "hint": "short masculine singular of дорого́й (dorogój)"
+    },
+    {
+      "word": "ДОРОГИЕ",
+      "hint": "dear, precious; expensive"
+    },
+    {
+      "word": "ДОРОГО",
+      "hint": "expensively, dearly (in an expensive manner, also figuratively)"
+    },
+    {
+      "word": "ДОСТАЛ",
+      "hint": "masculine singular past indicative perfective of доста́ть (dostátʹ)"
+    },
+    {
+      "word": "ДОСТАТЬ",
+      "hint": "to reach, to touch; to take, to go fetch, to take out"
+    },
+    {
+      "word": "ДОЧЕРЬЮ",
+      "hint": "instrumental singular of дочь (dočʹ)"
+    },
+    {
+      "word": "ДРУЗЬЯМ",
+      "hint": "friends-comrades (male or female)"
+    },
+    {
+      "word": "ДУМАЛИ",
+      "hint": "plural past indicative imperfective of ду́мать (dúmatʹ)"
+    },
+    {
+      "word": "ДУРАК",
+      "hint": "fool, simpleton, idiot (stupid person with poor judgment); durak (a simple card game in which the last player holding cards in their hand is the loser)"
+    },
+    {
+      "word": "ДУХ",
+      "hint": "spirit; mind"
+    },
+    {
+      "word": "ДУХЕ",
+      "hint": "prepositional singular of дух (dux)"
+    },
+    {
+      "word": "ДУШ",
+      "hint": "shower (device for bathing); shower (instance of using the shower)"
+    },
+    {
+      "word": "ДЫХАНИЕ",
+      "hint": "breath; breathing, respiration"
+    },
+    {
+      "word": "ДЫШАТЬ",
+      "hint": "to breathe, to respire"
+    },
+    {
+      "word": "ЕВРО",
+      "hint": "euro (€, currency)"
+    },
+    {
+      "word": "ЕВРОПЕ",
+      "hint": ""
+    },
+    {
+      "word": "ЕДА",
+      "hint": "food; meal"
+    },
+    {
+      "word": "ЕДЕМ",
+      "hint": "first-person plural present indicative imperfective of е́хать (jéxatʹ)"
+    },
+    {
+      "word": "ЕДЕТ",
+      "hint": "third-person singular present indicative imperfective of е́хать (jéxatʹ)"
+    },
+    {
+      "word": "ЕДИНОГО",
+      "hint": "united, unified, common, indivisible; one, single, sole"
+    },
+    {
+      "word": "ЕДИНСТВЕННОЙ",
+      "hint": "sole, only, unique; unique, exceptional, unparalleled"
+    },
+    {
+      "word": "ЕДИНСТВЕННЫМ",
+      "hint": "sole, only, unique; unique, exceptional, unparalleled"
+    },
+    {
+      "word": "ЕДЫ",
+      "hint": "genitive singular of еда́ (jedá)"
+    },
+    {
+      "word": "ЕЗДИТЬ",
+      "hint": "to go (by horse or vehicle), to ride, to drive; to come, to visit"
+    },
+    {
+      "word": "ЕЛЕНА",
+      "hint": ""
+    },
+    {
+      "word": "ЕЮ",
+      "hint": "alternative form of е́й (jéj); instrumental of она́ (oná)"
+    },
+    {
+      "word": "ЖАЛКО",
+      "hint": "pitiably, miserably, wretchedly; negligibly"
+    },
+    {
+      "word": "ЖАРКО",
+      "hint": "hotly"
+    },
+    {
+      "word": "ЖДЁТ",
+      "hint": "third-person singular present indicative imperfective of ждать (ždatʹ)"
+    },
+    {
+      "word": "ЖДАЛ",
+      "hint": "masculine singular past indicative imperfective of ждать (ždatʹ)"
+    },
+    {
+      "word": "ЖДАЛА",
+      "hint": "feminine singular past indicative imperfective of ждать (ždatʹ)"
+    },
+    {
+      "word": "ЖДАЛИ",
+      "hint": "plural past indicative imperfective of ждать (ždatʹ)"
+    },
+    {
+      "word": "ЖДЕМ",
+      "hint": "first-person plural present indicative imperfective of ждать (ždatʹ)"
+    },
+    {
+      "word": "ЖЕЛАЕТ",
+      "hint": "third-person singular present indicative imperfective of жела́ть (želátʹ)"
+    },
+    {
+      "word": "ЖЕЛАНИЯ",
+      "hint": "wish, desire; wanting, volition, tending"
+    },
+    {
+      "word": "ЖЕЛАЮ",
+      "hint": "to wish, to desire; to covet"
+    },
+    {
+      "word": "ЖЕНАТ",
+      "hint": "short masculine singular of жена́тый (ženátyj)"
+    },
+    {
+      "word": "ЖЕНЕ",
+      "hint": "dative/prepositional singular of жена́ (žená)"
+    },
+    {
+      "word": "ЖЕНИЛСЯ",
+      "hint": "masculine singular past indicative imperfective/perfective of жени́ться (ženítʹsja)"
+    },
+    {
+      "word": "ЖЕНИТЬСЯ",
+      "hint": "to get married, to take as a wife [with на (na, + prepositional) ‘(to) a woman’]; to get married, to marry (of a couple)"
+    },
+    {
+      "word": "ЖЕНЩИНЕ",
+      "hint": "woman; Madam, lady, woman (rather crude but common form of address)"
+    },
+    {
+      "word": "ЖЕНЩИНОЙ",
+      "hint": "instrumental singular of же́нщина (žénščina)"
+    },
+    {
+      "word": "ЖЕРТВ",
+      "hint": "sacrifice; victim"
+    },
+    {
+      "word": "ЖЕРТВЫ",
+      "hint": "sacrifice; victim"
+    },
+    {
+      "word": "ЖИВ",
+      "hint": "short masculine singular of живо́й (živój)"
+    },
+    {
+      "word": "ЖИВЁТ",
+      "hint": "third-person singular present indicative imperfective of жить (žitʹ)"
+    },
+    {
+      "word": "ЖИВОЙ",
+      "hint": "living, live, alive; lively, vivid, vivacious, animated"
+    },
+    {
+      "word": "ЖИВОТ",
+      "hint": "belly, stomach; life"
+    },
+    {
+      "word": "ЖИВОТНЫЕ",
+      "hint": "animal; brutal, bestial"
+    },
+    {
+      "word": "ЖИВЫХ",
+      "hint": ""
+    },
+    {
+      "word": "ЖИЛА",
+      "hint": "sinew, tendon; vein"
+    },
+    {
+      "word": "ЖИЛИ",
+      "hint": "plural past indicative imperfective of жить (žitʹ)"
+    },
+    {
+      "word": "ЖИТЕЛЕЙ",
+      "hint": "inhabitant, resident, occupant, dweller"
+    },
+    {
+      "word": "ЖИТЕЛИ",
+      "hint": "inhabitant, resident, occupant, dweller"
+    },
+    {
+      "word": "ЗАБРАТЬ",
+      "hint": "to take away, to seize, to collect; to capture, to take possession; to collect, to pick up"
+    },
+    {
+      "word": "ЗАБУДЬ",
+      "hint": "second-person singular imperative of забы́ть pf (zabýtʹ)"
+    },
+    {
+      "word": "ЗАБЫЛИ",
+      "hint": "plural past indicative perfective of забы́ть (zabýtʹ)"
+    },
+    {
+      "word": "ЗАВИСИМОСТИ",
+      "hint": "dependence; addiction"
+    },
+    {
+      "word": "ЗАВОД",
+      "hint": "factory, plant; breeding farm (also in terms of husbandry)"
+    },
+    {
+      "word": "ЗАВТРАК",
+      "hint": "breakfast"
+    },
+    {
+      "word": "ЗАДАНИЕ",
+      "hint": "assignment, task; setting (of parameters, etc., as a process)"
+    },
+    {
+      "word": "ЗАДАЧА",
+      "hint": "problem; task, problem"
+    },
+    {
+      "word": "ЗАЙТИ",
+      "hint": "to go (to see), to come in (to see, etc.), to call, to drop in; to pick up, to fetch"
+    },
+    {
+      "word": "ЗАКАЗ",
+      "hint": "order (request for some product or service)"
+    },
+    {
+      "word": "ЗАКАНЧИВАЕТСЯ",
+      "hint": "third-person singular present indicative imperfective of зака́нчиваться (zakánčivatʹsja)"
+    },
+    {
+      "word": "ЗАКЛЮЧАЕТСЯ",
+      "hint": "to conclude (with, in), to end (with); to be concluded, to be signed"
+    },
+    {
+      "word": "ЗАКОНУ",
+      "hint": "law; rule"
+    },
+    {
+      "word": "ЗАКОНЧИЛ",
+      "hint": "masculine singular past indicative perfective of зако́нчить (zakónčitʹ)"
+    },
+    {
+      "word": "ЗАКОНЧИЛАСЬ",
+      "hint": "feminine singular past indicative perfective of зако́нчиться (zakónčitʹsja)"
+    },
+    {
+      "word": "ЗАКОНЧИЛОСЬ",
+      "hint": "neuter singular past indicative perfective of зако́нчиться (zakónčitʹsja)"
+    },
+    {
+      "word": "ЗАКОНЧИТСЯ",
+      "hint": "to finish, to end, to be over; passive of зако́нчить (zakónčitʹ)"
+    },
+    {
+      "word": "ЗАКОНЧИТЬ",
+      "hint": "to finish, to end; to complete (work, lessons, etc.)"
+    },
+    {
+      "word": "ЗАКОНЫ",
+      "hint": "Pre-1918 spelling of зако́н (zakón)."
+    },
+    {
+      "word": "ЗАКРЫТЬ",
+      "hint": "to cover, to hide; to close, to shut"
+    },
+    {
+      "word": "ЗАЛ",
+      "hint": "hall; living room"
+    },
+    {
+      "word": "ЗАЛЕ",
+      "hint": "prepositional singular of зал (zal)"
+    },
+    {
+      "word": "ЗАМЕНИТЬ",
+      "hint": "to replace, to substitute; to commute"
+    },
+    {
+      "word": "ЗАМЕСТИТЕЛЬ",
+      "hint": "substitute, replacement; deputy, assistant, vice"
+    },
+    {
+      "word": "ЗАМЕТИЛА",
+      "hint": "feminine singular past indicative perfective of заме́тить (zamétitʹ)"
+    },
+    {
+      "word": "ЗАМЕТИЛИ",
+      "hint": "plural past indicative perfective of заме́тить (zamétitʹ)"
+    },
+    {
+      "word": "ЗАМЕТИТЬ",
+      "hint": "to notice, to remark, to note, to observe"
+    },
+    {
+      "word": "ЗАМЕЧАТЕЛЬНО",
+      "hint": "remarkably"
+    },
+    {
+      "word": "ЗАМОК",
+      "hint": "castle"
+    },
+    {
+      "word": "ЗАМУЖЕМ",
+      "hint": "married (to a husband only)"
+    },
+    {
+      "word": "ЗАНИМАЕТ",
+      "hint": "third-person singular present indicative imperfective of занима́ть (zanimátʹ)"
+    },
+    {
+      "word": "ЗАНИМАЛИСЬ",
+      "hint": "plural past indicative imperfective of занима́ться (zanimátʹsja)"
+    },
+    {
+      "word": "ЗАНИМАЛСЯ",
+      "hint": "masculine singular past indicative imperfective of занима́ться (zanimátʹsja)"
+    },
+    {
+      "word": "ЗАНИМАЮТСЯ",
+      "hint": "third-person plural present indicative imperfective of занима́ться (zanimátʹsja)"
+    },
+    {
+      "word": "ЗАНОВО",
+      "hint": "anew, freshly, again (usually in a different way to before)"
+    },
+    {
+      "word": "ЗАНЯТ",
+      "hint": "short masculine singular of за́нятый (zánjatyj)"
+    },
+    {
+      "word": "ЗАНЯТИЯ",
+      "hint": "occupation, work, business (activity or task with which one occupies oneself); exercise"
+    },
+    {
+      "word": "ЗАНЯТЬ",
+      "hint": "to borrow; to lend (standard: одолжи́ть)"
+    },
+    {
+      "word": "ЗАПАД",
+      "hint": "west"
+    },
+    {
+      "word": "ЗАПЛАТИТЬ",
+      "hint": "to pay"
+    },
+    {
+      "word": "ЗАРАБОТАТЬ",
+      "hint": "to earn; to start to work"
+    },
+    {
+      "word": "ЗАРАНЕЕ",
+      "hint": "beforehand, in advance, in good time"
+    },
+    {
+      "word": "ЗАСЛУЖИВАЕТ",
+      "hint": "third-person singular present indicative imperfective of заслу́живать (zaslúživatʹ)"
+    },
+    {
+      "word": "ЗАСТАВИЛ",
+      "hint": "masculine singular past indicative perfective of заста́вить (zastávitʹ)"
+    },
+    {
+      "word": "ЗАСТАВЛЯЕТ",
+      "hint": "to compel, to force, to make"
+    },
+    {
+      "word": "ЗАХОЧЕТ",
+      "hint": "to begin to want, to begin to desire"
+    },
+    {
+      "word": "ЗАЩИТА",
+      "hint": "defense, protection, advocacy; aegis, shield, armour, shelter, cover"
+    },
+    {
+      "word": "ЗАЩИТУ",
+      "hint": "defense, protection, advocacy; aegis, shield, armour, shelter, cover"
+    },
+    {
+      "word": "ЗАЩИЩАТЬ",
+      "hint": "to defend, to guard, to protect; to speak in support (of), to stand up for, to support, to vindicate, to advocate"
+    },
+    {
+      "word": "ЗАЯВИЛ",
+      "hint": "masculine singular past indicative perfective of заяви́ть (zajavítʹ)"
+    },
+    {
+      "word": "ЗВОНИТЬ",
+      "hint": "to call (to contact by telephone) [with dative ‘someone’]; to call [with locative adverb or в (v, + accusative) or на (na, + accusative) ‘a location’]"
+    },
+    {
+      "word": "ЗВОНОК",
+      "hint": "bell (signaling device such as a bicycle bell); bell (an audible signal such as a school bell)"
+    },
+    {
+      "word": "ЗВУКИ",
+      "hint": "sound"
+    },
+    {
+      "word": "ЗДАНИИ",
+      "hint": "prepositional singular of зда́ние (zdánije)"
+    },
+    {
+      "word": "ЗДОРОВЬЯ",
+      "hint": "health"
+    },
+    {
+      "word": "ЗДРАВСТВУЙ",
+      "hint": "hello"
+    },
+    {
+      "word": "ЗЕРКАЛО",
+      "hint": "mirror, looking glass"
+    },
+    {
+      "word": "ЗЛА",
+      "hint": "short feminine singular of злой (zloj)"
+    },
+    {
+      "word": "ЗЛО",
+      "hint": "evil, bad, wrong; harm"
+    },
+    {
+      "word": "ЗНАКОМ",
+      "hint": "short masculine singular of знако́мый (znakómyj)"
+    },
+    {
+      "word": "ЗНАКОМЫ",
+      "hint": "short plural of знако́мый (znakómyj)"
+    },
+    {
+      "word": "ЗНАНИЯ",
+      "hint": "knowledge, erudition"
+    },
+    {
+      "word": "ЗНАЧИТЕЛЬНО",
+      "hint": "significantly; considerably, substantially"
+    },
+    {
+      "word": "ЗНАЯ",
+      "hint": "present adverbial imperfective participle of знать (znatʹ)"
+    },
+    {
+      "word": "ЗОЛОТОЙ",
+      "hint": "gold; golden; gold, golden (color)"
+    },
+    {
+      "word": "ЗОНЕ",
+      "hint": "dative/prepositional singular of зо́на (zóna)"
+    },
+    {
+      "word": "ЗОНЫ",
+      "hint": "inflection of зо́на (zóna)"
+    },
+    {
+      "word": "ЗУБЫ",
+      "hint": "nominative/accusative plural of зуб (zub)"
+    },
+    {
+      "word": "ИБО",
+      "hint": "for, because, as, since"
+    },
+    {
+      "word": "ИВАН",
+      "hint": "rose-bay, willowherb, fireweed; willowherb tea"
+    },
+    {
+      "word": "ИГР",
+      "hint": "genitive plural of игра́ (igrá)"
+    },
+    {
+      "word": "ИГРАЛИ",
+      "hint": "plural past indicative imperfective of игра́ть (igrátʹ)"
+    },
+    {
+      "word": "ИГРАЮТ",
+      "hint": "third-person plural present indicative imperfective of игра́ть (igrátʹ)"
+    },
+    {
+      "word": "ИГРОК",
+      "hint": "player; gambler"
+    },
+    {
+      "word": "ИДЕАЛЬНО",
+      "hint": "ideally (in various senses)"
+    },
+    {
+      "word": "ИДЕЙ",
+      "hint": "genitive plural of иде́я (idéja)"
+    },
+    {
+      "word": "ИДЕМ",
+      "hint": "alternative spelling of идём (idjóm)"
+    },
+    {
+      "word": "ИДЕЮ",
+      "hint": "accusative singular of иде́я (idéja)"
+    },
+    {
+      "word": "ИДИОТ",
+      "hint": "idiot"
+    },
+    {
+      "word": "ИДИТЕ",
+      "hint": "second-person plural imperative imperfective of идти́ (idtí)"
+    },
+    {
+      "word": "ИЗБЕЖАТЬ",
+      "hint": "to avoid, to refrain from [with genitive ‘something’ or infinitive ‘doing something’]; to keep off, to steer clear of, to shun, to evade, to elude [with genitive"
+    },
+    {
+      "word": "ИЗВЕСТНЫЙ",
+      "hint": "known, familiar; well-known, renowned, famous"
+    },
+    {
+      "word": "ИЗВИНИ",
+      "hint": "second-person singular imperative perfective of извини́ть (izvinítʹ) (singular informal) - excuse me; sorry"
+    },
+    {
+      "word": "ИЗМЕНЕНИЯ",
+      "hint": "change, modification, alteration; inflection"
+    },
+    {
+      "word": "ИЗМЕНИЛОСЬ",
+      "hint": "neuter singular past indicative perfective of измени́ться (izmenítʹsja)"
+    },
+    {
+      "word": "ИЗМЕНИТСЯ",
+      "hint": "to change (intransitive); passive of измени́ть (izmenítʹ)"
+    },
+    {
+      "word": "ИЗО",
+      "hint": "alternative form of из (iz): from, out of"
+    },
+    {
+      "word": "ИМЕЕМ",
+      "hint": "first-person plural present indicative imperfective of име́ть (imétʹ)"
+    },
+    {
+      "word": "ИМЕЛИ",
+      "hint": "plural past indicative imperfective of име́ть (imétʹ)"
+    },
+    {
+      "word": "ИМЕНЕМ",
+      "hint": "instrumental singular of и́мя (ímja)"
+    },
+    {
+      "word": "ИМПЕРИИ",
+      "hint": "empire"
+    },
+    {
+      "word": "ИН",
+      "hint": "female equivalent of инопланетя́нин (inoplanetjánin): female alien (life form of non-Earth origin)"
+    },
+    {
+      "word": "ИНДИИ",
+      "hint": "indium"
+    },
+    {
+      "word": "ИНСПЕКТОР",
+      "hint": "controller, inspector, surveyor"
+    },
+    {
+      "word": "ИНТЕРЕС",
+      "hint": "interest [with к (k, + dative) ‘in something’]"
+    },
+    {
+      "word": "ИНТЕРЕСУЕТ",
+      "hint": "third-person singular present indicative imperfective of интересова́ть (interesovátʹ)"
+    },
+    {
+      "word": "ИНТЕРЕСЫ",
+      "hint": "interest [with к (k, + dative) ‘in something’]"
+    },
+    {
+      "word": "ИНТЕРНЕТ",
+      "hint": "Internet"
+    },
+    {
+      "word": "ИНТЕРНЕТЕ",
+      "hint": "prepositional singular of интерне́т (intɛrnɛ́t)"
+    },
+    {
+      "word": "ИСКАЛ",
+      "hint": "masculine singular past indicative imperfective of иска́ть (iskátʹ)"
+    },
+    {
+      "word": "ИСКЛЮЧЕНИЕМ",
+      "hint": "instrumental singular of исключе́ние (isključénije)"
+    },
+    {
+      "word": "ИСКЛЮЧИТЕЛЬНО",
+      "hint": "exceptionally, exclusively, extraordinarily; solely, only"
+    },
+    {
+      "word": "ИСКРЕННЕ",
+      "hint": "sincerely"
+    },
+    {
+      "word": "ИСКУССТВА",
+      "hint": "art; skill, craftsmanship, craft"
+    },
+    {
+      "word": "ИСКУССТВО",
+      "hint": "art; skill, craftsmanship, craft"
+    },
+    {
+      "word": "ИСПАНИИ",
+      "hint": "female equivalent of испа́нец (ispánec): female Spaniard, Spanish woman or girl; Spanish influenza"
+    },
+    {
+      "word": "ИСПОЛЬЗОВАЛ",
+      "hint": "masculine singular past indicative imperfective/perfective of испо́льзовать (ispólʹzovatʹ)"
+    },
+    {
+      "word": "ИСПОЛЬЗОВАЛИ",
+      "hint": "plural past indicative imperfective/perfective of испо́льзовать (ispólʹzovatʹ)"
+    },
+    {
+      "word": "ИСПОЛЬЗОВАНИЕ",
+      "hint": "use, usage; utilization"
+    },
+    {
+      "word": "ИСПОЛЬЗУЕТ",
+      "hint": "to use, to apply; to utilize, to exploit, to exercise"
+    },
+    {
+      "word": "ИСПОЛЬЗУЮТ",
+      "hint": "to use, to apply; to utilize, to exploit, to exercise"
+    },
+    {
+      "word": "ИСПОЛЬЗУЯ",
+      "hint": "present imperfective adverbial participle of испо́льзовать (ispólʹzovatʹ): while using"
+    },
+    {
+      "word": "ИСПРАВИТЬ",
+      "hint": "to correct, to improve, to repair"
+    },
+    {
+      "word": "ИССЛЕДОВАНИЕ",
+      "hint": "research, study; exploration, investigation"
+    },
+    {
+      "word": "ИССЛЕДОВАНИЙ",
+      "hint": "prepositional singular of иссле́дование (isslédovanije)"
+    },
+    {
+      "word": "ИТАЛИИ",
+      "hint": ""
+    },
+    {
+      "word": "ИЩЕТ",
+      "hint": "third-person singular present indicative imperfective of иска́ть (iskátʹ)"
+    },
+    {
+      "word": "ИЩУТ",
+      "hint": "third-person plural present indicative imperfective of иска́ть (iskátʹ)"
+    },
+    {
+      "word": "ИЮЛЯ",
+      "hint": "genitive singular of ию́ль (ijúlʹ)"
+    },
+    {
+      "word": "ИЮНЯ",
+      "hint": "genitive singular of ию́нь (ijúnʹ)"
+    },
+    {
+      "word": "КА",
+      "hint": "the Cyrillic letter К, к; the Latin letter K, k"
+    },
+    {
+      "word": "КАБИНЕТ",
+      "hint": "office (building or room), private office, home office; study (room)"
+    },
+    {
+      "word": "КАБИНЕТЕ",
+      "hint": "prepositional singular of кабине́т (kabinét)"
+    },
+    {
+      "word": "КАЖДАЯ",
+      "hint": "every, each; either (of two)"
+    },
+    {
+      "word": "КАЖДОМУ",
+      "hint": "every, each; either (of two)"
+    },
+    {
+      "word": "КАЖДЫЕ",
+      "hint": "every, each; either (of two)"
+    },
+    {
+      "word": "КАЖДЫМ",
+      "hint": "every, each; either (of two)"
+    },
+    {
+      "word": "КАКИМИ",
+      "hint": "instrumental plural of како́й (kakój)"
+    },
+    {
+      "word": "КАМЕРА",
+      "hint": "camera; chamber, cell, compartment"
+    },
+    {
+      "word": "КАМЕРУ",
+      "hint": "accusative singular of ка́мера (kámera)"
+    },
+    {
+      "word": "КАМНИ",
+      "hint": "nominative/accusative plural of ка́мень (kámenʹ)"
+    },
+    {
+      "word": "КАМПАНИИ",
+      "hint": "campaign (series of operations undertaken to achieve a set goal); crusade"
+    },
+    {
+      "word": "КАНАЛ",
+      "hint": "channel, canal, pipe; channel"
+    },
+    {
+      "word": "КАПИТАНА",
+      "hint": "captain, commander, master, skipper, team leader; captain"
+    },
+    {
+      "word": "КАРЛ",
+      "hint": ""
+    },
+    {
+      "word": "КАРТА",
+      "hint": "map; chart"
+    },
+    {
+      "word": "КАРТИНА",
+      "hint": "picture (representation of visible reality produced by drawing, etc.); painting, canvas"
+    },
+    {
+      "word": "КАРТИНУ",
+      "hint": "accusative singular of карти́на (kartína)"
+    },
+    {
+      "word": "КАРТИНЫ",
+      "hint": "picture (representation of visible reality produced by drawing, etc.); painting, canvas"
+    },
+    {
+      "word": "КАРТУ",
+      "hint": "accusative singular of ка́рта (kárta)"
+    },
+    {
+      "word": "КАРЬЕРУ",
+      "hint": "full gallop"
+    },
+    {
+      "word": "КАФЕ",
+      "hint": "café"
+    },
+    {
+      "word": "КАЧЕСТВА",
+      "hint": "quality"
+    },
+    {
+      "word": "КВАРТИРА",
+      "hint": "apartment, flat; quarters (accommodation, particularly for troops)"
+    },
+    {
+      "word": "КВАРТИРЫ",
+      "hint": "apartment, flat; quarters (accommodation, particularly for troops)"
+    },
+    {
+      "word": "КИЛОМЕТРОВ",
+      "hint": "genitive plural of киломе́тр (kilométr)"
+    },
+    {
+      "word": "КИТАЙ",
+      "hint": "male Chinese person"
+    },
+    {
+      "word": "КЛАДБИЩЕ",
+      "hint": "cemetery, graveyard"
+    },
+    {
+      "word": "КЛАССЕ",
+      "hint": "prepositional singular of класс (klass)"
+    },
+    {
+      "word": "КЛАССНО",
+      "hint": "cool, awesome, fantastic"
+    },
+    {
+      "word": "КЛЕТКИ",
+      "hint": "cage, coop, cell; square, check (checkered pattern)"
+    },
+    {
+      "word": "КЛИЕНТ",
+      "hint": "client, customer; target of a killing, target of extortion"
+    },
+    {
+      "word": "КЛИЕНТА",
+      "hint": "client, customer; target of a killing, target of extortion"
+    },
+    {
+      "word": "КЛИЕНТОВ",
+      "hint": "client, customer; target of a killing, target of extortion"
+    },
+    {
+      "word": "КЛУБЕ",
+      "hint": "prepositional singular of клуб (klub)"
+    },
+    {
+      "word": "КЛЮЧИ",
+      "hint": "nominative/accusative plural of ключ (ključ)"
+    },
+    {
+      "word": "КМ",
+      "hint": "km, kilometer"
+    },
+    {
+      "word": "КНИГ",
+      "hint": "bookseller"
+    },
+    {
+      "word": "КНИГЕ",
+      "hint": "dative/prepositional singular of кни́га (kníga)"
+    },
+    {
+      "word": "КОЖИ",
+      "hint": "inflection of ко́жа (kóža)"
+    },
+    {
+      "word": "КОЛЕНИ",
+      "hint": "nominative/accusative plural of коле́но (koléno, “knee, lap”)"
+    },
+    {
+      "word": "КОЛЛЕДЖ",
+      "hint": "college"
+    },
+    {
+      "word": "КОЛЬЦА",
+      "hint": "ring; ring, annulus"
+    },
+    {
+      "word": "КОЛЬЦО",
+      "hint": "ring; ring, annulus"
+    },
+    {
+      "word": "КОМ",
+      "hint": "lump, clod"
+    },
+    {
+      "word": "КОМАНДИР",
+      "hint": "commander, commanding officer; boss, chief, Cap (term of address to a man)"
+    },
+    {
+      "word": "КОМАНДОЙ",
+      "hint": "instrumental singular of кома́нда (kománda)"
+    },
+    {
+      "word": "КОМИССИИ",
+      "hint": "chores; commission, committee"
+    },
+    {
+      "word": "КОМИТЕТ",
+      "hint": "committee"
+    },
+    {
+      "word": "КОМИТЕТА",
+      "hint": "committee"
+    },
+    {
+      "word": "КОМНАТА",
+      "hint": "room"
+    },
+    {
+      "word": "КОМНАТЫ",
+      "hint": "room"
+    },
+    {
+      "word": "КОМПАНИЕЙ",
+      "hint": "instrumental singular of компа́ния (kompánija)"
+    },
+    {
+      "word": "КОМПЬЮТЕР",
+      "hint": "computer; desktop or laptop computer"
+    },
+    {
+      "word": "КОНЕЧНОМ",
+      "hint": "final, eventual, ultimate; finite"
+    },
+    {
+      "word": "КОНКРЕТНО",
+      "hint": "concretely, specifically"
+    },
+    {
+      "word": "КОНКУРС",
+      "hint": "contest; competition"
+    },
+    {
+      "word": "КОНТАКТ",
+      "hint": "contact"
+    },
+    {
+      "word": "КОНТРОЛЕМ",
+      "hint": "instrumental singular of контро́ль (kontrólʹ)"
+    },
+    {
+      "word": "КОНТРОЛИРОВАТЬ",
+      "hint": "to control, to check; to monitor, to supervise"
+    },
+    {
+      "word": "КОНТРОЛЯ",
+      "hint": "control; checkup, checking, inspection, monitoring, supervision, verification"
+    },
+    {
+      "word": "КОНЦЕРТ",
+      "hint": "concert (musical entertainment in which several voices or instruments take part); concerto (piece of music for one or more solo instruments and orchestra)"
+    },
+    {
+      "word": "КОНЦУ",
+      "hint": "dative singular of коне́ц (konéc)"
+    },
+    {
+      "word": "КОП",
+      "hint": "cop (police officer)"
+    },
+    {
+      "word": "КОРАБЛЯ",
+      "hint": "ship, liner; warship"
+    },
+    {
+      "word": "КОРОЛЕВА",
+      "hint": "female equivalent of коро́ль (korólʹ): queen; queen (Russian abbreviation: Ф)"
+    },
+    {
+      "word": "КОРОЧЕ",
+      "hint": "comparative degree of коро́ткий (korótkij); comparative degree of ко́ротко (kórotko)"
+    },
+    {
+      "word": "КОСТИ",
+      "hint": "gambling game that uses dice"
+    },
+    {
+      "word": "КОСТЮМ",
+      "hint": "suit (suit of clothes, men’s suit or women’s suit); costume"
+    },
+    {
+      "word": "КОТ",
+      "hint": "tomcat"
+    },
+    {
+      "word": "КРАЙ",
+      "hint": "border, edge, brink, brim, fringe; side, rim"
+    },
+    {
+      "word": "КРАСИВО",
+      "hint": "beautifully"
+    },
+    {
+      "word": "КРАСИВЫЕ",
+      "hint": "beautiful, handsome; fine, admirable, noble"
+    },
+    {
+      "word": "КРАСИВЫЙ",
+      "hint": "beautiful, handsome; fine, admirable, noble"
+    },
+    {
+      "word": "КРАСНАЯ",
+      "hint": "feminine nominative singular of кра́сный (krásnyj)"
+    },
+    {
+      "word": "КРАСНОЙ",
+      "hint": "feminine nominative singular of кра́сный (krásnyj)"
+    },
+    {
+      "word": "КРАСОТА",
+      "hint": "beauty (quality of pleasing appearance)"
+    },
+    {
+      "word": "КРАЯ",
+      "hint": "genitive singular of край (kraj)"
+    },
+    {
+      "word": "КРЕПКО",
+      "hint": "firmly, solidly, fast, strong, hard"
+    },
+    {
+      "word": "КРИЗИС",
+      "hint": "crisis"
+    },
+    {
+      "word": "КРИС",
+      "hint": "kris"
+    },
+    {
+      "word": "КРОВАТИ",
+      "hint": "bed"
+    },
+    {
+      "word": "КРОВАТЬ",
+      "hint": "bed"
+    },
+    {
+      "word": "КРОВЬЮ",
+      "hint": "instrumental singular of кровь (krovʹ)"
+    },
+    {
+      "word": "КРУГ",
+      "hint": "circle, ring; sphere, range"
+    },
+    {
+      "word": "КРУТОЙ",
+      "hint": "steep; abrupt, sharp"
+    },
+    {
+      "word": "КУПИЛА",
+      "hint": "feminine singular past indicative perfective of купи́ть (kupítʹ)"
+    },
+    {
+      "word": "КУСОК",
+      "hint": "piece; bit"
+    },
+    {
+      "word": "КУХНЕ",
+      "hint": "dative/prepositional singular of ку́хня (kúxnja)"
+    },
+    {
+      "word": "КУЧА",
+      "hint": "heap, pile; a lot (a large amount)"
+    },
+    {
+      "word": "КУЧУ",
+      "hint": "first-person singular present indicative imperfective of кути́ть (kutítʹ)"
+    },
+    {
+      "word": "ЛА",
+      "hint": ""
+    },
+    {
+      "word": "ЛАБОРАТОРИИ",
+      "hint": "laboratory"
+    },
+    {
+      "word": "ЛАГЕРЬ",
+      "hint": "camp, camp-out; camp, party, faction"
+    },
+    {
+      "word": "ЛАРРИ",
+      "hint": ""
+    },
+    {
+      "word": "ЛЕВОЙ",
+      "hint": "left, left-hand; port"
+    },
+    {
+      "word": "ЛЕКАРСТВА",
+      "hint": "medicine, drug (substance which promotes healing)"
+    },
+    {
+      "word": "ЛЕС",
+      "hint": "forest, woods; lumber, timber"
+    },
+    {
+      "word": "ЛЕСА",
+      "hint": "fishing line"
+    },
+    {
+      "word": "ЛЕСУ",
+      "hint": "dative singular of лес (les)"
+    },
+    {
+      "word": "ЛЕТО",
+      "hint": "summer; pl: years, age, summers"
+    },
+    {
+      "word": "ЛЕЧЕНИЕ",
+      "hint": "treatment, cure"
+    },
+    {
+      "word": "ЛЕЧЕНИЯ",
+      "hint": "treatment, cure"
+    },
+    {
+      "word": "ЛИДЕР",
+      "hint": "leader"
+    },
+    {
+      "word": "ЛИЗА",
+      "hint": ""
+    },
+    {
+      "word": "ЛИНИЮ",
+      "hint": "accusative singular of ли́ния (línija)"
+    },
+    {
+      "word": "ЛИНИЯ",
+      "hint": "line (path through two or more points, or figuratively); line (old Russian unit of length equal to 1/10 of an inch, or 2.54 mm)"
+    },
+    {
+      "word": "ЛИЦЕ",
+      "hint": "prepositional singular of лицо́ (licó)"
+    },
+    {
+      "word": "ЛИЦУ",
+      "hint": "dative singular of лицо́ (licó)"
+    },
+    {
+      "word": "ЛИЧНОГО",
+      "hint": "face; facial"
+    },
+    {
+      "word": "ЛИЧНОЕ",
+      "hint": "personal (relating to a particular person); personal"
+    },
+    {
+      "word": "ЛИЧНОЙ",
+      "hint": "face; facial"
+    },
+    {
+      "word": "ЛИЧНОСТИ",
+      "hint": "personality; person, individual"
+    },
+    {
+      "word": "ЛИЧНОСТЬ",
+      "hint": "personality; person, individual"
+    },
+    {
+      "word": "ЛИЧНЫЕ",
+      "hint": "face; facial"
+    },
+    {
+      "word": "ЛИЧНЫЙ",
+      "hint": "personal (relating to a particular person); personal"
+    },
+    {
+      "word": "ЛОЖЬ",
+      "hint": "lie, falsehood; false"
+    },
+    {
+      "word": "ЛОНДОН",
+      "hint": "female equivalent of ло́ндонец (lóndonec): female Londoner"
+    },
+    {
+      "word": "ЛОНДОНЕ",
+      "hint": ""
+    },
+    {
+      "word": "ЛОШАДЬ",
+      "hint": "horse"
+    },
+    {
+      "word": "ЛУИ",
+      "hint": ""
+    },
+    {
+      "word": "ЛУИС",
+      "hint": ""
+    },
+    {
+      "word": "ЛУНА",
+      "hint": "moon (the Moon, the satellite of planet Earth); moon (any substantially sized natural satellite of a planet)"
+    },
+    {
+      "word": "ЛУЧШЕГО",
+      "hint": "superlative degree of хоро́ший (xoróšij): best; comparative degree of хороший (xorošij): better"
+    },
+    {
+      "word": "ЛУЧШЕЙ",
+      "hint": "superlative degree of хоро́ший (xoróšij): best; comparative degree of хороший (xorošij): better"
+    },
+    {
+      "word": "ЛЮБАЯ",
+      "hint": "nominative feminine singular of любо́й (ljubój)"
+    },
+    {
+      "word": "ЛЮБИЛА",
+      "hint": "feminine singular past indicative imperfective of люби́ть (ljubítʹ)"
+    },
+    {
+      "word": "ЛЮБИМ",
+      "hint": "short masculine singular of люби́мый (ljubímyj)"
+    },
+    {
+      "word": "ЛЮБИМАЯ",
+      "hint": "instrumental singular of люби́мая (ljubímaja)"
+    },
+    {
+      "word": "ЛЮБИМЫЙ",
+      "hint": "present passive imperfective participle of люби́ть (ljubítʹ)"
+    },
+    {
+      "word": "ЛЮБИТЕ",
+      "hint": "to love, to like, to be fond of, to grow fond of (more intensely than нра́виться (nrávitʹsja))"
+    },
+    {
+      "word": "ЛЮБОВЬЮ",
+      "hint": "instrumental singular of любо́вь (ljubóvʹ)"
+    },
+    {
+      "word": "ЛЮБОЕ",
+      "hint": "any, either, whichever one wants"
+    },
+    {
+      "word": "ЛЮБУЮ",
+      "hint": "accusative feminine singular of любо́й (ljubój)"
+    },
+    {
+      "word": "ЛЮБЫЕ",
+      "hint": "dear, sweet, cute, pleasant, pleasing"
+    },
+    {
+      "word": "ЛЮДЯХ",
+      "hint": "prepositional of лю́ди (ljúdi)"
+    },
+    {
+      "word": "МА",
+      "hint": ""
+    },
+    {
+      "word": "МАГАЗИНА",
+      "hint": "shop, store (establishment that sells goods); magazine (ammunition holder enabling multiple rounds of ammunition to be fed to a gun)"
+    },
+    {
+      "word": "МАГАЗИНЕ",
+      "hint": "prepositional singular of магази́н (magazín)"
+    },
+    {
+      "word": "МАДАМ",
+      "hint": "madam (polite term of address to a woman)"
+    },
+    {
+      "word": "МАЙК",
+      "hint": ""
+    },
+    {
+      "word": "МАЙОР",
+      "hint": "major"
+    },
+    {
+      "word": "МАК",
+      "hint": "poppy; poppyseeds"
+    },
+    {
+      "word": "МАКСИМУМ",
+      "hint": "maximum"
+    },
+    {
+      "word": "МАЛЕНЬКИЕ",
+      "hint": "little, small; short"
+    },
+    {
+      "word": "МАЛЕНЬКИХ",
+      "hint": "little, small; short"
+    },
+    {
+      "word": "МАЛЕНЬКОЙ",
+      "hint": "little, small; short"
+    },
+    {
+      "word": "МАЛЫШ",
+      "hint": "little kid, baby, little boy; shorty, shrimp"
+    },
+    {
+      "word": "МАЛЬЧИКИ",
+      "hint": "boy; lad"
+    },
+    {
+      "word": "МАМЕ",
+      "hint": "dative/prepositional singular of ма́ма (máma)"
+    },
+    {
+      "word": "МАМОЙ",
+      "hint": "instrumental singular of ма́ма (máma)"
+    },
+    {
+      "word": "МАМУ",
+      "hint": "accusative singular of ма́ма (máma)"
+    },
+    {
+      "word": "МАРИ",
+      "hint": "Mari person"
+    },
+    {
+      "word": "МАРТИН",
+      "hint": ""
+    },
+    {
+      "word": "МАСЛО",
+      "hint": "butter; oil (vegetable or mineral)"
+    },
+    {
+      "word": "МАТЕРИАЛ",
+      "hint": "material (matter from which physical things are made or which is otherwise used to create such things); material (something, as data or an idea, that may be reworked into a new"
+    },
+    {
+      "word": "МАТЕРИАЛЫ",
+      "hint": "material (matter from which physical things are made or which is otherwise used to create such things); material (something, as data or an idea, that may be reworked into a new"
+    },
+    {
+      "word": "МАТЕРЬЮ",
+      "hint": "instrumental singular of мать (matʹ); instrumental singular of ма́терь (máterʹ)"
+    },
+    {
+      "word": "МАТЧ",
+      "hint": "match"
+    },
+    {
+      "word": "МАШИН",
+      "hint": "genitive plural of маши́на (mašína)"
+    },
+    {
+      "word": "МАЯ",
+      "hint": "to exhaust, to harass"
+    },
+    {
+      "word": "МЕНЕДЖЕР",
+      "hint": "manager"
+    },
+    {
+      "word": "МЕНЯЕТ",
+      "hint": "third-person singular present indicative imperfective of меня́ть (menjátʹ)"
+    },
+    {
+      "word": "МЕНЯЕТСЯ",
+      "hint": "third-person singular present indicative imperfective of меня́ться (menjátʹsja)"
+    },
+    {
+      "word": "МЕНЯТЬ",
+      "hint": "to swap, to barter (to give something to another person and take something in return); to replace, to substitute or supersede (to get rid of an old thing or person and get a new"
+    },
+    {
+      "word": "МЕР",
+      "hint": "masculine singular past indicative imperfective of мере́ть (merétʹ)"
+    },
+    {
+      "word": "МЕРЫ",
+      "hint": "inflection of ме́ра (méra)"
+    },
+    {
+      "word": "МЕСТНЫЕ",
+      "hint": "local; locative (relating to the case that expresses location)"
+    },
+    {
+      "word": "МЕСТНЫХ",
+      "hint": "local; locative (relating to the case that expresses location)"
+    },
+    {
+      "word": "МЕСТОМ",
+      "hint": "instrumental singular of ме́сто (mésto)"
+    },
+    {
+      "word": "МЕСТУ",
+      "hint": "dative singular of ме́сто (mésto)"
+    },
+    {
+      "word": "МЕТОД",
+      "hint": "method, procedure"
+    },
+    {
+      "word": "МЕТОДЫ",
+      "hint": "method"
+    },
+    {
+      "word": "МЕТРО",
+      "hint": "subway, underground"
+    },
+    {
+      "word": "МЕЧ",
+      "hint": "sword (usually with a straight blade)"
+    },
+    {
+      "word": "МЕЧТА",
+      "hint": "fantasy, daydream; dream (act or habit of imagining something, usually intensely but often unrealistically desired; something thus imagined)"
+    },
+    {
+      "word": "МЕЧТЫ",
+      "hint": "fantasy, daydream; dream (act or habit of imagining something, usually intensely but often unrealistically desired; something thus imagined)"
+    },
+    {
+      "word": "МЕШАЕТ",
+      "hint": "third-person singular present indicative imperfective of меша́ть (mešátʹ)"
+    },
+    {
+      "word": "МИ",
+      "hint": "E, mi (note)"
+    },
+    {
+      "word": "МИЛЛИОН",
+      "hint": "million (1,000,000)"
+    },
+    {
+      "word": "МИЛЛИОНА",
+      "hint": "genitive singular of миллио́н (millión)"
+    },
+    {
+      "word": "МИЛЛИОНЫ",
+      "hint": "nominative/accusative plural of миллио́н (millión)"
+    },
+    {
+      "word": "МИН",
+      "hint": "min., minute"
+    },
+    {
+      "word": "МИНИМУМ",
+      "hint": "minimum"
+    },
+    {
+      "word": "МИНИСТР",
+      "hint": "minister (the politician who heads a ministry)"
+    },
+    {
+      "word": "МИРОВОЙ",
+      "hint": "world; global, worldwide; first-rate, first-class, great"
+    },
+    {
+      "word": "МИРОМ",
+      "hint": "instrumental singular of мир (mir)"
+    },
+    {
+      "word": "МИССИС",
+      "hint": "female equivalent of ми́стер (míster): Mrs, mistress"
+    },
+    {
+      "word": "МИССИЯ",
+      "hint": "mission; legation"
+    },
+    {
+      "word": "МИШЕЛЬ",
+      "hint": ""
+    },
+    {
+      "word": "МЛАДШИЙ",
+      "hint": "younger, youngest (in an earlier period of life); junior"
+    },
+    {
+      "word": "МММ",
+      "hint": ""
+    },
+    {
+      "word": "МНЕНИЮ",
+      "hint": "obsolete spelling of мне́нию (mnéniju, “dative singular of мне́ние (mnénije, “opinion”)”)"
+    },
+    {
+      "word": "МНЕНИЯ",
+      "hint": "opinion (person's); opinion (official statement)"
+    },
+    {
+      "word": "МНОГИМ",
+      "hint": "instrumental singular of мно́гое (mnógoje); inflection of мно́гий (mnógij)"
+    },
+    {
+      "word": "МНОГОМ",
+      "hint": "prepositional singular of мно́гое (mnógoje)"
+    },
+    {
+      "word": "МО",
+      "hint": "MOD (“ministry of defence”), DOD (“department of defense”); abbreviation of министерства обороны (ministerstva oborony)"
+    },
+    {
+      "word": "МОДЕЛИ",
+      "hint": "model (model car, fashion model, etc.); mold/mould"
+    },
+    {
+      "word": "МОЗГИ",
+      "hint": "brains (food); brain, head, intelligence"
+    },
+    {
+      "word": "МОИМИ",
+      "hint": "instrumental plural of мой (moj)"
+    },
+    {
+      "word": "МОЛОДАЯ",
+      "hint": "feminine nominative singular of молодо́й (molodój)"
+    },
+    {
+      "word": "МОЛОДЫЕ",
+      "hint": "feminine nominative singular of молодо́й (molodój)"
+    },
+    {
+      "word": "МОЛОДЫХ",
+      "hint": "feminine nominative singular of молодо́й (molodój)"
+    },
+    {
+      "word": "МОЛОКО",
+      "hint": "milk; thick fog"
+    },
+    {
+      "word": "МОМЕНТЫ",
+      "hint": "moment; point, detail, aspect"
+    },
+    {
+      "word": "МОРСКОЙ",
+      "hint": "sea; nautical"
+    },
+    {
+      "word": "МОРЯ",
+      "hint": "genitive singular of мо́ре (móre)"
+    },
+    {
+      "word": "МОСТ",
+      "hint": "bridge; bridge (a prosthesis replacing one or several adjacent teeth)"
+    },
+    {
+      "word": "МУЖЕМ",
+      "hint": "instrumental singular of муж (muž)"
+    },
+    {
+      "word": "МУЖЧИНОЙ",
+      "hint": "instrumental singular of мужчи́на (mužčína)"
+    },
+    {
+      "word": "МУЖЧИНУ",
+      "hint": "man (male person)"
+    },
+    {
+      "word": "МУЗЕЙ",
+      "hint": "museum"
+    },
+    {
+      "word": "МУЗЫКИ",
+      "hint": "music; business"
+    },
+    {
+      "word": "МЭР",
+      "hint": "mayor"
+    },
+    {
+      "word": "МЭРА",
+      "hint": "genitive/accusative singular of мэр (mɛr)"
+    },
+    {
+      "word": "МЭРИ",
+      "hint": ""
+    },
+    {
+      "word": "МЯСА",
+      "hint": "genitive singular of мя́со (mjáso)"
+    },
+    {
+      "word": "МЯСО",
+      "hint": "meat; flesh, pulp"
+    },
+    {
+      "word": "МЯЧ",
+      "hint": "ball (object, generally spherical, used for playing games)"
+    },
+    {
+      "word": "НАБЛЮДАТЬ",
+      "hint": "to watch, to observe; to study"
+    },
+    {
+      "word": "НАБЛЮДЕНИЯ",
+      "hint": "observation; supervision"
+    },
+    {
+      "word": "НАБОР",
+      "hint": "set, kit, outfit, collection (collection of various objects for a particular purpose, such as a set of tools); font type case containing movable type"
+    },
+    {
+      "word": "НАГРАДУ",
+      "hint": "reward (something of value given in return for an act); award"
+    },
+    {
+      "word": "НАДЕЖДА",
+      "hint": "hope, expectation, prospect"
+    },
+    {
+      "word": "НАДЕЖДЫ",
+      "hint": "hope, expectation, prospect"
+    },
+    {
+      "word": "НАДЕЯТЬСЯ",
+      "hint": "to hope; to rely"
+    },
+    {
+      "word": "НАДОЛГО",
+      "hint": "for long, for a long time"
+    },
+    {
+      "word": "НАЗВАЛА",
+      "hint": "feminine singular past indicative of назва́ть pf (nazvátʹ)"
+    },
+    {
+      "word": "НАЗВАЛИ",
+      "hint": "plural past indicative of назва́ть pf (nazvátʹ)"
+    },
+    {
+      "word": "НАЗВАНИЕМ",
+      "hint": "instrumental singular of назва́ние (nazvánije)"
+    },
+    {
+      "word": "НАЗЫВАЕТ",
+      "hint": "third-person singular present indicative imperfective of называ́ть (nazyvátʹ)"
+    },
+    {
+      "word": "НАЗЫВАЛИ",
+      "hint": "plural past indicative imperfective of называ́ть (nazyvátʹ)"
+    },
+    {
+      "word": "НАЗЫВАТЬ",
+      "hint": "to name, to specify; to call [with accusative ‘someone/something’ and instrumental ‘by some name’]"
+    },
+    {
+      "word": "НАЙДУ",
+      "hint": "first-person singular future indicative perfective of найти́ (najtí)"
+    },
+    {
+      "word": "НАКАЗАНИЕ",
+      "hint": "punishment; penalty, chastisement"
+    },
+    {
+      "word": "НАПАДЕНИЕ",
+      "hint": "attack, assault; aggression"
+    },
+    {
+      "word": "НАПАДЕНИЯ",
+      "hint": "attack, assault; aggression"
+    },
+    {
+      "word": "НАПИСАЛА",
+      "hint": "feminine singular past indicative perfective of написа́ть (napisátʹ)"
+    },
+    {
+      "word": "НАПОМИНАЕТ",
+      "hint": "third-person singular present indicative imperfective of напомина́ть (napominátʹ)"
+    },
+    {
+      "word": "НАПРАВЛЕНИЕ",
+      "hint": "direction, orientation; orientation, current, school, specialization (field of study)"
+    },
+    {
+      "word": "НАПРАВЛЕНИИ",
+      "hint": "prepositional singular of направле́ние (napravlénije)"
+    },
+    {
+      "word": "НАПРОТИВ",
+      "hint": "quite the opposite; no, in fact...; on the contrary, in contrast, by contrast, conversely, on the other hand, however"
+    },
+    {
+      "word": "НАРКОТИКИ",
+      "hint": "narcotic; drug, dope"
+    },
+    {
+      "word": "НАРКОТИКОВ",
+      "hint": "narcotic; drug, dope"
+    },
+    {
+      "word": "НАРОДУ",
+      "hint": "dative/partitive singular of наро́д (naród)"
+    },
+    {
+      "word": "НАРУШЕНИЕ",
+      "hint": "breach, violation, infringement"
+    },
+    {
+      "word": "НАСЕЛЕНИЯ",
+      "hint": "population, inhabitants; peopling, settling"
+    },
+    {
+      "word": "НАСТОЯЩЕГО",
+      "hint": "the present"
+    },
+    {
+      "word": "НАСТОЯЩИЕ",
+      "hint": "present; true, real, genuine"
+    },
+    {
+      "word": "НАСТОЯЩИМ",
+      "hint": "instrumental singular of настоя́щее (nastojáščeje)"
+    },
+    {
+      "word": "НАСТРОЕНИЕ",
+      "hint": "mood, spirits, sentiment (mental state)"
+    },
+    {
+      "word": "НАУКА",
+      "hint": "science; lesson"
+    },
+    {
+      "word": "НАУКИ",
+      "hint": "science; lesson"
+    },
+    {
+      "word": "НАУЧИТЬСЯ",
+      "hint": "to learn (often not in an academic setting) [with dative ‘a skill, principle, etc.’ or infinitive ‘to do something’]"
+    },
+    {
+      "word": "НАХОДИЛСЯ",
+      "hint": "masculine singular past indicative imperfective/perfective of находи́ться (naxodítʹsja)"
+    },
+    {
+      "word": "НАХОДИТЬСЯ",
+      "hint": "to be found, to turn up; to be located, to be situated (no perfective form)"
+    },
+    {
+      "word": "НАХОДЯТСЯ",
+      "hint": "inflection of находи́ться (naxodítʹsja)"
+    },
+    {
+      "word": "НАЦИОНАЛЬНОЙ",
+      "hint": "national; ethnic; traditional for an ethnic group"
+    },
+    {
+      "word": "НАЧАЛАСЬ",
+      "hint": "feminine singular past indicative perfective of нача́ться (načátʹsja)"
+    },
+    {
+      "word": "НАЧАЛИСЬ",
+      "hint": "plural past indicative perfective of нача́ться (načátʹsja)"
+    },
+    {
+      "word": "НАЧАЛСЯ",
+      "hint": "masculine singular past indicative perfective of нача́ться (načátʹsja)"
+    },
+    {
+      "word": "НАЧАЛЬНИКА",
+      "hint": "chief, boss, superior, master, principal, commander"
+    },
+    {
+      "word": "НАЧИНАТЬ",
+      "hint": "to begin, to start"
+    },
+    {
+      "word": "НАЧИНАЮ",
+      "hint": "to begin, to start"
+    },
+    {
+      "word": "НАЧИНАЮТ",
+      "hint": "third-person plural present indicative imperfective of начина́ть (načinátʹ)"
+    },
+    {
+      "word": "НАЧИНАЯ",
+      "hint": "present adverbial imperfective participle of начина́ть (načinátʹ)"
+    },
+    {
+      "word": "НАЧНЕМ",
+      "hint": "first-person plural future indicative perfective of нача́ть (načátʹ)"
+    },
+    {
+      "word": "НАЧНЕТ",
+      "hint": "third-person singular future indicative perfective of нача́ть (načátʹ)"
+    },
+    {
+      "word": "НАЧНЕТСЯ",
+      "hint": "third-person singular future indicative perfective of нача́ться (načátʹsja)"
+    },
+    {
+      "word": "НАЧНУТ",
+      "hint": "third-person plural future indicative perfective of нача́ть (načátʹ)"
+    },
+    {
+      "word": "НАШЁЛ",
+      "hint": "masculine singular past indicative perfective of найти́ (najtí)"
+    },
+    {
+      "word": "НАШЕМУ",
+      "hint": "dative masculine/neuter singular of наш (naš)"
+    },
+    {
+      "word": "НАШИМИ",
+      "hint": "instrumental plural of наш (naš)"
+    },
+    {
+      "word": "НЕБЕ",
+      "hint": "prepositional singular of не́бо (nébo)"
+    },
+    {
+      "word": "НЕБО",
+      "hint": "sky; heaven, firmament"
+    },
+    {
+      "word": "НЕБОЛЬШАЯ",
+      "hint": "small, little, short, not great"
+    },
+    {
+      "word": "НЕБОЛЬШОЕ",
+      "hint": "small, little, short, not great"
+    },
+    {
+      "word": "НЕВАЖНО",
+      "hint": "no matter (how); poorly, not very well"
+    },
+    {
+      "word": "НЕДАЛЕКО",
+      "hint": "not far, not far off, nearby, close"
+    },
+    {
+      "word": "НЕДЕЛЯ",
+      "hint": "week; Sunday"
+    },
+    {
+      "word": "НЕЗАВИСИМО",
+      "hint": "independently (in an independent manner); regardless"
+    },
+    {
+      "word": "НЕИЗВЕСТНО",
+      "hint": "it is not (well) known"
+    },
+    {
+      "word": "НЕКОТОРЫМ",
+      "hint": "some; certain (adjectival); some, some people; certain people (pronominal)"
+    },
+    {
+      "word": "НЕКУДА",
+      "hint": "there is nowhere [with dative ‘for someone’ and infinitive ‘to do something’]"
+    },
+    {
+      "word": "НЕМАЛО",
+      "hint": "quite a bit, a great deal; considerably"
+    },
+    {
+      "word": "НЕМНОЖКО",
+      "hint": "diminutive of немно́го (nemnógo): a little, some [with genitive ‘of something’]"
+    },
+    {
+      "word": "НЕОЖИДАННО",
+      "hint": "suddenly, unexpectedly"
+    },
+    {
+      "word": "НЕСОМНЕННО",
+      "hint": "undoubtedly, without doubt, doubtlessly"
+    },
+    {
+      "word": "НИГДЕ",
+      "hint": "nowhere"
+    },
+    {
+      "word": "НИК",
+      "hint": "Internet handle, nickname, alias"
+    },
+    {
+      "word": "НИЧЕМ",
+      "hint": "instrumental singular of ничто́ (ništó)"
+    },
+    {
+      "word": "НОВОМ",
+      "hint": "prepositional singular of но́вое (nóvoje)"
+    },
+    {
+      "word": "НОВОСТЕЙ",
+      "hint": "news (especially, radio or television program)"
+    },
+    {
+      "word": "НОГ",
+      "hint": "genitive plural of нога́ (nogá)"
+    },
+    {
+      "word": "НОГАМИ",
+      "hint": "instrumental plural of нога́ (nogá)"
+    },
+    {
+      "word": "НОГУ",
+      "hint": "accusative singular of нога́ (nogá)"
+    },
+    {
+      "word": "НОЖ",
+      "hint": "knife; blade"
+    },
+    {
+      "word": "НОЖОМ",
+      "hint": "instrumental singular of нож (nož)"
+    },
+    {
+      "word": "НОСИТ",
+      "hint": "third-person singular present indicative imperfective of носи́ть (nosítʹ)"
+    },
+    {
+      "word": "НОСИТЬ",
+      "hint": "to carry, to bear (a burden); to carry along, to drive"
+    },
+    {
+      "word": "НУЖДАЕТСЯ",
+      "hint": "to need [with в (v, + prepositional) ‘something’]; to be hard up, to be needy"
+    },
+    {
+      "word": "НЬЮ",
+      "hint": "New York; from New York"
+    },
+    {
+      "word": "ОБВИНЕНИЕ",
+      "hint": "accusation, charge (act of accusing or charging with a crime)"
+    },
+    {
+      "word": "ОБВИНЕНИЯ",
+      "hint": "accusation, charge (act of accusing or charging with a crime)"
+    },
+    {
+      "word": "ОБЕДА",
+      "hint": "lunch, dinner (the main meal of the day, which is served between noon and 3 p.m.); noon"
+    },
+    {
+      "word": "ОБЕИХ",
+      "hint": "inflection of о́ба (óba)"
+    },
+    {
+      "word": "ОБЕСПЕЧИТЬ",
+      "hint": "to provide, to supply; to assure, to secure, to guarantee, to ensure (to make sure and secure)"
+    },
+    {
+      "word": "ОБЕЩАЛ",
+      "hint": "masculine singular past indicative imperfective of обеща́ть (obeščátʹ)"
+    },
+    {
+      "word": "ОБЛАСТЬ",
+      "hint": "region, oblast, province; dominion, sovereignty"
+    },
+    {
+      "word": "ОБМЕН",
+      "hint": "exchange"
+    },
+    {
+      "word": "ОБНАРУЖИЛ",
+      "hint": "masculine singular past indicative perfective of обнару́жить (obnarúžitʹ)"
+    },
+    {
+      "word": "ОБНАРУЖИЛИ",
+      "hint": "plural past indicative perfective of обнару́жить (obnarúžitʹ)"
+    },
+    {
+      "word": "ОБОЖАЮ",
+      "hint": "first-person singular present indicative imperfective of обожа́ть (obožátʹ)"
+    },
+    {
+      "word": "ОБОРОНЫ",
+      "hint": "defence, defense"
+    },
+    {
+      "word": "ОБОРУДОВАНИЕ",
+      "hint": "equipment, machinery, hardware; verbal noun of обору́довать (oborúdovatʹ): equipping, fitting-out (process of providing or installing equipment)"
+    },
+    {
+      "word": "ОБРАЗЕЦ",
+      "hint": "specimen; example"
+    },
+    {
+      "word": "ОБРАЗОВАНИЕ",
+      "hint": "formation; constitution"
+    },
+    {
+      "word": "ОБРАЗОВАНИЯ",
+      "hint": "formation; constitution"
+    },
+    {
+      "word": "ОБРАТИТЬСЯ",
+      "hint": "to turn (to); to speak (to); to address; to go to"
+    },
+    {
+      "word": "ОБРАЩАТЬСЯ",
+      "hint": "to turn to, to turn into; to address, to apply, to appeal"
+    },
+    {
+      "word": "ОБСТОЯТЕЛЬСТВА",
+      "hint": "circumstance (that which attends, or relates to, or in some way affects, a fact or event); adverbial modifier, adverb, adjunct"
+    },
+    {
+      "word": "ОБСУДИТЬ",
+      "hint": "to discuss, to consider, to talk over"
+    },
+    {
+      "word": "ОБСУЖДАТЬ",
+      "hint": "to discuss, to consider; to talk over"
+    },
+    {
+      "word": "ОБУЧЕНИЕ",
+      "hint": "learning, education (the process of being taught)"
+    },
+    {
+      "word": "ОБЩАТЬСЯ",
+      "hint": "to communicate (with), to converse, to mix (with)"
+    },
+    {
+      "word": "ОБЩЕЕ",
+      "hint": "neuter nominative singular of о́бщий (óbščij)"
+    },
+    {
+      "word": "ОБЩЕСТВЕ",
+      "hint": "prepositional singular of о́бщество (óbščestvo)"
+    },
+    {
+      "word": "ОБЩИЙ",
+      "hint": "common; public"
+    },
+    {
+      "word": "ОБЪЕКТ",
+      "hint": "object (general sense); enterprise, institution, facility (place of economic or industrial activity)"
+    },
+    {
+      "word": "ОБЪЯСНЯЕТ",
+      "hint": "third-person singular present indicative imperfective of объясня́ть (obʺjasnjátʹ)"
+    },
+    {
+      "word": "ОБЫЧНЫЙ",
+      "hint": "usual, habitual, customary"
+    },
+    {
+      "word": "ОБЯЗАН",
+      "hint": "short masculine singular of обя́занный (objázannyj)"
+    },
+    {
+      "word": "ОБЯЗАННОСТИ",
+      "hint": "duty; service"
+    },
+    {
+      "word": "ОБЯЗАНЫ",
+      "hint": "short plural of обя́занный (objázannyj)"
+    },
+    {
+      "word": "ОГНЯ",
+      "hint": "genitive singular of ого́нь (ogónʹ)"
+    },
+    {
+      "word": "ОГО",
+      "hint": "whoa; oh, ho!; wow!; oh, my goodness!; oh, oh! (expresses surprise, admiration, approval, etc.)"
+    },
+    {
+      "word": "ОГРОМНАЯ",
+      "hint": "huge, vast, enormous"
+    },
+    {
+      "word": "ОГРОМНЫЙ",
+      "hint": "huge, vast, enormous"
+    },
+    {
+      "word": "ОДЕЖДА",
+      "hint": "clothes, clothing, garments; surfacing, top dressing"
+    },
+    {
+      "word": "ОДЕЖДЫ",
+      "hint": "clothes, clothing, garments; surfacing, top dressing"
+    },
+    {
+      "word": "ОЖИДАЛ",
+      "hint": "masculine singular past indicative imperfective of ожида́ть (ožidátʹ)"
+    },
+    {
+      "word": "ОЖИДАТЬ",
+      "hint": "to expect, to anticipate"
+    },
+    {
+      "word": "ОКАЖЕТСЯ",
+      "hint": "third-person singular future indicative perfective of оказа́ться (okazátʹsja)"
+    },
+    {
+      "word": "ОКАЗАТЬСЯ",
+      "hint": "to turn out, to be found, to prove (to be); to find oneself"
+    },
+    {
+      "word": "ОКЕЙ",
+      "hint": "OK, okay"
+    },
+    {
+      "word": "ОКОНЧАНИЯ",
+      "hint": "end, close, termination, completion, conclusion; graduation"
+    },
+    {
+      "word": "ОКОНЧАТЕЛЬНО",
+      "hint": "finally, definitively"
+    },
+    {
+      "word": "ОКРУГА",
+      "hint": "neighbourhood, area"
+    },
+    {
+      "word": "ОКРУГЕ",
+      "hint": "prepositional singular of о́круг (ókrug)"
+    },
+    {
+      "word": "ОКТЯБРЯ",
+      "hint": "October"
+    },
+    {
+      "word": "ООН",
+      "hint": "UNO (United Nations Organization)"
+    },
+    {
+      "word": "ООО",
+      "hint": "initialism of о́бщество с ограни́ченной отве́тственностью n (óbščestvo s ograníčennoj otvétstvennostʹju): LLC, a limited liability company"
+    },
+    {
+      "word": "ОПАСНО",
+      "hint": "dangerously, perilously"
+    },
+    {
+      "word": "ОПАСНОСТЬ",
+      "hint": "danger, peril; dangerousness"
+    },
+    {
+      "word": "ОПЕРАТОР",
+      "hint": "operator, operative; machine-man, mechanic"
+    },
+    {
+      "word": "ОПЕРАЦИЮ",
+      "hint": "operation"
+    },
+    {
+      "word": "ОПИСАНИЕ",
+      "hint": "description"
+    },
+    {
+      "word": "ОПРЕДЕЛЕННО",
+      "hint": "definitely"
+    },
+    {
+      "word": "ОПРЕДЕЛИТЬ",
+      "hint": "to determine (to set the limits of); to define"
+    },
+    {
+      "word": "ОПЫТА",
+      "hint": "experience; experiment"
+    },
+    {
+      "word": "ОРГАНИЗАЦИЯ",
+      "hint": "organization, arrangement; organization"
+    },
+    {
+      "word": "ОРГАНИЗОВАТЬ",
+      "hint": "to organise, to arrange (to set up, organise)"
+    },
+    {
+      "word": "ОРГАНОВ",
+      "hint": "genitive plural of о́рган (órgan)"
+    },
+    {
+      "word": "ОРГАНЫ",
+      "hint": "organ; body, agency, authority"
+    },
+    {
+      "word": "ОРУЖИЕМ",
+      "hint": "instrumental singular of ору́жие (orúžije)"
+    },
+    {
+      "word": "ОСВОБОДИТЬ",
+      "hint": "to free, to liberate, to emancipate, to set free; to free (from); to exempt (from)"
+    },
+    {
+      "word": "ОСКАР",
+      "hint": ""
+    },
+    {
+      "word": "ОСНОВАНИЯ",
+      "hint": "base, foundation, pedestal; foundation, establishment"
+    },
+    {
+      "word": "ОСНОВЕ",
+      "hint": "dative/prepositional singular of осно́ва (osnóva)"
+    },
+    {
+      "word": "ОСНОВНОЙ",
+      "hint": "basic, fundamental, main, primary, principal, cardinal; basic"
+    },
+    {
+      "word": "ОСТАЁТСЯ",
+      "hint": "to remain, to stay; to be left"
+    },
+    {
+      "word": "ОСТАВИЛА",
+      "hint": "feminine singular past indicative perfective of оста́вить (ostávitʹ)"
+    },
+    {
+      "word": "ОСТАВИЛИ",
+      "hint": "plural past indicative perfective of оста́вить (ostávitʹ)"
+    },
+    {
+      "word": "ОСТАНОВИТЬСЯ",
+      "hint": "to stop; to put up (at)"
+    },
+    {
+      "word": "ОСТАЮТСЯ",
+      "hint": "to remain, to stay; to be left"
+    },
+    {
+      "word": "ОСТРОВА",
+      "hint": "island; isle"
+    },
+    {
+      "word": "ОСТРОВЕ",
+      "hint": "prepositional singular of о́стров (óstrov)"
+    },
+    {
+      "word": "ОТВЕТА",
+      "hint": "answer, reply, response; responsibility"
+    },
+    {
+      "word": "ОТВЕТИЛА",
+      "hint": "feminine singular past indicative perfective of отве́тить (otvétitʹ)"
+    },
+    {
+      "word": "ОТВЕТСТВЕННОСТИ",
+      "hint": "responsibility"
+    },
+    {
+      "word": "ОТВЕТЫ",
+      "hint": "answer, reply, response; responsibility"
+    },
+    {
+      "word": "ОТВЕЧАТЬ",
+      "hint": "to answer, to reply; to be responsible for, to be accountable for, to be liable for"
+    },
+    {
+      "word": "ОТДАЛ",
+      "hint": "masculine singular past indicative perfective of отда́ть (otdátʹ)"
+    },
+    {
+      "word": "ОТДЕЛЕНИЕ",
+      "hint": "department, division, branch; separation"
+    },
+    {
+      "word": "ОТДОХНУТЬ",
+      "hint": "to rest, to relax, to have a rest; to be resting, to be on holiday, to take a vacation"
+    },
+    {
+      "word": "ОТДЫХА",
+      "hint": "rest; relaxation, respite"
+    },
+    {
+      "word": "ОТЕЛЬ",
+      "hint": "hotel"
+    },
+    {
+      "word": "ОТКАЗАЛАСЬ",
+      "hint": "feminine singular past indicative perfective of отказа́ться (otkazátʹsja)"
+    },
+    {
+      "word": "ОТКАЗАТЬСЯ",
+      "hint": "to abandon; to abdicate"
+    },
+    {
+      "word": "ОТКРЫЛ",
+      "hint": "masculine singular past indicative perfective of откры́ть (otkrýtʹ)"
+    },
+    {
+      "word": "ОТКРЫТИЕ",
+      "hint": "opening; discovery"
+    },
+    {
+      "word": "ОТКРЫТО",
+      "hint": "avowedly, openly, frankly, publicly (in a frank, open, honest, or too honest manner)"
+    },
+    {
+      "word": "ОТЛИЧАЕТСЯ",
+      "hint": "third-person singular present indicative imperfective of отлича́ться (otličátʹsja)"
+    },
+    {
+      "word": "ОТЛИЧИЕ",
+      "hint": "difference (quality of being different); distinction"
+    },
+    {
+      "word": "ОТЛИЧНАЯ",
+      "hint": "feminine nominative singular of отли́чный (otlíčnyj)"
+    },
+    {
+      "word": "ОТМЕТИТЬ",
+      "hint": "to mark; to note"
+    },
+    {
+      "word": "ОТНОСИТЕЛЬНО",
+      "hint": "relatively (proportionally); rather"
+    },
+    {
+      "word": "ОТНОСИТСЯ",
+      "hint": "to treat [with к (k, + dative) ‘someone’ and adverb ‘in a specified way’]; to express one's opinion [with о (o, + prepositional) ‘about someone/something’]"
+    },
+    {
+      "word": "ОТНОШЕНИИ",
+      "hint": "prepositional singular of отноше́ние (otnošénije)"
+    },
+    {
+      "word": "ОТНОШЕНИЮ",
+      "hint": "attitude; treatment"
+    },
+    {
+      "word": "ОТНОШЕНИЯХ",
+      "hint": "prepositional plural of отноше́ние (otnošénije)"
+    },
+    {
+      "word": "ОТПРАВИЛ",
+      "hint": "masculine singular past indicative perfective of отпра́вить (otprávitʹ)"
+    },
+    {
+      "word": "ОТПРАВИЛИ",
+      "hint": "plural past indicative perfective of отпра́вить (otprávitʹ)"
+    },
+    {
+      "word": "ОТПРАВИЛСЯ",
+      "hint": "masculine singular past indicative perfective of отпра́виться (otprávitʹsja)"
+    },
+    {
+      "word": "ОТПРАВИТЬ",
+      "hint": "to send, to dispatch, to forward"
+    },
+    {
+      "word": "ОТПРАВИТЬСЯ",
+      "hint": "to depart, to set off (to leave); passive of отпра́вить (otprávitʹ)"
+    },
+    {
+      "word": "ОТПУСК",
+      "hint": "leave, vacation, holiday, furlough; release, issue, delivery, distribution (of goods to a customer or client)"
+    },
+    {
+      "word": "ОТРЯД",
+      "hint": "detachment, squadron, troop; group, team"
+    },
+    {
+      "word": "ОТСТАВКУ",
+      "hint": "resignation, retirement"
+    },
+    {
+      "word": "ОТСУТСТВИЕ",
+      "hint": "lack, absence"
+    },
+    {
+      "word": "ОТЦУ",
+      "hint": "dative singular of оте́ц (otéc)"
+    },
+    {
+      "word": "ОТЧЕТ",
+      "hint": "account, report; return"
+    },
+    {
+      "word": "ОФИСЕ",
+      "hint": "prepositional singular of о́фис (ófis)"
+    },
+    {
+      "word": "ОХРАНА",
+      "hint": "guarding, protection; guards"
+    },
+    {
+      "word": "ОХРАНЫ",
+      "hint": "guarding, protection; guards"
+    },
+    {
+      "word": "ОЦЕНКИ",
+      "hint": "valuation, appraisal, feedback; estimation, appreciation"
+    },
+    {
+      "word": "ОЧЕРЕДИ",
+      "hint": "queue, line; turn, order, succession"
+    },
+    {
+      "word": "ОЧЕРЕДНОЙ",
+      "hint": "next (in an order or sequence); regular (of a regular occurrence according to a schedule)"
+    },
+    {
+      "word": "ОЧКИ",
+      "hint": "glasses, spectacles"
+    },
+    {
+      "word": "ОЧКОВ",
+      "hint": "genitive of очки́ (očkí)"
+    },
+    {
+      "word": "ОШИБКУ",
+      "hint": "mistake, error, fault; bias"
+    },
+    {
+      "word": "ОШИБОК",
+      "hint": "mistake, error, fault; bias"
+    },
+    {
+      "word": "ОЩУЩЕНИЕ",
+      "hint": "sensation; feeling, perception, sense"
+    },
+    {
+      "word": "ПАДАЕТ",
+      "hint": "third-person singular present indicative imperfective of па́дать (pádatʹ)"
+    },
+    {
+      "word": "ПАКЕТ",
+      "hint": "small bag, parcel; fragment of data sent over a network, packet"
+    },
+    {
+      "word": "ПАЛЕЦ",
+      "hint": "finger or toe; pin, finger, cam"
+    },
+    {
+      "word": "ПАЛЬТО",
+      "hint": "overcoat, greatcoat, carrick"
+    },
+    {
+      "word": "ПАЛЬЦЕВ",
+      "hint": "genitive plural of па́лец (pálec)"
+    },
+    {
+      "word": "ПАЛЬЦЫ",
+      "hint": "nominative/accusative plural of па́лец (pálec)"
+    },
+    {
+      "word": "ПАПОЙ",
+      "hint": "instrumental singular of па́па (pápa)"
+    },
+    {
+      "word": "ПАПЫ",
+      "hint": "inflection of па́па (pápa)"
+    },
+    {
+      "word": "ПАРИЖ",
+      "hint": "Parisian"
+    },
+    {
+      "word": "ПАРИЖЕ",
+      "hint": ""
+    },
+    {
+      "word": "ПАРКЕ",
+      "hint": "prepositional singular of парк (park)"
+    },
+    {
+      "word": "ПАРНЕМ",
+      "hint": "instrumental singular of па́рень (párenʹ)"
+    },
+    {
+      "word": "ПАРТИЯ",
+      "hint": "party (political group); lot, batch, consignment, parcel"
+    },
+    {
+      "word": "ПАРЫ",
+      "hint": "inflection of па́ра (pára)"
+    },
+    {
+      "word": "ПАХНЕТ",
+      "hint": "to smell, to have a smell [with adverb ‘in a particular way’ or instrumental ‘of/like something’]; for there to be a smell [with в (v, + prepositional) ‘something with a smell’,"
+    },
+    {
+      "word": "ПАЦИЕНТОВ",
+      "hint": "patient"
+    },
+    {
+      "word": "ПЕРВЫМИ",
+      "hint": "instrumental plural of пе́рвое (pérvoje)"
+    },
+    {
+      "word": "ПЕРЕГОВОРЫ",
+      "hint": "talks, negotiation"
+    },
+    {
+      "word": "ПЕРЕДАЛ",
+      "hint": "masculine singular past indicative perfective of переда́ть (peredátʹ)"
+    },
+    {
+      "word": "ПЕРЕДАЧИ",
+      "hint": "delivery; communication, handing over, passing, transfer, transmission"
+    },
+    {
+      "word": "ПЕРЕЙТИ",
+      "hint": "to cross, to get over, to get across; to pass on (to), to proceed (to), to turn (to)"
+    },
+    {
+      "word": "ПЕРЕСТАЛ",
+      "hint": "masculine singular past indicative perfective of переста́ть (perestátʹ)"
+    },
+    {
+      "word": "ПЕРЕСТАТЬ",
+      "hint": "to stop, to cease, to quit"
+    },
+    {
+      "word": "ПЕСЕН",
+      "hint": "genitive plural of пе́сня (pésnja)"
+    },
+    {
+      "word": "ПЕТЬ",
+      "hint": "to sing; to crow"
+    },
+    {
+      "word": "ПИВА",
+      "hint": "inflection of пи́во (pívo)"
+    },
+    {
+      "word": "ПИВО",
+      "hint": "beer (verbal noun of пить (pitʹ) (nomen obiecti)); portion of beer"
+    },
+    {
+      "word": "ПИСАТЕЛЬ",
+      "hint": "writer"
+    },
+    {
+      "word": "ПИСТОЛЕТ",
+      "hint": "pistol, handgun; spraying pistol, sprayer"
+    },
+    {
+      "word": "ПИШУТ",
+      "hint": "third-person plural present indicative imperfective of писа́ть (pisátʹ)"
+    },
+    {
+      "word": "ПЛАКАТЬ",
+      "hint": "to cry, to weep; to mourn, to weep"
+    },
+    {
+      "word": "ПЛАНА",
+      "hint": "plan (set of intended actions), scheme; draft, plan, scheme, contrivance, road map"
+    },
+    {
+      "word": "ПЛАНЕ",
+      "hint": "prepositional singular of план (plan)"
+    },
+    {
+      "word": "ПЛАНЕТЕ",
+      "hint": "rogue planet"
+    },
+    {
+      "word": "ПЛАНЕТЫ",
+      "hint": "rogue planet"
+    },
+    {
+      "word": "ПЛАТЯТ",
+      "hint": "third-person plural present indicative imperfective of плати́ть (platítʹ)"
+    },
+    {
+      "word": "ПЛЕВАТЬ",
+      "hint": "to spit; to spit upon, to not care for"
+    },
+    {
+      "word": "ПЛОХАЯ",
+      "hint": "bad (not good); ill, bad (ill, sick)"
+    },
+    {
+      "word": "ПЛОХИЕ",
+      "hint": "bad (not good); ill, bad (ill, sick)"
+    },
+    {
+      "word": "ПЛОХОГО",
+      "hint": "bad (not good); ill, bad (ill, sick)"
+    },
+    {
+      "word": "ПЛОХОЕ",
+      "hint": "bad (not good); ill, bad (ill, sick)"
+    },
+    {
+      "word": "ПЛОЩАДИ",
+      "hint": "square (open area in a town or city); space, living space"
+    },
+    {
+      "word": "ПОБЕДА",
+      "hint": "victory"
+    },
+    {
+      "word": "ПОБЕДИЛ",
+      "hint": "masculine singular past indicative perfective of победи́ть (pobedítʹ)"
+    },
+    {
+      "word": "ПОБЕДИТЕЛЬ",
+      "hint": "winner, victor, vanquisher"
+    },
+    {
+      "word": "ПОБЕДИТЬ",
+      "hint": "to win, to be victorious over, to conquer, to vanquish, to defeat; to overcome"
+    },
+    {
+      "word": "ПОБЕДУ",
+      "hint": "accusative singular of побе́да (pobéda)"
+    },
+    {
+      "word": "ПОБЕДЫ",
+      "hint": "victory"
+    },
+    {
+      "word": "ПОБОЛЬШЕ",
+      "hint": "alternative form of бо́льше (bólʹše)"
+    },
+    {
+      "word": "ПОВЕДЕНИЕ",
+      "hint": "conduct, behaviour"
+    },
+    {
+      "word": "ПОВЕРИТЬ",
+      "hint": "to entrust, to confide, to trust; to check, to verify"
+    },
+    {
+      "word": "ПОВЕРХНОСТИ",
+      "hint": "surface, face"
+    },
+    {
+      "word": "ПОВОД",
+      "hint": "rein, bridle, bridle-rein"
+    },
+    {
+      "word": "ПОВСЮДУ",
+      "hint": "everywhere, far and wide"
+    },
+    {
+      "word": "ПОВЫШЕНИЕ",
+      "hint": "raise, promotion"
+    },
+    {
+      "word": "ПОГОДА",
+      "hint": "weather; bad weather"
+    },
+    {
+      "word": "ПОДАЛЬШЕ",
+      "hint": "alternative form of да́льше (dálʹše)"
+    },
+    {
+      "word": "ПОДАРКИ",
+      "hint": "present, gift"
+    },
+    {
+      "word": "ПОДАТЬ",
+      "hint": "to give, to proffer, to pass; to serve"
+    },
+    {
+      "word": "ПОДДЕРЖАТЬ",
+      "hint": "to support, to back up, to second; to maintain, to keep up"
+    },
+    {
+      "word": "ПОДДЕРЖИВАТЬ",
+      "hint": "to support, to back, to second, to uphold; to maintain, to keep up"
+    },
+    {
+      "word": "ПОДДЕРЖКА",
+      "hint": "support (financial or other help)"
+    },
+    {
+      "word": "ПОДДЕРЖКИ",
+      "hint": "support (financial or other help)"
+    },
+    {
+      "word": "ПОДДЕРЖКУ",
+      "hint": "support (financial or other help)"
+    },
+    {
+      "word": "ПОДНЯТЬ",
+      "hint": "to raise, to elevate, to increase"
+    },
+    {
+      "word": "ПОДОБНОГО",
+      "hint": "neuter nominative/accusative singular of подо́бный (podóbnyj)"
+    },
+    {
+      "word": "ПОДОБНОЕ",
+      "hint": "neuter nominative/accusative singular of подо́бный (podóbnyj)"
+    },
+    {
+      "word": "ПОДОБНЫЕ",
+      "hint": "similar; like, such as"
+    },
+    {
+      "word": "ПОДОБНЫХ",
+      "hint": "similar; like, such as"
+    },
+    {
+      "word": "ПОДПИСАЛ",
+      "hint": "masculine singular past indicative perfective of подписа́ть (podpisátʹ)"
+    },
+    {
+      "word": "ПОДРОБНОСТИ",
+      "hint": "detail; particularity"
+    },
+    {
+      "word": "ПОДРЯД",
+      "hint": "straight, in a row, in succession, running"
+    },
+    {
+      "word": "ПОДХОД",
+      "hint": "approach; point of view"
+    },
+    {
+      "word": "ПОЕДУ",
+      "hint": "first-person singular future indicative perfective of пое́хать (pojéxatʹ)"
+    },
+    {
+      "word": "ПОЕЗДА",
+      "hint": "train, a line of connected railway cars; caravan, convoy, procession"
+    },
+    {
+      "word": "ПОЕЗДКИ",
+      "hint": "tour, journey, trip"
+    },
+    {
+      "word": "ПОЕХАЛ",
+      "hint": "masculine singular past indicative perfective of пое́хать (pojéxatʹ)"
+    },
+    {
+      "word": "ПОЕХАЛИ",
+      "hint": "plural past indicative perfective of пое́хать (pojéxatʹ)"
+    },
+    {
+      "word": "ПОЕХАТЬ",
+      "hint": "to go (in a conveyance or on horseback); to ride, to drive"
+    },
+    {
+      "word": "ПОЖАЛОВАТЬ",
+      "hint": "to grant (to); to bestow, to confer (on); to reward, to award (stilted style); to visit, to come to see (stilted style or jocular)"
+    },
+    {
+      "word": "ПОЖАР",
+      "hint": "fire, conflagration (occurrence of fire in a certain place)"
+    },
+    {
+      "word": "ПОЗАДИ",
+      "hint": "behind"
+    },
+    {
+      "word": "ПОЗВОЛИЛ",
+      "hint": "masculine singular past indicative perfective of позво́лить (pozvólitʹ)"
+    },
+    {
+      "word": "ПОЗВОЛИТ",
+      "hint": "third-person singular future indicative perfective of позво́лить (pozvólitʹ)"
+    },
+    {
+      "word": "ПОЗВОЛИТЬ",
+      "hint": "to allow, to permit [with dative ‘someone’ and infinitive ‘to do something’]; to afford (often as позволить себе)"
+    },
+    {
+      "word": "ПОЗВОНИЛ",
+      "hint": "masculine singular past indicative perfective of позвони́ть (pozvonítʹ)"
+    },
+    {
+      "word": "ПОЗВОНИТЬ",
+      "hint": "to call (to contact by telephone) [with dative ‘someone’]; to call [with locative adverb or в (v, + accusative) or на (na, + accusative) ‘a location’]"
+    },
+    {
+      "word": "ПОЗДНЕЕ",
+      "hint": "late"
+    },
+    {
+      "word": "ПОЗИЦИИ",
+      "hint": "position (usually in the sense \"stance, attitude\"); item (of goods, equipment, a commodity etc.)"
+    },
+    {
+      "word": "ПОЗИЦИЮ",
+      "hint": "accusative singular of пози́ция (pozícija)"
+    },
+    {
+      "word": "ПОИСК",
+      "hint": "search, quest; raid"
+    },
+    {
+      "word": "ПОИСКАХ",
+      "hint": "prepositional plural of по́иск (póisk)"
+    },
+    {
+      "word": "ПОИСКИ",
+      "hint": "search, quest; raid"
+    },
+    {
+      "word": "ПОЙДЕМ",
+      "hint": "first-person plural future indicative perfective of пойти́ (pojtí)"
+    },
+    {
+      "word": "ПОКАЗАЛА",
+      "hint": "feminine singular past indicative perfective of показа́ть (pokazátʹ)"
+    },
+    {
+      "word": "ПОКАЗАЛИ",
+      "hint": "plural past indicative perfective of показа́ть (pokazátʹ)"
+    },
+    {
+      "word": "ПОКАЗАЛОСЬ",
+      "hint": "neuter singular past indicative perfective of показа́ться (pokazátʹsja)"
+    },
+    {
+      "word": "ПОКАЗАНИЯ",
+      "hint": "testimony, evidence, statement; indication, reading, readout"
+    },
+    {
+      "word": "ПОКАЗЫВАЕТ",
+      "hint": "third-person singular present indicative imperfective of пока́зывать (pokázyvatʹ)"
+    },
+    {
+      "word": "ПОКАЗЫВАЮТ",
+      "hint": "third-person plural present indicative imperfective of пока́зывать (pokázyvatʹ)"
+    },
+    {
+      "word": "ПОКИНУЛ",
+      "hint": "masculine singular past indicative perfective of поки́нуть (pokínutʹ)"
+    },
+    {
+      "word": "ПОКИНУТЬ",
+      "hint": "to leave, to quit, to forsake; to abandon, to desert"
+    },
+    {
+      "word": "ПОКОЛЕНИЯ",
+      "hint": "generation, age"
+    },
+    {
+      "word": "ПОКУПАТЬ",
+      "hint": "to buy, to purchase"
+    },
+    {
+      "word": "ПОЛА",
+      "hint": "skirt, tail, flap, lap (of clothes)"
+    },
+    {
+      "word": "ПОЛАГАЮ",
+      "hint": "to define; to apply, to impose"
+    },
+    {
+      "word": "ПОЛГОДА",
+      "hint": "half-year (period of half a year)"
+    },
+    {
+      "word": "ПОЛИТИКА",
+      "hint": "politics; policy"
+    },
+    {
+      "word": "ПОЛИТИКИ",
+      "hint": "politics; policy"
+    },
+    {
+      "word": "ПОЛИЦЕЙСКИЕ",
+      "hint": "feminine nominative singular of полице́йский (policéjskij)"
+    },
+    {
+      "word": "ПОЛИЦЕЙСКИЙ",
+      "hint": "police"
+    },
+    {
+      "word": "ПОЛИЦЕЙСКИХ",
+      "hint": "feminine nominative singular of полице́йский (policéjskij)"
+    },
+    {
+      "word": "ПОЛНАЯ",
+      "hint": "full, complete; absolute, perfect"
+    },
+    {
+      "word": "ПОЛНО",
+      "hint": "fully, in full"
+    },
+    {
+      "word": "ПОЛНОЕ",
+      "hint": "full, complete; absolute, perfect"
+    },
+    {
+      "word": "ПОЛНОМ",
+      "hint": ""
+    },
+    {
+      "word": "ПОЛНУЮ",
+      "hint": "full, complete; absolute, perfect"
+    },
+    {
+      "word": "ПОЛОВИНА",
+      "hint": "half"
+    },
+    {
+      "word": "ПОЛОВИНОЙ",
+      "hint": "instrumental singular of полови́на (polovína)"
+    },
+    {
+      "word": "ПОЛОВИНУ",
+      "hint": "half"
+    },
+    {
+      "word": "ПОЛОВИНЫ",
+      "hint": "half"
+    },
+    {
+      "word": "ПОЛОЖЕНИИ",
+      "hint": "prepositional singular of положе́ние (položénije)"
+    },
+    {
+      "word": "ПОЛОЖИТЬ",
+      "hint": "to put, to lay, to lay down, to deposit (In a horizontal position); to apply"
+    },
+    {
+      "word": "ПОЛТОРА",
+      "hint": "one and a half (1½), sesqui"
+    },
+    {
+      "word": "ПОЛУ",
+      "hint": "semi-, demi-, half; semi-, demi-, half- paired with пол- form"
+    },
+    {
+      "word": "ПОЛУЧАЕТ",
+      "hint": "third-person singular present indicative imperfective of получа́ть (polučátʹ)"
+    },
+    {
+      "word": "ПОЛУЧАТЬ",
+      "hint": "to receive, to get, to obtain, to accept"
+    },
+    {
+      "word": "ПОЛУЧАЮТ",
+      "hint": "third-person plural present indicative imperfective of получа́ть (polučátʹ)"
+    },
+    {
+      "word": "ПОЛЧАСА",
+      "hint": "half an hour, half-hour"
+    },
+    {
+      "word": "ПОЛЬЗОВАТЬСЯ",
+      "hint": "to use, to utilize [with instrumental ‘something’]; to enjoy [with instrumental ‘health, good fortune, power, privilege, etc.’]"
+    },
+    {
+      "word": "ПОЛЯ",
+      "hint": "genitive singular of по́ле (póle)"
+    },
+    {
+      "word": "ПОМИМО",
+      "hint": "besides"
+    },
+    {
+      "word": "ПОМНИТЬ",
+      "hint": "to remember, to recollect, to think of, to keep in mind"
+    },
+    {
+      "word": "ПОМНИШЬ",
+      "hint": "second-person singular present indicative imperfective of по́мнить (pómnitʹ)"
+    },
+    {
+      "word": "ПОМОГАТЬ",
+      "hint": "to help [with dative ‘whom’]; to aid, to assist materially [with dative ‘whom’ and instrumental ‘with/using what’]"
+    },
+    {
+      "word": "ПОМОГЛИ",
+      "hint": "plural past indicative perfective of помо́чь (pomóčʹ)"
+    },
+    {
+      "word": "ПОМОГУТ",
+      "hint": "third-person plural future indicative perfective of помо́чь (pomóčʹ)"
+    },
+    {
+      "word": "ПОМОЩНИК",
+      "hint": "associate, assistant, deputy; helper, aid"
+    },
+    {
+      "word": "ПОНАДОБИТСЯ",
+      "hint": "to need, to be needed, to become necessary; to come in handy"
+    },
+    {
+      "word": "ПОНЕДЕЛЬНИК",
+      "hint": "Monday"
+    },
+    {
+      "word": "ПОНИМАЮТ",
+      "hint": "third-person plural present indicative imperfective of понима́ть (ponimátʹ)"
+    },
+    {
+      "word": "ПОНРАВИЛСЯ",
+      "hint": "masculine singular past indicative perfective of понра́виться (ponrávitʹsja)"
+    },
+    {
+      "word": "ПОНРАВИТСЯ",
+      "hint": "third-person singular future indicative perfective of понра́виться (ponrávitʹsja)"
+    },
+    {
+      "word": "ПОПАЛА",
+      "hint": "feminine singular past indicative perfective of попа́сть (popástʹ)"
+    },
+    {
+      "word": "ПОПАЛИ",
+      "hint": "plural past indicative perfective of попа́сть (popástʹ)"
+    },
+    {
+      "word": "ПОПРОСИЛА",
+      "hint": "feminine singular past indicative perfective of попроси́ть (poprosítʹ)"
+    },
+    {
+      "word": "ПОПРОСИТЬ",
+      "hint": "to ask for, to request [with у (u, + genitive) ‘someone’, along with genitive or accusative ‘for something’; or with accusative ‘someone’, along with о (o, + prepositional) ‘for"
+    },
+    {
+      "word": "ПОПЫТАЛСЯ",
+      "hint": "masculine singular past indicative perfective of попыта́ться (popytátʹsja)"
+    },
+    {
+      "word": "ПОПЫТКА",
+      "hint": "attempt, try, effort"
+    },
+    {
+      "word": "ПОПЫТКИ",
+      "hint": "attempt, try, effort"
+    },
+    {
+      "word": "ПОРАЖЕНИЕ",
+      "hint": "defeat; deprivation"
+    },
+    {
+      "word": "ПОРОЙ",
+      "hint": "at times, now and then"
+    },
+    {
+      "word": "ПОРЯДКА",
+      "hint": "genitive singular of поря́док (porjádok)"
+    },
+    {
+      "word": "ПОСЛАЛ",
+      "hint": "masculine singular past indicative perfective of посла́ть (poslátʹ)"
+    },
+    {
+      "word": "ПОСЛЕДНИМ",
+      "hint": "last, latest, recent; final, ultimate, definitive"
+    },
+    {
+      "word": "ПОСЛЕДНИХ",
+      "hint": "last, latest, recent; final, ultimate, definitive"
+    },
+    {
+      "word": "ПОСЛЕДНЮЮ",
+      "hint": "last, latest, recent; final, ultimate, definitive"
+    },
+    {
+      "word": "ПОСЛЕДСТВИЯ",
+      "hint": "consequence"
+    },
+    {
+      "word": "ПОСЛУШАТЬ",
+      "hint": "to listen, to listen to (someone/something); to attend"
+    },
+    {
+      "word": "ПОСМОТРЕЛ",
+      "hint": "masculine singular past indicative perfective of посмотре́ть (posmotrétʹ)"
+    },
+    {
+      "word": "ПОСМОТРЮ",
+      "hint": "first-person singular future indicative perfective of посмотре́ть (posmotrétʹ)"
+    },
+    {
+      "word": "ПОСРЕДИ",
+      "hint": "in the middle of, in the midst of"
+    },
+    {
+      "word": "ПОСТАВИЛ",
+      "hint": "masculine singular past indicative perfective of поста́вить (postávitʹ)"
+    },
+    {
+      "word": "ПОСТЕЛИ",
+      "hint": "bed (a piece of furniture to sleep on); bedding (bedclothes)"
+    },
+    {
+      "word": "ПОСТЕПЕННО",
+      "hint": "gradually, step by step, by and by, progressively"
+    },
+    {
+      "word": "ПОСТРОИТЬ",
+      "hint": "to build; to upbuild"
+    },
+    {
+      "word": "ПОСТУПАТЬ",
+      "hint": "to act, to behave, to do things (in a certain way); to treat (with), to deal (with), to handle"
+    },
+    {
+      "word": "ПОСТУПИЛ",
+      "hint": "masculine singular past indicative perfective of поступи́ть (postupítʹ)"
+    },
+    {
+      "word": "ПОСТУПИЛА",
+      "hint": "feminine singular past indicative perfective of поступи́ть (postupítʹ)"
+    },
+    {
+      "word": "ПОСТУПИТЬ",
+      "hint": "to act, to behave, to do things (in a certain way); to treat (with), to deal (with), to handle"
+    },
+    {
+      "word": "ПОТЕРИ",
+      "hint": "loss (something lost); casualty"
+    },
+    {
+      "word": "ПОТЕРЯЛА",
+      "hint": "feminine singular past indicative perfective of потеря́ть (poterjátʹ)"
+    },
+    {
+      "word": "ПОТЕРЯЛИ",
+      "hint": "plural past indicative perfective of потеря́ть (poterjátʹ)"
+    },
+    {
+      "word": "ПОТЕРЯТЬ",
+      "hint": "to lose, to waste; to shed"
+    },
+    {
+      "word": "ПОТРЕБУЕТСЯ",
+      "hint": "to need, to require; to take (time, effort, money, etc. for something)"
+    },
+    {
+      "word": "ПОХОЖА",
+      "hint": "short feminine singular of похо́жий (poxóžij)"
+    },
+    {
+      "word": "ПОХОЖИ",
+      "hint": "short plural of похо́жий (poxóžij)"
+    },
+    {
+      "word": "ПОЦЕЛУЙ",
+      "hint": "kiss; kissing sound"
+    },
+    {
+      "word": "ПОШЁЛ",
+      "hint": "masculine singular past indicative perfective of пойти́ (pojtí)"
+    },
+    {
+      "word": "ПОШЛО",
+      "hint": "commonly, tritely"
+    },
+    {
+      "word": "ПОЯВИЛОСЬ",
+      "hint": "neuter singular past indicative perfective of появи́ться (pojavítʹsja)"
+    },
+    {
+      "word": "ПОЯВЛЯЕТСЯ",
+      "hint": "third-person singular present indicative imperfective of появля́ться (pojavljátʹsja)"
+    },
+    {
+      "word": "ПРАВДЫ",
+      "hint": "grand truth, raw and hard truth"
+    },
+    {
+      "word": "ПРАВИЛ",
+      "hint": "masculine singular past indicative imperfective of пра́вить (právitʹ)"
+    },
+    {
+      "word": "ПРАВИЛАМ",
+      "hint": "instrumental singular of пра́вило (právilo)"
+    },
+    {
+      "word": "ПРАВОЙ",
+      "hint": "right, right-hand; starboard"
+    },
+    {
+      "word": "ПРАВЫ",
+      "hint": "short plural of пра́вый (právyj)"
+    },
+    {
+      "word": "ПРЕДЕЛАМИ",
+      "hint": "instrumental plural of преде́л (predél)"
+    },
+    {
+      "word": "ПРЕДЛАГАЕТ",
+      "hint": "third-person singular present indicative imperfective of предлага́ть (predlagátʹ)"
+    },
+    {
+      "word": "ПРЕДЛАГАЮ",
+      "hint": "first-person singular present indicative imperfective of предлага́ть (predlagátʹ)"
+    },
+    {
+      "word": "ПРЕДЛОЖЕНИЯ",
+      "hint": "offer; suggestion, proposal (also: marriage proposal), proposition"
+    },
+    {
+      "word": "ПРЕДЛОЖИЛИ",
+      "hint": "plural past indicative perfective of предложи́ть (predložítʹ)"
+    },
+    {
+      "word": "ПРЕДЛОЖИТЬ",
+      "hint": "to offer, to proffer; to propose, to suggest, to proposition"
+    },
+    {
+      "word": "ПРЕДМЕТ",
+      "hint": "object; subject, topic"
+    },
+    {
+      "word": "ПРЕДСЕДАТЕЛЬ",
+      "hint": "chairman, president"
+    },
+    {
+      "word": "ПРЕДСТАВИТЕЛЬ",
+      "hint": "representative; specimen"
+    },
+    {
+      "word": "ПРЕДСТАВЛЕНИЕ",
+      "hint": "introduction (a means, such as a personal letter, of presenting one person to another); presentation, submission, introduction"
+    },
+    {
+      "word": "ПРЕДСТАВЛЯЮ",
+      "hint": "first-person singular present indicative imperfective of представля́ть (predstavljátʹ)"
+    },
+    {
+      "word": "ПРЕДСТОИТ",
+      "hint": "to lie ahead, to be at hand, to be in the offing; to have to do something in the future"
+    },
+    {
+      "word": "ПРЕДЫДУЩИХ",
+      "hint": "previous; antecedent, early (earlier in time or order)"
+    },
+    {
+      "word": "ПРЕЗИДЕНТОМ",
+      "hint": "instrumental singular of президе́нт (prezidént)"
+    },
+    {
+      "word": "ПРЕКРАСНАЯ",
+      "hint": "beautiful; fine, splendid, excellent, nice"
+    },
+    {
+      "word": "ПРЕКРАТИТЬ",
+      "hint": "to stop, to cease, to end, to discontinue"
+    },
+    {
+      "word": "ПРЕСТУПЛЕНИЕ",
+      "hint": "crime, criminal act, offense; specifically felony"
+    },
+    {
+      "word": "ПРЕСТУПНИК",
+      "hint": "criminal, delinquent, offender"
+    },
+    {
+      "word": "ПРИБЫЛ",
+      "hint": "masculine singular past indicative perfective of прибы́ть (pribýtʹ)"
+    },
+    {
+      "word": "ПРИБЫЛИ",
+      "hint": "plural past indicative perfective of прибы́ть (pribýtʹ)"
+    },
+    {
+      "word": "ПРИВЕЛ",
+      "hint": "masculine singular past indicative perfective of привести́ (privestí)"
+    },
+    {
+      "word": "ПРИВЕЛА",
+      "hint": "feminine singular past indicative perfective of привести́ (privestí)"
+    },
+    {
+      "word": "ПРИВЕЛИ",
+      "hint": "plural past indicative perfective of привести́ (privestí)"
+    },
+    {
+      "word": "ПРИВЕЛО",
+      "hint": "neuter singular past indicative perfective of привести́ (privestí)"
+    },
+    {
+      "word": "ПРИВЛЕЧЬ",
+      "hint": "to attract, to draw (arouse interest)"
+    },
+    {
+      "word": "ПРИВОДИТ",
+      "hint": "third-person singular present indicative imperfective of приводи́ть (privodítʹ)"
+    },
+    {
+      "word": "ПРИГЛАСИЛ",
+      "hint": "masculine singular past indicative perfective of пригласи́ть (priglasítʹ)"
+    },
+    {
+      "word": "ПРИГЛАШЕНИЕ",
+      "hint": "invitation (act of inviting); invitation (document containing an invitation)"
+    },
+    {
+      "word": "ПРИГОВОР",
+      "hint": "sentence, verdict; judgement, conviction (of opinion)"
+    },
+    {
+      "word": "ПРИДЁТСЯ",
+      "hint": "third-person singular future indicative perfective of прийти́сь (prijtísʹ)"
+    },
+    {
+      "word": "ПРИДУМАЛ",
+      "hint": "masculine singular past indicative perfective of приду́мать (pridúmatʹ)"
+    },
+    {
+      "word": "ПРИДУМАТЬ",
+      "hint": "to make up, to think out, to devise, to contrive, to invent"
+    },
+    {
+      "word": "ПРИДУТ",
+      "hint": "third-person plural future indicative perfective of прийти́ (prijtí)"
+    },
+    {
+      "word": "ПРИЕДЕТ",
+      "hint": "third-person singular future indicative perfective of прие́хать (prijéxatʹ)"
+    },
+    {
+      "word": "ПРИЕМ",
+      "hint": "reception; acceptance, admission"
+    },
+    {
+      "word": "ПРИЕХАЛА",
+      "hint": "feminine singular past indicative perfective of прие́хать (prijéxatʹ)"
+    },
+    {
+      "word": "ПРИЕХАТЬ",
+      "hint": "to arrive, to come (by vehicle or horse); to hit rock bottom"
+    },
+    {
+      "word": "ПРИЗ",
+      "hint": "prize"
+    },
+    {
+      "word": "ПРИЗНАНИЕ",
+      "hint": "acknowledgement, recognition; confession, admission, concession"
+    },
+    {
+      "word": "ПРИКАЗАЛ",
+      "hint": "masculine singular past indicative perfective of приказа́ть (prikazátʹ)"
+    },
+    {
+      "word": "ПРИМЕР",
+      "hint": "example, instance; sample math problem, math exercise, math task (in a math book)"
+    },
+    {
+      "word": "ПРИМЕРУ",
+      "hint": "example, instance; sample math problem, math exercise, math task (in a math book)"
+    },
+    {
+      "word": "ПРИНЕС",
+      "hint": "masculine singular past indicative perfective of принести́ (prinestí)"
+    },
+    {
+      "word": "ПРИНЕСЛА",
+      "hint": "feminine singular past indicative perfective of принести́ (prinestí)"
+    },
+    {
+      "word": "ПРИНЕСЛИ",
+      "hint": "plural past indicative perfective of принести́ (prinestí)"
+    },
+    {
+      "word": "ПРИНЕСТИ",
+      "hint": "to bring (by foot), to fetch (transitive) to transport toward someone/somewhere); to yield, to bear"
+    },
+    {
+      "word": "ПРИНИМАЕТ",
+      "hint": "third-person singular present indicative imperfective of принима́ть (prinimátʹ)"
+    },
+    {
+      "word": "ПРИНИМАЛ",
+      "hint": "masculine singular past indicative imperfective of принима́ть (prinimátʹ)"
+    },
+    {
+      "word": "ПРИНЦ",
+      "hint": "prince, crown prince (a son or other male family member of a king or a non-Russian emperor); prince (the holder of a princely title, especially in the Kingdom of France)"
+    },
+    {
+      "word": "ПРИНЦЕССА",
+      "hint": "female equivalent of принц (princ): princess"
+    },
+    {
+      "word": "ПРИНЯЛА",
+      "hint": "feminine singular past indicative perfective of приня́ть (prinjátʹ)"
+    },
+    {
+      "word": "ПРИРОДЫ",
+      "hint": "nature"
+    },
+    {
+      "word": "ПРИСОЕДИНИТЬСЯ",
+      "hint": "to join [with к (k, + dative) ‘a group, organization, etc.’]; to accede [with к (k, + dative) ‘to a treaty, protocol, etc.’]"
+    },
+    {
+      "word": "ПРИСУТСТВИЕ",
+      "hint": "presence, attendance (the fact or condition of being present); the duties of government service"
+    },
+    {
+      "word": "ПРИХОДИЛОСЬ",
+      "hint": "neuter singular past indicative imperfective of приходи́ться (prixodítʹsja)"
+    },
+    {
+      "word": "ПРИХОДИТЬ",
+      "hint": "to come (to), to arrive (at) (place, conclusion, state of abandonment, anger, insanity)"
+    },
+    {
+      "word": "ПРИХОДЯТ",
+      "hint": "third-person plural present indicative imperfective of приходи́ть (prixodítʹ)"
+    },
+    {
+      "word": "ПРИЧЕМ",
+      "hint": "moreover, and, at that, with"
+    },
+    {
+      "word": "ПРИЧИНАМ",
+      "hint": "dative plural of причи́на (pričína)"
+    },
+    {
+      "word": "ПРИЧИНЕ",
+      "hint": "cause (source or reason of an event or action); reason"
+    },
+    {
+      "word": "ПРИЧИНОЙ",
+      "hint": "instrumental singular of причи́на (pričína)"
+    },
+    {
+      "word": "ПРИЧИНУ",
+      "hint": "cause (source or reason of an event or action); reason"
+    },
+    {
+      "word": "ПРИШЁЛ",
+      "hint": "masculine singular past indicative perfective of прийти́ (prijtí)"
+    },
+    {
+      "word": "ПРОБЛЕМОЙ",
+      "hint": "instrumental singular of пробле́ма (probléma)"
+    },
+    {
+      "word": "ПРОБЛЕМУ",
+      "hint": "accusative singular of пробле́ма (probléma)"
+    },
+    {
+      "word": "ПРОВЕЛ",
+      "hint": "masculine singular past indicative perfective of провести́ (provestí)"
+    },
+    {
+      "word": "ПРОВЕЛА",
+      "hint": "feminine singular past indicative of провести́ pf (provestí)"
+    },
+    {
+      "word": "ПРОВЕЛИ",
+      "hint": "plural past indicative of провести́ pf (provestí)"
+    },
+    {
+      "word": "ПРОВЕРКА",
+      "hint": "check, examination, test, verification; inspection"
+    },
+    {
+      "word": "ПРОВОДИТ",
+      "hint": "inflection of проводи́ть (provodítʹ)"
+    },
+    {
+      "word": "ПРОГРАММЕ",
+      "hint": "prepositional singular of програ́мма-дополне́ние (prográmma-dopolnénije)"
+    },
+    {
+      "word": "ПРОДАВАТЬ",
+      "hint": "to sell; to sell out, to betray"
+    },
+    {
+      "word": "ПРОДАЖИ",
+      "hint": "sale, selling (exchange of goods or services for currency or credit)"
+    },
+    {
+      "word": "ПРОДАЛ",
+      "hint": "masculine singular past indicative perfective of прода́ть (prodátʹ)"
+    },
+    {
+      "word": "ПРОДОЛЖАЕТ",
+      "hint": "third-person singular present indicative imperfective of продолжа́ть (prodolžátʹ)"
+    },
+    {
+      "word": "ПРОДОЛЖАЕТСЯ",
+      "hint": "to last, to continue/be continued, to go on, to endure, to lengthen; passive of продолжа́ть (prodolžátʹ)"
+    },
+    {
+      "word": "ПРОДОЛЖИТЬ",
+      "hint": "to continue, to proceed (with), to go on; to keep on"
+    },
+    {
+      "word": "ПРОДУКТЫ",
+      "hint": "foods, edibles; nominative/accusative plural of проду́кт (prodúkt)"
+    },
+    {
+      "word": "ПРОЕКТА",
+      "hint": "project (planned endeavor); design"
+    },
+    {
+      "word": "ПРОИГРАЛ",
+      "hint": "masculine singular past indicative perfective of проигра́ть (proigrátʹ)"
+    },
+    {
+      "word": "ПРОИЗВОДСТВО",
+      "hint": "production, manufacture; plant, works, factory"
+    },
+    {
+      "word": "ПРОИЗОЙДЕТ",
+      "hint": "third-person singular future indicative perfective of произойти́ (proizojtí)"
+    },
+    {
+      "word": "ПРОИЗОЙТИ",
+      "hint": "to take place, to happen, to occur; to derive, to be descended, to descend, to originate"
+    },
+    {
+      "word": "ПРОИЗОШЛА",
+      "hint": "feminine singular past indicative perfective of произойти́ (proizojtí)"
+    },
+    {
+      "word": "ПРОИСХОДИЛО",
+      "hint": "neuter singular past indicative imperfective of происходи́ть (proisxodítʹ)"
+    },
+    {
+      "word": "ПРОКУРОР",
+      "hint": "prosecutor, district attorney (a lawyer who decides whether to charge a person with a crime)"
+    },
+    {
+      "word": "ПРОКУРОРА",
+      "hint": "prosecutor, district attorney (a lawyer who decides whether to charge a person with a crime)"
+    },
+    {
+      "word": "ПРОПАЛ",
+      "hint": "masculine singular past indicative perfective of пропа́сть (propástʹ)"
+    },
+    {
+      "word": "ПРОПУСТИЛ",
+      "hint": "masculine singular past indicative perfective of пропусти́ть (propustítʹ)"
+    },
+    {
+      "word": "ПРОСИЛ",
+      "hint": "masculine singular past indicative imperfective of проси́ть (prosítʹ)"
+    },
+    {
+      "word": "ПРОСИТ",
+      "hint": "third-person singular present indicative imperfective of проси́ть (prosítʹ)"
+    },
+    {
+      "word": "ПРОСИТЬ",
+      "hint": "to ask for, to request [with у (u, + genitive) ‘someone’, along with genitive or accusative ‘for something’; or with accusative ‘someone’, along with о (o, + prepositional) ‘for"
+    },
+    {
+      "word": "ПРОСТОЙ",
+      "hint": "simple, ordinary; basic"
+    },
+    {
+      "word": "ПРОСТРАНСТВО",
+      "hint": "space (intervening contents of a volume); spacing, space, gap, distance between two points"
+    },
+    {
+      "word": "ПРОТЯЖЕНИИ",
+      "hint": "prepositional singular of протяже́ние (protjažénije)"
+    },
+    {
+      "word": "ПРОХОДЯТ",
+      "hint": "third-person plural present indicative imperfective of проходи́ть (proxodítʹ)"
+    },
+    {
+      "word": "ПРОЦЕНТОВ",
+      "hint": "percent; percentage (fraction or share)"
+    },
+    {
+      "word": "ПРОЦЕССЕ",
+      "hint": "prepositional singular of проце́сс (procéss)"
+    },
+    {
+      "word": "ПРОЧЬ",
+      "hint": "away, aside"
+    },
+    {
+      "word": "ПРОШЁЛ",
+      "hint": "masculine singular past indicative perfective of пройти́ (projtí)"
+    },
+    {
+      "word": "ПРОШЛЫЙ",
+      "hint": "last, past; former"
+    },
+    {
+      "word": "ПРОШЛЫМ",
+      "hint": "last, past; former"
+    },
+    {
+      "word": "ПРОЩАЙ",
+      "hint": "farewell, adieu, good-bye (said to wish a fond farewell; good-bye) (informal to one person)"
+    },
+    {
+      "word": "ПРОЩЕНИЯ",
+      "hint": "forgiveness, pardon (forgiveness for an offence)"
+    },
+    {
+      "word": "ПРЯМОЙ",
+      "hint": "straight; perpendicular, right, orthogonal, normal, rectangular"
+    },
+    {
+      "word": "ПТИЦА",
+      "hint": "bird"
+    },
+    {
+      "word": "ПТИЦЫ",
+      "hint": "adjutant (bird)"
+    },
+    {
+      "word": "ПУНКТ",
+      "hint": "point; point, station"
+    },
+    {
+      "word": "ПУТЕМ",
+      "hint": "instrumental singular of путь (putʹ)"
+    },
+    {
+      "word": "ПУТЕШЕСТВИЕ",
+      "hint": "travels, journey"
+    },
+    {
+      "word": "ПЫТАЛАСЬ",
+      "hint": "feminine singular past indicative imperfective of пыта́ться (pytátʹsja)"
+    },
+    {
+      "word": "ПЫТАЮСЬ",
+      "hint": "first-person singular present indicative imperfective of пыта́ться (pytátʹsja)"
+    },
+    {
+      "word": "ПЫТАЮТСЯ",
+      "hint": "third-person plural present indicative imperfective of пыта́ться (pytátʹsja)"
+    },
+    {
+      "word": "ПЫТАЯСЬ",
+      "hint": "present adverbial imperfective participle of пыта́ться (pytátʹsja)"
+    },
+    {
+      "word": "ПЯТНИЦУ",
+      "hint": "accusative singular of пя́тница (pjátnica)"
+    },
+    {
+      "word": "РАБОТ",
+      "hint": "employer (person or entity which employs others)"
+    },
+    {
+      "word": "РАБОТАЕМ",
+      "hint": "first-person plural present indicative imperfective of рабо́тать (rabótatʹ)"
+    },
+    {
+      "word": "РАБОТАЮ",
+      "hint": "first-person singular present indicative imperfective of рабо́тать (rabótatʹ)"
+    },
+    {
+      "word": "РАБОТНИКОВ",
+      "hint": "worker, blue-collar worker, employee"
+    },
+    {
+      "word": "РАБОЧИЕ",
+      "hint": "feminine nominative singular of рабо́чий (rabóčij)"
+    },
+    {
+      "word": "РАБОЧИЙ",
+      "hint": "worker (a person who performs physical labor for hire, especially in industry, construction, etc.)"
+    },
+    {
+      "word": "РАБОЧИХ",
+      "hint": "feminine nominative singular of рабо́чий (rabóčij)"
+    },
+    {
+      "word": "РАДОСТИ",
+      "hint": "joy, delight"
+    },
+    {
+      "word": "РАДОСТЬ",
+      "hint": "joy, delight"
+    },
+    {
+      "word": "РАДОСТЬЮ",
+      "hint": "instrumental singular of ра́дость (rádostʹ)"
+    },
+    {
+      "word": "РАЗВИТИЯ",
+      "hint": "development, growth, progress; maturity"
+    },
+    {
+      "word": "РАЗГОВАРИВАТЬ",
+      "hint": "to speak, to talk, to converse (with); to be on speaking terms (with)"
+    },
+    {
+      "word": "РАЗГОВОРА",
+      "hint": "talk, conversation; rumours, talk"
+    },
+    {
+      "word": "РАЗГОВОРЫ",
+      "hint": "talk, conversation; rumours, talk"
+    },
+    {
+      "word": "РАЗЛИЧНЫХ",
+      "hint": "different (not the same); diverse, various"
+    },
+    {
+      "word": "РАЗМЕР",
+      "hint": "size, dimension, measure, amount; meter, metre"
+    },
+    {
+      "word": "РАЗМЕРА",
+      "hint": "size, dimension, measure, amount; meter, metre"
+    },
+    {
+      "word": "РАЗОБРАТЬСЯ",
+      "hint": "to deal with, to sort out; to figure out, to work out"
+    },
+    {
+      "word": "РАЗРЕШЕНИЕ",
+      "hint": "permission, authorization, approval; solution"
+    },
+    {
+      "word": "РАЗРЕШЕНИЯ",
+      "hint": "permission, authorization, approval; solution"
+    },
+    {
+      "word": "РАЗУМ",
+      "hint": "reason, mind, intellect"
+    },
+    {
+      "word": "РАЙОН",
+      "hint": "district; region, area"
+    },
+    {
+      "word": "РАК",
+      "hint": "crawfish, crayfish; Cancer"
+    },
+    {
+      "word": "РАНЕН",
+      "hint": "short masculine singular of ра́неный (ránenyj)"
+    },
+    {
+      "word": "РАССКАЖУ",
+      "hint": "first-person singular future indicative perfective of рассказа́ть (rasskazátʹ)"
+    },
+    {
+      "word": "РАССКАЗ",
+      "hint": "story, tale, narrative; short story"
+    },
+    {
+      "word": "РАССКАЗАЛИ",
+      "hint": "plural past indicative perfective of рассказа́ть (rasskazátʹ)"
+    },
+    {
+      "word": "РАССКАЗЫВАЕТ",
+      "hint": "third-person singular present indicative imperfective of расска́зывать (rasskázyvatʹ)"
+    },
+    {
+      "word": "РАССКАЗЫВАЛ",
+      "hint": "masculine singular past indicative imperfective of расска́зывать (rasskázyvatʹ)"
+    },
+    {
+      "word": "РАССКАЗЫВАТЬ",
+      "hint": "to tell; to relate, to narrate, to recount"
+    },
+    {
+      "word": "РАССЛЕДОВАНИЯ",
+      "hint": "investigation (the act of investigating)"
+    },
+    {
+      "word": "РАССТОЯНИИ",
+      "hint": "prepositional singular of расстоя́ние (rasstojánije)"
+    },
+    {
+      "word": "РАСТЕТ",
+      "hint": "third-person singular present indicative imperfective of расти́ (rastí)"
+    },
+    {
+      "word": "РАСТИ",
+      "hint": "to grow, to increase"
+    },
+    {
+      "word": "РАСХОДЫ",
+      "hint": "expense, expenditure; charges, expenses, exps, outlay"
+    },
+    {
+      "word": "РЕАКЦИЯ",
+      "hint": "reaction; response"
+    },
+    {
+      "word": "РЕАЛЬНОСТИ",
+      "hint": "reality"
+    },
+    {
+      "word": "РЕАЛЬНОСТЬ",
+      "hint": "reality"
+    },
+    {
+      "word": "РЕБЁНКА",
+      "hint": "child, kid, baby: children, kids, babies; guys, fellows, friends, comrades"
+    },
+    {
+      "word": "РЕБЁНОК",
+      "hint": "child, kid, baby: children, kids, babies; guys, fellows, friends, comrades"
+    },
+    {
+      "word": "РЕБЕНКОМ",
+      "hint": "instrumental singular of ребёнок (rebjónok)"
+    },
+    {
+      "word": "РЕДАКТОР",
+      "hint": "editor (person who edits); editor, processor; editing program"
+    },
+    {
+      "word": "РЕДКО",
+      "hint": "rarely, seldom; sparsely"
+    },
+    {
+      "word": "РЕЖИМ",
+      "hint": "regime (mode of rule or management); routine"
+    },
+    {
+      "word": "РЕЗКО",
+      "hint": "sharply, harshly, abruptly; bluntly"
+    },
+    {
+      "word": "РЕЙС",
+      "hint": "flight (a specific journey made by an aircraft); trip, voyage"
+    },
+    {
+      "word": "РЕКИ",
+      "hint": "genitive singular of река́ (reká)"
+    },
+    {
+      "word": "РЕМОНТ",
+      "hint": "repair, overhaul; maintenance"
+    },
+    {
+      "word": "РЕСТОРАН",
+      "hint": "restaurant"
+    },
+    {
+      "word": "РЕЧИ",
+      "hint": "inflection of речь (rečʹ)"
+    },
+    {
+      "word": "РИСК",
+      "hint": "risk (possible, usually negative, outcome)"
+    },
+    {
+      "word": "РИЧАРД",
+      "hint": ""
+    },
+    {
+      "word": "РОБЕРТ",
+      "hint": ""
+    },
+    {
+      "word": "РОВНО",
+      "hint": "smoothly; evenly, regularly, uniformly"
+    },
+    {
+      "word": "РОДИЛАСЬ",
+      "hint": "feminine singular past indicative perfective of роди́ться (rodítʹsja, “to be born, to arise”)"
+    },
+    {
+      "word": "РОДИТЕЛЯМ",
+      "hint": "dative plural of роди́тель (rodítelʹ)"
+    },
+    {
+      "word": "РОДИТЕЛЯМИ",
+      "hint": "instrumental plural of роди́тель (rodítelʹ)"
+    },
+    {
+      "word": "РОДНОЙ",
+      "hint": "native, childhood, home (relating to where one was born or grew up; relating to one's homeland); biological, own, closely or directly related by blood"
+    },
+    {
+      "word": "РОК",
+      "hint": "fate, doom"
+    },
+    {
+      "word": "РОССИИ",
+      "hint": ""
+    },
+    {
+      "word": "РОСТ",
+      "hint": "growth (in a living organism); growth, increase, rise (in a quantity, price, etc.)"
+    },
+    {
+      "word": "РОСТА",
+      "hint": "growth (in a living organism); growth, increase, rise (in a quantity, price, etc.)"
+    },
+    {
+      "word": "РУКЕ",
+      "hint": "dative/prepositional singular of рука́ (ruká)"
+    },
+    {
+      "word": "РУКОВОДСТВО",
+      "hint": "guidance, instruction, direction; leadership (a group of leaders)"
+    },
+    {
+      "word": "РУКОЙ",
+      "hint": "instrumental singular of рука́ (ruká)"
+    },
+    {
+      "word": "РУССКИЕ",
+      "hint": "inflection of ру́сский (rússkij)"
+    },
+    {
+      "word": "РУССКИЙ",
+      "hint": "Russian, related to Russian ethnicity, language, or culture; Russian, related to the Russian state"
+    },
+    {
+      "word": "РЫБА",
+      "hint": "fish (as a living animal); fish (as food)"
+    },
+    {
+      "word": "РЫБЫ",
+      "hint": "inflection of ры́ба (rýba)"
+    },
+    {
+      "word": "РЫНКЕ",
+      "hint": "prepositional singular of ры́нок (rýnok)"
+    },
+    {
+      "word": "РЫНОК",
+      "hint": "marketplace, market"
+    },
+    {
+      "word": "РЯД",
+      "hint": "row, line, tier; ranks (the body or membership of an organization; the soldiers of an army)"
+    },
+    {
+      "word": "САД",
+      "hint": "garden, orchard; garden (institution that collects plants or animals)"
+    },
+    {
+      "word": "САДУ",
+      "hint": "dative/partitive singular of сад (sad)"
+    },
+    {
+      "word": "САЙТ",
+      "hint": "website, site; site"
+    },
+    {
+      "word": "САЙТЕ",
+      "hint": "prepositional singular of сайт (sajt)"
+    },
+    {
+      "word": "САМИМ",
+      "hint": "inflection of сам (sam)"
+    },
+    {
+      "word": "САМОСТОЯТЕЛЬНО",
+      "hint": "independently, solo; by oneself, without assistance, on one's own, self-sufficiently"
+    },
+    {
+      "word": "САМУЮ",
+      "hint": "accusative feminine singular of са́мый (sámyj)"
+    },
+    {
+      "word": "СВАДЬБА",
+      "hint": "wedding; participants in the wedding ceremony as a whole"
+    },
+    {
+      "word": "СВАДЬБУ",
+      "hint": "wedding; participants in the wedding ceremony as a whole"
+    },
+    {
+      "word": "СВАДЬБЫ",
+      "hint": "wedding; participants in the wedding ceremony as a whole"
+    },
+    {
+      "word": "СВЕДЕНИЯ",
+      "hint": "information, intelligence; notice, knowledge"
+    },
+    {
+      "word": "СВЕРХУ",
+      "hint": "from above, on top"
+    },
+    {
+      "word": "СВИДАНИЕ",
+      "hint": "appointment; date; visit (with a prisoner, patient, etc.)"
+    },
+    {
+      "word": "СВИДАНИЯ",
+      "hint": "appointment; date; visit (with a prisoner, patient, etc.)"
+    },
+    {
+      "word": "СВИДЕТЕЛЕЙ",
+      "hint": "eyewitness, witness (one who has a personal knowledge of something)"
+    },
+    {
+      "word": "СВОЁМ",
+      "hint": "masculine/neuter prepositional singular of свой (svoj)"
+    },
+    {
+      "word": "СВОБОДА",
+      "hint": "freedom, liberty"
+    },
+    {
+      "word": "СВОБОДЕ",
+      "hint": "dative/prepositional singular of свобо́да (svobóda)"
+    },
+    {
+      "word": "СВОБОДУ",
+      "hint": "accusative singular of свобо́да (svobóda)"
+    },
+    {
+      "word": "СВОБОДЫ",
+      "hint": "freedom, liberty"
+    },
+    {
+      "word": "СВОЯ",
+      "hint": "feminine nominative singular of свой (svoj)"
+    },
+    {
+      "word": "СВЯЗАН",
+      "hint": "short masculine singular of свя́занный (svjázannyj)"
+    },
+    {
+      "word": "СВЯЗАНА",
+      "hint": "past passive perfective participle of связа́ть (svjazátʹ)"
+    },
+    {
+      "word": "СВЯЗАНЫ",
+      "hint": "past passive perfective participle of связа́ть (svjazátʹ)"
+    },
+    {
+      "word": "СВЯТОГО",
+      "hint": "holy, sacred (dedicated to a religious purpose)"
+    },
+    {
+      "word": "СВЯТОЙ",
+      "hint": "holy, sacred (dedicated to a religious purpose)"
+    },
+    {
+      "word": "СДАТЬ",
+      "hint": "to deliver, to hand in, to hand over; to return, to turn in"
+    },
+    {
+      "word": "СДЕЛАЕМ",
+      "hint": "first-person plural future indicative perfective of сде́лать (sdélatʹ)"
+    },
+    {
+      "word": "СДЕЛАЙТЕ",
+      "hint": "second-person plural imperative perfective of сде́лать (sdélatʹ)"
+    },
+    {
+      "word": "СДЕЛАЮТ",
+      "hint": "to make, to do"
+    },
+    {
+      "word": "СДЕЛКИ",
+      "hint": "deal, bargain; transaction (the act of conducting or carrying out business, negotiations, plans, etc.)"
+    },
+    {
+      "word": "СДЕЛКУ",
+      "hint": "accusative singular of сде́лка (sdélka)"
+    },
+    {
+      "word": "СЕ",
+      "hint": "alternative spelling of сё (sjo)"
+    },
+    {
+      "word": "СЕВЕР",
+      "hint": "north; North (northern part of any region)"
+    },
+    {
+      "word": "СЕВЕРНОЙ",
+      "hint": "north, northern; northerly"
+    },
+    {
+      "word": "СЕГОДНЯШНЕГО",
+      "hint": "today's, of this day; today's, present"
+    },
+    {
+      "word": "СЕГОДНЯШНИЙ",
+      "hint": "today's, of this day; today's, present"
+    },
+    {
+      "word": "СЕЗОНА",
+      "hint": "season (quarter of a year); season (a group of episodes of a television or radio program)"
+    },
+    {
+      "word": "СЕКРЕТАРЬ",
+      "hint": "secretary"
+    },
+    {
+      "word": "СЕКРЕТЫ",
+      "hint": "secret; ambush"
+    },
+    {
+      "word": "СЕКСА",
+      "hint": "genitive singular of секс (sɛ́ks)"
+    },
+    {
+      "word": "СЕКУНДЫ",
+      "hint": "second (unit of time); A second (unit of angle)"
+    },
+    {
+      "word": "СЕЛ",
+      "hint": "masculine singular past indicative perfective of сесть (sestʹ)"
+    },
+    {
+      "word": "СЕЛА",
+      "hint": "genitive singular of село́ (seló)"
+    },
+    {
+      "word": "СЕМИ",
+      "hint": "heptahedron"
+    },
+    {
+      "word": "СЕМЬЕЙ",
+      "hint": "instrumental singular of семья́ (semʹjá)"
+    },
+    {
+      "word": "СЕНТЯБРЯ",
+      "hint": "September"
+    },
+    {
+      "word": "СЕРДЦЕМ",
+      "hint": "instrumental singular of се́рдце (sérdce)"
+    },
+    {
+      "word": "СЕРЕДИНЕ",
+      "hint": "middle (centre, midpoint)"
+    },
+    {
+      "word": "СЕРЖАНТ",
+      "hint": "sergeant"
+    },
+    {
+      "word": "СЕРИАЛ",
+      "hint": "series (television program)"
+    },
+    {
+      "word": "СЕРИАЛЕ",
+      "hint": "prepositional singular of сериа́л (seriál)"
+    },
+    {
+      "word": "СЕРИИ",
+      "hint": "series (a number of related things coming in sequence); episode"
+    },
+    {
+      "word": "СЕРЬЁЗНО",
+      "hint": "seriously, gravely, earnestly"
+    },
+    {
+      "word": "СЕСТРЫ",
+      "hint": "genitive singular of сестра́ (sestrá)"
+    },
+    {
+      "word": "СЕСТЬ",
+      "hint": "to sit down; to be imprisoned"
+    },
+    {
+      "word": "СЕТЬ",
+      "hint": "net (used for catching fish), mesh; grid"
+    },
+    {
+      "word": "СЗАДИ",
+      "hint": "behind"
+    },
+    {
+      "word": "СИ",
+      "hint": "B (musical note); ti (musical note)"
+    },
+    {
+      "word": "СИДЕЛ",
+      "hint": "masculine singular past indicative imperfective of сиде́ть (sidétʹ)"
+    },
+    {
+      "word": "СИДИТ",
+      "hint": "third-person singular present indicative imperfective of сиде́ть (sidétʹ)"
+    },
+    {
+      "word": "СИЛАХ",
+      "hint": "prepositional plural of си́ла (síla)"
+    },
+    {
+      "word": "СИЛОЙ",
+      "hint": "instrumental singular of си́ла (síla)"
+    },
+    {
+      "word": "СИЛЬНАЯ",
+      "hint": "strong, powerful; irregular"
+    },
+    {
+      "word": "СИЛЬНЫЕ",
+      "hint": "strong, powerful; irregular"
+    },
+    {
+      "word": "СИЛЬНЫЙ",
+      "hint": "strong, powerful; irregular"
+    },
+    {
+      "word": "СИЛЬНЫМ",
+      "hint": "strong, powerful; irregular"
+    },
+    {
+      "word": "СИТИ",
+      "hint": "city; city, downtown (business part of a city)"
+    },
+    {
+      "word": "СКАЖЕШЬ",
+      "hint": "second-person singular future indicative perfective of сказа́ть (skazátʹ)"
+    },
+    {
+      "word": "СКВОЗЬ",
+      "hint": "through"
+    },
+    {
+      "word": "СКОРОСТИ",
+      "hint": "speed; rate"
+    },
+    {
+      "word": "СКОТТ",
+      "hint": "member of the Scoti tribe"
+    },
+    {
+      "word": "СКУЧАЮ",
+      "hint": "to be bored; to long for, to miss [with по (po, + dative) or о (o, + prepositional) ‘someone/something’]"
+    },
+    {
+      "word": "СКУЧНО",
+      "hint": "tediously, boringly (in a tedious manner)"
+    },
+    {
+      "word": "СЛЕВА",
+      "hint": "on the left; from the left"
+    },
+    {
+      "word": "СЛЕД",
+      "hint": "track, trail; footprint, print"
+    },
+    {
+      "word": "СЛЕДИТЬ",
+      "hint": "to watch, to follow, to spy; to look after (e.g. health)"
+    },
+    {
+      "word": "СЛЕДОВАЛО",
+      "hint": "neuter singular past indicative imperfective of сле́довать (slédovatʹ)"
+    },
+    {
+      "word": "СЛЕДУЮЩЕГО",
+      "hint": "present active imperfective participle of сле́довать (slédovatʹ)"
+    },
+    {
+      "word": "СЛЕДУЮЩЕЕ",
+      "hint": "the following"
+    },
+    {
+      "word": "СЛЕДУЮЩЕМ",
+      "hint": "prepositional singular of сле́дующее (slédujuščeje)"
+    },
+    {
+      "word": "СЛЕДУЮЩИЕ",
+      "hint": "the following"
+    },
+    {
+      "word": "СЛЕДУЮЩИМ",
+      "hint": "present active imperfective participle of сле́довать (slédovatʹ)"
+    },
+    {
+      "word": "СЛЕДЫ",
+      "hint": "nominative/accusative plural of след (sled)"
+    },
+    {
+      "word": "СЛОВОМ",
+      "hint": "instrumental singular of сло́во (slóvo)"
+    },
+    {
+      "word": "СЛОЖНЕЕ",
+      "hint": "comparative degree of сло́жный (slóžnyj); comparative degree of сло́жно (slóžno)"
+    },
+    {
+      "word": "СЛУЖБА",
+      "hint": "service; employment, job"
+    },
+    {
+      "word": "СЛУЖБЕ",
+      "hint": "service; employment, job"
+    },
+    {
+      "word": "СЛУЖБУ",
+      "hint": "service; employment, job"
+    },
+    {
+      "word": "СЛУЖИТЬ",
+      "hint": "to serve [with dative ‘someone/something’]; to serve, to act, to work (as), to be"
+    },
+    {
+      "word": "СЛУХИ",
+      "hint": "gossip (idle talk), rumors; talk, buzz"
+    },
+    {
+      "word": "СЛУЧАЕВ",
+      "hint": "genitive plural of слу́чай (slúčaj)"
+    },
+    {
+      "word": "СЛУЧАЕТСЯ",
+      "hint": "to happen, to occur, to come about [with с (s, + instrumental) ‘to someone’]"
+    },
+    {
+      "word": "СЛУЧАЯ",
+      "hint": "case; occurrence, event"
+    },
+    {
+      "word": "СЛУЧАЯХ",
+      "hint": "prepositional plural of слу́чай (slúčaj)"
+    },
+    {
+      "word": "СЛУЧИТСЯ",
+      "hint": "third-person singular future indicative perfective of случи́ться (slučítʹsja)"
+    },
+    {
+      "word": "СЛУШАЙ",
+      "hint": "to listen, to listen to (someone/something); to attend"
+    },
+    {
+      "word": "СЛУШАЮ",
+      "hint": "at your service, milord; at your service, milady"
+    },
+    {
+      "word": "СЛЫШАЛА",
+      "hint": "feminine singular past indicative imperfective of слы́шать (slýšatʹ)"
+    },
+    {
+      "word": "СЛЫШАЛИ",
+      "hint": "plural past indicative imperfective of слы́шать (slýšatʹ)"
+    },
+    {
+      "word": "СЛЫШАТЬ",
+      "hint": "to hear; to smell, to feel (a smell)"
+    },
+    {
+      "word": "СЛЫШИШЬ",
+      "hint": "syncopic form of слы́шишь (slýšišʹ)"
+    },
+    {
+      "word": "СЛЫШНО",
+      "hint": "audibly"
+    },
+    {
+      "word": "СЛЫШУ",
+      "hint": "to hear; to smell, to feel (a smell)"
+    },
+    {
+      "word": "СМЕРТЬЮ",
+      "hint": "instrumental singular of смерть (smertʹ)"
+    },
+    {
+      "word": "СМЕХ",
+      "hint": "laugh, laughter"
+    },
+    {
+      "word": "СМИ",
+      "hint": "acronym of сре́дства ма́ссовой информа́ции (srédstva mássovoj informácii): mass media"
+    },
+    {
+      "word": "СМОЖЕМ",
+      "hint": "first-person plural future indicative perfective of смочь (smočʹ)"
+    },
+    {
+      "word": "СМОТРЕЛА",
+      "hint": "feminine singular past indicative imperfective of смотре́ть (smotrétʹ)"
+    },
+    {
+      "word": "СМОТРЕЛИ",
+      "hint": "plural past indicative imperfective of смотре́ть (smotrétʹ)"
+    },
+    {
+      "word": "СМОТРИТ",
+      "hint": "third-person singular present indicative imperfective of смотре́ть (smotrétʹ)"
+    },
+    {
+      "word": "СМОТРИШЬ",
+      "hint": "Pre-1918 spelling of смотре́ть (smotrétʹ)."
+    },
+    {
+      "word": "СМОТРЯТ",
+      "hint": "third-person plural present indicative imperfective of смотре́ть (smotrétʹ)"
+    },
+    {
+      "word": "СНАРУЖИ",
+      "hint": "on the outside, from the outside, outwardly"
+    },
+    {
+      "word": "СНЕ",
+      "hint": "prepositional singular of сон (son)"
+    },
+    {
+      "word": "СНЕГ",
+      "hint": "snow; snow, the white electrical noise on a TV set when there is no TV signal"
+    },
+    {
+      "word": "СНИМАТЬ",
+      "hint": "to take off, to take away, to take down; to take, to make"
+    },
+    {
+      "word": "СНЯЛ",
+      "hint": "masculine singular past indicative perfective of снять (snjatʹ)"
+    },
+    {
+      "word": "СОБАК",
+      "hint": "dog; hound"
+    },
+    {
+      "word": "СОБАКИ",
+      "hint": "dog; hound"
+    },
+    {
+      "word": "СОБАКУ",
+      "hint": "dog; hound"
+    },
+    {
+      "word": "СОБИРАЛИСЬ",
+      "hint": "plural past indicative imperfective of собира́ться (sobirátʹsja)"
+    },
+    {
+      "word": "СОБИРАЛСЯ",
+      "hint": "masculine singular past indicative imperfective of собира́ться (sobirátʹsja)"
+    },
+    {
+      "word": "СОБИРАЮТСЯ",
+      "hint": "to gather, to assemble; to be going (somewhere), to be heading (off) (somewhere)"
+    },
+    {
+      "word": "СОБРАЛ",
+      "hint": "masculine singular past indicative perfective of собра́ть (sobrátʹ)"
+    },
+    {
+      "word": "СОБРАЛИСЬ",
+      "hint": "plural past indicative perfective of собра́ться (sobrátʹsja)"
+    },
+    {
+      "word": "СОБРАНИЕ",
+      "hint": "meeting, gathering; assembly"
+    },
+    {
+      "word": "СОБРАТЬ",
+      "hint": "to gather, to collect; to assemble"
+    },
+    {
+      "word": "СОБСТВЕННО",
+      "hint": "as a matter of fact, in fact"
+    },
+    {
+      "word": "СОБСТВЕННОГО",
+      "hint": "one's own, peculiar, proper; eigen"
+    },
+    {
+      "word": "СОБСТВЕННОСТЬ",
+      "hint": "property; ownership"
+    },
+    {
+      "word": "СОБСТВЕННУЮ",
+      "hint": "one's own, peculiar, proper; eigen"
+    },
+    {
+      "word": "СОБСТВЕННЫЕ",
+      "hint": "one's own, peculiar, proper; eigen"
+    },
+    {
+      "word": "СОБСТВЕННЫЙ",
+      "hint": "one's own, peculiar, proper; eigen"
+    },
+    {
+      "word": "СОБСТВЕННЫХ",
+      "hint": "one's own, peculiar, proper; eigen"
+    },
+    {
+      "word": "СОБЫТИЕ",
+      "hint": "event, occurrence, incident"
+    },
+    {
+      "word": "СОВЕРШИЛ",
+      "hint": "masculine singular past indicative perfective of соверши́ть (soveršítʹ)"
+    },
+    {
+      "word": "СОГЛАСИЛСЯ",
+      "hint": "masculine singular past indicative perfective of согласи́ться (soglasítʹsja)"
+    },
+    {
+      "word": "СОГЛАСНА",
+      "hint": "short feminine singular of согла́сный (soglásnyj)"
+    },
+    {
+      "word": "СОГЛАСНЫ",
+      "hint": "short plural of согла́сный (soglásnyj)"
+    },
+    {
+      "word": "СОГЛАШЕНИЕ",
+      "hint": "agreement, understanding, consent; agreement, contract (legally binding contract enforceable in a court of law)"
+    },
+    {
+      "word": "СОЗДАЛ",
+      "hint": "masculine singular past indicative perfective of созда́ть (sozdátʹ)"
+    },
+    {
+      "word": "СОЗДАЛИ",
+      "hint": "plural past indicative perfective of созда́ть (sozdátʹ)"
+    },
+    {
+      "word": "СОЗДАНИЕ",
+      "hint": "creation (act of creation); creature"
+    },
+    {
+      "word": "СОЗДАНИЯ",
+      "hint": "creation (act of creation); creature"
+    },
+    {
+      "word": "СОЗНАНИЕ",
+      "hint": "consciousness (awareness); realization, perception, awareness"
+    },
+    {
+      "word": "СОЗНАНИЯ",
+      "hint": "consciousness (awareness); realization, perception, awareness"
+    },
+    {
+      "word": "СОК",
+      "hint": "juice; sap"
+    },
+    {
+      "word": "СОЛДАТЫ",
+      "hint": "nominative plural of солда́т (soldát)"
+    },
+    {
+      "word": "СОЛНЦА",
+      "hint": "sun"
+    },
+    {
+      "word": "СОЛЬ",
+      "hint": "salt; point"
+    },
+    {
+      "word": "СОМНЕНИЯ",
+      "hint": "doubt; question"
+    },
+    {
+      "word": "СООБЩИЛ",
+      "hint": "masculine singular past indicative perfective of сообщи́ть (soobščítʹ)"
+    },
+    {
+      "word": "СООБЩИЛИ",
+      "hint": "plural past indicative perfective of сообщи́ть (soobščítʹ)"
+    },
+    {
+      "word": "СООБЩИТЬ",
+      "hint": "to communicate, to report, to let know; to impart"
+    },
+    {
+      "word": "СООТВЕТСТВИИ",
+      "hint": "prepositional singular of соотве́тствие (sootvétstvije)"
+    },
+    {
+      "word": "СОРОК",
+      "hint": "forty (40)"
+    },
+    {
+      "word": "СОСТАВ",
+      "hint": "composition, structure, membership, staff, body; composition, solution, mixture"
+    },
+    {
+      "word": "СОСТОИТ",
+      "hint": "third-person singular present indicative imperfective of состоя́ть (sostojátʹ)"
+    },
+    {
+      "word": "СОСТОИТСЯ",
+      "hint": "third-person singular future indicative perfective of состоя́ться (sostojátʹsja)"
+    },
+    {
+      "word": "СОСТОЯНИЯ",
+      "hint": "state, status, condition; fortune, capital, bankroll"
+    },
+    {
+      "word": "СОТРУДНИКОВ",
+      "hint": "collaborator, colleague, assistant; employee, associate"
+    },
+    {
+      "word": "СОЮЗ",
+      "hint": "union; alliance"
+    },
+    {
+      "word": "СПАЛ",
+      "hint": "masculine singular past indicative imperfective of спать (spatʹ); masculine singular past indicative perfective of спасть (spastʹ)"
+    },
+    {
+      "word": "СПАС",
+      "hint": "rescue, salvation"
+    },
+    {
+      "word": "СПЕРВА",
+      "hint": "first, firstly; at first, originally"
+    },
+    {
+      "word": "СПЕЦИАЛЬНЫЙ",
+      "hint": "special, custom"
+    },
+    {
+      "word": "СПИНОЙ",
+      "hint": "instrumental singular of спина́ (spiná)"
+    },
+    {
+      "word": "СПИНУ",
+      "hint": "back, the rear of the torso; the back of a piece of furniture etc."
+    },
+    {
+      "word": "СПИСКЕ",
+      "hint": "prepositional singular of спи́сок (spísok)"
+    },
+    {
+      "word": "СПИТ",
+      "hint": "third-person singular present indicative imperfective of спать (spatʹ)"
+    },
+    {
+      "word": "СПОРТ",
+      "hint": "sport (any athletic activity that uses physical skills)"
+    },
+    {
+      "word": "СПОСОБНА",
+      "hint": "short feminine singular of спосо́бный (sposóbnyj)"
+    },
+    {
+      "word": "СПОСОБНОСТИ",
+      "hint": "ability, capability (the quality or state of being able); faculty"
+    },
+    {
+      "word": "СПОСОБНОСТЬ",
+      "hint": "ability, capability (the quality or state of being able); faculty"
+    },
+    {
+      "word": "СПОСОБНЫ",
+      "hint": "short plural of спосо́бный (sposóbnyj)"
+    },
+    {
+      "word": "СПОСОБОМ",
+      "hint": "instrumental singular of спо́соб (spósob)"
+    },
+    {
+      "word": "СПРАВА",
+      "hint": "on the right, to the right; from the right"
+    },
+    {
+      "word": "СПРАВИТЬСЯ",
+      "hint": "to cope (with), to deal (with), to handle, to manage, to overcome; to enquire/inquire (after, about), to ask (about), to look up, to consult"
+    },
+    {
+      "word": "СПРАШИВАЕТ",
+      "hint": "third-person singular present indicative imperfective of спра́шивать (sprášivatʹ)"
+    },
+    {
+      "word": "СПРОСИЛА",
+      "hint": "feminine singular past indicative perfective of спроси́ть (sprosítʹ)"
+    },
+    {
+      "word": "СРАВНЕНИЮ",
+      "hint": "comparison; simile"
+    },
+    {
+      "word": "СРЕДНЕГО",
+      "hint": "average, mean, average value, mean value"
+    },
+    {
+      "word": "СРЕДНЕЙ",
+      "hint": "middle; medium"
+    },
+    {
+      "word": "СРЕДСТВ",
+      "hint": "genitive plural of сре́дство (srédstvo)"
+    },
+    {
+      "word": "СРЕДСТВО",
+      "hint": "means, facility; tool, instrument, equipment"
+    },
+    {
+      "word": "СРЕДУ",
+      "hint": "accusative singular of среда́ (sredá); Wednesday"
+    },
+    {
+      "word": "СТАВИТЬ",
+      "hint": "to put, to place, to set, to stand, to station; to apply, to put on"
+    },
+    {
+      "word": "СТАВКИ",
+      "hint": "bet, wager; rate, wage, salary"
+    },
+    {
+      "word": "СТАНОВЯТСЯ",
+      "hint": "to stand, to take a stand; to get, to become, to grow"
+    },
+    {
+      "word": "СТАНУ",
+      "hint": "figure, stature, torso; camp, campground"
+    },
+    {
+      "word": "СТАНУТ",
+      "hint": "third-person plural future indicative perfective of стать (statʹ)"
+    },
+    {
+      "word": "СТАРАЮСЬ",
+      "hint": "first-person singular present indicative imperfective of стара́ться (starátʹsja)"
+    },
+    {
+      "word": "СТАРАЯ",
+      "hint": ""
+    },
+    {
+      "word": "СТАРИК",
+      "hint": "old man; old-timer, that man who has worked or served somewhere more than his younger colleagues"
+    },
+    {
+      "word": "СТАРОГО",
+      "hint": "genitive singular of ста́рое (stároje)"
+    },
+    {
+      "word": "СТАРОЙ",
+      "hint": "short plural of ста́рый (stáryj, “old”)"
+    },
+    {
+      "word": "СТАРШЕ",
+      "hint": "comparative degree of ста́рый (stáryj); comparative degree of ста́рший (stáršij)"
+    },
+    {
+      "word": "СТАРЫХ",
+      "hint": "short plural of ста́рый (stáryj, “old”)"
+    },
+    {
+      "word": "СТАТЬИ",
+      "hint": "article; item, entry"
+    },
+    {
+      "word": "СТАТЬЮ",
+      "hint": "instrumental singular of стать (statʹ)"
+    },
+    {
+      "word": "СТАТЬЯ",
+      "hint": "article; item, entry"
+    },
+    {
+      "word": "СТЕНЕ",
+      "hint": "sthène (unit of measure)"
+    },
+    {
+      "word": "СТЕНУ",
+      "hint": "sthène (unit of measure)"
+    },
+    {
+      "word": "СТЕНЫ",
+      "hint": "sthène (unit of measure)"
+    },
+    {
+      "word": "СТЕПЕНЬ",
+      "hint": "degree, extent; power"
+    },
+    {
+      "word": "СТИВ",
+      "hint": "STEVE, an atmospheric phenomenon similar to an aurora"
+    },
+    {
+      "word": "СТИВЕН",
+      "hint": "STEVE, an atmospheric phenomenon similar to an aurora"
+    },
+    {
+      "word": "СТИЛЕ",
+      "hint": "prepositional singular of стиль (stilʹ)"
+    },
+    {
+      "word": "СТИЛЬ",
+      "hint": "style; fashion"
+    },
+    {
+      "word": "СТИХИ",
+      "hint": "poem"
+    },
+    {
+      "word": "СТОИЛО",
+      "hint": "neuter singular past indicative imperfective of сто́ить (stóitʹ)"
+    },
+    {
+      "word": "СТОЛА",
+      "hint": "Pre-1918 spelling of стол (stol)."
+    },
+    {
+      "word": "СТОЛЕ",
+      "hint": "prepositional singular of стол (stol)"
+    },
+    {
+      "word": "СТОЛОМ",
+      "hint": "instrumental singular of стол (stol)"
+    },
+    {
+      "word": "СТОП",
+      "hint": "stop!; that'll do, enough"
+    },
+    {
+      "word": "СТОРОН",
+      "hint": "female equivalent of сторо́нник (storónnik): female supporter, champion, advocate, proponent, adherent"
+    },
+    {
+      "word": "СТОРОНА",
+      "hint": "side, hand, party; direction, quarter"
+    },
+    {
+      "word": "СТОЯЛ",
+      "hint": "masculine singular past indicative imperfective of стоя́ть (stojátʹ)"
+    },
+    {
+      "word": "СТОЯТ",
+      "hint": "third-person plural present indicative imperfective of сто́ить (stóitʹ)"
+    },
+    {
+      "word": "СТОЯТЬ",
+      "hint": "to stand; to be situated (usually about a towering or potentially towering object)"
+    },
+    {
+      "word": "СТРАННОЕ",
+      "hint": "strange, odd, weird"
+    },
+    {
+      "word": "СТРАННЫЙ",
+      "hint": "strange, odd, weird"
+    },
+    {
+      "word": "СТРАХА",
+      "hint": "fear; risk, peril"
+    },
+    {
+      "word": "СТРАШНОГО",
+      "hint": "terrible, scary [with instrumental or в (v, + prepositional) ‘in (e.g. one's rage)’] (literally or as an intensifier); ugly"
+    },
+    {
+      "word": "СТРЕЛЯТЬ",
+      "hint": "to shoot, to fire; to shoot feel acute pains"
+    },
+    {
+      "word": "СТРОИТЬ",
+      "hint": "to build, to construct; to make, to construct"
+    },
+    {
+      "word": "СТУДЕНТОВ",
+      "hint": "genitive/accusative plural of студе́нт (studént)"
+    },
+    {
+      "word": "СТУДИИ",
+      "hint": "studio (artist's or photographer's workshop); studio (television or radio studio)"
+    },
+    {
+      "word": "СТЫДНО",
+      "hint": "one is ashamed (feeling shame or guilt)"
+    },
+    {
+      "word": "СУ",
+      "hint": "com-, con- (forms nouns denoting a connection or link)"
+    },
+    {
+      "word": "СУББОТУ",
+      "hint": "accusative singular of суббо́та (subbóta)"
+    },
+    {
+      "word": "СУДИТЬ",
+      "hint": "to judge, to try, to adjudicate; to judge (to form an opinion on)"
+    },
+    {
+      "word": "СУДНО",
+      "hint": "ship, vessel"
+    },
+    {
+      "word": "СУДЬБУ",
+      "hint": "destiny, fate, doom, fortune, predestination"
+    },
+    {
+      "word": "СУДЬБЫ",
+      "hint": "destiny, fate, doom, fortune, predestination"
+    },
+    {
+      "word": "СУКА",
+      "hint": "bitch (female dog); bitch (contemptible person, usually but not necessarily female)"
+    },
+    {
+      "word": "СУММУ",
+      "hint": "sum (quantity obtained by addition or aggregation)"
+    },
+    {
+      "word": "СУПЕР",
+      "hint": "great! super! cool!"
+    },
+    {
+      "word": "СУТИ",
+      "hint": "inflection of суть (sutʹ)"
+    },
+    {
+      "word": "СУТКИ",
+      "hint": "24 hours (of the clock), day, day and night, nychthemeron"
+    },
+    {
+      "word": "СУЩЕСТВО",
+      "hint": "creature, being; essence"
+    },
+    {
+      "word": "СУЩЕСТВУЮТ",
+      "hint": "third-person plural present indicative imperfective of существова́ть (suščestvovátʹ)"
+    },
+    {
+      "word": "СХОДИТЬ",
+      "hint": "to go down, to come down, to descend, to get off; to come off, to disappear"
+    },
+    {
+      "word": "СЦЕНАРИЙ",
+      "hint": "scenario (outline or model of an expected or supposed sequence of events); script (text of the dialogue and action for a drama)"
+    },
+    {
+      "word": "СЦЕНЕ",
+      "hint": "stage, scene"
+    },
+    {
+      "word": "СЦЕНУ",
+      "hint": "stage, scene"
+    },
+    {
+      "word": "СЦЕНЫ",
+      "hint": "stage, scene"
+    },
+    {
+      "word": "СЧЁТ",
+      "hint": "count (the result of a tally that reveals the number of items in a set), counting, reckoning, calculation; invoice, bill"
+    },
+    {
+      "word": "СЧАСТЛИВА",
+      "hint": "short feminine singular of счастли́вый (sčastlívyj)"
+    },
+    {
+      "word": "СЧАСТЛИВОЙ",
+      "hint": "happy; lucky"
+    },
+    {
+      "word": "СЧАСТЛИВЫ",
+      "hint": "short plural of счастли́вый (sčastlívyj)"
+    },
+    {
+      "word": "СЧАСТЬЮ",
+      "hint": "happiness, good luck; luck, fortune"
+    },
+    {
+      "word": "СЧАСТЬЯ",
+      "hint": "happiness, good luck; luck, fortune"
+    },
+    {
+      "word": "СЧЕТА",
+      "hint": "nominative/accusative plural of счёт (sčot)"
+    },
+    {
+      "word": "СЧИТАЕТЕ",
+      "hint": "second-person plural present indicative imperfective of счита́ть (sčitátʹ, “to count”)"
+    },
+    {
+      "word": "СЧИТАЕТСЯ",
+      "hint": "third-person singular present indicative imperfective of счита́ться (sčitátʹsja)"
+    },
+    {
+      "word": "СЧИТАЛ",
+      "hint": "masculine singular past indicative imperfective of счита́ть (sčitátʹ, “to count, calculate, consider”)"
+    },
+    {
+      "word": "СЫГРАТЬ",
+      "hint": "to play; to act, to perform"
+    },
+    {
+      "word": "СЫНОМ",
+      "hint": "instrumental singular of сын (syn)"
+    },
+    {
+      "word": "СЫНУ",
+      "hint": "dative singular of сын (syn)"
+    },
+    {
+      "word": "СЭР",
+      "hint": "sir (address to a man in an English context, e.g. in translations from English)"
+    },
+    {
+      "word": "СЮРПРИЗ",
+      "hint": "surprise (something unexpected)"
+    },
+    {
+      "word": "ТАБЛЕТКИ",
+      "hint": "pill, tablet (small object for swallowing); coin cell"
+    },
+    {
+      "word": "ТАКИ",
+      "hint": "still, after all, in spite of (everything)"
+    },
+    {
+      "word": "ТАКОМУ",
+      "hint": "masculine/neuter dative singular of тако́й (takój)"
+    },
+    {
+      "word": "ТАЛАНТ",
+      "hint": "talent, gift; man or woman of talent, gifted person, talent"
+    },
+    {
+      "word": "ТАНЕЦ",
+      "hint": "dance (movements to music)"
+    },
+    {
+      "word": "ТАНЦЕВАТЬ",
+      "hint": "to dance (move rhythmically to music)"
+    },
+    {
+      "word": "ТВ",
+      "hint": "TV, television"
+    },
+    {
+      "word": "ТВОЁ",
+      "hint": "neuter nominative/accusative singular of твой (tvoj)"
+    },
+    {
+      "word": "ТВОИМ",
+      "hint": "inflection of твой (tvoj)"
+    },
+    {
+      "word": "ТЕАТР",
+      "hint": "theatre/theater"
+    },
+    {
+      "word": "ТЕКСТ",
+      "hint": "text, wording; lyrics"
+    },
+    {
+      "word": "ТЕЛЕ",
+      "hint": "prepositional singular of те́ло (télo)"
+    },
+    {
+      "word": "ТЕЛЕВИЗОР",
+      "hint": "television set"
+    },
+    {
+      "word": "ТЕЛЕФОНА",
+      "hint": "genitive singular of телефо́н (telefón)"
+    },
+    {
+      "word": "ТЕМА",
+      "hint": "theme, subject, topic; thing"
+    },
+    {
+      "word": "ТЕМИ",
+      "hint": "instrumental plural of тот (tot)"
+    },
+    {
+      "word": "ТЕМПЕРАТУРА",
+      "hint": "temperature; fever (about disease)"
+    },
+    {
+      "word": "ТЕМЫ",
+      "hint": "inflection of те́ма (téma)"
+    },
+    {
+      "word": "ТЕНИ",
+      "hint": "inflection of тень (tenʹ)"
+    },
+    {
+      "word": "ТЕНЬ",
+      "hint": "shade; shadow"
+    },
+    {
+      "word": "ТЕОРИИ",
+      "hint": "theory"
+    },
+    {
+      "word": "ТЕОРИЯ",
+      "hint": "theory"
+    },
+    {
+      "word": "ТЕПЛО",
+      "hint": "heat (physics: thermal energy); warmth"
+    },
+    {
+      "word": "ТЕРПЕТЬ",
+      "hint": "to endure, to suffer, to tolerate, to stand; to undergo (a change, especially a negative one)"
+    },
+    {
+      "word": "ТЕРРИТОРИЮ",
+      "hint": "accusative singular of террито́рия (territórija)"
+    },
+    {
+      "word": "ТЕРЯТЬ",
+      "hint": "to lose, to waste; to shed"
+    },
+    {
+      "word": "ТЕСТ",
+      "hint": "test (challenge, trial, exam, etc.)"
+    },
+    {
+      "word": "ТЕХНОЛОГИИ",
+      "hint": "technology"
+    },
+    {
+      "word": "ТИ",
+      "hint": "T, t (Latin letter)"
+    },
+    {
+      "word": "ТОВАР",
+      "hint": "commodity, product, article; goods, wares"
+    },
+    {
+      "word": "ТОВАРИЩ",
+      "hint": "comrade, friend (male or female); mate, companion, pal (male or female)"
+    },
+    {
+      "word": "ТОМА",
+      "hint": "genitive singular of том (tom)"
+    },
+    {
+      "word": "ТОМАС",
+      "hint": ""
+    },
+    {
+      "word": "ТОНИ",
+      "hint": "second-person singular imperative imperfective of тону́ть (tonútʹ)"
+    },
+    {
+      "word": "ТОЧКА",
+      "hint": "period, dot, full stop; point"
+    },
+    {
+      "word": "ТОЧКУ",
+      "hint": "accusative singular of то́чка (tóčka)"
+    },
+    {
+      "word": "ТОЧНЕЕ",
+      "hint": "comparative degree of то́чный (tóčnyj); comparative degree of то́чно (tóčno)"
+    },
+    {
+      "word": "ТРЁХ",
+      "hint": "tri-, triple (three)"
+    },
+    {
+      "word": "ТРАТИТЬ",
+      "hint": "to spend, to expend; to waste"
+    },
+    {
+      "word": "ТРЕБУЕТСЯ",
+      "hint": "to need, to require; to take (time, effort, money, etc. for something)"
+    },
+    {
+      "word": "ТРЕТЬЕГО",
+      "hint": "genitive singular of тре́тье (trétʹje)"
+    },
+    {
+      "word": "ТРЕТЬЕЙ",
+      "hint": "third (fraction)"
+    },
+    {
+      "word": "ТРЕТЬЯ",
+      "hint": "third (fraction)"
+    },
+    {
+      "word": "ТРИДЦАТЬ",
+      "hint": "thirty (30)"
+    },
+    {
+      "word": "ТРУБКУ",
+      "hint": "tube, small pipe; roll, scroll"
+    },
+    {
+      "word": "ТРУДА",
+      "hint": "work, labor/labour; effort, pains"
+    },
+    {
+      "word": "ТРУДОМ",
+      "hint": "instrumental singular of труд (trud)"
+    },
+    {
+      "word": "ТРУП",
+      "hint": "corpse, dead body"
+    },
+    {
+      "word": "ТУАЛЕТ",
+      "hint": "toilet, WC, restroom, lavatory; dress, attire"
+    },
+    {
+      "word": "ТУР",
+      "hint": "round; tour"
+    },
+    {
+      "word": "ТЩАТЕЛЬНО",
+      "hint": "carefully, thoroughly"
+    },
+    {
+      "word": "ТЫСЯЧУ",
+      "hint": "accusative singular of ты́сяча (týsjača)"
+    },
+    {
+      "word": "ТЮРЬМЕ",
+      "hint": "prison, jail"
+    },
+    {
+      "word": "ТЮРЬМУ",
+      "hint": "prison, jail"
+    },
+    {
+      "word": "ТЮРЬМЫ",
+      "hint": "prison, jail"
+    },
+    {
+      "word": "УБЕДИТЬ",
+      "hint": "to convince; to persuade, to prevail"
+    },
+    {
+      "word": "УБЕДИТЬСЯ",
+      "hint": "to be convinced, to receive evidence; to make sure, to make certain"
+    },
+    {
+      "word": "УБИВАЕТ",
+      "hint": "third-person singular present indicative imperfective of убива́ть (ubivátʹ)"
+    },
+    {
+      "word": "УБИВАТЬ",
+      "hint": "to kill; to murder"
+    },
+    {
+      "word": "УБИЙЦА",
+      "hint": "murderer; assassin"
+    },
+    {
+      "word": "УБИЙЦЫ",
+      "hint": "murderer; assassin"
+    },
+    {
+      "word": "УБИЛИ",
+      "hint": "plural past indicative perfective of уби́ть (ubítʹ)"
+    },
+    {
+      "word": "УБИТ",
+      "hint": "short masculine singular of уби́тый (ubítyj)"
+    },
+    {
+      "word": "УБРАТЬ",
+      "hint": "to remove, to take away; to strike (nautical)"
+    },
+    {
+      "word": "УВЕЛИЧИТЬ",
+      "hint": "to increase, to enlarge, to enhance; to magnify"
+    },
+    {
+      "word": "УВИДЕЛИ",
+      "hint": "plural past indicative perfective of уви́деть (uvídetʹ)"
+    },
+    {
+      "word": "УВИДИШЬ",
+      "hint": "second-person singular future indicative perfective of уви́деть (uvídetʹ)"
+    },
+    {
+      "word": "УГЛУ",
+      "hint": "dative/locative singular of у́гол (úgol)"
+    },
+    {
+      "word": "УГОЛ",
+      "hint": "corner; angle"
+    },
+    {
+      "word": "УГРОЗА",
+      "hint": "threat (expression of intent to injure or punish another); danger"
+    },
+    {
+      "word": "УДАРИЛ",
+      "hint": "masculine singular past indicative perfective of уда́рить (udáritʹ)"
+    },
+    {
+      "word": "УДАСТСЯ",
+      "hint": "third-person singular future indicative perfective of уда́ться (udátʹsja)"
+    },
+    {
+      "word": "УДИВИТЕЛЬНО",
+      "hint": "extremely; astonishingly, surprisingly"
+    },
+    {
+      "word": "УДОБНО",
+      "hint": "comfortably, snugly; conveniently"
+    },
+    {
+      "word": "УДОВОЛЬСТВИЕ",
+      "hint": "satisfaction; pleasure"
+    },
+    {
+      "word": "УЕХАЛ",
+      "hint": "masculine singular past indicative perfective of уе́хать (ujéxatʹ)"
+    },
+    {
+      "word": "УЕХАТЬ",
+      "hint": "to go away, to drive off, to leave, to depart (by conveyance)"
+    },
+    {
+      "word": "УЖАС",
+      "hint": "horror, terror; disaster, mess"
+    },
+    {
+      "word": "УЗНАЕТ",
+      "hint": "third-person singular future indicative perfective of узна́ть (uznátʹ)"
+    },
+    {
+      "word": "УЗНАЛА",
+      "hint": "feminine singular past indicative perfective of узна́ть (uznátʹ)"
+    },
+    {
+      "word": "УЗНАЛИ",
+      "hint": "plural past indicative perfective of узна́ть (uznátʹ)"
+    },
+    {
+      "word": "УИЛЬЯМ",
+      "hint": ""
+    },
+    {
+      "word": "УКАЗЫВАЕТ",
+      "hint": "third-person singular present indicative imperfective of ука́зывать (ukázyvatʹ)"
+    },
+    {
+      "word": "УЛИЦА",
+      "hint": "street"
+    },
+    {
+      "word": "УЛИЦАХ",
+      "hint": "prepositional plural of у́лица (úlica)"
+    },
+    {
+      "word": "УЛИЦУ",
+      "hint": "street"
+    },
+    {
+      "word": "УМ",
+      "hint": "mind; intellect"
+    },
+    {
+      "word": "УМЕЕТ",
+      "hint": "third-person singular present indicative imperfective of уме́ть (umétʹ)"
+    },
+    {
+      "word": "УМЕЮ",
+      "hint": "first-person singular present indicative imperfective of уме́ть (umétʹ)"
+    },
+    {
+      "word": "УМИРАЕТ",
+      "hint": "to die of natural causes; to disappear, to cease"
+    },
+    {
+      "word": "УМНЫЙ",
+      "hint": "clever, smart, intelligent"
+    },
+    {
+      "word": "УМРУ",
+      "hint": "first-person singular future indicative perfective of умере́ть (umerétʹ, “to die”)"
+    },
+    {
+      "word": "УНИВЕРСИТЕТ",
+      "hint": "university"
+    },
+    {
+      "word": "УНИВЕРСИТЕТА",
+      "hint": "Pre-1918 spelling of университе́т (universitét)."
+    },
+    {
+      "word": "УНИВЕРСИТЕТЕ",
+      "hint": "prepositional singular of университе́т (universitét)"
+    },
+    {
+      "word": "УНИЧТОЖИТЬ",
+      "hint": "to destroy, to annihilate, to obliterate, to wipe out, to blot out, to crush; to abolish, to do away with"
+    },
+    {
+      "word": "УПАЛА",
+      "hint": "feminine singular past indicative perfective of упа́сть (upástʹ)"
+    },
+    {
+      "word": "УПРАВЛЯТЬ",
+      "hint": "to govern, to rule [with instrumental ‘someone/something’]; to control, to manage [with instrumental ‘someone/something’]"
+    },
+    {
+      "word": "УРА",
+      "hint": "hoorah, hooray (elated expression of approval, especially as a battle cry); yay (expression of happiness)"
+    },
+    {
+      "word": "УРОК",
+      "hint": "lesson; task"
+    },
+    {
+      "word": "УРОКИ",
+      "hint": "lesson; task"
+    },
+    {
+      "word": "УСИЛИЯ",
+      "hint": "effort, exertion, endeavour"
+    },
+    {
+      "word": "УСЛОВИЯХ",
+      "hint": "prepositional plural of усло́вие (uslóvije)"
+    },
+    {
+      "word": "УСЛУГИ",
+      "hint": "service, favour/favor, good turn; plural services, attendance"
+    },
+    {
+      "word": "УСЛЫШАЛ",
+      "hint": "masculine singular past indicative perfective of услы́шать (uslýšatʹ)"
+    },
+    {
+      "word": "УСЛЫШАТЬ",
+      "hint": "to hear; to smell, to feel"
+    },
+    {
+      "word": "УСПЕЛ",
+      "hint": "masculine singular past indicative perfective of успе́ть (uspétʹ)"
+    },
+    {
+      "word": "УСПЕХ",
+      "hint": "success, progress"
+    },
+    {
+      "word": "УСПЕХА",
+      "hint": "success, progress"
+    },
+    {
+      "word": "УСПЕШНО",
+      "hint": "successfully"
+    },
+    {
+      "word": "УСТАЛ",
+      "hint": "masculine singular past indicative perfective of уста́ть (ustátʹ)"
+    },
+    {
+      "word": "УСТАЛА",
+      "hint": "feminine singular past indicative perfective of уста́ть (ustátʹ)"
+    },
+    {
+      "word": "УСТРАИВАЕТ",
+      "hint": "to arrange, to organize, to establish; to make"
+    },
+    {
+      "word": "УСТРОИТЬ",
+      "hint": "to arrange, to organize, to establish; to settle, to set up, to put in order"
+    },
+    {
+      "word": "УСТРОЙСТВО",
+      "hint": "arrangement; establishment"
+    },
+    {
+      "word": "УТВЕРЖДАЕТ",
+      "hint": "third-person singular present indicative imperfective of утвержда́ть (utverždátʹ)"
+    },
+    {
+      "word": "УХ",
+      "hint": "ooh!, gosh!, oof!"
+    },
+    {
+      "word": "УХОДИТЬ",
+      "hint": "to leave, to depart, to go (away) (by foot); to escape, to evade"
+    },
+    {
+      "word": "УЧАСТВОВАТЬ",
+      "hint": "to take part, to participate, to collaborate; to have a share"
+    },
+    {
+      "word": "УЧАСТКЕ",
+      "hint": "prepositional singular of уча́сток (učástok)"
+    },
+    {
+      "word": "УЧИЛСЯ",
+      "hint": "masculine singular past indicative imperfective of учи́ться (učítʹsja)"
+    },
+    {
+      "word": "УЧИТЕЛЯ",
+      "hint": "teacher, instructor"
+    },
+    {
+      "word": "УЧИТЬСЯ",
+      "hint": "to learn (to receive knowledge or skills or to gain useful experience); to learn [with dative ‘a skill, principle, thing etc.’ or infinitive ‘to do something’]"
+    },
+    {
+      "word": "УШЁЛ",
+      "hint": "masculine singular past indicative perfective of уйти́ (ujtí)"
+    },
+    {
+      "word": "УШИ",
+      "hint": "nominative/accusative plural of у́хо (úxo); headphones"
+    },
+    {
+      "word": "УШЛИ",
+      "hint": "plural past indicative perfective of уйти́ (ujtí)"
+    },
+    {
+      "word": "ФАКТИЧЕСКИ",
+      "hint": "in fact (actually, in truth)"
+    },
+    {
+      "word": "ФАКТЫ",
+      "hint": "fact; fait accompli"
+    },
+    {
+      "word": "ФАМИЛИЯ",
+      "hint": "surname, last name, family name; clan"
+    },
+    {
+      "word": "ФБР",
+      "hint": ""
+    },
+    {
+      "word": "ФИЛЬМЕ",
+      "hint": "prepositional singular of фильм (filʹm)"
+    },
+    {
+      "word": "ФИЛЬМОВ",
+      "hint": "film, movie"
+    },
+    {
+      "word": "ФИЛЬМЫ",
+      "hint": "film, movie"
+    },
+    {
+      "word": "ФИРМЫ",
+      "hint": "firm, company"
+    },
+    {
+      "word": "ФЛОТА",
+      "hint": "genitive singular of флот (flot)"
+    },
+    {
+      "word": "ФОНД",
+      "hint": "fund; stock"
+    },
+    {
+      "word": "ФОРМА",
+      "hint": "form, shape; form (document to be filled)"
+    },
+    {
+      "word": "ФОРМЫ",
+      "hint": "form, shape; form (document to be filled)"
+    },
+    {
+      "word": "ФОТОГРАФИЯ",
+      "hint": "photograph; photography"
+    },
+    {
+      "word": "ФРАНЦУЗСКИЙ",
+      "hint": "French"
+    },
+    {
+      "word": "ФРЭНК",
+      "hint": ""
+    },
+    {
+      "word": "ФУ",
+      "hint": "pew!, ew!, yuck! (expresses disgust); phew! (shows relief)"
+    },
+    {
+      "word": "ФУНТОВ",
+      "hint": "pound (409.51241 grams); English pound (453.59237 grams)"
+    },
+    {
+      "word": "ФУТБОЛ",
+      "hint": "football (the game, UK English), soccer (US English); A football / soccer match"
+    },
+    {
+      "word": "ХАН",
+      "hint": "khan"
+    },
+    {
+      "word": "ХАРАКТЕР",
+      "hint": "character, temper, disposition; type"
+    },
+    {
+      "word": "ХВАТАЛО",
+      "hint": "neuter singular past indicative imperfective of хвата́ть (xvatátʹ)"
+    },
+    {
+      "word": "ХВАТИЛО",
+      "hint": "neuter singular past indicative perfective of хвати́ть (xvatítʹ)"
+    },
+    {
+      "word": "ХЛЕБ",
+      "hint": "bread; loaf"
+    },
+    {
+      "word": "ХМ",
+      "hint": "hmm, hum"
+    },
+    {
+      "word": "ХОДИЛ",
+      "hint": "masculine singular past indicative imperfective of ходи́ть (xodítʹ)"
+    },
+    {
+      "word": "ХОДИЛИ",
+      "hint": "plural past indicative imperfective of ходи́ть (xodítʹ)"
+    },
+    {
+      "word": "ХОДИТ",
+      "hint": "third-person singular present indicative imperfective of ходи́ть (xodítʹ)"
+    },
+    {
+      "word": "ХОДУ",
+      "hint": "dative/partitive singular of ход (xod)"
+    },
+    {
+      "word": "ХОДЯТ",
+      "hint": "third-person plural present indicative imperfective of ходи́ть (xodítʹ)"
+    },
+    {
+      "word": "ХОЗЯИН",
+      "hint": "owner, proprietor; landlord, head of household"
+    },
+    {
+      "word": "ХОЛОДНО",
+      "hint": "coldly"
+    },
+    {
+      "word": "ХОРОШ",
+      "hint": "short masculine singular of хоро́ший (xoróšij)"
+    },
+    {
+      "word": "ХОРОШЕЙ",
+      "hint": "Pre-1918 spelling of хоро́ший (xoróšij)."
+    },
+    {
+      "word": "ХОРОШИХ",
+      "hint": "good, nice, fine; large, significant, decent"
+    },
+    {
+      "word": "ХОРОШУЮ",
+      "hint": "Pre-1918 spelling of хоро́ший (xoróšij)."
+    },
+    {
+      "word": "ХРАМ",
+      "hint": "temple, shrine; church, cathedral (a place of Christian worship that has an altar)"
+    },
+    {
+      "word": "ХУДОЖНИК",
+      "hint": "artist, painter"
+    },
+    {
+      "word": "ЦЕЛОМ",
+      "hint": "prepositional singular of це́лое (céloje)"
+    },
+    {
+      "word": "ЦЕЛУЮ",
+      "hint": "feminine accusative singular of це́лый (célyj)"
+    },
+    {
+      "word": "ЦЕНТРА",
+      "hint": "center, centre; Charlie (C in the ICAO spelling alphabet)"
+    },
+    {
+      "word": "ЦЕНУ",
+      "hint": "accusative singular of цена́ (cená)"
+    },
+    {
+      "word": "ЦЕНЫ",
+      "hint": "genitive singular of цена́ (cená)"
+    },
+    {
+      "word": "ЦИФРЫ",
+      "hint": "figure, digit, cipher, numeral (a symbol representing a number); figure(s), number(s)"
+    },
+    {
+      "word": "ЦРУ",
+      "hint": ""
+    },
+    {
+      "word": "ЧЁ",
+      "hint": "what, wot (replacing the nominative singular or accusative singular form of the interrogative pronoun что (što))"
+    },
+    {
+      "word": "ЧАРЛИ",
+      "hint": "cocaine"
+    },
+    {
+      "word": "ЧАРЛЬЗ",
+      "hint": ""
+    },
+    {
+      "word": "ЧЕЙ",
+      "hint": "whose; anyone's"
+    },
+    {
+      "word": "ЧЕМПИОН",
+      "hint": "champion"
+    },
+    {
+      "word": "ЧЕРНЫЙ",
+      "hint": "black; rough, coarse"
+    },
+    {
+      "word": "ЧЕРТА",
+      "hint": "line; boundary, precinct"
+    },
+    {
+      "word": "ЧЕРТУ",
+      "hint": "accusative singular of черта́ (čertá)"
+    },
+    {
+      "word": "ЧЕТВЕРГ",
+      "hint": "Thursday"
+    },
+    {
+      "word": "ЧЕТЫРЕХ",
+      "hint": "quadri-, tetra-, four"
+    },
+    {
+      "word": "ЧИКАГО",
+      "hint": "Chicago, Chicagoan"
+    },
+    {
+      "word": "ЧИСЛА",
+      "hint": "number (cardinal); date (number of the day of the month)"
+    },
+    {
+      "word": "ЧИСЛЕ",
+      "hint": "prepositional singular of число́ (čisló)"
+    },
+    {
+      "word": "ЧЛЕНА",
+      "hint": "Pre-1918 spelling of чле́н (člén)."
+    },
+    {
+      "word": "ЧЛЕНОМ",
+      "hint": "instrumental singular of член (člen)"
+    },
+    {
+      "word": "ЧЛЕНЫ",
+      "hint": "Pre-1918 spelling of чле́н (člén)."
+    },
+    {
+      "word": "ЧУВСТВ",
+      "hint": "genitive plural of чу́вство (čúvstvo)"
+    },
+    {
+      "word": "ЧУВСТВОВАЛ",
+      "hint": "masculine singular past indicative imperfective of чу́вствовать (čúvstvovatʹ)"
+    },
+    {
+      "word": "ЧУВСТВОВАТЬ",
+      "hint": "to feel (something)"
+    },
+    {
+      "word": "ЧУВСТВУЕТ",
+      "hint": "third-person singular present indicative imperfective of чу́вствовать (čúvstvovatʹ)"
+    },
+    {
+      "word": "ЧУВСТВУЕШЬ",
+      "hint": "second-person singular present indicative imperfective of чу́вствовать (čúvstvovatʹ)"
+    },
+    {
+      "word": "ЧУДО",
+      "hint": "miracle, marvel; wonder"
+    },
+    {
+      "word": "ШАНСОВ",
+      "hint": "chance, prospect (chance for advancement, progress or profit)"
+    },
+    {
+      "word": "ШАНСЫ",
+      "hint": "chance, prospect (chance for advancement, progress or profit)"
+    },
+    {
+      "word": "ШЕЛ",
+      "hint": "masculine singular past indicative imperfective of идти́ (idtí)"
+    },
+    {
+      "word": "ШЕСТИ",
+      "hint": "singular genitive/dative/prepositional of шесть (šestʹ)"
+    },
+    {
+      "word": "ШЕФ",
+      "hint": "boss, chief; patron, sponsor"
+    },
+    {
+      "word": "ШЕЮ",
+      "hint": "accusative singular of ше́я (šéja)"
+    },
+    {
+      "word": "ШЛА",
+      "hint": "feminine singular past indicative imperfective of идти́ (idtí)"
+    },
+    {
+      "word": "ШЛИ",
+      "hint": "plural past indicative imperfective of идти́ (idtí); second-person singular imperative imperfective of слать (slatʹ)"
+    },
+    {
+      "word": "ШОССЕ",
+      "hint": "motorway; highway; freeway"
+    },
+    {
+      "word": "ШТАТ",
+      "hint": "state (a political division, e.g. a US state); staff (personnel)"
+    },
+    {
+      "word": "ШТАТА",
+      "hint": "state (a political division, e.g. a US state); staff (personnel)"
+    },
+    {
+      "word": "ШТАТОВ",
+      "hint": "genitive plural of штат (štat)"
+    },
+    {
+      "word": "ШТУК",
+      "hint": "genitive plural of шту́ка (štúka)"
+    },
+    {
+      "word": "ШТУКА",
+      "hint": "piece, each (in counting items); thing"
+    },
+    {
+      "word": "ШУМ",
+      "hint": "noise, radio static; sound, murmur"
+    },
+    {
+      "word": "ШУТКА",
+      "hint": "joke"
+    },
+    {
+      "word": "ЭЙ",
+      "hint": "hey! (you, there!)"
+    },
+    {
+      "word": "ЭКСПЕРТ",
+      "hint": "expert"
+    },
+    {
+      "word": "ЭМОЦИИ",
+      "hint": "emotion, feeling"
+    },
+    {
+      "word": "ЭНЕРГИЯ",
+      "hint": "energy, power; vitality"
+    },
+    {
+      "word": "ЭПИЗОД",
+      "hint": "episode"
+    },
+    {
+      "word": "ЭРИК",
+      "hint": "erica, Erica"
+    },
+    {
+      "word": "ЭТАЖ",
+      "hint": "floor, storey"
+    },
+    {
+      "word": "ЭТАЖЕ",
+      "hint": "prepositional singular of эта́ж (etáž)"
+    },
+    {
+      "word": "ЭФИРЕ",
+      "hint": "prepositional singular of эфи́р (efír)"
+    },
+    {
+      "word": "ЭФФЕКТ",
+      "hint": "effect; impression, psychological impact"
+    },
+    {
+      "word": "ЮЖНОЙ",
+      "hint": "south, southern; southerly"
+    },
+    {
+      "word": "ЯВЛЯЮТСЯ",
+      "hint": "third-person plural present indicative imperfective of явля́ться (javljátʹsja)"
+    },
+    {
+      "word": "ЯЗЫКА",
+      "hint": "tongue; language"
+    },
+    {
+      "word": "ЯЗЫКЕ",
+      "hint": "prepositional singular of язы́к (jazýk)"
+    },
+    {
+      "word": "ЯЗЫКОМ",
+      "hint": "instrumental singular of язы́к (jazýk)"
+    },
+    {
+      "word": "ЯПОНИИ",
+      "hint": ""
+    },
+    {
+      "word": "ЯЩИК",
+      "hint": "box, case, chest; drawer (in a piece of furniture)"
+    }
+  ]
+}

@@ -136,6 +136,51 @@
       "letter": "Ñ",
       "value": 8,
       "count": 2
+    },
+    {
+      "letter": "Á",
+      "value": 2,
+      "count": 2
+    },
+    {
+      "letter": "É",
+      "value": 2,
+      "count": 2
+    },
+    {
+      "letter": "Í",
+      "value": 2,
+      "count": 1
+    },
+    {
+      "letter": "Ó",
+      "value": 2,
+      "count": 2
+    },
+    {
+      "letter": "Ú",
+      "value": 2,
+      "count": 1
+    },
+    {
+      "letter": "Ü",
+      "value": 2,
+      "count": 1
+    },
+    {
+      "letter": "À",
+      "value": 2,
+      "count": 1
+    },
+    {
+      "letter": "Ã",
+      "value": 2,
+      "count": 1
+    },
+    {
+      "letter": "Ç",
+      "value": 5,
+      "count": 1
     }
   ],
   "blankCount": 2

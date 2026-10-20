@@ -4,228 +4,3796 @@
   "level": "A2",
   "words": [
     {
+      "word": "ABSENCE",
+      "hint": "absence (state of being absent or withdrawn)"
+    },
+    {
+      "word": "ACCEPTE",
+      "hint": "meaning, sense (of a word), acceptation; This term needs a translation to English. Please help out and add a translation, then remove the text {{rfdef}}."
+    },
+    {
+      "word": "ACCEPTER",
+      "hint": "to accept"
+    },
+    {
+      "word": "ACCÈS",
+      "hint": "access; attack, sudden fit, bout"
+    },
+    {
       "word": "ACHETER",
-      "hint": "to buy"
+      "hint": "to purchase; buy"
+    },
+    {
+      "word": "ACHETÉ",
+      "hint": "buyable"
+    },
+    {
+      "word": "ACTE",
+      "hint": "act"
+    },
+    {
+      "word": "ACTIONS",
+      "hint": "action, act, deed; campaign"
+    },
+    {
+      "word": "ACTIVITÉ",
+      "hint": "activity (something to do for educational, recreational, or other purposes); activity, hustle and bustle"
+    },
+    {
+      "word": "AFRIQUE",
+      "hint": "of Africa; African"
+    },
+    {
+      "word": "AGENCE",
+      "hint": "agency"
+    },
+    {
+      "word": "AGENT",
+      "hint": "agent"
+    },
+    {
+      "word": "AGENTS",
+      "hint": "agent"
+    },
+    {
+      "word": "AGIR",
+      "hint": "to act, to do (something); to work, to have an effect; (followed by sur) to act (on)"
+    },
+    {
+      "word": "AGRÉABLE",
+      "hint": "pleasurable, nice, pleasant, agreeable"
+    },
+    {
+      "word": "AIMENT",
+      "hint": "to love (usually of a person, otherwise the meaning is closer to English like); to like (often with bien)"
+    },
+    {
+      "word": "AIMER",
+      "hint": "to love (usually of a person, otherwise the meaning is closer to English like); to like (often with bien)"
+    },
+    {
+      "word": "AIMES",
+      "hint": "second-person singular present indicative/subjunctive of aimer"
+    },
+    {
+      "word": "AIMÉ",
+      "hint": "masculine plural of aimé"
+    },
+    {
+      "word": "AL",
+      "hint": "they (singular). A gender-neutral singular third-person subject personal pronoun."
+    },
+    {
+      "word": "ALCOOL",
+      "hint": "alcohol, especially domestic, medical, methylated spirits; spirits, hard liquor (strong alcoholic beverage, excludes wine, cider, beer)"
+    },
+    {
+      "word": "ALLAIS",
+      "hint": "first/second-person singular imperfect indicative of aller"
+    },
+    {
+      "word": "ALLEMAGNE",
+      "hint": "German person"
+    },
+    {
+      "word": "ALLÉ",
+      "hint": "masculine plural of allé"
     },
     {
       "word": "AMI",
+      "hint": "friend (one who is affectionately attached to another)"
+    },
+    {
+      "word": "AMIE",
       "hint": "friend"
     },
     {
+      "word": "AMOUREUX",
+      "hint": "love; in love"
+    },
+    {
+      "word": "AMÉRICAIN",
+      "hint": "of or pertaining to America; American; English (of or pertaining to the English language); \"American\""
+    },
+    {
+      "word": "AMÉRICAINE",
+      "hint": "feminine singular of américain"
+    },
+    {
+      "word": "AMÉRICAINS",
+      "hint": "masculine plural of américain"
+    },
+    {
+      "word": "AMÉRIQUE",
+      "hint": ""
+    },
+    {
+      "word": "ANALYSE",
+      "hint": "analysis"
+    },
+    {
+      "word": "ANCIENNE",
+      "hint": "feminine singular of ancien"
+    },
+    {
+      "word": "ANCIENS",
+      "hint": "masculine plural of ancien"
+    },
+    {
+      "word": "ANGLETERRE",
+      "hint": ""
+    },
+    {
+      "word": "ANIMAL",
+      "hint": "animal"
+    },
+    {
+      "word": "ANIMAUX",
+      "hint": "masculine plural of animal"
+    },
+    {
+      "word": "ANNIVERSAIRE",
+      "hint": "birthday; anniversary"
+    },
+    {
+      "word": "ANNONCE",
+      "hint": "advertisement"
+    },
+    {
+      "word": "APPAREIL",
+      "hint": "apparatus, device; telephone"
+    },
+    {
+      "word": "APPAREMMENT",
+      "hint": "apparently (seemingly)"
+    },
+    {
+      "word": "APPARTEMENT",
+      "hint": "apartment, flat"
+    },
+    {
+      "word": "APPARTIENT",
+      "hint": "third-person singular present indicative of appartenir"
+    },
+    {
+      "word": "APPORTE",
+      "hint": "contribution, input"
+    },
+    {
+      "word": "APPORTER",
+      "hint": "to bring (something); to take"
+    },
+    {
+      "word": "APPROCHE",
+      "hint": "approach"
+    },
+    {
       "word": "ARBRE",
-      "hint": "tree"
+      "hint": "tree (plant, diagram, anything in the form of a tree); axle"
+    },
+    {
+      "word": "ARME",
+      "hint": "weapon"
+    },
+    {
+      "word": "ARRIVENT",
+      "hint": "to arrive (often followed by a location); to happen (unlike other translations of happen, can be used with an indirect object to specify something/somebody affected by the action;"
+    },
+    {
+      "word": "ARRÊT",
+      "hint": "stopping, checking, arrest (in development, growth, machinery etc.); stop (place)"
+    },
+    {
+      "word": "ARRÊTEZ",
+      "hint": "inflection of arrêter"
+    },
+    {
+      "word": "ARTISTE",
+      "hint": "artist"
+    },
+    {
+      "word": "ASSIS",
+      "hint": "sat, sat down, seated"
+    },
+    {
+      "word": "ASSURANCE",
+      "hint": "self-confidence; assurance, guarantee"
+    },
+    {
+      "word": "ASSURE",
+      "hint": "insured; assured"
+    },
+    {
+      "word": "ASSURER",
+      "hint": "to assure, to ensure, to make sure; to do; to take care of; to carry out; to be in charge of"
+    },
+    {
+      "word": "ATTEINDRE",
+      "hint": "to attain; to reach"
+    },
+    {
+      "word": "ATTEINT",
+      "hint": "feminine singular of atteint"
+    },
+    {
+      "word": "ATTENDANT",
+      "hint": "first/third-person singular present subjunctive of attendre"
+    },
+    {
+      "word": "ATTENDU",
+      "hint": "awaited, anticipated; expected"
     },
     {
       "word": "AU",
-      "hint": "at the"
+      "hint": "contraction of à +‎ le, literally “to the, for the, at the”"
+    },
+    {
+      "word": "AUPRÈS",
+      "hint": "nearby"
+    },
+    {
+      "word": "AURAI",
+      "hint": "first/second-person singular conditional of avoir"
+    },
+    {
+      "word": "AURAIENT",
+      "hint": "third-person plural conditional of avoir"
+    },
+    {
+      "word": "AURAS",
+      "hint": "aura"
+    },
+    {
+      "word": "AUREZ",
+      "hint": "second-person plural future of avoir"
+    },
+    {
+      "word": "AURONT",
+      "hint": "third-person plural future of avoir"
+    },
+    {
+      "word": "AUTEUR",
+      "hint": "author; composer, artist"
+    },
+    {
+      "word": "AUTREMENT",
+      "hint": "differently, in another way or manner"
+    },
+    {
+      "word": "AVIONS",
+      "hint": "aeroplane"
+    },
+    {
+      "word": "AYANT",
+      "hint": "present participle of avoir; having, with"
+    },
+    {
+      "word": "AÉROPORT",
+      "hint": "airport (place, company managing such a place)"
+    },
+    {
+      "word": "BAIN",
+      "hint": "bath"
+    },
+    {
+      "word": "BAISER",
+      "hint": "to kiss; to fuck, screw"
+    },
+    {
+      "word": "BAISSE",
+      "hint": "drop; decrease"
+    },
+    {
+      "word": "BALLE",
+      "hint": "ball; bullet"
+    },
+    {
+      "word": "BALLES",
+      "hint": "ball; bullet"
+    },
+    {
+      "word": "BANQUE",
+      "hint": "bank"
+    },
+    {
+      "word": "BAR",
+      "hint": "bar (establishment); bar (counter)"
+    },
+    {
+      "word": "BATAILLE",
+      "hint": "battle; war (card game)"
+    },
+    {
+      "word": "BATEAU",
+      "hint": "a vessel of any size, a ship or boat"
+    },
+    {
+      "word": "BATTRE",
+      "hint": "to beat; to defeat; to beat up"
+    },
+    {
+      "word": "BEAUTÉ",
+      "hint": "beauty"
+    },
+    {
+      "word": "BEAUX",
+      "hint": "masculine plural of beau"
+    },
+    {
+      "word": "BELLES",
+      "hint": "feminine plural of beau"
+    },
+    {
+      "word": "BIENVENUE",
+      "hint": "welcome"
+    },
+    {
+      "word": "BIÈRE",
+      "hint": "beer"
+    },
+    {
+      "word": "BLAGUE",
+      "hint": "pouch, especially for tobacco; joke"
+    },
+    {
+      "word": "BLANCHE",
+      "hint": "feminine singular of blanc"
+    },
+    {
+      "word": "BLANCS",
+      "hint": "masculine plural of blanc"
+    },
+    {
+      "word": "BLESSÉ",
+      "hint": "injured, wounded"
     },
     {
       "word": "BLEU",
-      "hint": "blue"
+      "hint": "blue; very rare, underdone"
     },
     {
       "word": "BOIRE",
       "hint": "to drink"
     },
     {
+      "word": "BONHEUR",
+      "hint": "goodhap, good fortune; happiness"
+    },
+    {
+      "word": "BORDEL",
+      "hint": "brothel; bloody mess (UK), goddamn mess (US)"
+    },
+    {
+      "word": "BOUCHE",
+      "hint": "mouth"
+    },
+    {
+      "word": "BOÎTE",
+      "hint": "box (a container); tin, can"
+    },
+    {
+      "word": "BRAVO",
+      "hint": "bravo!, hear, hear!, well said!, well done!"
+    },
+    {
+      "word": "BREF",
+      "hint": "brief (of short duration)"
+    },
+    {
+      "word": "BRUIT",
+      "hint": "a noise; a rumor or report"
+    },
+    {
+      "word": "BUS",
+      "hint": "bus"
+    },
+    {
+      "word": "BÂTIMENT",
+      "hint": "building, edifice; building industry, construction"
+    },
+    {
+      "word": "BÊTE",
+      "hint": "beast, animal; fool"
+    },
+    {
+      "word": "CABINET",
+      "hint": "a study; an office, a surgery"
+    },
+    {
+      "word": "CACHE",
+      "hint": "cache, hiding place for later retrieval"
+    },
+    {
+      "word": "CACHER",
+      "hint": "to hide; to hide (oneself)"
+    },
+    {
+      "word": "CADEAU",
+      "hint": "present, gift"
+    },
+    {
+      "word": "CAMPAGNE",
+      "hint": "country (the country, rural area, as opposed to the town or city), countryside"
+    },
+    {
+      "word": "CANCER",
+      "hint": "cancer"
+    },
+    {
+      "word": "CAPABLE",
+      "hint": "able, capable"
+    },
+    {
+      "word": "CARRIÈRE",
+      "hint": "racecourse; career"
+    },
+    {
+      "word": "CARTES",
+      "hint": "card; chart; map"
+    },
+    {
+      "word": "CASSE",
+      "hint": "post-1990 spelling of casse-croûte"
+    },
+    {
       "word": "CE",
-      "hint": "this"
+      "hint": "a part of the primary school"
+    },
+    {
+      "word": "CELLES",
+      "hint": "feminine plural of celui: those"
+    },
+    {
+      "word": "CENT",
+      "hint": "hundred"
+    },
+    {
+      "word": "CEPENDANT",
+      "hint": "meanwhile; however, nevertheless, yet, notwithstanding"
+    },
+    {
+      "word": "CERTAINE",
+      "hint": "feminine singular of certain"
+    },
+    {
+      "word": "CERTAINEMENT",
+      "hint": "certainly (with certainty, without doubt); probably (very likely, although not entirely sure)"
+    },
+    {
+      "word": "CERVEAU",
+      "hint": "brain (organ of thought); sinus cavity, sinuses"
+    },
+    {
+      "word": "CHAMP",
+      "hint": "field in its various senses, including"
+    },
+    {
+      "word": "CHANCES",
+      "hint": "chance; luck"
+    },
+    {
+      "word": "CHANGEMENT",
+      "hint": "change"
+    },
+    {
+      "word": "CHARGÉ",
+      "hint": "past participle of charger"
+    },
+    {
+      "word": "CHARLES",
+      "hint": ""
+    },
+    {
+      "word": "CHARLIE",
+      "hint": ""
+    },
+    {
+      "word": "CHASSE",
+      "hint": "hunt, hunting"
     },
     {
       "word": "CHAT",
-      "hint": "cat"
+      "hint": "cat (feline); cat, tom, tomcat"
+    },
+    {
+      "word": "CHAUD",
+      "hint": "warm, hot; on heat"
+    },
+    {
+      "word": "CHAUSSURES",
+      "hint": "shoe; the shoe industry"
+    },
+    {
+      "word": "CHAÎNE",
+      "hint": "chain; channel"
+    },
+    {
+      "word": "CHEVAL",
+      "hint": "horse; ellipsis of cheval-vapeur (“horsepower”)"
     },
     {
       "word": "CHIEN",
-      "hint": "dog"
+      "hint": "dog; cock, hammer (of a firearm)"
+    },
+    {
+      "word": "CHIENS",
+      "hint": "dog; cock, hammer (of a firearm)"
+    },
+    {
+      "word": "CHIER",
+      "hint": "to shit, defecate"
+    },
+    {
+      "word": "CHINE",
+      "hint": "masculine plural of chiné"
+    },
+    {
+      "word": "CHINOIS",
+      "hint": "Chinese (language); Greek (something difficult to understand)"
+    },
+    {
+      "word": "CHOISI",
+      "hint": "feminine plural of choisi"
+    },
+    {
+      "word": "CHOISIR",
+      "hint": "to choose; to perceive, distinguish"
+    },
+    {
+      "word": "CHUTE",
+      "hint": "fall; This term needs a translation to English. Please help out and add a translation, then remove the text {{rfdef}}."
+    },
+    {
+      "word": "CHÂTEAU",
+      "hint": "castle (fortified building or similar structure; winegrower's estate)"
+    },
+    {
+      "word": "CHÈRE",
+      "hint": "feminine singular of cher"
+    },
+    {
+      "word": "CIBLE",
+      "hint": "target; aim, goal"
+    },
+    {
+      "word": "CINÉMA",
+      "hint": "cinema, filmmaking (the art of making films and movies); cinema (the film and movie industry)"
+    },
+    {
+      "word": "CLAIRE",
+      "hint": "feminine singular of clair"
+    },
+    {
+      "word": "CLAIREMENT",
+      "hint": "clearly; patently"
+    },
+    {
+      "word": "CLASSIQUE",
+      "hint": "classic; classical"
+    },
+    {
+      "word": "CLIENT",
+      "hint": "client, retainer, follower (person who is under the patronage of someone else); customer (one who purchases or receives a product or service)"
+    },
+    {
+      "word": "CLIENTS",
+      "hint": "female equivalent of client"
+    },
+    {
+      "word": "CLÉ",
+      "hint": "key (device for unlocking); key (essential attribute)"
+    },
+    {
+      "word": "CLÉS",
+      "hint": "plural of clé"
+    },
+    {
+      "word": "COIN",
+      "hint": "wedge, cornerpiece; corner"
+    },
+    {
+      "word": "COLONEL",
+      "hint": "a colonel, highest commissioned officer below generals; an ice cream dessert consisting of lemon sherbet and vodka"
+    },
+    {
+      "word": "COLÈRE",
+      "hint": "anger, rage; wrath"
+    },
+    {
+      "word": "COMITÉ",
+      "hint": "committee"
+    },
+    {
+      "word": "COMMANDANT",
+      "hint": "commander (function); major (rank)"
+    },
+    {
+      "word": "COMMANDE",
+      "hint": "order (request for some product or service)"
+    },
+    {
+      "word": "COMMISSION",
+      "hint": "commission (fee charged by an agent or broker for carrying out a transaction); message"
+    },
+    {
+      "word": "COMMUN",
+      "hint": "common (shared); common (widespread)"
+    },
+    {
+      "word": "COMMUNAUTÉ",
+      "hint": "community; commonwealth"
+    },
+    {
+      "word": "COMPLET",
+      "hint": "full, without room for more; complete, entire"
+    },
+    {
+      "word": "COMPLIQUÉ",
+      "hint": "complicated, intricate, convoluted; difficult, hard"
+    },
+    {
+      "word": "COMPORTEMENT",
+      "hint": "behaviour/behavior, demeanour/demeanor"
+    },
+    {
+      "word": "COMPREND",
+      "hint": "third-person singular present indicative of comprendre"
+    },
+    {
+      "word": "COMPTER",
+      "hint": "to count; to reckon, allow"
+    },
+    {
+      "word": "COMPTES",
+      "hint": "account (bank or user account); count (the action of counting)"
+    },
+    {
+      "word": "CONCERNANT",
+      "hint": "concerning, regarding"
+    },
+    {
+      "word": "CONCERNE",
+      "hint": "concerned, involved"
+    },
+    {
+      "word": "CONCERT",
+      "hint": "concert (musical entertainment)"
+    },
+    {
+      "word": "CONCOURS",
+      "hint": "competition; contest; competitive examination; concourse, gathering, assemblage, assembly; combination, consolidation, union"
+    },
+    {
+      "word": "CONDITIONS",
+      "hint": "plural of condition"
+    },
+    {
+      "word": "CONDUIRE",
+      "hint": "to drive (a vehicle); to lead, to conduct"
+    },
+    {
+      "word": "CONDUIT",
+      "hint": "conduit (connecting pipe/channel); a conductus"
+    },
+    {
+      "word": "CONFÉRENCE",
+      "hint": "conference; lecture; talk"
+    },
+    {
+      "word": "CONNAISSANCE",
+      "hint": "knowledge; acquaintance"
+    },
+    {
+      "word": "CONNAÎT",
+      "hint": "third-person singular present indicative of connaître"
+    },
+    {
+      "word": "CONNERIES",
+      "hint": "foolish act; bullshit"
+    },
+    {
+      "word": "CONSCIENCE",
+      "hint": "conscience; consciousness"
+    },
+    {
+      "word": "CONSEILLER",
+      "hint": "counsellor, advisor"
+    },
+    {
+      "word": "CONSEILS",
+      "hint": "piece of advice; council"
+    },
+    {
+      "word": "CONSTRUIRE",
+      "hint": "to build"
+    },
+    {
+      "word": "CONTACT",
+      "hint": "contact; contact (with another person); contact (person that one knows)"
+    },
+    {
+      "word": "CONTENT",
+      "hint": "content, satisfied, pleased"
+    },
+    {
+      "word": "CONTENTE",
+      "hint": "feminine singular of content"
+    },
+    {
+      "word": "CONTRAIRE",
+      "hint": "opposite; contradictory"
+    },
+    {
+      "word": "CONTRAT",
+      "hint": "contract"
+    },
+    {
+      "word": "CONVERSATION",
+      "hint": "conversation"
+    },
+    {
+      "word": "COPINE",
+      "hint": "female equivalent of copain: female friend, girl friend, chum, pal; ellipsis of petite copine: girlfriend (girl/woman to whom one has a romantic attachment)"
+    },
+    {
+      "word": "COUCHER",
+      "hint": "to lay, to lay down; to put to bed, to put up (a lodger)"
+    },
+    {
+      "word": "COULEUR",
+      "hint": "color/colour; a flush"
+    },
+    {
+      "word": "COUPABLE",
+      "hint": "guilty; culpable, responsible"
+    },
+    {
+      "word": "COUPER",
+      "hint": "to cut, cut up; to chop, to sever; to cut, to clip, to trim"
+    },
+    {
+      "word": "COUPLE",
+      "hint": "two partners in a romantic or sexual relationship; a force couple; a pure moment"
+    },
+    {
+      "word": "COUPS",
+      "hint": "blow, hit, strike; fast and instantaneous action"
+    },
+    {
+      "word": "COURAGE",
+      "hint": "courage"
+    },
+    {
+      "word": "COURIR",
+      "hint": "to run; to hurry; to rush"
+    },
+    {
+      "word": "COURSE",
+      "hint": "run, running; race"
+    },
+    {
+      "word": "COURT",
+      "hint": "short"
+    },
+    {
+      "word": "COUVERTURE",
+      "hint": "blanket; coverage"
+    },
+    {
+      "word": "CRIME",
+      "hint": "a category of severe offences within French law, comparable to a felony under United States laws. Crime are tied to the strongest of penalties, 10 years and more according to law."
+    },
+    {
+      "word": "CRISE",
+      "hint": "crisis; attack, fit"
+    },
+    {
+      "word": "CRITIQUE",
+      "hint": "critical (urgent); critical (of great importance)"
+    },
+    {
+      "word": "CROIT",
+      "hint": "third-person singular present indicative of croire"
+    },
+    {
+      "word": "CROYAIS",
+      "hint": "first/second-person singular imperfect indicative of croire"
+    },
+    {
+      "word": "CROYEZ",
+      "hint": "inflection of croire"
+    },
+    {
+      "word": "CRÉDIT",
+      "hint": "credit; course credit"
+    },
+    {
+      "word": "CRÉER",
+      "hint": "to create"
+    },
+    {
+      "word": "CRÉÉ",
+      "hint": "masculine plural of créé"
+    },
+    {
+      "word": "CUISINE",
+      "hint": "kitchen; culinary art or cuisine"
+    },
+    {
+      "word": "CULTURE",
+      "hint": "farming, cultivation, crop growing; culture (microbiology)"
+    },
+    {
+      "word": "CÉLÈBRE",
+      "hint": "famous"
+    },
+    {
+      "word": "CÔTE",
+      "hint": "rib (bone); hill, slope"
+    },
+    {
+      "word": "CÔTÉS",
+      "hint": "side; way, direction"
+    },
+    {
+      "word": "DAME",
+      "hint": "lady; queen"
+    },
+    {
+      "word": "DANGER",
+      "hint": "danger; jeopardy (danger of loss, harm, or failure)"
+    },
+    {
+      "word": "DANGEREUX",
+      "hint": "dangerous"
+    },
+    {
+      "word": "DANIEL",
+      "hint": ""
+    },
+    {
+      "word": "DANSE",
+      "hint": "dance"
+    },
+    {
+      "word": "DAVANTAGE",
+      "hint": "more"
     },
     {
       "word": "DE",
-      "hint": "of or from"
+      "hint": "from (used to indicate origin); of (indicates possession, association or relationship)"
+    },
+    {
+      "word": "DEBOUT",
+      "hint": "standing, stood up, upright; awake"
+    },
+    {
+      "word": "DEMANDES",
+      "hint": "request (act of requesting); demand"
+    },
+    {
+      "word": "DEMI",
+      "hint": "half"
+    },
+    {
+      "word": "DENTS",
+      "hint": "tooth; cog (tooth on a gear)"
+    },
+    {
+      "word": "DERNIÈRES",
+      "hint": "feminine plural of dernier"
+    },
+    {
+      "word": "DESSOUS",
+      "hint": "underneath; beneath"
+    },
+    {
+      "word": "DEVENUE",
+      "hint": "feminine singular of devenu"
+    },
+    {
+      "word": "DEVEZ",
+      "hint": "second-person plural present indicative of devoir"
+    },
+    {
+      "word": "DEVONS",
+      "hint": "devon"
+    },
+    {
+      "word": "DEVRAIENT",
+      "hint": "third-person plural conditional of devoir"
+    },
+    {
+      "word": "DEVRAIS",
+      "hint": "first/second-person singular conditional of devoir"
     },
     {
       "word": "DIFFICILE",
-      "hint": "difficult"
+      "hint": "difficult; choosy, fussy, picky"
+    },
+    {
+      "word": "DIFFÉRENCE",
+      "hint": "difference"
+    },
+    {
+      "word": "DIFFÉRENT",
+      "hint": "different"
+    },
+    {
+      "word": "DIFFÉRENTES",
+      "hint": "feminine plural of différent"
+    },
+    {
+      "word": "DIFFÉRENTS",
+      "hint": "masculine plural of différent"
+    },
+    {
+      "word": "DIMANCHE",
+      "hint": "Sunday"
+    },
+    {
+      "word": "DIRAIS",
+      "hint": "first/second-person singular conditional of dire"
+    },
+    {
+      "word": "DIRECT",
+      "hint": "direct"
+    },
+    {
+      "word": "DIRECTEMENT",
+      "hint": "directly"
+    },
+    {
+      "word": "DISAIS",
+      "hint": "first/second-person singular imperfect of dire"
+    },
+    {
+      "word": "DISAIT",
+      "hint": "third-person singular imperfect indicative of dire"
+    },
+    {
+      "word": "DISANT",
+      "hint": "present participle of dire"
+    },
+    {
+      "word": "DISCOURS",
+      "hint": "speech; speech, address, talk, oral presentation"
+    },
+    {
+      "word": "DISCUTER",
+      "hint": "to argue, to debate; to discuss"
+    },
+    {
+      "word": "DISPARU",
+      "hint": "missing in action person; dead"
+    },
+    {
+      "word": "DISTANCE",
+      "hint": "distance (literal physical distance); distance (metaphoric or figurative)"
+    },
+    {
+      "word": "DOIGT",
+      "hint": "finger; toe"
+    },
+    {
+      "word": "DOIGTS",
+      "hint": "finger; toe"
+    },
+    {
+      "word": "DOMAINE",
+      "hint": "domain; zone"
+    },
+    {
+      "word": "DOMMAGE",
+      "hint": "damage; injury"
+    },
+    {
+      "word": "DON",
+      "hint": "gift, talent, knack; gift (present)"
+    },
+    {
+      "word": "DONNÉES",
+      "hint": "feminine plural of donné"
+    },
+    {
+      "word": "DORMIR",
+      "hint": "to sleep"
+    },
+    {
+      "word": "DOUBLE",
+      "hint": "double (all senses), two; sixteenth note"
+    },
+    {
+      "word": "DOUCE",
+      "hint": "feminine singular of doux"
+    },
+    {
+      "word": "DOULEUR",
+      "hint": "pain; distress"
+    },
+    {
+      "word": "DOUX",
+      "hint": "sweet; soft"
+    },
+    {
+      "word": "DR",
+      "hint": "abbreviation of docteur (as a title)"
+    },
+    {
+      "word": "DROGUE",
+      "hint": "drug"
+    },
+    {
+      "word": "DROITS",
+      "hint": "masculine plural of droit"
     },
     {
       "word": "DU",
-      "hint": "of the"
+      "hint": "contraction of de +‎ le, literally “of the”"
+    },
+    {
+      "word": "DURE",
+      "hint": "feminine plural of dur"
+    },
+    {
+      "word": "DÉCIDER",
+      "hint": "to decide; to persuade, convince (someone)"
+    },
+    {
+      "word": "DÉCOUVERT",
+      "hint": "masculine plural of découvert"
+    },
+    {
+      "word": "DÉCOUVRIR",
+      "hint": "to discover; to show, to reveal"
+    },
+    {
+      "word": "DÉFENDRE",
+      "hint": "to defend; to forbid"
+    },
+    {
+      "word": "DÉJEUNER",
+      "hint": "to lunch, to eat lunch, to have lunch; to have breakfast"
+    },
+    {
+      "word": "DÉPARTEMENT",
+      "hint": "department; département"
+    },
+    {
+      "word": "DÉPEND",
+      "hint": "dependence, reliance; addiction, dependency (a habit or practice)"
+    },
+    {
+      "word": "DÉSORMAIS",
+      "hint": "henceforth, from now on"
+    },
+    {
+      "word": "DÉTAILS",
+      "hint": "detail (something small enough to escape casual notice, or a profusion of details)"
+    },
+    {
+      "word": "DÉTESTE",
+      "hint": "detestable, despicable; awful, terrible, very bad at something"
+    },
+    {
+      "word": "DÉTRUIRE",
+      "hint": "to destroy; to destruct"
     },
     {
       "word": "EAU",
-      "hint": "water"
+      "hint": "water, a liquid that is transparent, colorless, odorless, and tasteless in its pure form, the primary constituent of lakes, rivers, seas, and oceans; In particular, rain"
     },
     {
       "word": "ECOLE",
       "hint": "school"
     },
     {
+      "word": "EFFETS",
+      "hint": "effect; spin, bend, curl"
+    },
+    {
+      "word": "EMPIRE",
+      "hint": "empire; influence, authority, dominion"
+    },
+    {
+      "word": "EMPLOI",
+      "hint": "job; employment"
+    },
+    {
+      "word": "EMPLOYÉS",
+      "hint": "usable; employable"
+    },
+    {
+      "word": "EMPÊCHER",
+      "hint": "to stop; to prevent; to hinder; to refrain [with de ‘from something’ or de (+ infinitive) ‘from doing something’]"
+    },
+    {
       "word": "EN",
-      "hint": "in"
+      "hint": "in (used to indicate space, also see usage notes); to (indicates direction towards certain very large locations, see usage notes)"
+    },
+    {
+      "word": "ENCEINTE",
+      "hint": "pregnant"
+    },
+    {
+      "word": "ENFANCE",
+      "hint": "childhood"
+    },
+    {
+      "word": "ENFER",
+      "hint": "Hell; hell (a very uncomfortable situation)"
+    },
+    {
+      "word": "ENLEVER",
+      "hint": "to remove, take off, take away, clear; to take off, remove (clothes)"
+    },
+    {
+      "word": "ENNEMI",
+      "hint": "enemy"
+    },
+    {
+      "word": "ENTEND",
+      "hint": "first/third-person singular present subjunctive of entendre"
+    },
+    {
+      "word": "ENTENDS",
+      "hint": "first/third-person singular present subjunctive of entendre"
+    },
+    {
+      "word": "ENTIER",
+      "hint": "whole; whole (of a number), integer"
+    },
+    {
+      "word": "ENVERS",
+      "hint": "reverse; inverse"
+    },
+    {
+      "word": "ENVOIE",
+      "hint": "dispatch, sending (act of sending); shipping; dispatch"
+    },
+    {
+      "word": "ERREURS",
+      "hint": "error (a faulty process of thought that leads to conclusions out of agreement with reality); error (the resulting thought, conception, assumption, belief, determination, etc., of"
+    },
+    {
+      "word": "ESPOIR",
+      "hint": "hope; boyfriend"
+    },
+    {
+      "word": "ESSAIE",
+      "hint": "try, trial; assay"
+    },
+    {
+      "word": "ESSAYE",
+      "hint": "inflection of essayer"
+    },
+    {
+      "word": "ESSAYÉ",
+      "hint": "past participle of essayer"
     },
     {
       "word": "ET",
       "hint": "and"
     },
     {
+      "word": "ETAT",
+      "hint": "alternative spelling of État"
+    },
+    {
+      "word": "ETRE",
+      "hint": "obsolete spelling of être"
+    },
+    {
+      "word": "EUH",
+      "hint": "er, um, uh; expressing hesitation, reflection, confusion, or doubt"
+    },
+    {
+      "word": "EUROPE",
+      "hint": "europate"
+    },
+    {
+      "word": "EX",
+      "hint": "ex (former partner)"
+    },
+    {
+      "word": "EXAMEN",
+      "hint": "examination, inspection, study, analysis; exam, test"
+    },
+    {
+      "word": "EXCELLENT",
+      "hint": "excellent; splendid"
+    },
+    {
+      "word": "EXCUSE",
+      "hint": "excuse"
+    },
+    {
+      "word": "EXPLIQUE",
+      "hint": "masculine plural of expliqué"
+    },
+    {
+      "word": "EXTÉRIEUR",
+      "hint": "exterior"
+    },
+    {
       "word": "FACILE",
-      "hint": "easy"
+      "hint": "easy, simple; easy, promiscuous (consenting readily to sex)"
+    },
+    {
+      "word": "FACILEMENT",
+      "hint": "easily"
+    },
+    {
+      "word": "FAIBLE",
+      "hint": "weak; low, small (amount, degree, percentage)"
+    },
+    {
+      "word": "FAIM",
+      "hint": "hunger (desire of food); hunger (strong desire)"
+    },
+    {
+      "word": "FAISANT",
+      "hint": "female equivalent of faiseur"
+    },
+    {
+      "word": "FAITE",
+      "hint": "feminine singular of fait"
+    },
+    {
+      "word": "FAITS",
+      "hint": "fact"
     },
     {
       "word": "FAMILLE",
-      "hint": "family"
+      "hint": "family (group of related people); family"
+    },
+    {
+      "word": "FAMILLES",
+      "hint": "family (group of related people); family"
+    },
+    {
+      "word": "FAUDRA",
+      "hint": "third-person singular future indicative of falloir"
+    },
+    {
+      "word": "FAUDRAIT",
+      "hint": "third-person singular conditional of falloir"
+    },
+    {
+      "word": "FAVEUR",
+      "hint": "favour"
+    },
+    {
+      "word": "FENÊTRE",
+      "hint": "window"
+    },
+    {
+      "word": "FER",
+      "hint": "iron; horseshoe; steel tip"
+    },
+    {
+      "word": "FERAI",
+      "hint": "first/second-person singular conditional of faire"
+    },
+    {
+      "word": "FERAIS",
+      "hint": "first/second-person singular conditional of faire"
+    },
+    {
+      "word": "FERAIT",
+      "hint": "third-person singular conditional of faire"
+    },
+    {
+      "word": "FERMER",
+      "hint": "to shut; to close"
+    },
+    {
+      "word": "FERMÉ",
+      "hint": "firm"
+    },
+    {
+      "word": "FICHE",
+      "hint": "record; card (in a file)"
+    },
+    {
+      "word": "FIER",
+      "hint": "proud, gratified, honoured [(often) with de ‘of someone, something’]; proud, prideful, arrogant"
+    },
+    {
+      "word": "FIL",
+      "hint": "yarn, thread, wire; grain (of wood etc.)"
+    },
+    {
+      "word": "FILMS",
+      "hint": "movie, film"
+    },
+    {
+      "word": "FINAL",
+      "hint": "final (last); expressing purpose"
+    },
+    {
+      "word": "FINALE",
+      "hint": "feminine singular of final"
+    },
+    {
+      "word": "FINIT",
+      "hint": "inflection of finir"
+    },
+    {
+      "word": "FLEURS",
+      "hint": "flower; bloom; blossom; collectively, the reproductive organs and the envelope which surrounds them in angiosperms (also called \"flowering plants\"); flowering plant; angiosperm;"
+    },
+    {
+      "word": "FOI",
+      "hint": "Faith.; A depiction of a handshake."
+    },
+    {
+      "word": "FOLLE",
+      "hint": "feminine singular of fou"
+    },
+    {
+      "word": "FONCTIONNE",
+      "hint": "to function, to work"
+    },
+    {
+      "word": "FONDS",
+      "hint": "back; bottom"
+    },
+    {
+      "word": "FORCES",
+      "hint": "force (always proceeded with la), the invisible omnipresent energy that the Jedi and the Sith wield in Star Wars"
+    },
+    {
+      "word": "FORCÉMENT",
+      "hint": "inevitably; necessarily"
+    },
+    {
+      "word": "FORMATION",
+      "hint": "formation, forming, development; education; training"
+    },
+    {
+      "word": "FORTE",
+      "hint": "feminine singular of fort"
+    },
+    {
+      "word": "FORÊT",
+      "hint": "forest"
+    },
+    {
+      "word": "FOUS",
+      "hint": "masculine plural of fou"
+    },
+    {
+      "word": "FOUTRE",
+      "hint": "to do, to fuck around with, to dick around, to fritter, to tinker; to give"
+    },
+    {
+      "word": "FRAIS",
+      "hint": "fresh (recently produced, unspoiled); fresh (well-rested)"
+    },
+    {
+      "word": "FRANCHEMENT",
+      "hint": "frankly; sincerely; vigorously, without doubting oneself"
+    },
+    {
+      "word": "FRANK",
+      "hint": ""
+    },
+    {
+      "word": "FRAPPE",
+      "hint": "hit; strike, striking, kick"
+    },
+    {
+      "word": "FROID",
+      "hint": "cold (temperature); distant, unfriendly"
+    },
+    {
+      "word": "FRONT",
+      "hint": "forehead; front, frontline"
+    },
+    {
+      "word": "FRÈRES",
+      "hint": "brother (son of the same parents as another person); brother (male fellow member of a religious community)"
+    },
+    {
+      "word": "FUTUR",
+      "hint": "future"
+    },
+    {
+      "word": "GAGNE",
+      "hint": "livelihood; breadwinner"
+    },
+    {
+      "word": "GARE",
+      "hint": "railway station"
+    },
+    {
+      "word": "GARÇON",
+      "hint": "boy; young man; man"
+    },
+    {
+      "word": "GARÇONS",
+      "hint": "boy; young man; man"
+    },
+    {
+      "word": "GAY",
+      "hint": "gay (homosexual person)"
+    },
+    {
+      "word": "GAZ",
+      "hint": "gas; flatulence"
+    },
+    {
+      "word": "GENTIL",
+      "hint": "noble; gallant, courteous; kind, sweet"
+    },
+    {
+      "word": "GEORGE",
+      "hint": ""
+    },
+    {
+      "word": "GLACE",
+      "hint": "ice; (France, Vietnam, Cambodia, Laos, Algeria, Morocco, Tunisia, New Caledonia, Réunion, West Africa) ice cream"
+    },
+    {
+      "word": "GOÛT",
+      "hint": "taste, flavour; taste, discrimination"
+    },
+    {
+      "word": "GRANDES",
+      "hint": "feminine plural of grand"
+    },
+    {
+      "word": "GUEULE",
+      "hint": "gullet, snout, face (of an animal); mug (a person's face)"
+    },
+    {
+      "word": "GÉNIAL",
+      "hint": "ingenious, characteristic of a genius; great, fantastic, awesome"
+    },
+    {
+      "word": "GÉNIE",
+      "hint": "genie; genius"
+    },
+    {
+      "word": "GÉRER",
+      "hint": "to manage; to rule, to rock (to excel)"
+    },
+    {
+      "word": "HA",
+      "hint": "ha (exclamation of surprise or laughter)"
+    },
+    {
+      "word": "HARRY",
+      "hint": ""
+    },
+    {
+      "word": "HASARD",
+      "hint": "chance; a coincidence"
+    },
+    {
+      "word": "HAUTE",
+      "hint": "feminine singular of haut"
+    },
+    {
+      "word": "HENRY",
+      "hint": "henry"
+    },
+    {
+      "word": "HEUREUSE",
+      "hint": "feminine singular of heureux"
+    },
+    {
+      "word": "HEUREUSEMENT",
+      "hint": "luckily, fortunately; happily"
+    },
+    {
+      "word": "HEY",
+      "hint": ""
+    },
+    {
+      "word": "HISTOIRES",
+      "hint": "story; history"
+    },
+    {
+      "word": "HIVER",
+      "hint": "winter"
+    },
+    {
+      "word": "HONTE",
+      "hint": "shame (feeling); shame (something shameful)"
+    },
+    {
+      "word": "HORRIBLE",
+      "hint": "horrible (causing horror)"
+    },
+    {
+      "word": "HUMAIN",
+      "hint": "human"
+    },
+    {
+      "word": "HUMAINE",
+      "hint": "feminine singular of humain"
+    },
+    {
+      "word": "HUMAINS",
+      "hint": "masculine plural of humain"
+    },
+    {
+      "word": "HÉROS",
+      "hint": "hero"
+    },
+    {
+      "word": "IDENTITÉ",
+      "hint": "identity; identity (equation which always holds true regardless of the choice of input variables)"
     },
     {
       "word": "IL",
-      "hint": "he"
+      "hint": "he (third-person singular masculine subject pronoun for human subject); it (third-person singular subject pronoun for grammatically masculine objects)"
+    },
+    {
+      "word": "IMAGES",
+      "hint": "plural of image"
+    },
+    {
+      "word": "IMAGINE",
+      "hint": "inflection of imaginer"
+    },
+    {
+      "word": "IMAGINER",
+      "hint": "to imagine"
+    },
+    {
+      "word": "IMMÉDIATEMENT",
+      "hint": "immediately"
+    },
+    {
+      "word": "IMPORTANCE",
+      "hint": "importance; significance"
     },
     {
       "word": "IMPORTANT",
-      "hint": "important"
+      "hint": "important; large, considerable, significant"
+    },
+    {
+      "word": "IMPORTANTE",
+      "hint": "feminine singular of important"
+    },
+    {
+      "word": "IN",
+      "hint": "A page size formed from a sheet of paper folded twice into quarters, creating eight pages.; A book made in this size"
+    },
+    {
+      "word": "INCROYABLE",
+      "hint": "incredible"
+    },
+    {
+      "word": "INFORMATION",
+      "hint": "piece of information]; news"
+    },
+    {
+      "word": "INFORMATIONS",
+      "hint": "plural of information"
+    },
+    {
+      "word": "INFOS",
+      "hint": "contraction of information; contraction of informatique"
+    },
+    {
+      "word": "INQUIÈTE",
+      "hint": "feminine singular of inquiet"
+    },
+    {
+      "word": "INTENTION",
+      "hint": "intention"
+    },
+    {
+      "word": "INTERDIT",
+      "hint": "forbidden, prohibited, off-limits; stupefied, at a loss"
+    },
+    {
+      "word": "INTERNET",
+      "hint": "the Internet"
+    },
+    {
+      "word": "INTÉRESSANT",
+      "hint": "interesting"
+    },
+    {
+      "word": "INTÉRESSE",
+      "hint": "masculine plural of intéressé"
+    },
+    {
+      "word": "INUTILE",
+      "hint": "useless, unnecessary, pointless"
+    },
+    {
+      "word": "INVITÉ",
+      "hint": "guest (person who is invited)"
+    },
+    {
+      "word": "IRA",
+      "hint": "third-person singular future of aller"
+    },
+    {
+      "word": "IT",
+      "hint": ""
+    },
+    {
+      "word": "JACK",
+      "hint": "masculine plural of jacké"
+    },
+    {
+      "word": "JAMBES",
+      "hint": "leg"
+    },
+    {
+      "word": "JAMES",
+      "hint": ""
+    },
+    {
+      "word": "JARDIN",
+      "hint": "garden"
     },
     {
       "word": "JE",
-      "hint": "I"
+      "hint": "couldn't care less attitude"
+    },
+    {
+      "word": "JEAN",
+      "hint": "a pair of jeans"
+    },
+    {
+      "word": "JETER",
+      "hint": "to throw; to throw away, to discard"
+    },
+    {
+      "word": "JEUDI",
+      "hint": "Thursday (day of the week)"
+    },
+    {
+      "word": "JEUX",
+      "hint": "plural of jeu"
+    },
+    {
+      "word": "JOIE",
+      "hint": "joy (feeling of happiness or elation)"
+    },
+    {
+      "word": "JOLI",
+      "hint": "pretty; cute; jolly, nice, pleasant, agreeable"
+    },
+    {
+      "word": "JOLIE",
+      "hint": "feminine singular of joli"
     },
     {
       "word": "JOUER",
-      "hint": "to play"
+      "hint": "to play (engage in games or play) [with à]; to play (produce music from a musical instrument) [with de]"
+    },
+    {
+      "word": "JOUEUR",
+      "hint": "player"
     },
     {
       "word": "JOUR",
-      "hint": "day"
+      "hint": "day; daylight, light"
+    },
+    {
+      "word": "JOURNALISTE",
+      "hint": "a journalist; an anchor, anchorperson, anchorman or anchorwoman"
+    },
+    {
+      "word": "JURE",
+      "hint": "to swear (to promise by oath); to swear (to say a swear word)"
+    },
+    {
+      "word": "JUSTEMENT",
+      "hint": "precisely, exactly; accurately; just (moments ago, recently), just then"
+    },
+    {
+      "word": "JÉSUS",
+      "hint": "Jesuit"
+    },
+    {
+      "word": "KM",
+      "hint": ""
     },
     {
       "word": "LA",
-      "hint": "the"
+      "hint": "feminine of le: the"
+    },
+    {
+      "word": "LAC",
+      "hint": "lake"
+    },
+    {
+      "word": "LAISSEZ",
+      "hint": "pass (document granting permission to pass or to go and come)"
+    },
+    {
+      "word": "LAIT",
+      "hint": "milk; an individual serving of milk"
+    },
+    {
+      "word": "LANCE",
+      "hint": "a spear, lance; a lancer (a soldier armed with a lance)"
+    },
+    {
+      "word": "LANCER",
+      "hint": "to throw; to start, to launch"
+    },
+    {
+      "word": "LARGE",
+      "hint": "wide, broad; large"
     },
     {
       "word": "LE",
-      "hint": "the"
+      "hint": "the (definite article); the; my, your, etc."
+    },
+    {
+      "word": "LENDEMAIN",
+      "hint": "the day after, the next day, the morrow"
+    },
+    {
+      "word": "LETTRES",
+      "hint": "letter (written character); letter (written message)"
+    },
+    {
+      "word": "LEVER",
+      "hint": "to raise, lift; to rise, stand up"
+    },
+    {
+      "word": "LIEN",
+      "hint": "tie, bond; link"
+    },
+    {
+      "word": "LIEUTENANT",
+      "hint": "lieutenant; deputy, right-hand man, second-in-command"
+    },
+    {
+      "word": "LIEUX",
+      "hint": "place; locus (set of all points whose location satisfies or is determined by one or more specified conditions)"
+    },
+    {
+      "word": "LIMITE",
+      "hint": "limit"
     },
     {
       "word": "LIRE",
-      "hint": "to read"
+      "hint": "to read; to play"
     },
     {
       "word": "LIVRE",
       "hint": "book"
     },
     {
+      "word": "LOGIQUE",
+      "hint": "logic"
+    },
+    {
+      "word": "LOIS",
+      "hint": "plural of loi (“law”)"
+    },
+    {
+      "word": "LONDRES",
+      "hint": ""
+    },
+    {
+      "word": "LOUIS",
+      "hint": "a louis: various gold and silver coins issued by the Kingdom, Republic, and (slang) Empire of France; 20 francs"
+    },
+    {
+      "word": "LU",
+      "hint": "past participle of lire"
+    },
+    {
+      "word": "LUNDI",
+      "hint": "Monday"
+    },
+    {
       "word": "LUNE",
-      "hint": "moon"
+      "hint": "the Moon; any natural satellite of a planet"
+    },
+    {
+      "word": "LUTTE",
+      "hint": "struggle, fight, battle; wrestling"
+    },
+    {
+      "word": "LYCÉE",
+      "hint": "a public secondary school"
     },
     {
       "word": "MA",
-      "hint": "my"
+      "hint": "feminine singular of mon"
+    },
+    {
+      "word": "MACHINE",
+      "hint": "machine, device (clarification of this definition is needed); machine (combination of persons acting together for a common purpose, with the agencies which they use)"
+    },
+    {
+      "word": "MAGASIN",
+      "hint": "shop, store; warehouse, storehouse"
+    },
+    {
+      "word": "MAI",
+      "hint": "May (month)"
+    },
+    {
+      "word": "MAIRE",
+      "hint": "alternative form of maigre"
     },
     {
       "word": "MAISON",
       "hint": "house"
     },
     {
+      "word": "MAISONS",
+      "hint": "house"
+    },
+    {
+      "word": "MALADIE",
+      "hint": "illness, disease"
+    },
+    {
+      "word": "MALGRÉ",
+      "hint": "despite, in spite of; against (one's) will, despite (one's) protest"
+    },
+    {
+      "word": "MALHEUREUSEMENT",
+      "hint": "unfortunately; sadly"
+    },
+    {
+      "word": "MANDAT",
+      "hint": "mandate; postal order, money order"
+    },
+    {
+      "word": "MANGE",
+      "hint": "inflection of manger"
+    },
+    {
       "word": "MANGER",
       "hint": "to eat"
+    },
+    {
+      "word": "MARCHER",
+      "hint": "to walk; to travel; to move; to march"
+    },
+    {
+      "word": "MARDI",
+      "hint": "Tuesday"
+    },
+    {
+      "word": "MARIE",
+      "hint": "married"
+    },
+    {
+      "word": "MARINE",
+      "hint": "feminine singular of marin"
+    },
+    {
+      "word": "MARQUE",
+      "hint": "mark (spot); brand (of a company)"
+    },
+    {
+      "word": "MARS",
+      "hint": "March (month)"
+    },
+    {
+      "word": "MARTIN",
+      "hint": "bird of either the starling family, or of the kingfisher family"
     },
     {
       "word": "MATIN",
       "hint": "morning"
     },
     {
+      "word": "MATIÈRE",
+      "hint": "material (substance of which something is made); matter (material things, things in general)"
+    },
+    {
+      "word": "MATÉRIEL",
+      "hint": "equipment, supplies; hardware"
+    },
+    {
+      "word": "MAX",
+      "hint": ""
+    },
+    {
       "word": "ME",
-      "hint": "me"
+      "hint": "me (direct object); me (indirect object)"
+    },
+    {
+      "word": "MECS",
+      "hint": "plural of mec"
+    },
+    {
+      "word": "MEILLEURS",
+      "hint": "masculine plural of meilleur"
+    },
+    {
+      "word": "MEMBRE",
+      "hint": "member (of a group or organization); limb, member"
+    },
+    {
+      "word": "MEMBRES",
+      "hint": "member (of a group or organization); limb, member"
+    },
+    {
+      "word": "MENACE",
+      "hint": "threat"
     },
     {
       "word": "MER",
-      "hint": "sea"
+      "hint": "sea (large body of water); the ocean (the continuous body of salt water covering a majority of the Earth's surface)"
+    },
+    {
+      "word": "MESSIEURS",
+      "hint": "plural of monsieur"
+    },
+    {
+      "word": "MESURE",
+      "hint": "measure; measurement"
+    },
+    {
+      "word": "MEURTRE",
+      "hint": "murder"
+    },
+    {
+      "word": "MICHAEL",
+      "hint": ""
+    },
+    {
+      "word": "MIDI",
+      "hint": "noon, midday (time of the day at which the sun reaches its highest point); south (cardinal direction)"
+    },
+    {
+      "word": "MILITAIRE",
+      "hint": "military, militaristic"
+    },
+    {
+      "word": "MILLE",
+      "hint": "thousand, one thousand, a thousand"
+    },
+    {
+      "word": "MILLIERS",
+      "hint": "thousand; a number of about a thousand"
+    },
+    {
+      "word": "MILLION",
+      "hint": "million (10)"
+    },
+    {
+      "word": "MINUTE",
+      "hint": "minute (etymology 1, time unit, all same senses)"
+    },
+    {
+      "word": "MM",
+      "hint": "alternative form of MM."
+    },
+    {
+      "word": "MODE",
+      "hint": "fashion, trend"
+    },
+    {
+      "word": "MODÈLE",
+      "hint": "model, example, design; template"
+    },
+    {
+      "word": "MOINDRE",
+      "hint": "comparative degree of petit; lower; less; lesser; superlative degree of petit; the smallest, the slightest, the least"
+    },
+    {
+      "word": "MOMENTS",
+      "hint": "moment (point in time); moment (short period of time)"
+    },
+    {
+      "word": "MONTAGNE",
+      "hint": "mountain; mountain (huge amount)"
+    },
+    {
+      "word": "MONTE",
+      "hint": "copulation; mating season"
+    },
+    {
+      "word": "MONTER",
+      "hint": "to go up, to climb (go to a higher position); to ascend, go higher, go uphill, go upstairs"
+    },
+    {
+      "word": "MONTRÉ",
+      "hint": "watch, wristwatch; display, showcase"
+    },
+    {
+      "word": "MORTE",
+      "hint": "feminine singular of mort"
+    },
+    {
+      "word": "MOTEUR",
+      "hint": "motor, engine [from 1744]; engine"
+    },
+    {
+      "word": "MOUVEMENT",
+      "hint": "movement; motion"
+    },
+    {
+      "word": "MOYENS",
+      "hint": "masculine plural of moyen"
+    },
+    {
+      "word": "MR",
+      "hint": "abbreviation of Monsieur"
+    },
+    {
+      "word": "MUR",
+      "hint": "wall"
+    },
+    {
+      "word": "MÈTRES",
+      "hint": "metre/meter"
+    },
+    {
+      "word": "MÉMOIRE",
+      "hint": "memory"
+    },
+    {
+      "word": "MÉRITE",
+      "hint": "merit (any positive quality)"
+    },
+    {
+      "word": "MÉTIER",
+      "hint": "job, profession, trade; skill, craft"
+    },
+    {
+      "word": "NAISSANCE",
+      "hint": "birth; birth, invention, creation"
+    },
+    {
+      "word": "NATIONAL",
+      "hint": "national"
+    },
+    {
+      "word": "NATIONALE",
+      "hint": "a french National Highway"
     },
     {
       "word": "NE",
-      "hint": "not"
+      "hint": "not (used alone to negate a verb, now chiefly with only a few particular verbs; see usage notes); not, no (used before a verb, with a coordinating negative element usually"
+    },
+    {
+      "word": "NEIGE",
+      "hint": "snow, crystalline frozen precipitation; cocaine, crack"
+    },
+    {
+      "word": "NEZ",
+      "hint": "nose; someone who invents perfumes"
     },
     {
       "word": "NI",
-      "hint": "neither"
+      "hint": "neither; nor"
     },
     {
       "word": "NO",
-      "hint": "no"
+      "hint": "NW; abbreviation of nord-ouest"
+    },
+    {
+      "word": "NOIRE",
+      "hint": "feminine singular of noir"
+    },
+    {
+      "word": "NOIRS",
+      "hint": "black in colour; dark"
+    },
+    {
+      "word": "NOMBREUX",
+      "hint": "numerous, many"
+    },
+    {
+      "word": "NOMS",
+      "hint": "plural of nom"
+    },
+    {
+      "word": "NOTE",
+      "hint": "note (written or spoken); mark (UK), grade (US)"
+    },
+    {
+      "word": "NOTES",
+      "hint": "note (written or spoken); mark (UK), grade (US)"
+    },
+    {
+      "word": "NOURRITURE",
+      "hint": "food, nourishment"
+    },
+    {
+      "word": "NOUVEL",
+      "hint": "newly, recently"
     },
     {
       "word": "NUIT",
       "hint": "night"
     },
     {
+      "word": "NUL",
+      "hint": "no, none; nil, zero"
+    },
+    {
+      "word": "NULLE",
+      "hint": "feminine singular of nul"
+    },
+    {
+      "word": "NÉ",
+      "hint": "to require; to call for"
+    },
+    {
+      "word": "NÉCESSAIRE",
+      "hint": "necessary"
+    },
+    {
+      "word": "OBJECTIF",
+      "hint": "of a material object; objective; objective; impartial"
+    },
+    {
+      "word": "OBJET",
+      "hint": "thing, object; in particular crafted or manufactured thing"
+    },
+    {
+      "word": "OBJETS",
+      "hint": "thing, object; in particular crafted or manufactured thing"
+    },
+    {
+      "word": "OBLIGÉ",
+      "hint": "obligated (required)"
+    },
+    {
+      "word": "OBTENU",
+      "hint": "feminine plural of obtenu"
+    },
+    {
+      "word": "OCCUPE",
+      "hint": "busy; taken; occupied"
+    },
+    {
+      "word": "OCCUPER",
+      "hint": "to occupy, to take up; to employ"
+    },
+    {
+      "word": "OCCUPÉ",
+      "hint": "busy; taken; occupied"
+    },
+    {
+      "word": "OEIL",
+      "hint": "nonstandard spelling of œil"
+    },
+    {
+      "word": "OF",
+      "hint": ""
+    },
+    {
+      "word": "OFFICIER",
+      "hint": "to officiate"
+    },
+    {
+      "word": "OFFRIR",
+      "hint": "to offer; to provide; to give as a gift"
+    },
+    {
       "word": "ON",
-      "hint": "one or we"
+      "hint": "one, people, you, someone (an unspecified individual); we"
+    },
+    {
+      "word": "ONCLE",
+      "hint": "uncle"
+    },
+    {
+      "word": "OPINION",
+      "hint": "opinion (thought, estimation)"
+    },
+    {
+      "word": "OPÉRATION",
+      "hint": "operation (method by which a device performs its function); operation (medical operation)"
+    },
+    {
+      "word": "ORDINATEUR",
+      "hint": "a computer, a computing device. [from 1955]; one who performs an ordination ceremony"
+    },
+    {
+      "word": "ORDRES",
+      "hint": "order (way in which things are arranged); order (group)"
+    },
+    {
+      "word": "ORGANISATION",
+      "hint": "organization"
+    },
+    {
+      "word": "ORIGINE",
+      "hint": "origin (start place); origin (place of creation)"
+    },
+    {
+      "word": "OS",
+      "hint": "bone; snag, hitch"
     },
     {
       "word": "OU",
-      "hint": "or"
+      "hint": "or; either...or"
+    },
+    {
+      "word": "OUBLIE",
+      "hint": "wafer; host"
+    },
+    {
+      "word": "OUEST",
+      "hint": "west"
+    },
+    {
+      "word": "OUVERTE",
+      "hint": "feminine singular of ouvert"
+    },
+    {
+      "word": "OUVERTURE",
+      "hint": "opening; overture"
+    },
+    {
+      "word": "OUVRE",
+      "hint": "can opener"
+    },
+    {
+      "word": "PAGE",
+      "hint": "page (of a book, etc.); page, web page"
     },
     {
       "word": "PAIN",
-      "hint": "bread"
+      "hint": "bread; piece of bread"
+    },
+    {
+      "word": "PAPA",
+      "hint": "papa, a child's father; also as form of address: dad, daddy; pops, any man of roughly fatherly age and appearance"
+    },
+    {
+      "word": "PAPIER",
+      "hint": "paper (A material used for writing or printing on, made from cellulose pulp rolled into thin sheets); paper (official documents)"
+    },
+    {
+      "word": "PARAÎT",
+      "hint": "third-person singular present indicative of paraître"
+    },
+    {
+      "word": "PARC",
+      "hint": "park; playpen (for children)"
+    },
+    {
+      "word": "PARDON",
+      "hint": "excuse me; sorry"
+    },
+    {
+      "word": "PARFAITE",
+      "hint": "feminine singular of parfait"
+    },
+    {
+      "word": "PARFAITEMENT",
+      "hint": "perfectly"
+    },
+    {
+      "word": "PARLENT",
+      "hint": "third-person plural present indicative/subjunctive of parler"
+    },
+    {
+      "word": "PARLES",
+      "hint": "second-person singular present indicative/subjunctive of parler"
+    },
+    {
+      "word": "PAROLE",
+      "hint": "speech, language (the faculty of using spoken language to communicate or express thought, the usage of this faculty, and the words articulated through its use); word(s) utterance,"
+    },
+    {
+      "word": "PAROLES",
+      "hint": "speech, language (the faculty of using spoken language to communicate or express thought, the usage of this faculty, and the words articulated through its use); word(s) utterance,"
+    },
+    {
+      "word": "PARS",
+      "hint": "inflection of partir"
+    },
+    {
+      "word": "PARTAGER",
+      "hint": "to share; to divide up"
+    },
+    {
+      "word": "PARTENAIRE",
+      "hint": "partner"
+    },
+    {
+      "word": "PARTICULIER",
+      "hint": "particular; peculiar"
+    },
+    {
+      "word": "PARTIES",
+      "hint": "feminine plural of parti"
+    },
+    {
+      "word": "PARTIS",
+      "hint": "first/second-person singular past historic of partir"
+    },
+    {
+      "word": "PASSAGE",
+      "hint": "the act of going through a place or event; the time when such an act occurs"
+    },
+    {
+      "word": "PASSÉE",
+      "hint": "feminine singular of passé"
+    },
+    {
+      "word": "PATRON",
+      "hint": "a boss, employer; a head of a group of people, a department, a location, etc."
+    },
+    {
+      "word": "PAUSE",
+      "hint": "pause, break; rest"
+    },
+    {
+      "word": "PAUVRES",
+      "hint": "poor (financially deprived); lacking, scanty"
+    },
+    {
+      "word": "PAYÉ",
+      "hint": "masculine plural of payé"
+    },
+    {
+      "word": "PEAU",
+      "hint": "skin of a person or animal; hide, fur"
+    },
+    {
+      "word": "PENSAIS",
+      "hint": "first/second-person singular imperfect indicative of penser"
+    },
+    {
+      "word": "PENSENT",
+      "hint": "third-person plural present indicative/subjunctive of penser"
+    },
+    {
+      "word": "PENSES",
+      "hint": "masculine plural of pensé"
+    },
+    {
+      "word": "PENSEZ",
+      "hint": "to think, reflect, concentrate one's mind on something [late 10th century in Passion, ed. D'Arco Silvio Avalle, 55]; to think, imagine, believe [late 10th century in Passion, 339]"
+    },
+    {
+      "word": "PENSÉ",
+      "hint": "masculine plural of pensé"
+    },
+    {
+      "word": "PERD",
+      "hint": "first/third-person singular present subjunctive of perdre"
+    },
+    {
+      "word": "PERMET",
+      "hint": "third-person singular present indicative of permettre"
+    },
+    {
+      "word": "PERMETTRE",
+      "hint": "to permit, to allow (to grant permission or access) [with à ‘someone’, along with direct object ‘something’ or de (+ infinitive) ‘to do something’]; to allow, to enable (to"
+    },
+    {
+      "word": "PERMIS",
+      "hint": "permit, licence"
+    },
+    {
+      "word": "PERSONNAGE",
+      "hint": "character (in a play, program, film); person"
+    },
+    {
+      "word": "PERTE",
+      "hint": "loss (clarification of this definition is needed); ruin; undoing"
+    },
+    {
+      "word": "PETER",
+      "hint": ""
+    },
+    {
+      "word": "PETITES",
+      "hint": "feminine plural of petit"
+    },
+    {
+      "word": "PHYSIQUE",
+      "hint": "physical, sportive"
+    },
+    {
+      "word": "PISTE",
+      "hint": "track or trail (left by an animal or person); track (road or other similar beaten path)"
+    },
+    {
+      "word": "PITIÉ",
+      "hint": "pity, mercy"
+    },
+    {
+      "word": "PIÈCES",
+      "hint": "room in a house, etc.; patch"
+    },
+    {
+      "word": "PLAGE",
+      "hint": "beach; range"
+    },
+    {
+      "word": "PLAIT",
+      "hint": "post-1990 spelling of plaît (third-person singular present indicative of plaire)"
+    },
+    {
+      "word": "PLANS",
+      "hint": "masculine plural of plan"
+    },
+    {
+      "word": "PLANÈTE",
+      "hint": "planet"
+    },
+    {
+      "word": "PLAÎT",
+      "hint": "I beg your pardon? come again? (either a request to repeat something one did not hear, or a way to feign not having heard an offensive remark, as a way to register disapproval of"
+    },
+    {
+      "word": "PLEINE",
+      "hint": "feminine singular of plein"
+    },
+    {
+      "word": "PLUIE",
+      "hint": "rain; loads of things"
+    },
+    {
+      "word": "POIDS",
+      "hint": "weight"
+    },
+    {
+      "word": "POISSON",
+      "hint": "fish (marine animal)"
+    },
+    {
+      "word": "PONT",
+      "hint": "bridge; deck"
+    },
+    {
+      "word": "PORT",
+      "hint": "port, harbour; port, harbour city"
+    },
+    {
+      "word": "PORTABLE",
+      "hint": "portable"
+    },
+    {
+      "word": "PORTES",
+      "hint": "lucky charm"
+    },
+    {
+      "word": "POSE",
+      "hint": "installation, the act of laying, putting down (e.g. a building element); pose (posture, way of presenting oneself)"
+    },
+    {
+      "word": "POTE",
+      "hint": "mate (UK), buddy (US)"
+    },
+    {
+      "word": "POURRAIENT",
+      "hint": "third-person plural conditional of pouvoir"
+    },
+    {
+      "word": "POUVAIS",
+      "hint": "first/second-person singular imperfect indicative of pouvoir"
+    },
+    {
+      "word": "POUVOIRS",
+      "hint": "can, to be able to; may (of a choice)"
+    },
+    {
+      "word": "POUVONS",
+      "hint": "first-person plural present indicative of pouvoir"
+    },
+    {
+      "word": "PRATIQUE",
+      "hint": "practical, applied (concerning action or intervention of human will on the real to change it); concrete, practical"
+    },
+    {
+      "word": "PREMIERS",
+      "hint": "masculine plural of premier"
+    },
+    {
+      "word": "PRENEZ",
+      "hint": "inflection of prendre"
+    },
+    {
+      "word": "PRENNENT",
+      "hint": "third-person plural present indicative/subjunctive of prendre"
+    },
+    {
+      "word": "PRESSION",
+      "hint": "pressure; popper (UK), snap (US) (fastener)"
+    },
+    {
+      "word": "PREUVES",
+      "hint": "evidence, proof"
+    },
+    {
+      "word": "PRINCE",
+      "hint": "prince"
+    },
+    {
+      "word": "PRINCESSE",
+      "hint": "princess"
+    },
+    {
+      "word": "PRINCIPAL",
+      "hint": "main, key, principal"
+    },
+    {
+      "word": "PRIVÉ",
+      "hint": "private"
+    },
+    {
+      "word": "PRIVÉE",
+      "hint": "feminine singular of privé"
+    },
+    {
+      "word": "PROCHES",
+      "hint": "close, near, closeby, nearby (to a place); close, near (a time)"
+    },
+    {
+      "word": "PROCÈS",
+      "hint": "lawsuit; trial"
+    },
+    {
+      "word": "PRODUCTION",
+      "hint": "production"
+    },
+    {
+      "word": "PRODUIT",
+      "hint": "feminine singular of produit"
+    },
+    {
+      "word": "PRODUITS",
+      "hint": "feminine singular of produit"
+    },
+    {
+      "word": "PROFITER",
+      "hint": "to take advantage of, make the most of, enjoy [with de]; to be profitable or beneficial [with à]"
+    },
+    {
+      "word": "PROJETS",
+      "hint": "project; plan"
+    },
+    {
+      "word": "PROMIS",
+      "hint": "first/second-person singular past historic of promettre"
+    },
+    {
+      "word": "PROPOSE",
+      "hint": "to propose, suggest; to propose (offer)"
+    },
+    {
+      "word": "PROPRES",
+      "hint": "own; clean"
+    },
+    {
+      "word": "PROPRIÉTAIRE",
+      "hint": "owner (one who owns something)"
+    },
+    {
+      "word": "PROPRIÉTÉ",
+      "hint": "property (something owned); property, attribute"
+    },
+    {
+      "word": "PROTECTION",
+      "hint": "protection; protection (means, such as a condom, of preventing pregnancy or sexually transmitted disease)"
+    },
+    {
+      "word": "PROTÉGER",
+      "hint": "to protect; to protect oneself"
+    },
+    {
+      "word": "PROUVER",
+      "hint": "to prove"
+    },
+    {
+      "word": "PRÉFÈRE",
+      "hint": "favourite"
+    },
+    {
+      "word": "PRÉFÉRÉ",
+      "hint": "favourite"
+    },
+    {
+      "word": "PRÉPARER",
+      "hint": "to prepare; to prepare for"
+    },
+    {
+      "word": "PRÉSENCE",
+      "hint": "presence"
+    },
+    {
+      "word": "PRÉSENTER",
+      "hint": "to present, to introduce; to show, to present"
+    },
+    {
+      "word": "PRÉVU",
+      "hint": "planned, expected"
+    },
+    {
+      "word": "PRÊTE",
+      "hint": "feminine singular of prêt"
+    },
+    {
+      "word": "PRÊTS",
+      "hint": "masculine plural of prêt"
+    },
+    {
+      "word": "PUBLIQUE",
+      "hint": "feminine singular of public"
+    },
+    {
+      "word": "PUISQUE",
+      "hint": "since, because"
+    },
+    {
+      "word": "PUISSANCE",
+      "hint": "power (physical or figuratively); dominion (state within the British Empire)"
+    },
+    {
+      "word": "PUTE",
+      "hint": "whore, slut (prostitute); bitch, slut (promiscuous woman)"
+    },
+    {
+      "word": "PÉRIODE",
+      "hint": "period; as in interval of time; era"
+    },
+    {
+      "word": "QUALITÉ",
+      "hint": "quality"
+    },
+    {
+      "word": "QUANT",
+      "hint": "only used in quant à"
+    },
+    {
+      "word": "QUARTIER",
+      "hint": "quarter, district (part of town), neighbourhood; impoverished neighbourhood, often suburban"
+    },
+    {
+      "word": "QUELLES",
+      "hint": "feminine plural of quel"
+    },
+    {
+      "word": "QUELS",
+      "hint": "masculine plural of quel"
     },
     {
       "word": "QUESTION",
-      "hint": "question"
+      "hint": "question (interrogation by torture); question (sentence, phrase or word which asks for information, reply or response)"
+    },
+    {
+      "word": "QUITTE",
+      "hint": "quits; play quitte, play even, play without winning or losing, a draw"
+    },
+    {
+      "word": "QUITTER",
+      "hint": "to discharge somebody from an obligation; to leave, to quit"
+    },
+    {
+      "word": "QUITTÉ",
+      "hint": "quits; play quitte, play even, play without winning or losing, a draw"
+    },
+    {
+      "word": "RACONTE",
+      "hint": "to recount; to tell; to narrate"
+    },
+    {
+      "word": "RAISONS",
+      "hint": "reason (cause); reason (mental faculties)"
+    },
+    {
+      "word": "RAMENER",
+      "hint": "to take back, bring back, restore; to draw, pull (back)"
+    },
+    {
+      "word": "RAPIDE",
+      "hint": "fast, rapid"
+    },
+    {
+      "word": "RAPIDEMENT",
+      "hint": "speedily; quickly"
+    },
+    {
+      "word": "RAPPELER",
+      "hint": "to call again; to call back; to remind"
+    },
+    {
+      "word": "RARE",
+      "hint": "rare"
+    },
+    {
+      "word": "RECEVOIR",
+      "hint": "to receive; to entertain (to welcome guests)"
+    },
+    {
+      "word": "RECHERCHES",
+      "hint": "research; search"
+    },
+    {
+      "word": "REFUSE",
+      "hint": "refusal, act of refusing"
+    },
+    {
+      "word": "REGARD",
+      "hint": "look, glance; sight, gaze, eyes"
+    },
+    {
+      "word": "REGARDÉ",
+      "hint": "watchable; observable"
+    },
+    {
+      "word": "REINE",
+      "hint": "queen (a female monarch); queen (a reproductive female animal in a hive)"
+    },
+    {
+      "word": "REJOINDRE",
+      "hint": "to join, to join up; to rejoin, join together"
+    },
+    {
+      "word": "RELATIONS",
+      "hint": "relation; relationship"
+    },
+    {
+      "word": "REMARQUÉ",
+      "hint": "remark (comment, something said)"
+    },
+    {
+      "word": "REMETTRE",
+      "hint": "to put back, replace; to put (clothing etc.) back on"
+    },
+    {
+      "word": "RENCONTRÉ",
+      "hint": "encounter; meeting"
+    },
+    {
+      "word": "RENDEZ",
+      "hint": "date; rendezvous"
+    },
+    {
+      "word": "RENDU",
+      "hint": "an instance of rendering, a render; change (money given back)"
+    },
+    {
+      "word": "RENTRE",
+      "hint": "hitting on, chatting up"
+    },
+    {
+      "word": "REPAS",
+      "hint": "meal, repast"
+    },
+    {
+      "word": "REPRENDRE",
+      "hint": "to take back, recover, regain; to take again, take more of, have another helping"
+    },
+    {
+      "word": "REPRÉSENTE",
+      "hint": "inflection of représenter"
+    },
+    {
+      "word": "RESPECT",
+      "hint": "respect"
+    },
+    {
+      "word": "RESPONSABILITÉ",
+      "hint": "responsibility; legal liability"
+    },
+    {
+      "word": "RESSEMBLE",
+      "hint": "resemblance (state of resembling)"
+    },
+    {
+      "word": "RESTAURANT",
+      "hint": "restaurant"
+    },
+    {
+      "word": "RETOURNE",
+      "hint": "to turn over; to turn upside-down; to turn over; to flip"
+    },
+    {
+      "word": "RETOURNER",
+      "hint": "to turn over; to turn upside-down; to turn over; to flip"
+    },
+    {
+      "word": "RETRAITE",
+      "hint": "feminine singular of retrait"
+    },
+    {
+      "word": "RETROUVE",
+      "hint": "to find (again); to rediscover; to remember; to recall"
+    },
+    {
+      "word": "RETROUVÉ",
+      "hint": "to find (again); to rediscover; to remember; to recall"
+    },
+    {
+      "word": "REVENU",
+      "hint": "feminine plural of revenu"
+    },
+    {
+      "word": "REVIENS",
+      "hint": "inflection of revenir"
+    },
+    {
+      "word": "REVIENT",
+      "hint": "third-person singular present indicative of revenir"
+    },
+    {
+      "word": "RICHARD",
+      "hint": "rich man, moneybags, capitalist, bourgeois"
+    },
+    {
+      "word": "RICHE",
+      "hint": "rich (possessing wealth); rich (abundant)"
+    },
+    {
+      "word": "RIDICULE",
+      "hint": "ridiculous (all meanings)"
+    },
+    {
+      "word": "RIRE",
+      "hint": "to laugh [with de ‘something’]"
+    },
+    {
+      "word": "RISQUES",
+      "hint": "risk"
+    },
+    {
+      "word": "RIVIÈRE",
+      "hint": "a river (a large, winding stream that flows into a lake, bay, larger river, etc., but not into an ocean or sea)"
+    },
+    {
+      "word": "ROBE",
+      "hint": "dress, frock; fur, coat (of an animal)"
+    },
+    {
+      "word": "ROBERT",
+      "hint": "tit (human breast)"
+    },
+    {
+      "word": "ROME",
+      "hint": "Roma; Romani (people)"
+    },
+    {
+      "word": "ROSE",
+      "hint": "rose (flower); rose window"
     },
     {
       "word": "ROUGE",
-      "hint": "red"
+      "hint": "red (of a red color); red (left-wing, socialist)"
+    },
+    {
+      "word": "ROYAUME",
+      "hint": "kingdom"
+    },
+    {
+      "word": "RUES",
+      "hint": "plural of rue"
+    },
+    {
+      "word": "RUSSE",
+      "hint": "Russian"
+    },
+    {
+      "word": "RÈGLE",
+      "hint": "rule, regulation; rule, period of ruling"
+    },
+    {
+      "word": "RÉACTION",
+      "hint": "reaction (action in response to an event); reaction (reactionary politics; a period in which reactionary thought or politics is resurgent or dominant)"
+    },
+    {
+      "word": "RÉALISER",
+      "hint": "to direct (a movie); to fulfill (a dream)"
+    },
+    {
+      "word": "RÉALISÉ",
+      "hint": "realization, fulfilment; embodiment"
+    },
+    {
+      "word": "RÉCEMMENT",
+      "hint": "recently"
+    },
+    {
+      "word": "RÉCUPÉRER",
+      "hint": "to get back, to recover, to recuperate; to reform, to rehabilitate"
+    },
+    {
+      "word": "RÉEL",
+      "hint": "real (true, factual, not fictional); real (of a number)"
+    },
+    {
+      "word": "RÉELLEMENT",
+      "hint": "really; genuinely; in fact"
+    },
+    {
+      "word": "RÉFLÉCHIR",
+      "hint": "to reflect; to reflect, to manifest, to show"
+    },
+    {
+      "word": "RÉGION",
+      "hint": "region; area; a political subdivision of France and some other Francophone countries, bigger than a département"
+    },
+    {
+      "word": "RÉGLER",
+      "hint": "to sort out, to settle (a problem, a bill); to set, to adjust"
+    },
+    {
+      "word": "RÉPOND",
+      "hint": "first/third-person singular present subjunctive of répondre"
+    },
+    {
+      "word": "RÉPONDU",
+      "hint": "feminine singular of répondu"
+    },
+    {
+      "word": "RÉPONSES",
+      "hint": "response, answer, reply (a communication); response, reaction (biological or organic process effected by an foreign agent)"
+    },
+    {
+      "word": "RÉSEAU",
+      "hint": "network"
+    },
+    {
+      "word": "RÉSERVE",
+      "hint": "reservation; reserve; stock"
+    },
+    {
+      "word": "RÉSULTAT",
+      "hint": "outcome; result; bottom line"
+    },
+    {
+      "word": "RÉSULTATS",
+      "hint": "outcome; result; bottom line"
+    },
+    {
+      "word": "RÉUNION",
+      "hint": "meeting; set union"
+    },
+    {
+      "word": "RÊVES",
+      "hint": "dream"
     },
     {
       "word": "SA",
-      "hint": "his or her"
+      "hint": "his, her, its, their, one's"
+    },
+    {
+      "word": "SACRÉ",
+      "hint": "sacred, holy; religious"
+    },
+    {
+      "word": "SAINT",
+      "hint": "a male saint; masculine of sainte"
+    },
+    {
+      "word": "SALE",
+      "hint": "dirty; bad, unpleasant"
+    },
+    {
+      "word": "SALON",
+      "hint": "living room; salon"
+    },
+    {
+      "word": "SAMEDI",
+      "hint": "Saturday"
+    },
+    {
+      "word": "SAN",
+      "hint": "san (Greek letter)"
     },
     {
       "word": "SANTE",
       "hint": "health"
     },
     {
+      "word": "SAUVER",
+      "hint": "to save, rescue; to protect; to save"
+    },
+    {
+      "word": "SAVAIT",
+      "hint": "third-person singular imperfect indicative of savoir"
+    },
+    {
+      "word": "SAVENT",
+      "hint": "third-person plural present indicative of savoir"
+    },
+    {
+      "word": "SCIENCE",
+      "hint": "science (field of study, etc.); knowledge"
+    },
+    {
+      "word": "SCIENTIFIQUE",
+      "hint": "scientific"
+    },
+    {
       "word": "SE",
-      "hint": "oneself"
+      "hint": "The third-person reflexive and reciprocal direct and indirect object pronoun.; The second-person plural reflexive and reciprocal direct and indirect object pronoun."
+    },
+    {
+      "word": "SECOND",
+      "hint": "second"
+    },
+    {
+      "word": "SECONDES",
+      "hint": "secondly"
+    },
+    {
+      "word": "SECOURS",
+      "hint": "aid; assistance; help"
+    },
+    {
+      "word": "SECRÉTAIRE",
+      "hint": "secretary"
+    },
+    {
+      "word": "SECTEUR",
+      "hint": "circular sector (part of a circle, extending to the center); sector (field of economic activity)"
+    },
+    {
+      "word": "SENT",
+      "hint": "footpath, track, trail"
+    },
+    {
+      "word": "SENTIMENT",
+      "hint": "a sentiment, general thought, sense or feeling; an opinion"
+    },
+    {
+      "word": "SENTIMENTS",
+      "hint": "sentimental"
+    },
+    {
+      "word": "SENTIR",
+      "hint": "to smell (to have a certain odor); to taste"
+    },
+    {
+      "word": "SEPTEMBRE",
+      "hint": "September"
+    },
+    {
+      "word": "SERAI",
+      "hint": "first/second-person singular conditional of être"
+    },
+    {
+      "word": "SERAIENT",
+      "hint": "first/second-person singular conditional of être"
+    },
+    {
+      "word": "SERT",
+      "hint": "third-person singular present indicative of servir"
+    },
+    {
+      "word": "SERVI",
+      "hint": "first/second-person singular past historic of servir"
+    },
+    {
+      "word": "SERVICES",
+      "hint": "service; cutlery"
+    },
+    {
+      "word": "SERVIR",
+      "hint": "to serve (to help in a shop; to bring a meal to someone); to be used for"
+    },
+    {
+      "word": "SEULS",
+      "hint": "masculine plural of seul"
+    },
+    {
+      "word": "SEXE",
+      "hint": "sex (the biological category); sex (men or women)"
+    },
+    {
+      "word": "SEXY",
+      "hint": "sexy"
     },
     {
       "word": "SI",
-      "hint": "if"
+      "hint": "if, whether; if (assuming that)"
+    },
+    {
+      "word": "SIGNIFIE",
+      "hint": "inflection of signifier"
+    },
+    {
+      "word": "SIGNÉ",
+      "hint": "sign (indicator; indication; mathematical polarity); gesture"
+    },
+    {
+      "word": "SILENCE",
+      "hint": "silence"
+    },
+    {
+      "word": "SITE",
+      "hint": "site; website"
+    },
+    {
+      "word": "SIÈCLE",
+      "hint": "century (period of 100 years)"
+    },
+    {
+      "word": "SIÈGE",
+      "hint": "seat, chair; siege"
+    },
+    {
+      "word": "SOEUR",
+      "hint": "nonstandard spelling of sœur"
+    },
+    {
+      "word": "SOI",
+      "hint": "Designating or reinforcing a reflexive (direct) object or the regime of a preposition; nominative pronoun reinforcing indefinite or very generalized subject; one"
+    },
+    {
+      "word": "SOIN",
+      "hint": "care"
+    },
+    {
+      "word": "SOLDATS",
+      "hint": "soldier"
     },
     {
       "word": "SOLEIL",
-      "hint": "sun"
+      "hint": "sun (star); sunflower"
+    },
+    {
+      "word": "SOLUTION",
+      "hint": "solution"
+    },
+    {
+      "word": "SOMME",
+      "hint": "sum; total"
+    },
+    {
+      "word": "SORS",
+      "hint": "inflection of sortir"
+    },
+    {
+      "word": "SOUHAITE",
+      "hint": "wish (desire; aspiration)"
+    },
+    {
+      "word": "SOURCE",
+      "hint": "source, spring (of water); source, origin (of anything)"
+    },
+    {
+      "word": "SOURIRE",
+      "hint": "to smile"
+    },
+    {
+      "word": "SOUTIEN",
+      "hint": "support (physical); support (psychological/emotional)"
+    },
+    {
+      "word": "SOUVENIR",
+      "hint": "to remember [with de ‘someone/something’; or with que (+ clause) ‘that ...’]"
+    },
+    {
+      "word": "SOUVENIRS",
+      "hint": "to remember [with de ‘someone/something’; or with que (+ clause) ‘that ...’]"
+    },
+    {
+      "word": "SOUVIENS",
+      "hint": "inflection of souvenir"
+    },
+    {
+      "word": "SOYEZ",
+      "hint": "inflection of être"
+    },
+    {
+      "word": "SPECTACLE",
+      "hint": "a show, a spectacle, a performance, a concert; a sight, a showing, a display"
+    },
+    {
+      "word": "SPORT",
+      "hint": "sport"
+    },
+    {
+      "word": "SPÉCIAL",
+      "hint": "special"
+    },
+    {
+      "word": "ST",
+      "hint": "initialism of sous-titrée (“subtitled; a non-French film with French subtitles”)"
+    },
+    {
+      "word": "STAR",
+      "hint": "star (celebrity)"
+    },
+    {
+      "word": "STATION",
+      "hint": "station"
+    },
+    {
+      "word": "STYLE",
+      "hint": "style (manner of doing something); style (of a flower)"
+    },
+    {
+      "word": "SU",
+      "hint": "past participle of savoir: known"
+    },
+    {
+      "word": "SUCCÈS",
+      "hint": "success; achievement"
+    },
+    {
+      "word": "SUIT",
+      "hint": "result; sequel"
+    },
+    {
+      "word": "SUIVANT",
+      "hint": "next, following"
+    },
+    {
+      "word": "SUIVI",
+      "hint": "following; follow-up"
+    },
+    {
+      "word": "SUPERBE",
+      "hint": "superb; excellent, impressive; haughty"
+    },
+    {
+      "word": "SUPPOSE",
+      "hint": "supposable"
+    },
+    {
+      "word": "SURFACE",
+      "hint": "surface"
+    },
+    {
+      "word": "SURPRIS",
+      "hint": "surprised"
+    },
+    {
+      "word": "SURVEILLANCE",
+      "hint": "surveillance; supervision"
+    },
+    {
+      "word": "SYMPA",
+      "hint": "nice; likeable; appealing, attractive"
+    },
+    {
+      "word": "SÉRIEUSEMENT",
+      "hint": "seriously"
+    },
+    {
+      "word": "SÛRE",
+      "hint": "feminine singular of sûr"
+    },
+    {
+      "word": "SÛREMENT",
+      "hint": "surely, certainly; probably"
     },
     {
       "word": "TA",
       "hint": "your"
     },
     {
+      "word": "TABLEAU",
+      "hint": "painting; picture (a captured image)"
+    },
+    {
+      "word": "TAILLE",
+      "hint": "the act of cutting, pruning, trimming; size"
+    },
+    {
+      "word": "TAS",
+      "hint": "heap, pile, a great many; thing"
+    },
+    {
+      "word": "TAUX",
+      "hint": "rate, level"
+    },
+    {
+      "word": "TECHNIQUE",
+      "hint": "technical"
+    },
+    {
+      "word": "TELLE",
+      "hint": "feminine singular of tel"
+    },
+    {
       "word": "TEMPS",
-      "hint": "weather or time"
+      "hint": "time (in general); weather"
+    },
+    {
+      "word": "TENTE",
+      "hint": "tent"
+    },
+    {
+      "word": "TENTER",
+      "hint": "to attempt; to tempt"
+    },
+    {
+      "word": "TENU",
+      "hint": "feminine plural of tenu"
+    },
+    {
+      "word": "TERME",
+      "hint": "terms (conditions); conclusion, end (of a period of time, distance, or journey)"
+    },
+    {
+      "word": "TERMINÉ",
+      "hint": "terminal"
+    },
+    {
+      "word": "TERRIBLE",
+      "hint": "terrible; great, excellent"
+    },
+    {
+      "word": "TERRITOIRE",
+      "hint": "territory; country"
+    },
+    {
+      "word": "TEST",
+      "hint": "test, a cupel or cupelling hearth in which precious metals are melted for trial and refinement; test, the external calciferous shell, or endoskeleton, of an echinoderm"
+    },
+    {
+      "word": "THOMAS",
+      "hint": ""
+    },
+    {
+      "word": "THÉORIE",
+      "hint": "theory; solemn or sacred procession or embassy, especially in ancient Greece"
+    },
+    {
+      "word": "THÉÂTRE",
+      "hint": "theatre (venue for performing plays and drama; performing art form); a movie theater"
+    },
+    {
+      "word": "TIRE",
+      "hint": "Pre-1990 spelling of tirebouchonner."
+    },
+    {
+      "word": "TIRÉ",
+      "hint": "down bow"
+    },
+    {
+      "word": "TITRE",
+      "hint": "heading, title (name of a piece of work); title (extra name bestowed upon somebody)"
+    },
+    {
+      "word": "TO",
+      "hint": "variant of tô"
+    },
+    {
+      "word": "TOM",
+      "hint": "acronym of territoire d'outre-mer (“French overseas territory”)"
+    },
+    {
+      "word": "TOMBE",
+      "hint": "grave; tomb (small building or vault)"
+    },
+    {
+      "word": "TOMBÉ",
+      "hint": "grave; tomb (small building or vault)"
+    },
+    {
+      "word": "TOP",
+      "hint": "top; shirt or garment covering the upper body; a signalling sound; beep"
+    },
+    {
+      "word": "TORT",
+      "hint": "fault; wrong, error"
+    },
+    {
+      "word": "TOTALEMENT",
+      "hint": "totally"
+    },
+    {
+      "word": "TOUCHER",
+      "hint": "the act of touching (see below); a way of touching"
+    },
+    {
+      "word": "TOUCHÉ",
+      "hint": "touch; key (on keyboard), button"
+    },
+    {
+      "word": "TOURNE",
+      "hint": "masculine plural of tourné"
+    },
+    {
+      "word": "TOURNER",
+      "hint": "to turn; to change (direction); to rotate; to spin; to go around; to circle (something)"
+    },
+    {
+      "word": "TRADUCTION",
+      "hint": "translation (the conversion of text from one language to another); translation (the discipline or study of translating written language)"
+    },
+    {
+      "word": "TRAITEMENT",
+      "hint": "treatment (clarification of this definition is needed); processing (clarification of this definition is needed)"
+    },
+    {
+      "word": "TRAITÉ",
+      "hint": "treatise; treaty (between states); an agreement (between a business and a government, or between two businesses)"
+    },
+    {
+      "word": "TRANQUILLE",
+      "hint": "calm, quiet, tranquil, still, peaceful, serene"
     },
     {
       "word": "TRAVAIL",
-      "hint": "work"
+      "hint": "work; labor; job"
+    },
+    {
+      "word": "TRAVAILLÉ",
+      "hint": "masculine plural of travaillé"
+    },
+    {
+      "word": "TRAVAUX",
+      "hint": "plural of travail; roadwork"
+    },
+    {
+      "word": "TRIBUNAL",
+      "hint": "tribunal; court, court of law"
+    },
+    {
+      "word": "TRISTE",
+      "hint": "sad"
+    },
+    {
+      "word": "TROISIÈME",
+      "hint": "third"
+    },
+    {
+      "word": "TROU",
+      "hint": "hole; blank (memory)"
     },
     {
       "word": "TU",
-      "hint": "you"
+      "hint": "you (singular)"
+    },
+    {
+      "word": "TUE",
+      "hint": "inflection of tuer"
+    },
+    {
+      "word": "TYPES",
+      "hint": "type; sort, kind; guy, bloke, man"
+    },
+    {
+      "word": "TÉLÉ",
+      "hint": "TV, telly"
+    },
+    {
+      "word": "TÉMOIN",
+      "hint": "witness; best man"
     },
     {
       "word": "UN",
-      "hint": "a or one"
+      "hint": "an, a"
+    },
+    {
+      "word": "UNION",
+      "hint": "union"
+    },
+    {
+      "word": "UNIQUE",
+      "hint": "unique; only"
+    },
+    {
+      "word": "UNIQUEMENT",
+      "hint": "uniquely; only; exclusively; solely"
+    },
+    {
+      "word": "UNITÉ",
+      "hint": "unity; unit"
+    },
+    {
+      "word": "UNIVERS",
+      "hint": "universe"
+    },
+    {
+      "word": "UNIVERSITÉ",
+      "hint": "university (institution of higher education)"
+    },
+    {
+      "word": "URGENCE",
+      "hint": "emergency, urgency [from 1550; rare before late 18th c.]"
+    },
+    {
+      "word": "USINE",
+      "hint": "factory; mill"
+    },
+    {
+      "word": "UTILE",
+      "hint": "useful"
+    },
+    {
+      "word": "UTILISE",
+      "hint": "used, in use"
+    },
+    {
+      "word": "UTILISÉ",
+      "hint": "used, in use"
     },
     {
       "word": "VA",
-      "hint": "goes"
+      "hint": "\"version anglaise\" — English-language version (EV); a film dubbed in English"
+    },
+    {
+      "word": "VACANCES",
+      "hint": "vacancy; holidays, vacation"
+    },
+    {
+      "word": "VALEUR",
+      "hint": "value, worth; valor, gallantry"
+    },
+    {
+      "word": "VAN",
+      "hint": "a winnowing basket"
+    },
+    {
+      "word": "VENAIT",
+      "hint": "third-person singular imperfect indicative of venir, was coming, came"
+    },
+    {
+      "word": "VENDRE",
+      "hint": "to sell; to sell out (betray)"
+    },
+    {
+      "word": "VENDREDI",
+      "hint": "Friday"
+    },
+    {
+      "word": "VENDU",
+      "hint": "feminine singular of vendu"
+    },
+    {
+      "word": "VENT",
+      "hint": "wind; flatulence"
+    },
+    {
+      "word": "VENTE",
+      "hint": "sale"
+    },
+    {
+      "word": "VENUE",
+      "hint": "coming, arrival"
+    },
+    {
+      "word": "VENUS",
+      "hint": "masculine plural of venu"
+    },
+    {
+      "word": "VERRA",
+      "hint": "third-person singular future of voir; third-person singular past historic of verrer"
+    },
+    {
+      "word": "VERSION",
+      "hint": "version; model (a specific state, variant, or form of something); translation (from a foreign language into one's mother tongue)"
     },
     {
       "word": "VERT",
       "hint": "green"
     },
     {
+      "word": "VIANDE",
+      "hint": "meat; food"
+    },
+    {
+      "word": "VICTIMES",
+      "hint": "victim"
+    },
+    {
+      "word": "VICTOIRE",
+      "hint": "victory; win"
+    },
+    {
+      "word": "VIDE",
+      "hint": "empty; devoid"
+    },
+    {
+      "word": "VIEILLE",
+      "hint": "feminine singular of vieux"
+    },
+    {
+      "word": "VIENNE",
+      "hint": "first/third-person singular present subjunctive of venir"
+    },
+    {
+      "word": "VILLAGE",
+      "hint": "village; town, city"
+    },
+    {
+      "word": "VIN",
+      "hint": "wine"
+    },
+    {
+      "word": "VINGT",
+      "hint": "twenty"
+    },
+    {
+      "word": "VIOLENCE",
+      "hint": "violence; act of violence"
+    },
+    {
+      "word": "VIS",
+      "hint": "screw (metal fastener)"
+    },
+    {
+      "word": "VISION",
+      "hint": "vision, sight"
+    },
+    {
+      "word": "VIT",
+      "hint": "third-person singular past historic of voir"
+    },
+    {
+      "word": "VITESSE",
+      "hint": "speed; gear"
+    },
+    {
+      "word": "VIVANT",
+      "hint": "alive; living"
+    },
+    {
+      "word": "VOITURES",
+      "hint": "car (wheeled vehicle usually pulled by a horse); car (wagon)"
+    },
+    {
+      "word": "VOLER",
+      "hint": "to fly through the air; to pursue flying"
+    },
+    {
+      "word": "VOLONTÉ",
+      "hint": "wish, will"
+    },
+    {
+      "word": "VOTE",
+      "hint": "vote"
+    },
+    {
+      "word": "VOUDRAIS",
+      "hint": "first-person singular conditional of vouloir; second-person singular conditional of vouloir"
+    },
+    {
       "word": "VOYAGER",
-      "hint": "to travel"
+      "hint": "to travel, to voyage"
+    },
+    {
+      "word": "VOYEZ",
+      "hint": "you see"
+    },
+    {
+      "word": "VOYONS",
+      "hint": "first-person plural present indicative of voir; first-person plural imperative of voir"
+    },
+    {
+      "word": "VÉCU",
+      "hint": "feminine plural of vécu"
+    },
+    {
+      "word": "VÉRIFIER",
+      "hint": "to verify"
+    },
+    {
+      "word": "VÉRITABLE",
+      "hint": "veritable"
+    },
+    {
+      "word": "VÊTEMENTS",
+      "hint": "garment, item of clothing; clothes, clothing"
+    },
+    {
+      "word": "WASHINGTON",
+      "hint": ""
+    },
+    {
+      "word": "YOU",
+      "hint": "ululation of celebration, made by women in many North African cultures"
+    },
+    {
+      "word": "ÂME",
+      "hint": "soul; soul, heart, mind"
+    },
+    {
+      "word": "ÉCHANGE",
+      "hint": "exchange"
+    },
+    {
+      "word": "ÉCOUTER",
+      "hint": "to listen; to listen to"
+    },
+    {
+      "word": "ÉCRAN",
+      "hint": "screen"
+    },
+    {
+      "word": "ÉDUCATION",
+      "hint": "education (all meanings); upbringing"
+    },
+    {
+      "word": "ÉLEVÉ",
+      "hint": "high, aloft, perched; high (of birth, manners, standing), noble, superior, distinguished"
+    },
+    {
+      "word": "ÉLÈVES",
+      "hint": "schoolboy, pupil, student; schoolchild, pupil, student"
+    },
+    {
+      "word": "ÉMISSION",
+      "hint": "emission; programme, show"
+    },
+    {
+      "word": "ÉNERGIE",
+      "hint": "energy (quantity that denotes the ability to do work); energy, motivation"
+    },
+    {
+      "word": "ÉNORME",
+      "hint": "enormous, huge"
+    },
+    {
+      "word": "ÉPISODE",
+      "hint": "episode"
+    },
+    {
+      "word": "ÉPOUSE",
+      "hint": "female spouse, wife"
+    },
+    {
+      "word": "ÉTAGE",
+      "hint": "floor, storey; stage, division of a geological period"
+    },
+    {
+      "word": "ÉTOILES",
+      "hint": "star; mullet"
+    },
+    {
+      "word": "ÉTRANGE",
+      "hint": "strange (bizarre, odd, abnormal); foreign"
+    },
+    {
+      "word": "ÉTRANGER",
+      "hint": "foreign; unacquainted"
+    },
+    {
+      "word": "ÉTUDE",
+      "hint": "study (act of studying or examining); study (artwork made in order to practise or demonstrate a subject)"
+    },
+    {
+      "word": "ÉTUDES",
+      "hint": "study (act of studying or examining); study (artwork made in order to practise or demonstrate a subject)"
+    },
+    {
+      "word": "ÉTUDIANTS",
+      "hint": "student"
+    },
+    {
+      "word": "ÉVIDEMMENT",
+      "hint": "of course, evidently, obviously"
+    },
+    {
+      "word": "ÎLE",
+      "hint": "island"
+    },
+    {
+      "word": "ŒIL",
+      "hint": "eye, organ that is sensitive to light, helping organisms to see; glyph, rendering of a single character"
+    },
+    {
+      "word": "ŒUVRE",
+      "hint": "work, book, piece; activity, operation"
     }
   ]
 }

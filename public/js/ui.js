@@ -23,6 +23,8 @@ export const languageNames = {
   de: "German",
   es: "Spanish",
   fr: "French",
+  it: "Italian",
+  ru: "Russian",
 };
 
 export function flagFor(language) {

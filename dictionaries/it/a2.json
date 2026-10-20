@@ -1,0 +1,3607 @@
+{
+  "schemaVersion": 1,
+  "language": "it",
+  "level": "A2",
+  "words": [
+    {
+      "word": "ABBIANO",
+      "hint": "apocopic form of abbiano"
+    },
+    {
+      "word": "ACCANTO",
+      "hint": "nearby; next door"
+    },
+    {
+      "word": "ACCESSO",
+      "hint": "access, admittance, approach; login"
+    },
+    {
+      "word": "ACCETTARE",
+      "hint": "to accept, to admit; to go along with"
+    },
+    {
+      "word": "ADDIO",
+      "hint": "goodbye, farewell"
+    },
+    {
+      "word": "ADDOSSO",
+      "hint": "on (one's person)"
+    },
+    {
+      "word": "ADORO",
+      "hint": "first-person singular present indicative of adorare"
+    },
+    {
+      "word": "AEREO",
+      "hint": "aerial"
+    },
+    {
+      "word": "AFFATTO",
+      "hint": "completely"
+    },
+    {
+      "word": "AFFRONTARE",
+      "hint": "to face or confront; to cope with"
+    },
+    {
+      "word": "AGENTE",
+      "hint": "agent, representative; constable, low rank police officer, from \"polizia\""
+    },
+    {
+      "word": "AGENTI",
+      "hint": "plural of agente"
+    },
+    {
+      "word": "AIUTA",
+      "hint": "compound of aiuta, the second-person singular imperative form of aiutare, with ci"
+    },
+    {
+      "word": "AIUTI",
+      "hint": "reflexive of aiutare; to help oneself"
+    },
+    {
+      "word": "ALBERO",
+      "hint": "tree (all senses); mast"
+    },
+    {
+      "word": "ALCUNA",
+      "hint": "feminine singular of alcuno"
+    },
+    {
+      "word": "ALEX",
+      "hint": ""
+    },
+    {
+      "word": "ALL",
+      "hint": "contraction of a le; to the, at the"
+    },
+    {
+      "word": "ALTEZZA",
+      "hint": "height, altitude, tallness; top, peak, summit"
+    },
+    {
+      "word": "AMA",
+      "hint": "inflection of amare"
+    },
+    {
+      "word": "AMBIENTE",
+      "hint": "environment; sphere or circle (of friends, etc.)"
+    },
+    {
+      "word": "AMERICANI",
+      "hint": "masculine plural of americano"
+    },
+    {
+      "word": "AMERICANO",
+      "hint": "American, United Statesian, US-American, Yankee"
+    },
+    {
+      "word": "AMICIZIA",
+      "hint": "friendship; friends"
+    },
+    {
+      "word": "ANALISI",
+      "hint": "analysis, testing, test; parsing"
+    },
+    {
+      "word": "ANDANDO",
+      "hint": "gerund of andare"
+    },
+    {
+      "word": "ANDATE",
+      "hint": "compound of andate, the second-person plural imperative form of andare, with li"
+    },
+    {
+      "word": "ANDATI",
+      "hint": "masculine plural of andato"
+    },
+    {
+      "word": "ANDAVA",
+      "hint": "third-person singular imperfect indicative of andare"
+    },
+    {
+      "word": "ANDRÀ",
+      "hint": "third-person singular future of andare"
+    },
+    {
+      "word": "ANGELO",
+      "hint": "angel"
+    },
+    {
+      "word": "ANGOLO",
+      "hint": "angle, corner"
+    },
+    {
+      "word": "ANIMA",
+      "hint": "soul; the innermost part of something"
+    },
+    {
+      "word": "ANIMALE",
+      "hint": "animal"
+    },
+    {
+      "word": "ANIMALI",
+      "hint": "animal"
+    },
+    {
+      "word": "ANNA",
+      "hint": "alternative form of andare"
+    },
+    {
+      "word": "ANZI",
+      "hint": "on the contrary; or rather; or better still; or better yet; or even"
+    },
+    {
+      "word": "APERTA",
+      "hint": "feminine singular of aperto"
+    },
+    {
+      "word": "APPARTAMENTO",
+      "hint": "apartment, flat"
+    },
+    {
+      "word": "APPUNTAMENTO",
+      "hint": "appointment, meeting, rendezvous; date, tryst"
+    },
+    {
+      "word": "APRIRE",
+      "hint": "to open; to unlock"
+    },
+    {
+      "word": "AREA",
+      "hint": "area, surface; land, ground"
+    },
+    {
+      "word": "ARGOMENTO",
+      "hint": "topic, matter, subject, issue, point (subject); argument (reason)"
+    },
+    {
+      "word": "ARMA",
+      "hint": "weapon, arms; arm, force"
+    },
+    {
+      "word": "ARRESTATO",
+      "hint": "masculine plural of arrestato"
+    },
+    {
+      "word": "ARRIVANDO",
+      "hint": "gerund of arrivare"
+    },
+    {
+      "word": "ARRIVANO",
+      "hint": "third-person plural present indicative of arrivare"
+    },
+    {
+      "word": "ARRIVATA",
+      "hint": "feminine singular of arrivato"
+    },
+    {
+      "word": "ARRIVATI",
+      "hint": "masculine plural of arrivato"
+    },
+    {
+      "word": "ARTICOLO",
+      "hint": "article; article (in a newspaper, magazine, etc.)"
+    },
+    {
+      "word": "ASCOLTA",
+      "hint": "apocopic form of ascoltare"
+    },
+    {
+      "word": "ASCOLTARE",
+      "hint": "to listen to; to obey"
+    },
+    {
+      "word": "ASPETTANDO",
+      "hint": "gerund of aspettare"
+    },
+    {
+      "word": "ASSIEME",
+      "hint": "together; along"
+    },
+    {
+      "word": "ATTACCO",
+      "hint": "attack, assault; attack, criticism"
+    },
+    {
+      "word": "ATTENTO",
+      "hint": "careful, close, focusing; attentive, intent, watchful, alert"
+    },
+    {
+      "word": "ATTESA",
+      "hint": "feminine singular of atteso"
+    },
+    {
+      "word": "ATTIMO",
+      "hint": "moment, instant, second; bit"
+    },
+    {
+      "word": "ATTIVITÀ",
+      "hint": "activity, operation; activeness, energy"
+    },
+    {
+      "word": "ATTO",
+      "hint": "act, deed; document, deed, certificate"
+    },
+    {
+      "word": "ATTORNO",
+      "hint": "around"
+    },
+    {
+      "word": "AVENDO",
+      "hint": "gerund of avere"
+    },
+    {
+      "word": "AVERLO",
+      "hint": "compound of the infinitive avere with lo"
+    },
+    {
+      "word": "AVESSI",
+      "hint": "first/second-person singular imperfect subjunctive of avere"
+    },
+    {
+      "word": "AVEVAMO",
+      "hint": "first-person plural imperfect indicative of avere"
+    },
+    {
+      "word": "AVEVI",
+      "hint": "second-person singular imperfect indicative of avere"
+    },
+    {
+      "word": "AVRAI",
+      "hint": "second-person singular future of avere"
+    },
+    {
+      "word": "AVREBBERO",
+      "hint": "apocopic form of avrebbero"
+    },
+    {
+      "word": "AVRÀ",
+      "hint": "third-person singular future of avere"
+    },
+    {
+      "word": "AVVOCATO",
+      "hint": "lawyer, counsel, solicitor, barrister (male); advocate, defender, intercessor (male)"
+    },
+    {
+      "word": "AZIENDA",
+      "hint": "firm, company, business, concern, establishment"
+    },
+    {
+      "word": "AZIONE",
+      "hint": "action, deed; share (finance)"
+    },
+    {
+      "word": "AZIONI",
+      "hint": "to activate; to prime"
+    },
+    {
+      "word": "BAMBINA",
+      "hint": "female equivalent of bambino; babe"
+    },
+    {
+      "word": "BANCA",
+      "hint": "bank (financial institution)"
+    },
+    {
+      "word": "BAR",
+      "hint": "bar (place serving drinks); café"
+    },
+    {
+      "word": "BASSO",
+      "hint": "low; short (in height)"
+    },
+    {
+      "word": "BATTAGLIA",
+      "hint": "battle; fight"
+    },
+    {
+      "word": "BE",
+      "hint": "alternative form of bi"
+    },
+    {
+      "word": "BELLE",
+      "hint": "feminine plural of bello"
+    },
+    {
+      "word": "BELLEZZA",
+      "hint": "beauty; loveliness (of a woman)"
+    },
+    {
+      "word": "BELLISSIMA",
+      "hint": "feminine singular of bellissimo"
+    },
+    {
+      "word": "BELLISSIMO",
+      "hint": "superlative degree of bello"
+    },
+    {
+      "word": "BENVENUTO",
+      "hint": "welcome"
+    },
+    {
+      "word": "BERE",
+      "hint": "to drink [auxiliary avere]"
+    },
+    {
+      "word": "BIANCA",
+      "hint": "female equivalent of bianco: white woman; cue ball (more fully bilia bianca)"
+    },
+    {
+      "word": "BIGLIETTO",
+      "hint": "ticket; card"
+    },
+    {
+      "word": "BIRRA",
+      "hint": "beer; beer, glass of beer"
+    },
+    {
+      "word": "BLU",
+      "hint": "blue (color/colour)"
+    },
+    {
+      "word": "BOMBA",
+      "hint": "bomb"
+    },
+    {
+      "word": "BORDO",
+      "hint": "edge, border, margin, hem, rim; side, board"
+    },
+    {
+      "word": "BORSA",
+      "hint": "bag, handbag, purse, briefcase; scholarship, bursary"
+    },
+    {
+      "word": "BRACCIA",
+      "hint": "arm; upper arm"
+    },
+    {
+      "word": "BRACCIO",
+      "hint": "arm; upper arm"
+    },
+    {
+      "word": "BRAVA",
+      "hint": "feminine singular of bravo"
+    },
+    {
+      "word": "BREVE",
+      "hint": "brief, short; narrow"
+    },
+    {
+      "word": "BRUTTA",
+      "hint": "feminine singular of brutto"
+    },
+    {
+      "word": "BRUTTO",
+      "hint": "ugly, bad, nasty"
+    },
+    {
+      "word": "BUONE",
+      "hint": "feminine plural of buono"
+    },
+    {
+      "word": "BUONGIORNO",
+      "hint": "good day; good morning"
+    },
+    {
+      "word": "BUONI",
+      "hint": "masculine plural of buono"
+    },
+    {
+      "word": "CACCIA",
+      "hint": "hunting; shooting; look out"
+    },
+    {
+      "word": "CADERE",
+      "hint": "to fall; to fall over, tumble"
+    },
+    {
+      "word": "CADUTA",
+      "hint": "fall (act of falling); drop (i.e. temperature drop)"
+    },
+    {
+      "word": "CAFFÈ",
+      "hint": "coffee (plant and drink); café"
+    },
+    {
+      "word": "CALCIO",
+      "hint": "a kick (with the foot); association football, soccer"
+    },
+    {
+      "word": "CALDO",
+      "hint": "warm, hot"
+    },
+    {
+      "word": "CALMA",
+      "hint": "calm, stillness, peacefulness; tranquility, peace and quiet"
+    },
+    {
+      "word": "CAMBIA",
+      "hint": "compound of cambia, the second-person singular imperative form of cambiare, with lo"
+    },
+    {
+      "word": "CAMBIO",
+      "hint": "exchange; change"
+    },
+    {
+      "word": "CAMPAGNA",
+      "hint": "rural area: country, countryside; cultivated land: farmland, land"
+    },
+    {
+      "word": "CAMPIONE",
+      "hint": "champion, ace, master; sample, specimen"
+    },
+    {
+      "word": "CANCRO",
+      "hint": "cancer"
+    },
+    {
+      "word": "CANI",
+      "hint": "plural of cane"
+    },
+    {
+      "word": "CAPACE",
+      "hint": "large, capacious; able, capable, clever"
+    },
+    {
+      "word": "CAPISCE",
+      "hint": "third-person singular present indicative of capire"
+    },
+    {
+      "word": "CAPISCI",
+      "hint": "to understand [auxiliary avere]; to fit, to be contained [auxiliary avere]"
+    },
+    {
+      "word": "CARA",
+      "hint": "feminine singular of caro"
+    },
+    {
+      "word": "CARICA",
+      "hint": "position; load"
+    },
+    {
+      "word": "CARICO",
+      "hint": "loaded, laden; loaded (of a gun, etc.)"
+    },
+    {
+      "word": "CARINO",
+      "hint": "nice; cute"
+    },
+    {
+      "word": "CARNE",
+      "hint": "meat, flesh"
+    },
+    {
+      "word": "CARO",
+      "hint": "dear (beloved, or in the salutation of a letter), sweetheart; dear, precious, expensive"
+    },
+    {
+      "word": "CARRIERA",
+      "hint": "career; the fastest gait (both senses)"
+    },
+    {
+      "word": "CARTE",
+      "hint": "plural of carta"
+    },
+    {
+      "word": "CASE",
+      "hint": "plural of casa"
+    },
+    {
+      "word": "CASINO",
+      "hint": "brothel; mess"
+    },
+    {
+      "word": "CATTIVO",
+      "hint": "bad; wicked, naughty"
+    },
+    {
+      "word": "CAVALLO",
+      "hint": "horse; horsepower (unit of measure)"
+    },
+    {
+      "word": "CAVOLO",
+      "hint": "cabbage; euphemistic form of cazzo; the frick, the heck"
+    },
+    {
+      "word": "CELLULARE",
+      "hint": "cellular"
+    },
+    {
+      "word": "CENTO",
+      "hint": "hundred, one hundred"
+    },
+    {
+      "word": "CENTRALE",
+      "hint": "central; main"
+    },
+    {
+      "word": "CERCATO",
+      "hint": "masculine plural of cercato"
+    },
+    {
+      "word": "CERCHI",
+      "hint": "reflexive of cercare; to make an effort to do something"
+    },
+    {
+      "word": "CERCO",
+      "hint": "looked for; past participle of cercare"
+    },
+    {
+      "word": "CERTA",
+      "hint": "feminine singular of certo"
+    },
+    {
+      "word": "CERTAMENTE",
+      "hint": "certainly, definitely, surely, of course"
+    },
+    {
+      "word": "CERTE",
+      "hint": "feminine plural of certo"
+    },
+    {
+      "word": "CERTI",
+      "hint": "masculine plural of certo"
+    },
+    {
+      "word": "CERVELLO",
+      "hint": "cerebrum; brain"
+    },
+    {
+      "word": "CHIAMANO",
+      "hint": "third-person plural present indicative of chiamare"
+    },
+    {
+      "word": "CHIAMARE",
+      "hint": "to call; to telephone"
+    },
+    {
+      "word": "CHIAMO",
+      "hint": "reflexive of chiamare; to be called or named"
+    },
+    {
+      "word": "CHIARAMENTE",
+      "hint": "clearly, plainly, distinctly, accurately, tersely; obviously, evidently"
+    },
+    {
+      "word": "CHIAVE",
+      "hint": "key; spanner/wrench"
+    },
+    {
+      "word": "CHIEDE",
+      "hint": "to ask (for); to ask, request"
+    },
+    {
+      "word": "CHIEDENDO",
+      "hint": "gerund of chiedere"
+    },
+    {
+      "word": "CHIUDERE",
+      "hint": "to close, to shut; to close [auxiliary avere]"
+    },
+    {
+      "word": "CHIUSA",
+      "hint": "enclosure (in a field etc.); sluice"
+    },
+    {
+      "word": "CHIUSO",
+      "hint": "feminine plural of chiuso"
+    },
+    {
+      "word": "CINEMA",
+      "hint": "cinema; cinema, movie theater, film theatre"
+    },
+    {
+      "word": "CINESE",
+      "hint": "Chinese"
+    },
+    {
+      "word": "CITTADINI",
+      "hint": "town, city; civic, urban"
+    },
+    {
+      "word": "CIVILE",
+      "hint": "civil; civilian"
+    },
+    {
+      "word": "CLIENTE",
+      "hint": "customer; guest (in a hotel)"
+    },
+    {
+      "word": "CLIENTI",
+      "hint": "plural of cliente"
+    },
+    {
+      "word": "CLUB",
+      "hint": "club (an association of members joining together for some common purpose, especially sports or recreation); club (an implement to hit the ball in certain ball games, such as golf)"
+    },
+    {
+      "word": "COI",
+      "hint": "contraction of con i; with the"
+    },
+    {
+      "word": "COLAZIONE",
+      "hint": "breakfast; lunch"
+    },
+    {
+      "word": "COLLEGA",
+      "hint": "colleague"
+    },
+    {
+      "word": "COLLO",
+      "hint": "neck (all senses); collar"
+    },
+    {
+      "word": "COLORE",
+      "hint": "color/colour; hue"
+    },
+    {
+      "word": "COLORO",
+      "hint": "they; them"
+    },
+    {
+      "word": "COLPITO",
+      "hint": "masculine plural of colpito"
+    },
+    {
+      "word": "COMANDANTE",
+      "hint": "commander, commandant; captain (of a boat or plane)"
+    },
+    {
+      "word": "COMANDO",
+      "hint": "order, command; command, charge, leadership"
+    },
+    {
+      "word": "COMBATTERE",
+      "hint": "to fight; to combat; to agitate or stir"
+    },
+    {
+      "word": "COMINCIA",
+      "hint": "to begin, to start, to commence, to set about"
+    },
+    {
+      "word": "COMINCIARE",
+      "hint": "to begin, to start, to commence, to set about"
+    },
+    {
+      "word": "COMINCIATO",
+      "hint": "to begin, to start, to commence, to set about"
+    },
+    {
+      "word": "COMMISSIONE",
+      "hint": "commission, committee, board (body of officials); commission, fee, charge (fee)"
+    },
+    {
+      "word": "COMPAGNI",
+      "hint": "plural of compagno"
+    },
+    {
+      "word": "COMPAGNO",
+      "hint": "alike, like, similar, the same"
+    },
+    {
+      "word": "COMPITO",
+      "hint": "to spell or spell out by slowly pronouncing; to read with difficulty"
+    },
+    {
+      "word": "COMPLEANNO",
+      "hint": "birthday"
+    },
+    {
+      "word": "COMPLETO",
+      "hint": "complete, entire, full, whole; complete, absolute, total"
+    },
+    {
+      "word": "COMPORTAMENTO",
+      "hint": "behaviour/behavior, conduct, ways, actions"
+    },
+    {
+      "word": "COMPRARE",
+      "hint": "to buy"
+    },
+    {
+      "word": "COMPRATO",
+      "hint": "feminine singular of comprato"
+    },
+    {
+      "word": "COMPUTER",
+      "hint": "computer (calculating device)"
+    },
+    {
+      "word": "CONDIZIONI",
+      "hint": "to package, wrap up, etc. for shipment; to provision the appropriate amount of humidity for the fabric to be subjected to further processing"
+    },
+    {
+      "word": "CONFRONTI",
+      "hint": "to compare; to collate"
+    },
+    {
+      "word": "CONOSCE",
+      "hint": "compound of the infinitive conoscere with li"
+    },
+    {
+      "word": "CONOSCENZA",
+      "hint": "knowledge, cognition; acquaintance"
+    },
+    {
+      "word": "CONOSCI",
+      "hint": "to know (a person or place), to meet (a person), to experience; to recognise/recognize"
+    },
+    {
+      "word": "CONOSCIUTO",
+      "hint": "superlative degree of conosciuto (“very well-known”)"
+    },
+    {
+      "word": "CONSIDERATO",
+      "hint": "prudent, cautious, careful; esteemed"
+    },
+    {
+      "word": "CONTA",
+      "hint": "count, counting; counting-out game"
+    },
+    {
+      "word": "CONTATTO",
+      "hint": "contact (all senses)"
+    },
+    {
+      "word": "CONTENTO",
+      "hint": "satisfied, pleased; content, happy"
+    },
+    {
+      "word": "CONTI",
+      "hint": "plural of conto; plural of conte"
+    },
+    {
+      "word": "CONTINUARE",
+      "hint": "to continue, to keep on doing (an action); to continue, to resume (an action)"
+    },
+    {
+      "word": "CONTINUO",
+      "hint": "continuous"
+    },
+    {
+      "word": "CONTRARIO",
+      "hint": "contrary, opposite, alien; unfavourable/unfavorable, adverse"
+    },
+    {
+      "word": "CONTRATTO",
+      "hint": "masculine plural of contratto"
+    },
+    {
+      "word": "CONTROLLARE",
+      "hint": "to check, verify, inspect, examine; to supervise, watch"
+    },
+    {
+      "word": "CONVINTO",
+      "hint": "fervent, keen, sure, true blue; convinced, persuaded"
+    },
+    {
+      "word": "COPERTURA",
+      "hint": "covering; roofing"
+    },
+    {
+      "word": "COPPIA",
+      "hint": "couple (people); pair"
+    },
+    {
+      "word": "CORAGGIO",
+      "hint": "courage, bravery, valour/valor"
+    },
+    {
+      "word": "CORRENTE",
+      "hint": "running (of water); current, valid (in use)"
+    },
+    {
+      "word": "CORRERE",
+      "hint": "to run [auxiliary essere or avere] (see above); to hurry, to rush [auxiliary essere or avere] (see above)"
+    },
+    {
+      "word": "CORSA",
+      "hint": "run, running; race, racing"
+    },
+    {
+      "word": "CORTE",
+      "hint": "courtyard; court"
+    },
+    {
+      "word": "COSTA",
+      "hint": "meanings related to the literal sense; a cut of meat"
+    },
+    {
+      "word": "COSTRUIRE",
+      "hint": "to build, construct; to plan, frame"
+    },
+    {
+      "word": "CREARE",
+      "hint": "to create; to appoint"
+    },
+    {
+      "word": "CREATO",
+      "hint": "creationism"
+    },
+    {
+      "word": "CREDE",
+      "hint": "third-person singular present indicative of credere"
+    },
+    {
+      "word": "CREDI",
+      "hint": "compound of credi, the second-person singular imperative form of credere, with ti"
+    },
+    {
+      "word": "CREDITO",
+      "hint": "credit (all senses)"
+    },
+    {
+      "word": "CRESCERE",
+      "hint": "to grow, to increase, to expand [auxiliary essere]; to progress [auxiliary essere]"
+    },
+    {
+      "word": "CRIMINE",
+      "hint": "crime"
+    },
+    {
+      "word": "CRISI",
+      "hint": "crisis; fit (epileptic)"
+    },
+    {
+      "word": "CUCINA",
+      "hint": "kitchen; cooking, cookery, cuisine, food"
+    },
+    {
+      "word": "DALLO",
+      "hint": "contraction of da lo; from the"
+    },
+    {
+      "word": "DANDO",
+      "hint": "gerund of dare"
+    },
+    {
+      "word": "DANNI",
+      "hint": "plural of danno"
+    },
+    {
+      "word": "DATE",
+      "hint": "plural of data"
+    },
+    {
+      "word": "DAVID",
+      "hint": ""
+    },
+    {
+      "word": "DEBBA",
+      "hint": "first/second/third-person singular present subjunctive of dovere"
+    },
+    {
+      "word": "DEBITO",
+      "hint": "due, proper"
+    },
+    {
+      "word": "DECIDERE",
+      "hint": "to decide (on), to fix, to arrange, to determine; to choose, to decide (on)"
+    },
+    {
+      "word": "DECISAMENTE",
+      "hint": "decidedly, definitely, positively, strongly, indeed; decisively, resolutely"
+    },
+    {
+      "word": "DECISIONE",
+      "hint": "decision; decisiveness"
+    },
+    {
+      "word": "DENARO",
+      "hint": "money; denier"
+    },
+    {
+      "word": "DENTI",
+      "hint": "plural of dente"
+    },
+    {
+      "word": "DESIDERIO",
+      "hint": "wish, desire, longing"
+    },
+    {
+      "word": "DESTINO",
+      "hint": "destiny, fate; destination"
+    },
+    {
+      "word": "DETTAGLI",
+      "hint": "to detail; to give details [auxiliary avere]"
+    },
+    {
+      "word": "DIAVOLO",
+      "hint": "devil, demon, fiend, Satan; devil, devilish person (evil person)"
+    },
+    {
+      "word": "DICA",
+      "hint": "It can be said; it may be said"
+    },
+    {
+      "word": "DICEVA",
+      "hint": "third-person singular imperfect indicative of dire"
+    },
+    {
+      "word": "DICHIARAZIONE",
+      "hint": "declaration, announcement, statement, remark; bid, bidding (in card games)"
+    },
+    {
+      "word": "DICIAMO",
+      "hint": "compound of diciamo, the first-person plural imperative form of dire, with gli"
+    },
+    {
+      "word": "DIFESA",
+      "hint": "feminine singular of difeso"
+    },
+    {
+      "word": "DIMENTICARE",
+      "hint": "to forget"
+    },
+    {
+      "word": "DIMENTICATO",
+      "hint": "forgotten; godforsaken"
+    },
+    {
+      "word": "DIPARTIMENTO",
+      "hint": "department, district"
+    },
+    {
+      "word": "DIPENDE",
+      "hint": "to depend (on something), to be up to (someone), to hang (on), to come from, to be due to; to be dependent on, to depend on, to rely on"
+    },
+    {
+      "word": "DIRETTA",
+      "hint": "feminine singular of diretto"
+    },
+    {
+      "word": "DIRETTAMENTE",
+      "hint": "directly; straight, direct"
+    },
+    {
+      "word": "DIRETTO",
+      "hint": "direct, straight, immediate; addressed, intended"
+    },
+    {
+      "word": "DIREZIONE",
+      "hint": "direction, way, course; direction, management, supervision, leadership, control"
+    },
+    {
+      "word": "DIRITTI",
+      "hint": "masculine plural of diritto"
+    },
+    {
+      "word": "DIRLO",
+      "hint": "compound of the infinitive dire with lo"
+    },
+    {
+      "word": "DIRTI",
+      "hint": "compound of the infinitive dire with ti"
+    },
+    {
+      "word": "DISCORSO",
+      "hint": "speech, address, discourse; talk, conversation"
+    },
+    {
+      "word": "DISCUSSIONE",
+      "hint": "discussion; argument"
+    },
+    {
+      "word": "DISCUTERE",
+      "hint": "to discuss, debate, moot, question; to argue"
+    },
+    {
+      "word": "DISSE",
+      "hint": "dissing"
+    },
+    {
+      "word": "DISTANZA",
+      "hint": "distance, interval"
+    },
+    {
+      "word": "DITE",
+      "hint": "compound of dite, the second-person plural imperative form of dire, with li"
+    },
+    {
+      "word": "DIVENTA",
+      "hint": "to become (rich, dry, a doctor, etc.), to go (crazy, etc.), to turn (red, blue, etc.)"
+    },
+    {
+      "word": "DIVENTATA",
+      "hint": "feminine singular of diventato"
+    },
+    {
+      "word": "DIVENTATO",
+      "hint": "masculine plural of diventato"
+    },
+    {
+      "word": "DIVERSA",
+      "hint": "feminine singular of diverso"
+    },
+    {
+      "word": "DIVERTENTE",
+      "hint": "funny, amusing, entertaining, fun; whimsical, playful"
+    },
+    {
+      "word": "DOCUMENTI",
+      "hint": "to document"
+    },
+    {
+      "word": "DOLCE",
+      "hint": "sweet; gentle, mild"
+    },
+    {
+      "word": "DOMENICA",
+      "hint": "Sunday"
+    },
+    {
+      "word": "DON",
+      "hint": "Father (a title given to priests); A title of respect to a man (historically, also the title of the lowest ranked nobles in Southern Italy): sir"
+    },
+    {
+      "word": "DOPPIO",
+      "hint": "two; double, dual; two-faced, double-dealing"
+    },
+    {
+      "word": "DORMIRE",
+      "hint": "to sleep; to be inactive, to not be doing anything, to fall asleep, to stand there and watch"
+    },
+    {
+      "word": "DOTTOR",
+      "hint": "apocopic form of Dottore; used before a personal name"
+    },
+    {
+      "word": "DOTTORE",
+      "hint": "doctor; doctor (one skilled in a profession or a branch of knowledge; a learned man), graduate, Mr"
+    },
+    {
+      "word": "DOVER",
+      "hint": "apocopic form of dovere"
+    },
+    {
+      "word": "DOVERE",
+      "hint": "to owe; to have to do something (must)"
+    },
+    {
+      "word": "DOVESSE",
+      "hint": "to owe; to have to do something (must)"
+    },
+    {
+      "word": "DOVETE",
+      "hint": "to owe; to have to do something (must)"
+    },
+    {
+      "word": "DOVREBBERO",
+      "hint": "third-person plural conditional of dovere"
+    },
+    {
+      "word": "DOVREMMO",
+      "hint": "first-person plural conditional of dovere"
+    },
+    {
+      "word": "DOVRESTI",
+      "hint": "second-person singular conditional of dovere"
+    },
+    {
+      "word": "DOVRÀ",
+      "hint": "third-person singular future of dovere"
+    },
+    {
+      "word": "DROGA",
+      "hint": "spice; a natural (animal, vegetal or mineral) drug"
+    },
+    {
+      "word": "DUBBIO",
+      "hint": "doubtful, uncertain, dubious, questionable"
+    },
+    {
+      "word": "DURA",
+      "hint": "feminine singular of duro"
+    },
+    {
+      "word": "DURO",
+      "hint": "hard; tough, harsh"
+    },
+    {
+      "word": "DÀ",
+      "hint": "third-person singular present indicative of dare; alternative form of dare"
+    },
+    {
+      "word": "EDIFICIO",
+      "hint": "building; organisation"
+    },
+    {
+      "word": "EFFETTO",
+      "hint": "effect (in all senses); appearance, show (the way something looks out)"
+    },
+    {
+      "word": "EGLI",
+      "hint": "he"
+    },
+    {
+      "word": "EHI",
+      "hint": "hey! (used to attract someone's attention)"
+    },
+    {
+      "word": "EMERGENZA",
+      "hint": "emergency; emergence"
+    },
+    {
+      "word": "ENERGIA",
+      "hint": "energy"
+    },
+    {
+      "word": "ENORME",
+      "hint": "huge, enormous, immense, great"
+    },
+    {
+      "word": "ENTRAMBE",
+      "hint": "feminine of entrambi: both"
+    },
+    {
+      "word": "ENTRATA",
+      "hint": "the act of entering; entry, entrance, arrival, admission; a place by which to enter; entrance, entry, way in, gateway"
+    },
+    {
+      "word": "ENTRATO",
+      "hint": "masculine plural of entrato"
+    },
+    {
+      "word": "EPISODIO",
+      "hint": "episode"
+    },
+    {
+      "word": "EPPURE",
+      "hint": "and yet, but, all the same, still"
+    },
+    {
+      "word": "ERAVAMO",
+      "hint": "apocopic form of eravamo"
+    },
+    {
+      "word": "ERI",
+      "hint": "second-person singular imperfect indicative of essere"
+    },
+    {
+      "word": "ERRORI",
+      "hint": "plural of errore"
+    },
+    {
+      "word": "ESAME",
+      "hint": "examination, test; examination, exam (school)"
+    },
+    {
+      "word": "ESATTO",
+      "hint": "exact, correct, right; precise, accurate, diligent"
+    },
+    {
+      "word": "ESCE",
+      "hint": "third-person singular present indicative of uscire"
+    },
+    {
+      "word": "ESERCITO",
+      "hint": "army; host (many people)"
+    },
+    {
+      "word": "ESISTONO",
+      "hint": "third-person plural present and indicative of esistere"
+    },
+    {
+      "word": "ESSERCI",
+      "hint": "to be at a place, to be there; there be, it to be (with the subject, typically after the verb, as what there is); to take place; to occur (of an event, phenomenon, etc.)"
+    },
+    {
+      "word": "EST",
+      "hint": "east"
+    },
+    {
+      "word": "ESTATE",
+      "hint": "summer"
+    },
+    {
+      "word": "ETÀ",
+      "hint": "age (number of years in someone's life); age, era, period"
+    },
+    {
+      "word": "EUROPA",
+      "hint": ""
+    },
+    {
+      "word": "EVENTI",
+      "hint": "plural of evento"
+    },
+    {
+      "word": "EVENTO",
+      "hint": "event"
+    },
+    {
+      "word": "EVITARE",
+      "hint": "to avoid, shy away from; to dodge"
+    },
+    {
+      "word": "FACILMENTE",
+      "hint": "easily; probably"
+    },
+    {
+      "word": "FAME",
+      "hint": "hunger"
+    },
+    {
+      "word": "FAMIGLIE",
+      "hint": "plural of famiglia"
+    },
+    {
+      "word": "FAMOSO",
+      "hint": "famous, well-known, renowned; infamous, notorious"
+    },
+    {
+      "word": "FAN",
+      "hint": "fan (admirer or follower)"
+    },
+    {
+      "word": "FANTASTICO",
+      "hint": "fantastic (of or pertaining to fantasy); fabulous, imaginary, imaginative, fantastic"
+    },
+    {
+      "word": "FARANNO",
+      "hint": "third-person plural future of fare"
+    },
+    {
+      "word": "FARCI",
+      "hint": "compound of the infinitive fare with ci; to simulate; to act; to pretend"
+    },
+    {
+      "word": "FAREBBE",
+      "hint": "third-person singular conditional of fare"
+    },
+    {
+      "word": "FAREI",
+      "hint": "first-person singular conditional of fare"
+    },
+    {
+      "word": "FAREMO",
+      "hint": "apocopic form of faremo"
+    },
+    {
+      "word": "FARLA",
+      "hint": "to make a fool of [with a]; to defecate"
+    },
+    {
+      "word": "FARSI",
+      "hint": "reflexive of fare; to become"
+    },
+    {
+      "word": "FARÒ",
+      "hint": "first-person singular future of fare"
+    },
+    {
+      "word": "FASE",
+      "hint": "phase, stage, period, level, degree, step; stroke"
+    },
+    {
+      "word": "FATTE",
+      "hint": "feminine plural of fatto"
+    },
+    {
+      "word": "FECE",
+      "hint": "third-person singular past historic of fare"
+    },
+    {
+      "word": "FEDE",
+      "hint": "faith, belief; creed, convictions"
+    },
+    {
+      "word": "FELICI",
+      "hint": "plural of felice"
+    },
+    {
+      "word": "FERMA",
+      "hint": "service, draft; pointing"
+    },
+    {
+      "word": "FERMARE",
+      "hint": "to stop, arrest; to hold"
+    },
+    {
+      "word": "FERMO",
+      "hint": "still; firm"
+    },
+    {
+      "word": "FIANCO",
+      "hint": "flank, haunch (part of the body); side"
+    },
+    {
+      "word": "FIDUCIA",
+      "hint": "trust, faith; confidence"
+    },
+    {
+      "word": "FILA",
+      "hint": "line, rank; row, course (a row of bricks or blocks)"
+    },
+    {
+      "word": "FILE",
+      "hint": "file"
+    },
+    {
+      "word": "FINALE",
+      "hint": "final, ending"
+    },
+    {
+      "word": "FINESTRA",
+      "hint": "window"
+    },
+    {
+      "word": "FINISCE",
+      "hint": "third-person singular present indicative of finire"
+    },
+    {
+      "word": "FINITA",
+      "hint": "feminine singular of finito"
+    },
+    {
+      "word": "FINTA",
+      "hint": "feminine singular of finto"
+    },
+    {
+      "word": "FIORI",
+      "hint": "flower, bloom, blossom; surface"
+    },
+    {
+      "word": "FIUME",
+      "hint": "river"
+    },
+    {
+      "word": "FONDI",
+      "hint": "masculine plural of fondo"
+    },
+    {
+      "word": "FONTE",
+      "hint": "source, spring (where a body of water emerges); source or fount (supplier)"
+    },
+    {
+      "word": "FORTI",
+      "hint": "plural of forte"
+    },
+    {
+      "word": "FORZE",
+      "hint": "force; strength"
+    },
+    {
+      "word": "FOSSI",
+      "hint": "plural of fosso"
+    },
+    {
+      "word": "FRANCESE",
+      "hint": "French (of, from or relating to France); French (Of or relating to the French language)"
+    },
+    {
+      "word": "FRANCIA",
+      "hint": ""
+    },
+    {
+      "word": "FRANK",
+      "hint": ""
+    },
+    {
+      "word": "FRATELLI",
+      "hint": "brother, sibling; brother (member of a religious community or church)"
+    },
+    {
+      "word": "FRATTEMPO",
+      "hint": "meantime"
+    },
+    {
+      "word": "FREDDO",
+      "hint": "cold"
+    },
+    {
+      "word": "FREGA",
+      "hint": "compound of frega, the second-person singular imperative form of fregare, with gli"
+    },
+    {
+      "word": "FRETTA",
+      "hint": "hurry, haste, rush"
+    },
+    {
+      "word": "FUGA",
+      "hint": "flight, escape; leak, leakage"
+    },
+    {
+      "word": "FURONO",
+      "hint": "apocopic form of furono"
+    },
+    {
+      "word": "GAMBE",
+      "hint": "plural of gamba"
+    },
+    {
+      "word": "GARA",
+      "hint": "competition (the act of competing); competition; contest; event; race"
+    },
+    {
+      "word": "GAS",
+      "hint": "gas (state of matter, petroleum); carbon dioxide (in fizzy drinks)"
+    },
+    {
+      "word": "GENIO",
+      "hint": "genius; spirit, genie"
+    },
+    {
+      "word": "GENTILE",
+      "hint": "kind, courteous; gentle"
+    },
+    {
+      "word": "GEORGE",
+      "hint": ""
+    },
+    {
+      "word": "GERMANIA",
+      "hint": ""
+    },
+    {
+      "word": "GESTIRE",
+      "hint": "to manage, run or administer"
+    },
+    {
+      "word": "GESÙ",
+      "hint": "Jesus!"
+    },
+    {
+      "word": "GIA",
+      "hint": ""
+    },
+    {
+      "word": "GIARDINO",
+      "hint": "garden"
+    },
+    {
+      "word": "GIOCHI",
+      "hint": "to play, specifically; to respond to bait (of birds)"
+    },
+    {
+      "word": "GIOIA",
+      "hint": "joy, delight; synonym of gioiello (“jewel”)"
+    },
+    {
+      "word": "GIORNALE",
+      "hint": "newspaper (publication); newspaper office"
+    },
+    {
+      "word": "GIORNALI",
+      "hint": "newspaper (publication); newspaper office"
+    },
+    {
+      "word": "GIUDICE",
+      "hint": "judge, magistrate; umpire, judge"
+    },
+    {
+      "word": "GIURO",
+      "hint": "oath, promise, resolution"
+    },
+    {
+      "word": "GIUSTIZIA",
+      "hint": "justice, fairness, equity; law, justice, law enforcement"
+    },
+    {
+      "word": "GRATIS",
+      "hint": "for free, gratis"
+    },
+    {
+      "word": "GRAVE",
+      "hint": "grave, serious; heavy"
+    },
+    {
+      "word": "GROSSO",
+      "hint": "big, large; fat"
+    },
+    {
+      "word": "GUARDANDO",
+      "hint": "gerund of guardare"
+    },
+    {
+      "word": "GUARDATE",
+      "hint": "compound of guardate, the second-person plural imperative form of guardare, with li"
+    },
+    {
+      "word": "GUARDIA",
+      "hint": "guard (all senses); watch, guard duty, sentry duty"
+    },
+    {
+      "word": "GUIDA",
+      "hint": "guide; driving"
+    },
+    {
+      "word": "HARRY",
+      "hint": ""
+    },
+    {
+      "word": "HOTEL",
+      "hint": "hotel(s); the letter H in the Italian spelling alphabet"
+    },
+    {
+      "word": "IDEE",
+      "hint": "plural of idea"
+    },
+    {
+      "word": "IMMAGINARE",
+      "hint": "to imagine, picture, fancy, conceive; to suppose, presume, guess, think"
+    },
+    {
+      "word": "IMMAGINE",
+      "hint": "image; imago (insect)"
+    },
+    {
+      "word": "IMMAGINI",
+      "hint": "to imagine, picture, fancy, conceive; to suppose, presume, guess, think"
+    },
+    {
+      "word": "IMMEDIATAMENTE",
+      "hint": "immediately, at once, promptly, right away, forthwith, straight away; directly"
+    },
+    {
+      "word": "IMPARARE",
+      "hint": "to learn; to teach"
+    },
+    {
+      "word": "IMPARATO",
+      "hint": "feminine singular of imparato"
+    },
+    {
+      "word": "IMPORTANTI",
+      "hint": "plural of importante"
+    },
+    {
+      "word": "IMPORTANZA",
+      "hint": "importance, consequence, significance"
+    },
+    {
+      "word": "INCIDENTE",
+      "hint": "incident"
+    },
+    {
+      "word": "INCONTRARE",
+      "hint": "to meet, come across, bump into, run into, find, encounter; to play, fight"
+    },
+    {
+      "word": "INCONTRATO",
+      "hint": "feminine singular of incontrato"
+    },
+    {
+      "word": "INCREDIBILE",
+      "hint": "incredible, unbelievable"
+    },
+    {
+      "word": "INDAGINE",
+      "hint": "investigation, inquiry, probe, enquiry; research, search"
+    },
+    {
+      "word": "INDIRIZZO",
+      "hint": "address; appeal, official message"
+    },
+    {
+      "word": "INFORMAZIONE",
+      "hint": "information"
+    },
+    {
+      "word": "INGHILTERRA",
+      "hint": ""
+    },
+    {
+      "word": "INGRESSO",
+      "hint": "entrance, hall; entry, entrance"
+    },
+    {
+      "word": "INIZIA",
+      "hint": "to begin, to set about; to join, to incorporate"
+    },
+    {
+      "word": "INIZIARE",
+      "hint": "to begin, to set about; to join, to incorporate"
+    },
+    {
+      "word": "INTELLIGENTE",
+      "hint": "intelligent, clever, bright, smart"
+    },
+    {
+      "word": "INTENDE",
+      "hint": "third-person singular present indicative of intendere"
+    },
+    {
+      "word": "INTENDO",
+      "hint": "to mean; to understand, grasp, see"
+    },
+    {
+      "word": "INTENZIONE",
+      "hint": "intention, intent, purpose, mind, wish"
+    },
+    {
+      "word": "INTERA",
+      "hint": "feminine singular of intero"
+    },
+    {
+      "word": "INTERESSA",
+      "hint": "inflection of interessare"
+    },
+    {
+      "word": "INTERESSE",
+      "hint": "interest, concern; interest"
+    },
+    {
+      "word": "INTERESSI",
+      "hint": "reflexive of interessare; to be interested in, take an interest in"
+    },
+    {
+      "word": "INTERNET",
+      "hint": "internet"
+    },
+    {
+      "word": "INTERNO",
+      "hint": "inside, indoor; internal, interior, inner; domestic, home, inland (opposite of foreign)"
+    },
+    {
+      "word": "INTERO",
+      "hint": "whole, entire; intact"
+    },
+    {
+      "word": "INTERVENTO",
+      "hint": "intervention; presence, attendance"
+    },
+    {
+      "word": "INUTILE",
+      "hint": "useless, unnecessary, needless; ineffective"
+    },
+    {
+      "word": "ISOLA",
+      "hint": "island, isle"
+    },
+    {
+      "word": "ITALIA",
+      "hint": ""
+    },
+    {
+      "word": "ITALIANO",
+      "hint": "Italian (of, from or relating to Italy)"
+    },
+    {
+      "word": "JACK",
+      "hint": ""
+    },
+    {
+      "word": "JAMES",
+      "hint": ""
+    },
+    {
+      "word": "KM",
+      "hint": ""
+    },
+    {
+      "word": "LABORATORIO",
+      "hint": "laboratory, lab; workshop, workroom"
+    },
+    {
+      "word": "LASCIO",
+      "hint": "reflexive of lasciare; to leave each other, part, separate"
+    },
+    {
+      "word": "LATTE",
+      "hint": "milk"
+    },
+    {
+      "word": "LAVORA",
+      "hint": "apocopic form of lavorare"
+    },
+    {
+      "word": "LAVORANDO",
+      "hint": "gerund of lavorare"
+    },
+    {
+      "word": "LAVORATO",
+      "hint": "to work; to labor; to work; to function"
+    },
+    {
+      "word": "LEADER",
+      "hint": "leading (“ranking first”)"
+    },
+    {
+      "word": "LEGALE",
+      "hint": "lawful, legitimate; law; legal"
+    },
+    {
+      "word": "LEGGI",
+      "hint": "plural of legge"
+    },
+    {
+      "word": "LETTERE",
+      "hint": "plural of lettera"
+    },
+    {
+      "word": "LEZIONE",
+      "hint": "lesson; class, lecture"
+    },
+    {
+      "word": "LIBERA",
+      "hint": "feminine singular of libero"
+    },
+    {
+      "word": "LIBERTÀ",
+      "hint": "freedom; liberty"
+    },
+    {
+      "word": "LIMITE",
+      "hint": "limit, limitation, bounds; boundary, border"
+    },
+    {
+      "word": "LOCALE",
+      "hint": "local"
+    },
+    {
+      "word": "LONDRA",
+      "hint": "of, from or relating to the city of London, capital of England and the United Kingdom"
+    },
+    {
+      "word": "LOTTA",
+      "hint": "fight, struggle; conflict"
+    },
+    {
+      "word": "LUNA",
+      "hint": "a natural satellite; a month, moon"
+    },
+    {
+      "word": "MACCHINE",
+      "hint": "to plot, to contrive, to machinate; to machine"
+    },
+    {
+      "word": "MAESTRO",
+      "hint": "teacher (primary school); master"
+    },
+    {
+      "word": "MAL",
+      "hint": "apocopic form of male"
+    },
+    {
+      "word": "MALATTIA",
+      "hint": "illness, sickness, disease, ailment"
+    },
+    {
+      "word": "MANCANZA",
+      "hint": "lack, shortage, deficiency, want; absence"
+    },
+    {
+      "word": "MANDARE",
+      "hint": "to send, forward, dispatch, transmit; to throw, cast"
+    },
+    {
+      "word": "MANGIATO",
+      "hint": "feminine singular of mangiato"
+    },
+    {
+      "word": "MANIERA",
+      "hint": "manner, way; style"
+    },
+    {
+      "word": "MANTENERE",
+      "hint": "to maintain, to keep; to conserve"
+    },
+    {
+      "word": "MARIA",
+      "hint": "cannabis, marijuana"
+    },
+    {
+      "word": "MATERIALE",
+      "hint": "material; physical, bodily"
+    },
+    {
+      "word": "MAX",
+      "hint": "abbreviation of massimo (“max”)"
+    },
+    {
+      "word": "MEDIA",
+      "hint": "feminine singular of medio"
+    },
+    {
+      "word": "MEDICI",
+      "hint": "plural of medico"
+    },
+    {
+      "word": "MEDICINA",
+      "hint": "medicine (all senses)"
+    },
+    {
+      "word": "MEMBRI",
+      "hint": "plural of membro"
+    },
+    {
+      "word": "MEMBRO",
+      "hint": "member (one who belongs to a group; an element of a set); penis"
+    },
+    {
+      "word": "MEMORIA",
+      "hint": "memory, recall (the ability of the brain to record information); memory, recollection, remembrance (a record of a thing or an event stored and available for later use)"
+    },
+    {
+      "word": "MERCATO",
+      "hint": "market (in all senses)"
+    },
+    {
+      "word": "MERITO",
+      "hint": "deserved; deserving, worthy"
+    },
+    {
+      "word": "MESSA",
+      "hint": "mass (in religion)"
+    },
+    {
+      "word": "MESSAGGI",
+      "hint": "to text, text message, SMS or message"
+    },
+    {
+      "word": "METRI",
+      "hint": "plural of metro"
+    },
+    {
+      "word": "METTE",
+      "hint": "third-person singular present indicative of mettere"
+    },
+    {
+      "word": "METTI",
+      "hint": "compound of metti, the second-person singular imperative form of mettere, with ti"
+    },
+    {
+      "word": "METTO",
+      "hint": "to take (time, effort); Used other than figuratively or idiomatically: compound of the infinitive mettere with ci."
+    },
+    {
+      "word": "METÀ",
+      "hint": "half; centre, mid"
+    },
+    {
+      "word": "MEZZA",
+      "hint": "half-hour; half past (an hour), especially 12:30 (lunchtime)"
+    },
+    {
+      "word": "MICA",
+      "hint": "breadcrumb; bit, morsel"
+    },
+    {
+      "word": "MICHAEL",
+      "hint": ""
+    },
+    {
+      "word": "MIGLIAIA",
+      "hint": "thousand, about a thousand, about one thousand; thousands, hundreds (a great number)"
+    },
+    {
+      "word": "MIGLIOR",
+      "hint": "apocopic form of migliore"
+    },
+    {
+      "word": "MIKE",
+      "hint": ""
+    },
+    {
+      "word": "MILA",
+      "hint": "plural of mille (“one thousand”)"
+    },
+    {
+      "word": "MILITARE",
+      "hint": "military; army"
+    },
+    {
+      "word": "MINACCIA",
+      "hint": "threat, menace"
+    },
+    {
+      "word": "MINIMO",
+      "hint": "superlative degree of piccolo"
+    },
+    {
+      "word": "MINISTRO",
+      "hint": "minister"
+    },
+    {
+      "word": "MINUTO",
+      "hint": "tiny, minute, emaciated, thin; fine, delicate, detailed"
+    },
+    {
+      "word": "MISSIONE",
+      "hint": "mission"
+    },
+    {
+      "word": "MODA",
+      "hint": "fashion, trend, style, vogue; fashion (industry)"
+    },
+    {
+      "word": "MODELLO",
+      "hint": "model; mould/mold"
+    },
+    {
+      "word": "MODI",
+      "hint": "plural of modo; manners"
+    },
+    {
+      "word": "MOLTA",
+      "hint": "feminine singular of molto"
+    },
+    {
+      "word": "MOMENTI",
+      "hint": "plural of momento"
+    },
+    {
+      "word": "MONDIALE",
+      "hint": "world, worldwide; fantastic"
+    },
+    {
+      "word": "MORALE",
+      "hint": "moral"
+    },
+    {
+      "word": "MORTA",
+      "hint": "feminine singular of morto"
+    },
+    {
+      "word": "MOSTRA",
+      "hint": "exhibition, show"
+    },
+    {
+      "word": "MOTIVI",
+      "hint": "to motivate; to cause, lead to"
+    },
+    {
+      "word": "MOTO",
+      "hint": "clipping of motocicletta; motorcycle"
+    },
+    {
+      "word": "MOVIMENTO",
+      "hint": "movement; tempo mark"
+    },
+    {
+      "word": "MURO",
+      "hint": "wall"
+    },
+    {
+      "word": "NASO",
+      "hint": "nose"
+    },
+    {
+      "word": "NATO",
+      "hint": "past participle of nascere; born"
+    },
+    {
+      "word": "NATURA",
+      "hint": "nature; essence, character"
+    },
+    {
+      "word": "NATURALE",
+      "hint": "natural; still (not sparkling) (of mineral water)"
+    },
+    {
+      "word": "NATURALMENTE",
+      "hint": "naturally, of course, sure; naturally, by nature"
+    },
+    {
+      "word": "NAVE",
+      "hint": "ship"
+    },
+    {
+      "word": "NAZIONALE",
+      "hint": "home; national, domestic"
+    },
+    {
+      "word": "NAZIONE",
+      "hint": "nation"
+    },
+    {
+      "word": "NEGOZIO",
+      "hint": "shop, a store; deal, bargain business"
+    },
+    {
+      "word": "NEMICO",
+      "hint": "enemy, foe"
+    },
+    {
+      "word": "NERA",
+      "hint": "feminine singular of nero"
+    },
+    {
+      "word": "NICK",
+      "hint": ""
+    },
+    {
+      "word": "NOMI",
+      "hint": "plural of nome"
+    },
+    {
+      "word": "NONNA",
+      "hint": "grandmother, granny"
+    },
+    {
+      "word": "NONNO",
+      "hint": "grandfather; grandparents"
+    },
+    {
+      "word": "NONOSTANTE",
+      "hint": "though; despite that"
+    },
+    {
+      "word": "NOTA",
+      "hint": "note (in all senses); list"
+    },
+    {
+      "word": "NOTATO",
+      "hint": "masculine plural of notato"
+    },
+    {
+      "word": "NOVE",
+      "hint": "nine"
+    },
+    {
+      "word": "NUMERI",
+      "hint": "plural of numero"
+    },
+    {
+      "word": "OBIETTIVO",
+      "hint": "objective"
+    },
+    {
+      "word": "OCCHIATA",
+      "hint": "look, glance, gander"
+    },
+    {
+      "word": "ODDIO",
+      "hint": "oh God; oh my God; God!; good grief"
+    },
+    {
+      "word": "OFFERTA",
+      "hint": "offer; tender"
+    },
+    {
+      "word": "OGGETTO",
+      "hint": "object"
+    },
+    {
+      "word": "OGNUNO",
+      "hint": "each one, all; everyone, everybody"
+    },
+    {
+      "word": "OKAY",
+      "hint": "okay!"
+    },
+    {
+      "word": "OMICIDIO",
+      "hint": "murder (Britain), homicide (US)"
+    },
+    {
+      "word": "ON",
+      "hint": "abbreviation of onorevole (“Rt. Hon.”)"
+    },
+    {
+      "word": "ONLINE",
+      "hint": "online"
+    },
+    {
+      "word": "OPERAZIONE",
+      "hint": "operation (in all senses); surgery"
+    },
+    {
+      "word": "OPINIONE",
+      "hint": "opinion, mind, view, attitude"
+    },
+    {
+      "word": "ORDINI",
+      "hint": "to order; to arrange"
+    },
+    {
+      "word": "ORIGINALE",
+      "hint": "original; genuine, pure"
+    },
+    {
+      "word": "OSPEDALE",
+      "hint": "hospital"
+    },
+    {
+      "word": "OTTENERE",
+      "hint": "to obtain, to achieve, to gain (something desired); to obtain, to get (a result)"
+    },
+    {
+      "word": "OTTENUTO",
+      "hint": "feminine singular of ottenuto"
+    },
+    {
+      "word": "OTTIMA",
+      "hint": "feminine singular of ottimo"
+    },
+    {
+      "word": "OTTO",
+      "hint": "eight"
+    },
+    {
+      "word": "OVUNQUE",
+      "hint": "wherever, anywhere, everywhere"
+    },
+    {
+      "word": "OVVIO",
+      "hint": "obvious"
+    },
+    {
+      "word": "PAGA",
+      "hint": "pay; wages"
+    },
+    {
+      "word": "PAGATO",
+      "hint": "feminine singular of pagato"
+    },
+    {
+      "word": "PAGINA",
+      "hint": "page (of a book, etc.)"
+    },
+    {
+      "word": "PALAZZO",
+      "hint": "a royal palace; a palatial urban building, a palazzo"
+    },
+    {
+      "word": "PALLA",
+      "hint": "ball (object used for playing games); ball (solid or hollow sphere)"
+    },
+    {
+      "word": "PALLE",
+      "hint": "plural of palla; courage, bravery"
+    },
+    {
+      "word": "PANE",
+      "hint": "bread; block (of butter, etc.)"
+    },
+    {
+      "word": "PAPÀ",
+      "hint": "dad, papa"
+    },
+    {
+      "word": "PARCO",
+      "hint": "frugal, moderate, temperate, sparing"
+    },
+    {
+      "word": "PARI",
+      "hint": "equal; even (of a number)"
+    },
+    {
+      "word": "PARIGI",
+      "hint": ""
+    },
+    {
+      "word": "PARLANO",
+      "hint": "third-person plural present indicative of parlare"
+    },
+    {
+      "word": "PARLI",
+      "hint": "inflection of parlare"
+    },
+    {
+      "word": "PARLIAMO",
+      "hint": "compound of parliamo, the first-person plural imperative form of parlare, with ne"
+    },
+    {
+      "word": "PARLO",
+      "hint": "reflexive of parlare; to talk to each other"
+    },
+    {
+      "word": "PARTITO",
+      "hint": "party per pale; divided into two equal parts vertically"
+    },
+    {
+      "word": "PASSA",
+      "hint": "inflection of passare"
+    },
+    {
+      "word": "PASSAGGIO",
+      "hint": "passage, passing, gap; transfer, transition"
+    },
+    {
+      "word": "PASSATI",
+      "hint": "masculine plural of passato"
+    },
+    {
+      "word": "PASSI",
+      "hint": "inflection of passare"
+    },
+    {
+      "word": "PAUL",
+      "hint": ""
+    },
+    {
+      "word": "PAUSA",
+      "hint": "pause, break, stop, interval; rest"
+    },
+    {
+      "word": "PAZIENTE",
+      "hint": "patient; patient (on the receiving end of a verb's action)"
+    },
+    {
+      "word": "PAZIENTI",
+      "hint": "to be patient [auxiliary avere]"
+    },
+    {
+      "word": "PECCATO",
+      "hint": "sin; bummer, pity"
+    },
+    {
+      "word": "PEGGIORE",
+      "hint": "worse; the worst"
+    },
+    {
+      "word": "PELLE",
+      "hint": "skin; hide (animal's skin)"
+    },
+    {
+      "word": "PENSANDO",
+      "hint": "gerund of pensare"
+    },
+    {
+      "word": "PENSANO",
+      "hint": "third-person plural present indicative of pensare"
+    },
+    {
+      "word": "PENSATE",
+      "hint": "plural of pensata"
+    },
+    {
+      "word": "PENSIERO",
+      "hint": "thought; worry"
+    },
+    {
+      "word": "PERCIÒ",
+      "hint": "so, therefore, consequently, thus"
+    },
+    {
+      "word": "PERDITA",
+      "hint": "loss, waste, deprivation; leak, leakage"
+    },
+    {
+      "word": "PERFETTA",
+      "hint": "feminine singular of perfetto"
+    },
+    {
+      "word": "PERFETTAMENTE",
+      "hint": "perfectly"
+    },
+    {
+      "word": "PERICOLO",
+      "hint": "peril, danger"
+    },
+    {
+      "word": "PERICOLOSO",
+      "hint": "dangerous, risky, insecure, unsafe"
+    },
+    {
+      "word": "PERMETTE",
+      "hint": "compound of the infinitive permettere with li"
+    },
+    {
+      "word": "PERO",
+      "hint": "pear tree"
+    },
+    {
+      "word": "PERSINO",
+      "hint": "even"
+    },
+    {
+      "word": "PERSONALI",
+      "hint": "personal, private"
+    },
+    {
+      "word": "PESCE",
+      "hint": "fish; penis"
+    },
+    {
+      "word": "PESO",
+      "hint": "weight"
+    },
+    {
+      "word": "PETER",
+      "hint": ""
+    },
+    {
+      "word": "PEZZI",
+      "hint": "to stain"
+    },
+    {
+      "word": "PIACCIONO",
+      "hint": "archaic spelling of piacciono"
+    },
+    {
+      "word": "PIACEREBBE",
+      "hint": "reflexive of piacere; to please oneself"
+    },
+    {
+      "word": "PIANETA",
+      "hint": "planet"
+    },
+    {
+      "word": "PIANGERE",
+      "hint": "to weep, cry"
+    },
+    {
+      "word": "PIANI",
+      "hint": "to smooth"
+    },
+    {
+      "word": "PICCOLE",
+      "hint": "singular feminine of piccolo"
+    },
+    {
+      "word": "PICCOLI",
+      "hint": "masculine plural of piccolo"
+    },
+    {
+      "word": "PIEDE",
+      "hint": "foot"
+    },
+    {
+      "word": "PIENA",
+      "hint": "feminine singular of pieno"
+    },
+    {
+      "word": "POCHE",
+      "hint": "feminine plural of poco"
+    },
+    {
+      "word": "POLITICA",
+      "hint": "politics; policy"
+    },
+    {
+      "word": "POMERIGGIO",
+      "hint": "afternoon"
+    },
+    {
+      "word": "PONTE",
+      "hint": "bridge (structure); deck (nautical and aviation)"
+    },
+    {
+      "word": "POPOLO",
+      "hint": "people"
+    },
+    {
+      "word": "PORTATA",
+      "hint": "feminine singular of portato"
+    },
+    {
+      "word": "PORTE",
+      "hint": "plural of porta"
+    },
+    {
+      "word": "PORTI",
+      "hint": "plural of porto (“port, harbor”)"
+    },
+    {
+      "word": "POSSANO",
+      "hint": "third-person plural present subjunctive of potere"
+    },
+    {
+      "word": "POSTA",
+      "hint": "mail, post; post office"
+    },
+    {
+      "word": "POTENTE",
+      "hint": "present participle of potere"
+    },
+    {
+      "word": "POTESSE",
+      "hint": "third-person singular imperfect subjunctive of potere"
+    },
+    {
+      "word": "POTREMMO",
+      "hint": "first-person plural conditional of potere"
+    },
+    {
+      "word": "POTRÀ",
+      "hint": "third-person singular future of potere"
+    },
+    {
+      "word": "POVERO",
+      "hint": "poor (with little or no possessions or money); poor (to be pitied)"
+    },
+    {
+      "word": "PRANZO",
+      "hint": "lunch or dinner (depending on context)"
+    },
+    {
+      "word": "PRATICA",
+      "hint": "practice; paper, dossier, case, file"
+    },
+    {
+      "word": "PRATICAMENTE",
+      "hint": "practically (all senses); almost"
+    },
+    {
+      "word": "PRECEDENTE",
+      "hint": "preceding, previous, foregoing, earlier; former"
+    },
+    {
+      "word": "PREFERITO",
+      "hint": "favourite/favorite"
+    },
+    {
+      "word": "PREMIO",
+      "hint": "prize, award; reward"
+    },
+    {
+      "word": "PRENDENDO",
+      "hint": "gerund of prendere"
+    },
+    {
+      "word": "PRENDI",
+      "hint": "compound of prendi, the second-person singular imperative form of prendere, with la"
+    },
+    {
+      "word": "PRENDO",
+      "hint": "first-person singular present indicative of prendere"
+    },
+    {
+      "word": "PRESE",
+      "hint": "feminine plural of preso"
+    },
+    {
+      "word": "PRESENTA",
+      "hint": "to have a presentiment of"
+    },
+    {
+      "word": "PRESENTI",
+      "hint": "plural of presente"
+    },
+    {
+      "word": "PRESENZA",
+      "hint": "presence; attendance"
+    },
+    {
+      "word": "PRESSIONE",
+      "hint": "pressure; pressure, leverage"
+    },
+    {
+      "word": "PRIGIONE",
+      "hint": "jail, prison; cooler"
+    },
+    {
+      "word": "PRIME",
+      "hint": "feminine plural of primo"
+    },
+    {
+      "word": "PRIMI",
+      "hint": "masculine plural of primo"
+    },
+    {
+      "word": "PRINCIPALE",
+      "hint": "main, principal; major, flagship"
+    },
+    {
+      "word": "PRINCIPE",
+      "hint": "prince"
+    },
+    {
+      "word": "PRIVATA",
+      "hint": "feminine singular of privato"
+    },
+    {
+      "word": "PRIVATO",
+      "hint": "private, personal"
+    },
+    {
+      "word": "PRODOTTO",
+      "hint": "extensive, protracted"
+    },
+    {
+      "word": "PROFESSORE",
+      "hint": "teacher, schoolteacher, schoolmaster, master, professor, lecturer (high school); player"
+    },
+    {
+      "word": "PROFILO",
+      "hint": "profile (all senses)"
+    },
+    {
+      "word": "PROGETTI",
+      "hint": "to plan, make plans for; to plan, design"
+    },
+    {
+      "word": "PROMESSO",
+      "hint": "promised; betrothed"
+    },
+    {
+      "word": "PRONTA",
+      "hint": "feminine singular of pronto"
+    },
+    {
+      "word": "PRONTI",
+      "hint": "masculine plural of pronto"
+    },
+    {
+      "word": "PROPOSTA",
+      "hint": "proposal"
+    },
+    {
+      "word": "PROPRI",
+      "hint": "feminine plural of proprio"
+    },
+    {
+      "word": "PROPRIA",
+      "hint": "feminine singular of proprio"
+    },
+    {
+      "word": "PROPRIETÀ",
+      "hint": "ownership, proprietorship, property; property, estate, possessions"
+    },
+    {
+      "word": "PROTEGGERE",
+      "hint": "to shield or protect"
+    },
+    {
+      "word": "PROTEZIONE",
+      "hint": "protection"
+    },
+    {
+      "word": "PUBBLICA",
+      "hint": "feminine singular of pubblico"
+    },
+    {
+      "word": "PUO",
+      "hint": "archaic form of può, third-person singular present indicative of potere"
+    },
+    {
+      "word": "PUR",
+      "hint": "apocopic form of pure"
+    },
+    {
+      "word": "PURTROPPO",
+      "hint": "unfortunately, regretfully, regrettably"
+    },
+    {
+      "word": "QUANTE",
+      "hint": "feminine plural of quanto"
+    },
+    {
+      "word": "QUARTIERE",
+      "hint": "quarter (all senses); district, area"
+    },
+    {
+      "word": "QUARTO",
+      "hint": "fourth"
+    },
+    {
+      "word": "QUEGLI",
+      "hint": "masculine plural of quello"
+    },
+    {
+      "word": "RADIO",
+      "hint": "radius; alternative form of raggio"
+    },
+    {
+      "word": "RAGGIUNGERE",
+      "hint": "to reach, arrive at, get to, touch; to reach, catch up, join"
+    },
+    {
+      "word": "RAGIONI",
+      "hint": "to reason; to discuss, argue, talk"
+    },
+    {
+      "word": "RAPPORTI",
+      "hint": "to compare (with); to relate (to)"
+    },
+    {
+      "word": "RAZZA",
+      "hint": "race, breed; kind, type"
+    },
+    {
+      "word": "RECENTE",
+      "hint": "recent"
+    },
+    {
+      "word": "REGALO",
+      "hint": "present, gift"
+    },
+    {
+      "word": "REGINA",
+      "hint": "queen (monarch); queen (male homosexual)"
+    },
+    {
+      "word": "REGNO",
+      "hint": "kingdom (all senses); reign (of a monarch)"
+    },
+    {
+      "word": "REGOLA",
+      "hint": "rule, norm, code, principle, order; moderation, restraint"
+    },
+    {
+      "word": "REGOLE",
+      "hint": "feminine plural of regolativo"
+    },
+    {
+      "word": "RENDE",
+      "hint": "third-person singular present indicative of rendere"
+    },
+    {
+      "word": "RENDERE",
+      "hint": "to give back, to return; to yield (a return etc.)"
+    },
+    {
+      "word": "RESO",
+      "hint": "compound of reso, the masculine singular past participle of rendere, with si"
+    },
+    {
+      "word": "RESPONSABILE",
+      "hint": "responsible, accountable, liable, in charge"
+    },
+    {
+      "word": "RESPONSABILITÀ",
+      "hint": "responsibility (duty for which someone is accountable); responsibility (state of being accountable)"
+    },
+    {
+      "word": "RESTARE",
+      "hint": "to stay, to remain (in a location); to be left, to remain, to be remaining"
+    },
+    {
+      "word": "RETE",
+      "hint": "net, mesh; network"
+    },
+    {
+      "word": "REVISIONE",
+      "hint": "review (process); servicing (of a machine)"
+    },
+    {
+      "word": "RICCO",
+      "hint": "rich, wealthy, affluent (owning a lot of money or wealth); rich, plentiful, abundant (present in high quantity)"
+    },
+    {
+      "word": "RICERCHE",
+      "hint": "search, quest, hunt, manhunt, prospecting, pursuit; research"
+    },
+    {
+      "word": "RICHIESTA",
+      "hint": "request, demand, claim, call"
+    },
+    {
+      "word": "RICORDARE",
+      "hint": "to remember, to recall, to recollect; to remind"
+    },
+    {
+      "word": "RIDERE",
+      "hint": "to laugh [auxiliary avere]; to laugh at"
+    },
+    {
+      "word": "RIESCE",
+      "hint": "third-person singular present indicative of riuscire"
+    },
+    {
+      "word": "RIESCI",
+      "hint": "inflection of riuscire"
+    },
+    {
+      "word": "RIMANE",
+      "hint": "compound of the infinitive rimanere with li"
+    },
+    {
+      "word": "RIMANERE",
+      "hint": "to stay; to remain"
+    },
+    {
+      "word": "RIMASTA",
+      "hint": "feminine singular of rimasto"
+    },
+    {
+      "word": "RIMASTO",
+      "hint": "compound of rimasto, the masculine singular past participle of rimanere, with gli"
+    },
+    {
+      "word": "RINGRAZIO",
+      "hint": "to thank"
+    },
+    {
+      "word": "RISOLVERE",
+      "hint": "to solve; to resolve"
+    },
+    {
+      "word": "RISPONDE",
+      "hint": "apocopic form of rispondere"
+    },
+    {
+      "word": "RISPONDERE",
+      "hint": "to answer, to reply, to respond [with a ‘to’] [auxiliary avere]; to correspond [with a ‘to’] [auxiliary avere]"
+    },
+    {
+      "word": "RISPOSTE",
+      "hint": "plural of risposta"
+    },
+    {
+      "word": "RISPOSTO",
+      "hint": "masculine plural of risposto"
+    },
+    {
+      "word": "RISTORANTE",
+      "hint": "restaurant"
+    },
+    {
+      "word": "RISULTATI",
+      "hint": "plural of risultato"
+    },
+    {
+      "word": "RISULTATO",
+      "hint": "feminine singular of risultato"
+    },
+    {
+      "word": "RITARDO",
+      "hint": "delay, lag; retardation, retard"
+    },
+    {
+      "word": "RITORNO",
+      "hint": "return; comeback"
+    },
+    {
+      "word": "RIUSCIRE",
+      "hint": "to manage; to be able [with a or di (+ infinitive) ‘to do something’]; to be able to be accomplished [with a ‘by someone’, along with a or di (+ infinitive) ‘to do something’]"
+    },
+    {
+      "word": "RIUSCITA",
+      "hint": "result, outcome; success"
+    },
+    {
+      "word": "RIUSCITO",
+      "hint": "that has had a certain outcome or result; successful"
+    },
+    {
+      "word": "ROMA",
+      "hint": "a type of rice"
+    },
+    {
+      "word": "ROSA",
+      "hint": "rose (plant of the genus Rosa); rose (flower of the rose plant)"
+    },
+    {
+      "word": "ROSSA",
+      "hint": "feminine singular of rosso"
+    },
+    {
+      "word": "ROSSO",
+      "hint": "red; ginger, red (of hair)"
+    },
+    {
+      "word": "ROTTO",
+      "hint": "broken"
+    },
+    {
+      "word": "RUMORE",
+      "hint": "noise, sound; reputation, rumour, name, repute"
+    },
+    {
+      "word": "RUOLO",
+      "hint": "role"
+    },
+    {
+      "word": "SABATO",
+      "hint": "Saturday"
+    },
+    {
+      "word": "SALA",
+      "hint": "room; hall"
+    },
+    {
+      "word": "SALE",
+      "hint": "salt, sal"
+    },
+    {
+      "word": "SALIRE",
+      "hint": "to go up, to come up [auxiliary essere]; to ride, to mount, to board"
+    },
+    {
+      "word": "SALVARE",
+      "hint": "to save, rescue, retrieve, deliver; to save, guard, safeguard, protect, defend"
+    },
+    {
+      "word": "SANTA",
+      "hint": "feminine singular of santo (“holy”)"
+    },
+    {
+      "word": "SANTO",
+      "hint": "holy"
+    },
+    {
+      "word": "SAPETE",
+      "hint": "(second-person plural and form second-person singular present indicative of sapere) (you) know"
+    },
+    {
+      "word": "SAPEVA",
+      "hint": "third-person singular imperfect indicative of sapere"
+    },
+    {
+      "word": "SAPEVO",
+      "hint": "first-person singular imperfect indicative of sapere"
+    },
+    {
+      "word": "SAPPIA",
+      "hint": "inflection of sapere"
+    },
+    {
+      "word": "SAPUTO",
+      "hint": "feminine singular of saputo"
+    },
+    {
+      "word": "SARA",
+      "hint": "third-person singular future of essere"
+    },
+    {
+      "word": "SARAI",
+      "hint": "second-person singular future of essere"
+    },
+    {
+      "word": "SAREBBERO",
+      "hint": "third-person plural conditional of essere"
+    },
+    {
+      "word": "SAREMO",
+      "hint": "first-person plural future of essere"
+    },
+    {
+      "word": "SARÒ",
+      "hint": "first-person singular future of essere"
+    },
+    {
+      "word": "SBAGLIO",
+      "hint": "mistake, failure, goof"
+    },
+    {
+      "word": "SCARPE",
+      "hint": "plural of scarpa"
+    },
+    {
+      "word": "SCEGLIERE",
+      "hint": "to choose"
+    },
+    {
+      "word": "SCHIFO",
+      "hint": "disgust, nausea, loathing; crap, rubbish"
+    },
+    {
+      "word": "SCOPO",
+      "hint": "aim, end, goal"
+    },
+    {
+      "word": "SCOPRIRE",
+      "hint": "to uncover; to discover, find out"
+    },
+    {
+      "word": "SCORSA",
+      "hint": "a glance (quick look)"
+    },
+    {
+      "word": "SCORSO",
+      "hint": "last, previous"
+    },
+    {
+      "word": "SCUSATE",
+      "hint": "to excuse, forgive, pardon; to excuse, justify"
+    },
+    {
+      "word": "SECOLO",
+      "hint": "century (100 years); age, time, era"
+    },
+    {
+      "word": "SECONDI",
+      "hint": "masculine plural of secondo"
+    },
+    {
+      "word": "SEGNALE",
+      "hint": "signal, sign"
+    },
+    {
+      "word": "SEGNI",
+      "hint": "reflexive of segnare; to cross oneself, to make the sign of the cross"
+    },
+    {
+      "word": "SEGNO",
+      "hint": "sign; mark, scratch"
+    },
+    {
+      "word": "SEGRETI",
+      "hint": "to classify (a document), to make secret"
+    },
+    {
+      "word": "SEGRETO",
+      "hint": "secret"
+    },
+    {
+      "word": "SEGUIRE",
+      "hint": "to follow, to pursue; to follow (a path), to go in a certain direction"
+    },
+    {
+      "word": "SEMBRANO",
+      "hint": "to seem, to look (like), to appear; to sound, taste or feel (like)"
+    },
+    {
+      "word": "SEMBRARE",
+      "hint": "to seem, to look (like), to appear; to sound, taste or feel (like)"
+    },
+    {
+      "word": "SEMBRAVA",
+      "hint": "third-person singular imperfect indicative of sembrare"
+    },
+    {
+      "word": "SENSAZIONE",
+      "hint": "sensation, feeling"
+    },
+    {
+      "word": "SENTE",
+      "hint": "third-person singular present indicative of sentire"
+    },
+    {
+      "word": "SENTIMENTI",
+      "hint": "plural of sentimento"
+    },
+    {
+      "word": "SERATA",
+      "hint": "evening, night"
+    },
+    {
+      "word": "SERIAMENTE",
+      "hint": "seriously; really"
+    },
+    {
+      "word": "SERVIZI",
+      "hint": "service, serve; facility, feature, utility, setting"
+    },
+    {
+      "word": "SERVONO",
+      "hint": "to serve (in all senses); to serve [with a ‘someone’] [auxiliary avere]"
+    },
+    {
+      "word": "SESSUALE",
+      "hint": "sex; sexual"
+    },
+    {
+      "word": "SETTORE",
+      "hint": "sector; area"
+    },
+    {
+      "word": "SEZIONE",
+      "hint": "section; department"
+    },
+    {
+      "word": "SGUARDO",
+      "hint": "glance, look (action of looking); look, expression"
+    },
+    {
+      "word": "SHOW",
+      "hint": ""
+    },
+    {
+      "word": "SICURA",
+      "hint": "safety catch; safety lock"
+    },
+    {
+      "word": "SIGNIFICATO",
+      "hint": "meaning, sense; importance, significance, value"
+    },
+    {
+      "word": "SIGNORI",
+      "hint": "plural of signore"
+    },
+    {
+      "word": "SILENZIO",
+      "hint": "silence!; shut up!; stop talking!; hush!"
+    },
+    {
+      "word": "SIMILI",
+      "hint": "plural of simile"
+    },
+    {
+      "word": "SINDACO",
+      "hint": "mayor; statutory auditor"
+    },
+    {
+      "word": "SITO",
+      "hint": "situated, located, lying"
+    },
+    {
+      "word": "SMETTERE",
+      "hint": "to stop or cease"
+    },
+    {
+      "word": "SOCIALE",
+      "hint": "social, societal; partnership, company, form; corporate"
+    },
+    {
+      "word": "SOCIETÀ",
+      "hint": "society, community; society, association, club, circle"
+    },
+    {
+      "word": "SOGNI",
+      "hint": "reflexive of sognare; to dream"
+    },
+    {
+      "word": "SOGNO",
+      "hint": "dream; castle in the air, daydream, pipe dream"
+    },
+    {
+      "word": "SOLAMENTE",
+      "hint": "only, just, but, alone, merely"
+    },
+    {
+      "word": "SOLDATI",
+      "hint": "plural of soldato"
+    },
+    {
+      "word": "SOLUZIONE",
+      "hint": "solution; liquor"
+    },
+    {
+      "word": "SON",
+      "hint": "apocopic form of sono (“I am; they are”)"
+    },
+    {
+      "word": "SORPRESA",
+      "hint": "feminine singular of sorpreso"
+    },
+    {
+      "word": "SPALLE",
+      "hint": "plural of spalla; back"
+    },
+    {
+      "word": "SPECIALMENTE",
+      "hint": "especially, particularly, mainly"
+    },
+    {
+      "word": "SPERANZA",
+      "hint": "hope"
+    },
+    {
+      "word": "SPESE",
+      "hint": "expense; expenditure; spending; cost; charge; shopping; purchase; buy"
+    },
+    {
+      "word": "SPETTACOLO",
+      "hint": "show, performance, play, review; sight, view, spectacle"
+    },
+    {
+      "word": "SPIACE",
+      "hint": "third-person singular present indicative of spiacere"
+    },
+    {
+      "word": "SPIAGGIA",
+      "hint": "beach"
+    },
+    {
+      "word": "SPIEGARE",
+      "hint": "to explain, elucidate, expound, show, account, understand; to unfold, spread, open out, lay out, unfurl"
+    },
+    {
+      "word": "SPIRITO",
+      "hint": "spirit, mind; sparkle, wit, esprit"
+    },
+    {
+      "word": "SPORT",
+      "hint": "sport (activity that uses physical skills, often competitive); hobby, pastime"
+    },
+    {
+      "word": "STAMATTINA",
+      "hint": "this morning"
+    },
+    {
+      "word": "STAMPA",
+      "hint": "press (device, or printed media); print"
+    },
+    {
+      "word": "STAR",
+      "hint": "star (celebrity); asterisk, pronunciation of * symbol"
+    },
+    {
+      "word": "STAVANO",
+      "hint": "apocopic form of stavano"
+    },
+    {
+      "word": "STAZIONE",
+      "hint": "position, posture; a stopping place"
+    },
+    {
+      "word": "STELLE",
+      "hint": "plural of stella"
+    },
+    {
+      "word": "STILE",
+      "hint": "style; class"
+    },
+    {
+      "word": "STORIE",
+      "hint": "plural of storia"
+    },
+    {
+      "word": "STRADE",
+      "hint": "plural of strada"
+    },
+    {
+      "word": "STRUTTURA",
+      "hint": "structure, construction, organization, frame, framework, system, fabric; accommodation"
+    },
+    {
+      "word": "STUDENTI",
+      "hint": "plural of studente"
+    },
+    {
+      "word": "STUDI",
+      "hint": "inflection of studiare"
+    },
+    {
+      "word": "STUDIARE",
+      "hint": "to study; to investigate, to research"
+    },
+    {
+      "word": "STUPIDO",
+      "hint": "stupid, daft"
+    },
+    {
+      "word": "SUGLI",
+      "hint": "contraction of su gli; on the"
+    },
+    {
+      "word": "SULLO",
+      "hint": "contraction of su lo; on the"
+    },
+    {
+      "word": "SUONO",
+      "hint": "sound (that is heard)"
+    },
+    {
+      "word": "SUPER",
+      "hint": "super"
+    },
+    {
+      "word": "SUPERIORE",
+      "hint": "superior (intelligence, quality); greater (number)"
+    },
+    {
+      "word": "SUPPORTO",
+      "hint": "helper; support"
+    },
+    {
+      "word": "SÉ",
+      "hint": "oneself, himself, herself"
+    },
+    {
+      "word": "TAGLIO",
+      "hint": "cut, slit, slash, incision; cut, cutback, cutting"
+    },
+    {
+      "word": "TANTA",
+      "hint": "feminine singular of tanto"
+    },
+    {
+      "word": "TAVOLO",
+      "hint": "table, board, desk; board, panel"
+    },
+    {
+      "word": "TEAM",
+      "hint": "team (group of people)"
+    },
+    {
+      "word": "TEATRO",
+      "hint": "theater (a place or building, consisting of a stage and seating, in which an audience gathers to watch plays, musical performances, public ceremonies, and so on); drama"
+    },
+    {
+      "word": "TECNOLOGIA",
+      "hint": "technology; technique"
+    },
+    {
+      "word": "TENTATIVO",
+      "hint": "attempt, try, effort, shot, endeavour/endeavor"
+    },
+    {
+      "word": "TENUTO",
+      "hint": "obliged, indebted, grateful, bound to someone; obliged, required to do something"
+    },
+    {
+      "word": "TEORIA",
+      "hint": "theory"
+    },
+    {
+      "word": "TERMINE",
+      "hint": "end, close; limit, term, date, time"
+    },
+    {
+      "word": "TERRENO",
+      "hint": "ground; earthly, worldly, terrene, terrestrial"
+    },
+    {
+      "word": "TERRIBILE",
+      "hint": "terrible, terrifying, fearful; horrible, awful, dreadful"
+    },
+    {
+      "word": "TERRITORIO",
+      "hint": "territory; precinct"
+    },
+    {
+      "word": "TERZA",
+      "hint": "feminine singular of terzo"
+    },
+    {
+      "word": "TERZO",
+      "hint": "third; uninvolved, neutral, third-party"
+    },
+    {
+      "word": "TEST",
+      "hint": "test"
+    },
+    {
+      "word": "TIENE",
+      "hint": "third-person singular present indicative of tenere"
+    },
+    {
+      "word": "TIENI",
+      "hint": "compound of tieni, the second-person singular imperative form of tenere, with vi"
+    },
+    {
+      "word": "TIPI",
+      "hint": "plural of tipo"
+    },
+    {
+      "word": "TITOLO",
+      "hint": "title (of a book, song etc.), headline (of an article), heading (of a chapter); title, appellation (prefix or suffix added to a name)"
+    },
+    {
+      "word": "TIZIO",
+      "hint": "man, someone, guy, what's-his-name"
+    },
+    {
+      "word": "TO",
+      "hint": "take this; this is for you; here it is; oi!; hey! (exclamation to get attention, or expression of surprise)"
+    },
+    {
+      "word": "TOCCA",
+      "hint": "type of sacred trimming, like a chevron, woven with metallic foil and hemp; silk cloth woven with gold or silver threads"
+    },
+    {
+      "word": "TOM",
+      "hint": ""
+    },
+    {
+      "word": "TORNATA",
+      "hint": "round; session"
+    },
+    {
+      "word": "TORNATO",
+      "hint": "compound of tornato, the masculine singular past participle of tornare, with si"
+    },
+    {
+      "word": "TORNO",
+      "hint": "alternative form of tornio (“lathe”)"
+    },
+    {
+      "word": "TOTALE",
+      "hint": "total; absolute, unconditional, implicit"
+    },
+    {
+      "word": "TRAFFICO",
+      "hint": "traffic; trade"
+    },
+    {
+      "word": "TRAMITE",
+      "hint": "intermediary, link; way, means, vehicle"
+    },
+    {
+      "word": "TRANNE",
+      "hint": "except, but, apart from"
+    },
+    {
+      "word": "TRANQUILLO",
+      "hint": "calm, sober, tranquil"
+    },
+    {
+      "word": "TRENO",
+      "hint": "train (connected sequence of people or things); gun carriage"
+    },
+    {
+      "word": "TRIBUNALE",
+      "hint": "court; judicature"
+    },
+    {
+      "word": "TRISTE",
+      "hint": "sad, unhappy, bleak"
+    },
+    {
+      "word": "TROVANO",
+      "hint": "third-person plural present indicative of trovare"
+    },
+    {
+      "word": "TROVATA",
+      "hint": "solution or quick fix used to get out of a difficult situation; expedient; stroke of genius, brainwave"
+    },
+    {
+      "word": "TROVI",
+      "hint": "to recognize an appealing quality; to find positive; to see"
+    },
+    {
+      "word": "TROVIAMO",
+      "hint": "compound of troviamo, the first-person plural imperative form of trovare, with lo"
+    },
+    {
+      "word": "TROVO",
+      "hint": "first-person singular present indicative of trovare; masculine singular past participle of trovare"
+    },
+    {
+      "word": "TURNO",
+      "hint": "turn; shift"
+    },
+    {
+      "word": "TUTTAVIA",
+      "hint": "but, still; nevertheless, however"
+    },
+    {
+      "word": "UCCIDERE",
+      "hint": "to kill"
+    },
+    {
+      "word": "ULTIME",
+      "hint": "feminine plural of ultimo"
+    },
+    {
+      "word": "UMANA",
+      "hint": "feminine singular of umano"
+    },
+    {
+      "word": "UMANI",
+      "hint": "masculine plural of umano"
+    },
+    {
+      "word": "UMANO",
+      "hint": "human; humane, compassionate"
+    },
+    {
+      "word": "UNITÀ",
+      "hint": "unity; unit"
+    },
+    {
+      "word": "UNIVERSITÀ",
+      "hint": "totality, entirety, whole; guild (association of tradespeople)"
+    },
+    {
+      "word": "USANDO",
+      "hint": "gerund of usare"
+    },
+    {
+      "word": "USCITO",
+      "hint": "masculine plural of uscito"
+    },
+    {
+      "word": "UTILE",
+      "hint": "useful"
+    },
+    {
+      "word": "VACANZA",
+      "hint": "holiday (UK), vacation (US) (official holiday period)"
+    },
+    {
+      "word": "VADA",
+      "hint": "inflection of andare"
+    },
+    {
+      "word": "VALORE",
+      "hint": "as much as, as many as"
+    },
+    {
+      "word": "VE",
+      "hint": "alternative form of vi (“to you”)"
+    },
+    {
+      "word": "VECCHI",
+      "hint": "masculine plural of vecchio"
+    },
+    {
+      "word": "VEDERLO",
+      "hint": "compound of the infinitive vedere with lo"
+    },
+    {
+      "word": "VELOCE",
+      "hint": "fast, quick, speedy, rapid; cursory (figurative)"
+    },
+    {
+      "word": "VENDERE",
+      "hint": "to sell"
+    },
+    {
+      "word": "VENDITA",
+      "hint": "sale; shop"
+    },
+    {
+      "word": "VENGO",
+      "hint": "first-person singular present indicative of venire"
+    },
+    {
+      "word": "VENIVA",
+      "hint": "third-person singular imperfect indicative of venire"
+    },
+    {
+      "word": "VENNE",
+      "hint": "third-person singular past historic of venire"
+    },
+    {
+      "word": "VENTI",
+      "hint": "twenty"
+    },
+    {
+      "word": "VENTO",
+      "hint": "wind (movement of air caused by differences in atmospheric pressure)"
+    },
+    {
+      "word": "VENUTA",
+      "hint": "feminine singular of venuto"
+    },
+    {
+      "word": "VENUTO",
+      "hint": "coming"
+    },
+    {
+      "word": "VERDE",
+      "hint": "green (color/colour); pale"
+    },
+    {
+      "word": "VERI",
+      "hint": "masculine plural of vero"
+    },
+    {
+      "word": "VERRÀ",
+      "hint": "third-person singular future of venire"
+    },
+    {
+      "word": "VERSIONE",
+      "hint": "version; translation from ancient languages (Latin, Ancient Greek) to a modern one"
+    },
+    {
+      "word": "VESTITI",
+      "hint": "masculine plural of vestito (“dressed, clothed”)"
+    },
+    {
+      "word": "VESTITO",
+      "hint": "dressed, clothed"
+    },
+    {
+      "word": "VICINA",
+      "hint": "female equivalent of vicino"
+    },
+    {
+      "word": "VICINI",
+      "hint": "to be nearby"
+    },
+    {
+      "word": "VIENI",
+      "hint": "compound of vieni, the second-person singular imperative form of venire, with mi"
+    },
+    {
+      "word": "VILLAGGIO",
+      "hint": "village, hamlet"
+    },
+    {
+      "word": "VINCE",
+      "hint": "third-person singular present indicative of vincere"
+    },
+    {
+      "word": "VINCERE",
+      "hint": "to win [auxiliary avere]; to vanquish, to conquer, to defeat"
+    },
+    {
+      "word": "VINO",
+      "hint": "wine (an alcoholic beverage made by fermenting grape juice, with an ABV ranging from 5.5–16%)"
+    },
+    {
+      "word": "VIOLENZA",
+      "hint": "violence"
+    },
+    {
+      "word": "VISIONE",
+      "hint": "vision (all senses); sight"
+    },
+    {
+      "word": "VISITA",
+      "hint": "visit"
+    },
+    {
+      "word": "VISO",
+      "hint": "face (all senses); sight, gaze, vision"
+    },
+    {
+      "word": "VISSUTO",
+      "hint": "feminine plural of vissuto"
+    },
+    {
+      "word": "VISTI",
+      "hint": "masculine plural of visto"
+    },
+    {
+      "word": "VITE",
+      "hint": "screw"
+    },
+    {
+      "word": "VITTIMA",
+      "hint": "victim"
+    },
+    {
+      "word": "VITTIME",
+      "hint": "victim"
+    },
+    {
+      "word": "VITTORIA",
+      "hint": "victory"
+    },
+    {
+      "word": "VIVA",
+      "hint": "inflection of vivere"
+    },
+    {
+      "word": "VIVE",
+      "hint": "third-person singular present indicative of vivere"
+    },
+    {
+      "word": "VIVI",
+      "hint": "inflection of vivere"
+    },
+    {
+      "word": "VOCI",
+      "hint": "to speak too loudly, often rudely; to shout"
+    },
+    {
+      "word": "VOLER",
+      "hint": "apocopic form of volere"
+    },
+    {
+      "word": "VOLO",
+      "hint": "flight (of a bird; trip in a plane)"
+    },
+    {
+      "word": "VORREBBE",
+      "hint": "apocopic form of vorrebbero"
+    },
+    {
+      "word": "VOSTRE",
+      "hint": "feminine plural of vostro"
+    },
+    {
+      "word": "VOSTRI",
+      "hint": "masculine plural of vostro"
+    },
+    {
+      "word": "VOTI",
+      "hint": "inflection of votare"
+    },
+    {
+      "word": "VOTO",
+      "hint": "vow; vote, ballot"
+    },
+    {
+      "word": "VUOTO",
+      "hint": "empty, vacant"
+    },
+    {
+      "word": "WOW",
+      "hint": ""
+    },
+    {
+      "word": "YOU",
+      "hint": ""
+    },
+    {
+      "word": "ZERO",
+      "hint": "zero"
+    },
+    {
+      "word": "ZIO",
+      "hint": "uncle (male relative); dude"
+    }
+  ]
+}

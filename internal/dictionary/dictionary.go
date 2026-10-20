@@ -37,12 +37,13 @@ type Entry struct {
 }
 
 type Dictionary struct {
-	language  game.Language
-	level     game.Level
-	specs     []game.TileSpec
-	letterSet map[string]bool
-	words     map[string]string
-	entries   []Entry
+	language   game.Language
+	level      game.Level
+	specs      []game.TileSpec
+	letterSet  map[string]bool
+	words      map[string]string
+	entries    []Entry
+	validation []*Dictionary
 }
 
 func (dict *Dictionary) Language() game.Language {
@@ -82,8 +83,13 @@ func (dict *Dictionary) HasLetter(letter string) bool {
 }
 
 func (dict *Dictionary) ContainsWord(word string) bool {
-	_, ok := dict.words[strings.ToUpper(word)]
-	return ok
+	word = strings.ToUpper(word)
+	for _, candidate := range dict.validation {
+		if _, ok := candidate.words[word]; ok {
+			return true
+		}
+	}
+	return false
 }
 
 func (dict *Dictionary) HintFor(word string) string {
@@ -128,6 +134,7 @@ func LoadLibrary(fsys fs.FS) (*Library, error) {
 		if err != nil {
 			return nil, fmt.Errorf("%s: %w", alphabetPath, err)
 		}
+		languageDictionaries := make([]*Dictionary, 0, len(game.Levels))
 		for _, level := range game.Levels {
 			wordPath := path.Join(string(language), strings.ToLower(string(level))+".json")
 			rawWords, err := fs.ReadFile(fsys, wordPath)
@@ -174,6 +181,10 @@ func LoadLibrary(fsys fs.FS) (*Library, error) {
 				return dict.entries[i].Word < dict.entries[j].Word
 			})
 			library.byKey[Key(language, level)] = dict
+			languageDictionaries = append(languageDictionaries, dict)
+		}
+		for _, dict := range languageDictionaries {
+			dict.validation = append(dict.validation, languageDictionaries...)
 		}
 	}
 	return library, nil

@@ -4,236 +4,3804 @@
   "level": "A2",
   "words": [
     {
+      "word": "ABENDS",
+      "hint": "in the evening, at night, see Abend; p.m., indicating that a time is in the evening or early night. a.m./p.m. have no direct equivalents in German; the appropriate time of day is"
+    },
+    {
+      "word": "ABGESCHLOSSEN",
+      "hint": "strong/mixed nominative/accusative neuter singular of abgeschlossen"
+    },
+    {
+      "word": "ABGESEHEN",
+      "hint": "past participle of absehen: disregarded"
+    },
+    {
+      "word": "ACHTUNG",
+      "hint": "attention; esteem"
+    },
+    {
+      "word": "ADRESSE",
+      "hint": "address"
+    },
+    {
+      "word": "AH",
+      "hint": "expressing understanding; expressing contentment"
+    },
+    {
+      "word": "AL",
+      "hint": "creek, drainage channel"
+    },
+    {
+      "word": "ALKOHOL",
+      "hint": "alcohol, ethanol (substance); alcohol, liquor (beverage containing the former substance)"
+    },
+    {
       "word": "AM",
-      "hint": "at the"
+      "hint": "contraction of an (“at/on”) +‎ dem (“the”, masculine/neuter dative singular) [with adjective ending with -en and masculine or neuter noun]; contraction of auf (“on/at”) +‎ dem"
+    },
+    {
+      "word": "AMERIKA",
+      "hint": ""
+    },
+    {
+      "word": "AMERIKANER",
+      "hint": "American (from America, the Americas, the American continent(s)); US-American (from the United States of America)"
     },
     {
       "word": "AN",
-      "hint": "on or to"
+      "hint": "on, upon, at, in, against; by, near, close to, next to"
+    },
+    {
+      "word": "ANDEREM",
+      "hint": "strong dative masculine/neuter singular of anderer"
+    },
+    {
+      "word": "ANFANGEN",
+      "hint": "to begin; to commence; to start [with zu (+ infinitive) ‘doing something’]"
+    },
+    {
+      "word": "ANGEBOT",
+      "hint": "offer, proposition; quote, estimate, offer (as made by an artisan)"
+    },
+    {
+      "word": "ANGEFANGEN",
+      "hint": "past participle of anfangen"
+    },
+    {
+      "word": "ANGENOMMEN",
+      "hint": "past participle of annehmen"
+    },
+    {
+      "word": "ANGRIFF",
+      "hint": "first/third-person singular dependent preterite of angreifen"
+    },
+    {
+      "word": "ANNA",
+      "hint": ""
+    },
+    {
+      "word": "ANS",
+      "hint": "contraction of an (“on(to)”) +‎ das (“the”)"
+    },
+    {
+      "word": "ANSCHEINEND",
+      "hint": "apparently"
+    },
+    {
+      "word": "ANSEHEN",
+      "hint": "to look at, to have a look at (taking in information in doing so); to look at (especially a person; implying eye contact or direction of gaze without analyzing)"
+    },
+    {
+      "word": "ANTEIL",
+      "hint": "share, portion"
+    },
+    {
+      "word": "ANTWORTEN",
+      "hint": "to answer, to reply [with auf (+ accusative) ‘to a letter, question, etc.’ or dative ‘to someone’]"
+    },
+    {
+      "word": "ANWALT",
+      "hint": "attorney, lawyer"
+    },
+    {
+      "word": "APRIL",
+      "hint": "April"
     },
     {
       "word": "ARBEIT",
-      "hint": "work"
+      "hint": "toil, regularly performed work, regularly pursued economic activity, labor, job, employment, occupation; job, task, assignment"
+    },
+    {
+      "word": "ARBEITE",
+      "hint": "agent noun of arbeiten; worker (male or of unspecified gender)"
+    },
+    {
+      "word": "ARM",
+      "hint": "poor (having little money); poor (to be pitied)"
+    },
+    {
+      "word": "ARME",
+      "hint": "female equivalent of Armer: female pauper"
+    },
+    {
+      "word": "ARMEE",
+      "hint": "army (large tactical contingent consisting of several divisions); military, a country’s armed forces as a whole; particularly of countries where a cognate term is commonly used in"
+    },
+    {
+      "word": "ARMEN",
+      "hint": "pauper, poor person (male or of unspecified gender)"
+    },
+    {
+      "word": "ARSCHLOCH",
+      "hint": "arsehole"
+    },
+    {
+      "word": "ARTIKEL",
+      "hint": "article; article, item, ware"
+    },
+    {
+      "word": "AU",
+      "hint": "apocopic form of Aue"
     },
     {
       "word": "AUF",
-      "hint": "on or open"
+      "hint": "on, upon (positioned at the top of); on, onto, up (moving to the top of)"
+    },
+    {
+      "word": "AUFGABE",
+      "hint": "task, job; corresponding to other senses of the verb aufgeben"
+    },
+    {
+      "word": "AUFGENOMMEN",
+      "hint": "strong/mixed nominative/accusative neuter singular of aufgenommen"
+    },
+    {
+      "word": "AUFGRUND",
+      "hint": "due to, because of, as a result of, by reason of, on account of"
+    },
+    {
+      "word": "AUFHÖREN",
+      "hint": "to listen up; to stop; to quit; to cease [with zu (+ infinitive) ‘doing something’ or mit (+ dative) ‘something, e.g. an action’ or (colloquial) accusative ‘something, e.g. an"
+    },
+    {
+      "word": "AUFMERKSAMKEIT",
+      "hint": "attention, mindfulness, attentiveness; care, courtesy, regard, thoughtfulness"
+    },
+    {
+      "word": "AUFTRAG",
+      "hint": "assignment, job, mission; order, instructions"
+    },
+    {
+      "word": "AUGENBLICK",
+      "hint": "moment, instant, blink of an eye (very short period of time)"
+    },
+    {
+      "word": "AUGUST",
+      "hint": "August (month)"
     },
     {
       "word": "AUS",
-      "hint": "out of"
+      "hint": "out; ago"
+    },
+    {
+      "word": "AUSSAGE",
+      "hint": "proposition; statement, claim"
+    },
+    {
+      "word": "AUSSEHEN",
+      "hint": "to look, seem [with adjective ‘in a given state’ or wie (+ nominative) ‘like someone/something’]; to look good or bad; depending on intonation"
+    },
+    {
+      "word": "AUSSIEHT",
+      "hint": "third-person singular dependent present of aussehen"
+    },
+    {
+      "word": "AUTOS",
+      "hint": "car"
+    },
+    {
+      "word": "BAD",
+      "hint": "bath; bathroom"
+    },
+    {
+      "word": "BALL",
+      "hint": "ball (round or roundish object, most commonly used in games); pass, play"
+    },
+    {
+      "word": "BAR",
+      "hint": "bare"
+    },
+    {
+      "word": "BASIS",
+      "hint": "basis (foundation, principle); base"
+    },
+    {
+      "word": "BAUEN",
+      "hint": "to build, to construct; to rely [with auf (+ accusative) ‘on someone/something’]"
+    },
+    {
+      "word": "BAUM",
+      "hint": "tree; boom"
+    },
+    {
+      "word": "BEDEUTEN",
+      "hint": "to imply, to mean, to signify, to indicate, to spell, to betoken; to have meaning, to be important to some degree (to a person)"
+    },
+    {
+      "word": "BEDEUTUNG",
+      "hint": "meaning, sense; meaning, significance, importance"
+    },
+    {
+      "word": "BEENDET",
+      "hint": "to finish, to complete, to (bring/put to an) end; to terminate"
+    },
+    {
+      "word": "BEFINDEN",
+      "hint": "to occupy a place; to be located; to be situated; to find, to consider, to deem [with es and dass (+ clause) ‘a proposition to be true’ , or else accusative ‘something/someone’"
+    },
+    {
+      "word": "BEFINDET",
+      "hint": "to occupy a place; to be located; to be situated; to find, to consider, to deem [with es and dass (+ clause) ‘a proposition to be true’ , or else accusative ‘something/someone’"
+    },
+    {
+      "word": "BEGANN",
+      "hint": "first/third-person singular preterite of beginnen"
+    },
+    {
+      "word": "BEGINNEN",
+      "hint": "to begin; to commence; to be started; to start, to begin [with accusative or mit (+ dative) ‘something’]"
+    },
+    {
+      "word": "BEGINNT",
+      "hint": "inflection of beginnen"
+    },
+    {
+      "word": "BEHALTEN",
+      "hint": "to keep, to retain (money, items, etc. in one's possession); to keep [with accusative ‘information, etc.’ and für (+ accusative reflexive pronoun) ‘to oneself’], to not reveal (a"
+    },
+    {
+      "word": "BEHANDELT",
+      "hint": "to treat (medicinally); to treat (physically, psychologically)"
+    },
+    {
+      "word": "BEHANDLUNG",
+      "hint": "treatment"
     },
     {
       "word": "BEI",
-      "hint": "at or with"
+      "hint": "by, near; at"
+    },
+    {
+      "word": "BEINE",
+      "hint": "leg of a person, animal, or object; bone"
+    },
+    {
+      "word": "BEKAM",
+      "hint": "first/third-person singular preterite of bekommen"
+    },
+    {
+      "word": "BEKOMME",
+      "hint": "inflection of bekommen"
+    },
+    {
+      "word": "BEN",
+      "hint": ""
+    },
+    {
+      "word": "BENUTZEN",
+      "hint": "to make use (of)"
+    },
+    {
+      "word": "BEREICH",
+      "hint": "area, realm, range, scope; course of study or domain of knowledge or practice; field"
+    },
+    {
+      "word": "BERG",
+      "hint": "a mountain, hill"
+    },
+    {
+      "word": "BERICHT",
+      "hint": "report, account, news story"
+    },
+    {
+      "word": "BERLIN",
+      "hint": "Berliner (male or of unspecified sex) (a native or inhabitant of Berlin)"
+    },
+    {
+      "word": "BERUF",
+      "hint": "occupation, profession, trade, job, career; vocation"
+    },
+    {
+      "word": "BESCHEID",
+      "hint": "notification, information"
+    },
+    {
+      "word": "BESCHÄFTIGT",
+      "hint": "female equivalent of Beschäftigter: female employee"
+    },
+    {
+      "word": "BESONDERE",
+      "hint": "special, particular, extraordinary"
+    },
+    {
+      "word": "BESONDERES",
+      "hint": "strong/mixed nominative/accusative neuter singular of besondere"
+    },
+    {
+      "word": "BESSERE",
+      "hint": "to make (sombody) better off"
+    },
+    {
+      "word": "BESTEHEN",
+      "hint": "to succeed, to pass (an exam); to consist [with aus (+ dative) ‘of something’]"
+    },
+    {
+      "word": "BESTER",
+      "hint": "best (male person)"
+    },
+    {
+      "word": "BESTÄTIGT",
+      "hint": "to confirm, to corroborate"
+    },
+    {
+      "word": "BESUCH",
+      "hint": "visit, call [from the 17th century]; visitor or visitors [from the 18th century]"
+    },
+    {
+      "word": "BESUCHEN",
+      "hint": "to visit, to see; to attend"
+    },
+    {
+      "word": "BETRIFFT",
+      "hint": "third-person singular present of betreffen"
+    },
+    {
+      "word": "BEWEGEN",
+      "hint": "to motivate; to persuade; to prompt (someone or something to do something); to make (someone or something to do something); to induce; to get (someone or something to do something)"
+    },
+    {
+      "word": "BEWEGT",
+      "hint": "to motivate; to persuade; to prompt (someone or something to do something); to make (someone or something to do something); to induce; to get (someone or something to do something)"
+    },
+    {
+      "word": "BEWEIS",
+      "hint": "proof; evidence, proof (collectively)"
+    },
+    {
+      "word": "BEWEISEN",
+      "hint": "to prove; to display, to show, to demonstrate"
+    },
+    {
+      "word": "BEWUSST",
+      "hint": "conscious, aware [with genitive ‘of something’]; intentional"
+    },
+    {
+      "word": "BEZAHLEN",
+      "hint": "to pay, give money; to pay (suffer consequences); syntactic constructions as above"
+    },
+    {
+      "word": "BEZAHLT",
+      "hint": "to pay, give money; to pay (suffer consequences); syntactic constructions as above"
+    },
+    {
+      "word": "BEZIEHUNG",
+      "hint": "relation, relationship, connection [with zu (+ dative) ‘with something’]; interpersonal relationship, terms, relations"
+    },
+    {
+      "word": "BIER",
+      "hint": "beer (alcoholic beverage fermented from starch material; a serving of this beverage); business, beeswax (personal affairs)"
+    },
+    {
+      "word": "BIETEN",
+      "hint": "to offer; to present; to bid; to offer to pay a certain price"
+    },
+    {
+      "word": "BIG",
+      "hint": ""
+    },
+    {
+      "word": "BILDER",
+      "hint": "depiction, image, picture; computer file containing a digital image"
+    },
+    {
+      "word": "BITTEN",
+      "hint": "to ask, to beg, to plead, to bid, to request [(optional) with accusative or bei (+ dative) ‘someone’, along with um (+ accusative) ‘for something, e.g. help, understanding,"
     },
     {
       "word": "BLAU",
-      "hint": "blue"
+      "hint": "blue (color/colour); drunk"
+    },
+    {
+      "word": "BLIEB",
+      "hint": "first/third-person singular preterite of bleiben"
+    },
+    {
+      "word": "BLÖD",
+      "hint": "stupid, dim-witted; unfortunate, annoying (of situations)"
+    },
+    {
+      "word": "BOOT",
+      "hint": "boat"
+    },
+    {
+      "word": "BORD",
+      "hint": "shelf (board fixed to the wall); bordure"
+    },
+    {
+      "word": "BRACHTE",
+      "hint": "brought; preterite of bringen, bring."
+    },
+    {
+      "word": "BRAUCH",
+      "hint": "custom"
+    },
+    {
+      "word": "BRAUCHST",
+      "hint": "second-person singular present of brauchen"
+    },
+    {
+      "word": "BRIEF",
+      "hint": "letter (written message)"
     },
     {
       "word": "BROT",
-      "hint": "bread"
+      "hint": "bread; loaf of bread"
+    },
+    {
+      "word": "BRÜCKE",
+      "hint": "bridge; The bridge pattern"
+    },
+    {
+      "word": "BRÜDER",
+      "hint": "little brother"
+    },
+    {
+      "word": "BUS",
+      "hint": "bus (public transport); bus (on a computer mainboard)"
+    },
+    {
+      "word": "BÖSE",
+      "hint": "evil; malicious; wicked; bad; naughty"
+    },
+    {
+      "word": "BÜCHER",
+      "hint": "pile of books"
+    },
+    {
+      "word": "BÜHNE",
+      "hint": "stage (typically elevated space in front of a room for concerts, theater and other performances); scaffolding (elevated platform to stand on to access something)"
+    },
+    {
+      "word": "BÜRGER",
+      "hint": "citizen, inhabitant, resident; legally recognized inhabitant of a city or state; bourgeois, burgher, member of the middle class"
+    },
+    {
+      "word": "BÜRGERMEISTER",
+      "hint": "mayor (leader of a city, male or unspecified sex)"
+    },
+    {
+      "word": "CHINA",
+      "hint": ""
+    },
+    {
+      "word": "CITY",
+      "hint": "city center, downtown, central business district"
+    },
+    {
+      "word": "CLUB",
+      "hint": "club (association of members); club (nightclub, discotheque)"
+    },
+    {
+      "word": "COMPUTER",
+      "hint": "computer (programmable electronic device that performs mathematical calculations, logical operations, and usually also data retrieval/storage)"
+    },
+    {
+      "word": "DACH",
+      "hint": "roof; circumflex"
+    },
+    {
+      "word": "DADURCH",
+      "hint": "through it, through that; thus"
+    },
+    {
+      "word": "DAHIN",
+      "hint": "there (to or into that place; thither); over, gone"
+    },
+    {
+      "word": "DAME",
+      "hint": "lady (woman of good breeding and manners); lady; madam (polite term to refer to any woman)"
+    },
+    {
+      "word": "DAMEN",
+      "hint": "lady (woman of good breeding and manners); lady; madam (polite term to refer to any woman)"
+    },
+    {
+      "word": "DANIEL",
+      "hint": ""
+    },
+    {
+      "word": "DARAUS",
+      "hint": "out of it, out of that, of it; hence, from that"
+    },
+    {
+      "word": "DARFST",
+      "hint": "second-person singular present of dürfen"
     },
     {
       "word": "DAS",
-      "hint": "the"
+      "hint": "nominative/accusative neuter singular of der: the"
+    },
+    {
+      "word": "DASSELBE",
+      "hint": "nominative/accusative singular neuter of derselbe"
+    },
+    {
+      "word": "DATEN",
+      "hint": "to date"
+    },
+    {
+      "word": "DAUERN",
+      "hint": "to last, to continue, to persist (for a period of time); to last, to be permanent"
+    },
+    {
+      "word": "DAUERT",
+      "hint": "to last, to continue, to persist (for a period of time); to last, to be permanent"
+    },
+    {
+      "word": "DAVID",
+      "hint": ""
+    },
+    {
+      "word": "DAVOR",
+      "hint": "in front of that/it; from that/it"
+    },
+    {
+      "word": "DENK",
+      "hint": "way of thinking, mindset, mentality, attitude"
+    },
+    {
+      "word": "DENKST",
+      "hint": "contraction of denkst du"
+    },
+    {
+      "word": "DENNOCH",
+      "hint": "anyhow, however"
     },
     {
       "word": "DER",
-      "hint": "the"
+      "hint": "nominative masculine singular definite article, the"
+    },
+    {
+      "word": "DESTO",
+      "hint": "the (forming the parallel comparative with je); used instead of je in the je ... desto construction"
+    },
+    {
+      "word": "DEUTLICH",
+      "hint": "articulate, clear; distinct"
+    },
+    {
+      "word": "DEUTSCHEN",
+      "hint": "weak genitive/dative singular of Deutsch"
+    },
+    {
+      "word": "DEUTSCHLAND",
+      "hint": ""
     },
     {
       "word": "DIE",
-      "hint": "the"
+      "hint": "nominative/accusative singular feminine of der; nominative/accusative plural of der"
+    },
+    {
+      "word": "DIENEN",
+      "hint": "to serve [with bei (+ dative) ‘in public office or the military’]; to serve, to be a servant (e.g. a butler or maid) [with dative ‘for someone’]"
+    },
+    {
+      "word": "DIENST",
+      "hint": "service; work, duty"
+    },
+    {
+      "word": "DIESMAL",
+      "hint": "this time"
+    },
+    {
+      "word": "DORF",
+      "hint": "village (rural habitation of size between a hamlet and a town); backwater (remote place; somewhere that remains unaffected by new events, progresses, ideas, etc.)"
+    },
+    {
+      "word": "DREHEN",
+      "hint": "to turn; to turn (one’s body), turn around"
+    },
+    {
+      "word": "DRINGEND",
+      "hint": "comparative degree of dringend"
+    },
+    {
+      "word": "DRITTE",
+      "hint": "third"
+    },
+    {
+      "word": "DRITTEN",
+      "hint": "third"
+    },
+    {
+      "word": "DROGEN",
+      "hint": "drugs"
+    },
+    {
+      "word": "DRUCK",
+      "hint": "pressure; fix (drug injection)"
     },
     {
       "word": "DU",
-      "hint": "you"
+      "hint": "you (singular familiar), thou"
+    },
+    {
+      "word": "DUMM",
+      "hint": "dumb, stupid"
+    },
+    {
+      "word": "DÜRFTE",
+      "hint": "first/third-person singular subjunctive II of dürfen"
+    },
+    {
+      "word": "EBENFALLS",
+      "hint": "also, likewise, as well"
+    },
+    {
+      "word": "EBENSO",
+      "hint": "equally, as much; likewise"
+    },
+    {
+      "word": "ECHTE",
+      "hint": "authentic, genuine, true; real; factual"
+    },
+    {
+      "word": "ECKE",
+      "hint": "corner, edge; a roughly triangular or quadrangular piece of something"
+    },
+    {
+      "word": "EH",
+      "hint": "before"
+    },
+    {
+      "word": "EHRE",
+      "hint": "honour; credit"
+    },
+    {
+      "word": "EIER",
+      "hint": "chanterelle, Cantharellus cibarius"
+    },
+    {
+      "word": "EIGENES",
+      "hint": "strong/mixed nominative/accusative neuter singular of eigen"
     },
     {
       "word": "EIN",
-      "hint": "a or an"
+      "hint": "one; the same"
+    },
+    {
+      "word": "EINDRUCK",
+      "hint": "impression"
+    },
+    {
+      "word": "EINFACHER",
+      "hint": "comparative degree of einfach"
+    },
+    {
+      "word": "EINFLUSS",
+      "hint": "inflow, influx; influence"
+    },
+    {
+      "word": "EINGELADEN",
+      "hint": "strong/mixed nominative/accusative neuter singular of eingeladen"
+    },
+    {
+      "word": "EINIGEN",
+      "hint": "to unite or unify (for example a group of people); to agree, to reach an agreement [with auf (+ accusative) ‘on something’]"
+    },
+    {
+      "word": "EINIGES",
+      "hint": "strong/mixed nominative/accusative neuter singular of einig"
+    },
+    {
+      "word": "EINSATZ",
+      "hint": "something inserted, inset, inlay, compartment; insertion"
+    },
+    {
+      "word": "EINZIGEN",
+      "hint": "only, sole; unique"
+    },
+    {
+      "word": "EIS",
+      "hint": "ice; ice cream"
+    },
+    {
+      "word": "ENERGIE",
+      "hint": "energy"
+    },
+    {
+      "word": "ENGEL",
+      "hint": "angel"
+    },
+    {
+      "word": "ENGLAND",
+      "hint": "an English person (male or of unspecified gender), an Englander; an Englishman; any English-speaking person of origins unknown to the speaker"
+    },
+    {
+      "word": "ENGLISCH",
+      "hint": "English; rare"
+    },
+    {
+      "word": "ENTDECKT",
+      "hint": "to discover, to spot, to learn for the first time; to disclose"
+    },
+    {
+      "word": "ENTLANG",
+      "hint": "along"
+    },
+    {
+      "word": "ENTSCHEIDEN",
+      "hint": "to decide, to make a decision [with ob (+ clause) ‘whether ...’ or zu (+ infinitive) ‘to do something’]; to opt, to decide [with für (+ accusative) ‘on something’ or zu (+"
+    },
+    {
+      "word": "ENTSCHIEDEN",
+      "hint": "to decide, to make a decision [with ob (+ clause) ‘whether ...’ or zu (+ infinitive) ‘to do something’]; to opt, to decide [with für (+ accusative) ‘on something’ or zu (+"
+    },
+    {
+      "word": "ENTWEDER",
+      "hint": "either (only with oder)"
+    },
+    {
+      "word": "ENTWICKELT",
+      "hint": "to develop, to gain (strength, a skill, a talent, an ability, etc.; slowly, often by natural growth or practice); to develop"
     },
     {
       "word": "ER",
-      "hint": "he"
+      "hint": "he; it (when the grammatical gender of the object/article/thing/animal etc., being referred to, is masculine (der))"
+    },
+    {
+      "word": "ERFAHRUNG",
+      "hint": "experience (event through which empirical knowledge is gained)"
+    },
+    {
+      "word": "ERFOLGREICH",
+      "hint": "successful"
+    },
+    {
+      "word": "ERGEBNIS",
+      "hint": "result, outcome, conclusion, finding, fruit, consequence, upshot, answer; earnings, profit, output, outturn"
+    },
+    {
+      "word": "ERGIBT",
+      "hint": "obsolete spelling of ergibt"
+    },
+    {
+      "word": "ERINNERE",
+      "hint": "to remind [with accusative ‘someone’ and an (+ accusative) ‘of someone/something’]; to remember, to be reminded of [with an (+ accusative) or (higher register) genitive"
+    },
+    {
+      "word": "ERINNERT",
+      "hint": "to remind [with accusative ‘someone’ and an (+ accusative) ‘of someone/something’]; to remember, to be reminded of [with an (+ accusative) or (higher register) genitive"
+    },
+    {
+      "word": "ERINNERUNG",
+      "hint": "memory (recall); remembrance; reminder, something that reminds"
+    },
+    {
+      "word": "ERKENNEN",
+      "hint": "to recognize, perceive; to realize, detect, see, know, identify, discover, understand"
+    },
+    {
+      "word": "ERKLÄRT",
+      "hint": "declared, avowed, professed"
+    },
+    {
+      "word": "ERKLÄRUNG",
+      "hint": "explanation; declaration, statement"
+    },
+    {
+      "word": "ERLAUBT",
+      "hint": "to allow; to permit [with dative]"
+    },
+    {
+      "word": "ERLEBEN",
+      "hint": "to experience; to see, live to see, witness"
+    },
+    {
+      "word": "ERLEBT",
+      "hint": "to experience; to see, live to see, witness"
+    },
+    {
+      "word": "ERLEDIGT",
+      "hint": "to free, to liberate, to release; to finish, to finalize, to complete, to see to, to handle with the result of completed work"
+    },
+    {
+      "word": "ERNEUT",
+      "hint": "strong/mixed nominative/accusative neuter singular of erneut"
+    },
+    {
+      "word": "ERNSTHAFT",
+      "hint": "serious (important, weighty); serious (earnest, genuine)"
+    },
+    {
+      "word": "ERREICHT",
+      "hint": "to reach (to attain by stretching); to reach, to get to, to arrive at (a place)"
+    },
+    {
+      "word": "ERSTES",
+      "hint": "strong/mixed nominative/accusative neuter singular of erste"
+    },
+    {
+      "word": "ERWARTEN",
+      "hint": "to expect, to consider likely; to await, to expect (someone to arrive)"
+    },
+    {
+      "word": "ERWISCHT",
+      "hint": "to catch (often referring to catching someone in an act of wrongdoing); to board, to catch (a train, flight, etc.)"
+    },
+    {
+      "word": "ERWÄHNT",
+      "hint": "to mention [with accusative or (archaic) genitive ‘something’] (speak of something)"
     },
     {
       "word": "ES",
-      "hint": "it"
+      "hint": "Refers to a neuter noun (person, animal, thing or abstract); it, that, there (used to refer to statements, activities, the environment etc., or as a placeholder/dummy pronoun)"
     },
     {
       "word": "ESSEN",
-      "hint": "to eat"
+      "hint": "to eat; to eat; to dine"
+    },
+    {
+      "word": "EUER",
+      "hint": "genitive singular of ihr."
+    },
+    {
+      "word": "EUREN",
+      "hint": "inflection of euer"
+    },
+    {
+      "word": "EURO",
+      "hint": "euro (currency)"
+    },
+    {
+      "word": "EUROPA",
+      "hint": "European (person)"
+    },
+    {
+      "word": "EWIG",
+      "hint": "eternal, everlasting; constant, frequent"
+    },
+    {
+      "word": "EXTRA",
+      "hint": "separate (not included in or directly connected to the object being discussed); special, specially made"
+    },
+    {
+      "word": "FAHRE",
+      "hint": "to go at speed; to go; to run; to drive; to sail"
+    },
+    {
+      "word": "FAHRER",
+      "hint": "agent noun of fahren; driver (person)"
+    },
+    {
+      "word": "FAHRT",
+      "hint": "drive; ride"
+    },
+    {
+      "word": "FALLE",
+      "hint": "trap, snare; spring latch"
+    },
+    {
+      "word": "FALSCHE",
+      "hint": "false, unfactual, untrue; wrong (incorrect)"
+    },
+    {
+      "word": "FALSCHEN",
+      "hint": "Inflected form of falsch"
     },
     {
       "word": "FAMILIE",
       "hint": "family"
     },
     {
+      "word": "FAMILIEN",
+      "hint": "family"
+    },
+    {
+      "word": "FANDEN",
+      "hint": "first/third-person plural preterite of finden"
+    },
+    {
+      "word": "FARBE",
+      "hint": "colour; paint"
+    },
+    {
+      "word": "FEHLEN",
+      "hint": "for there to be a lack [with dative ‘to someone/something’ and an (+ dative) ‘of something’] (idiomatically translated by English lack with the dative object as the subject); to"
+    },
+    {
+      "word": "FEIERN",
+      "hint": "to celebrate; to party; applicable from the most solemn to the most revelrous forms; to love; to adore"
+    },
+    {
+      "word": "FERNSEHEN",
+      "hint": "to watch television"
+    },
+    {
+      "word": "FIEL",
+      "hint": "first/third-person singular preterite of fallen"
+    },
+    {
+      "word": "FILME",
+      "hint": "film (a thin layer of some substance); photographic film"
+    },
+    {
+      "word": "FIND",
+      "hint": "inflection of finden"
+    },
+    {
+      "word": "FINDEST",
+      "hint": "inflection of finden"
+    },
+    {
+      "word": "FINGER",
+      "hint": "finger"
+    },
+    {
+      "word": "FLEISCH",
+      "hint": "flesh; meat"
+    },
+    {
+      "word": "FLIEGEN",
+      "hint": "to fly; to travel by air [auxiliary sein]; to rush; to fly; to go quickly [auxiliary sein]"
+    },
+    {
+      "word": "FLUCHT",
+      "hint": "escape, flight (act of fleeing)"
+    },
+    {
+      "word": "FLUG",
+      "hint": "flight (in the air); airfare"
+    },
+    {
+      "word": "FLUGHAFEN",
+      "hint": "airport"
+    },
+    {
+      "word": "FLUGZEUG",
+      "hint": "aeroplane"
+    },
+    {
+      "word": "FOLGT",
+      "hint": "to follow (on the same path or in a sequence) [with dative ‘someone’]; to understand, to be attentive to [with dative ‘something, e.g. a book, film plot, etc.’]"
+    },
+    {
+      "word": "FOR",
+      "hint": ""
+    },
+    {
+      "word": "FORM",
+      "hint": "shape; form (order of doing things)"
+    },
+    {
+      "word": "FORT",
+      "hint": "away; gone"
+    },
+    {
+      "word": "FOTOS",
+      "hint": "photograph (picture created by projecting an image onto a photosensitive surface)"
+    },
+    {
+      "word": "FRAG",
+      "hint": "singular imperative of fragen; first-person singular present of fragen"
+    },
+    {
       "word": "FRAGE",
-      "hint": "question"
+      "hint": "question (interrogative sentence or phrase) [with zu (+ dative) ‘regarding something’ and an (+ accusative) ‘for someone’]; question, issue, matter (subject or topic for"
+    },
+    {
+      "word": "FRAGT",
+      "hint": "to ask [with accusative ‘someone’ and accusative ‘something’]; to ask for, to ask after [with nach ‘someone/something’]"
+    },
+    {
+      "word": "FRAGTE",
+      "hint": "to ask [with accusative ‘someone’ and accusative ‘something’]; to ask for, to ask after [with nach ‘someone/something’]"
+    },
+    {
+      "word": "FRANKREICH",
+      "hint": ""
+    },
+    {
+      "word": "FREIEN",
+      "hint": "to marry or marry off; to court, to woo, to make advances"
+    },
+    {
+      "word": "FREIHEIT",
+      "hint": "freedom; liberty"
+    },
+    {
+      "word": "FREITAG",
+      "hint": "Friday"
+    },
+    {
+      "word": "FREUDE",
+      "hint": "joy, delight, glee"
+    },
+    {
+      "word": "FREUE",
+      "hint": "to gladden, to make glad, to make pleased; to be glad, pleased, or happy about something [with über (+ accusative)]"
+    },
+    {
+      "word": "FREUEN",
+      "hint": "to gladden, to make glad, to make pleased; to be glad, pleased, or happy about something [with über (+ accusative)]"
     },
     {
       "word": "FREUND",
-      "hint": "friend"
+      "hint": "friend; boyfriend"
+    },
+    {
+      "word": "FREUNDEN",
+      "hint": "dative plural of Freund"
+    },
+    {
+      "word": "FREUT",
+      "hint": "to gladden, to make glad, to make pleased; to be glad, pleased, or happy about something [with über (+ accusative)]"
+    },
+    {
+      "word": "FRIEDEN",
+      "hint": "peace"
+    },
+    {
+      "word": "FRISCH",
+      "hint": "fresh; recent"
+    },
+    {
+      "word": "FRÜHSTÜCK",
+      "hint": "breakfast"
+    },
+    {
+      "word": "FUHR",
+      "hint": "first/third-person singular preterite of fahren"
+    },
+    {
+      "word": "FUNKTIONIEREN",
+      "hint": "to work, function; to work, work out"
+    },
+    {
+      "word": "FÄHRT",
+      "hint": "trail; track"
+    },
+    {
+      "word": "FÄLLE",
+      "hint": "inflection of fällen"
+    },
+    {
+      "word": "FÜHLE",
+      "hint": "to feel (a thing, sensation, emotion - a noun); to feel (somehow - an adjective)"
+    },
+    {
+      "word": "FÜHLT",
+      "hint": "to feel (a thing, sensation, emotion - a noun); to feel (somehow - an adjective)"
+    },
+    {
+      "word": "FÜHRTE",
+      "hint": "to lead; to carry, to sell"
+    },
+    {
+      "word": "FÜRS",
+      "hint": "contraction of für (“for”) +‎ das (“the”) [with accusative]"
+    },
+    {
+      "word": "GANG",
+      "hint": "motion, movement, progress, way, going; gait, way (someone walks), an instance of walking"
+    },
+    {
+      "word": "GANZES",
+      "hint": "strong/mixed nominative/accusative neuter singular of ganz"
+    },
+    {
+      "word": "GARTEN",
+      "hint": "garden, yard (grounds at the front or back of a house); garden (outdoor area containing one or more types of plants, usually plants grown for food or ornamental purposes)"
+    },
+    {
+      "word": "GAST",
+      "hint": "guest"
+    },
+    {
+      "word": "GEARBEITET",
+      "hint": "past participle of arbeiten"
+    },
+    {
+      "word": "GEB",
+      "hint": "first-person singular present of geben; singular imperative of geben"
+    },
+    {
+      "word": "GEBAUT",
+      "hint": "strong/mixed nominative/accusative neuter singular of gebaut"
+    },
+    {
+      "word": "GEBETEN",
+      "hint": "past participle of bitten"
+    },
+    {
+      "word": "GEBIET",
+      "hint": "area, region; territory"
+    },
+    {
+      "word": "GEBLIEBEN",
+      "hint": "strong/mixed nominative/accusative neuter singular of geblieben"
+    },
+    {
+      "word": "GEBOREN",
+      "hint": "strong/mixed nominative/accusative neuter singular of geboren"
+    },
+    {
+      "word": "GEBRAUCHT",
+      "hint": "to use"
+    },
+    {
+      "word": "GEBURTSTAG",
+      "hint": "birthday"
+    },
+    {
+      "word": "GEBÄUDE",
+      "hint": "building, edifice, structure"
+    },
+    {
+      "word": "GEFAHREN",
+      "hint": "strong/mixed nominative/accusative neuter singular of gefahren"
+    },
+    {
+      "word": "GEFÄHRLICH",
+      "hint": "dangerous, hazardous"
+    },
+    {
+      "word": "GEFÄNGNIS",
+      "hint": "prison, jail (building); prison sentence"
+    },
+    {
+      "word": "GEFÜHLE",
+      "hint": "feeling (either physical sensation or emotion); sense of something, instinct [with für]"
+    },
+    {
+      "word": "GEFÜHRT",
+      "hint": "strong/mixed nominative/accusative neuter singular of geführt"
+    },
+    {
+      "word": "GEGEND",
+      "hint": "area, region"
+    },
+    {
+      "word": "GEGENTEIL",
+      "hint": "opposite (contrary thing)"
+    },
+    {
+      "word": "GEGESSEN",
+      "hint": "strong/mixed nominative/accusative neuter singular of gegessen"
+    },
+    {
+      "word": "GEHALTEN",
+      "hint": "strong/mixed nominative/accusative neuter singular of gehalten"
+    },
+    {
+      "word": "GEHOLFEN",
+      "hint": "past participle of helfen"
+    },
+    {
+      "word": "GEHST",
+      "hint": "second-person singular present of gehen"
+    },
+    {
+      "word": "GEIST",
+      "hint": "spirit; the Holy Spirit; Holy Ghost"
+    },
+    {
+      "word": "GEKAUFT",
+      "hint": "strong/mixed nominative/accusative neuter singular of gekauft"
+    },
+    {
+      "word": "GELASSEN",
+      "hint": "comparative degree of gelassen"
+    },
+    {
+      "word": "GELEGENHEIT",
+      "hint": "opportunity, chance, instance, occasion [with zu (+ dative) ‘for/to’]; facility (facilities), accommodation"
+    },
+    {
+      "word": "GELERNT",
+      "hint": "strong/mixed nominative/accusative neuter singular of gelernt"
+    },
+    {
+      "word": "GELESEN",
+      "hint": "past participle of lesen"
+    },
+    {
+      "word": "GEMEINDE",
+      "hint": "municipality; parish"
+    },
+    {
+      "word": "GEMEINT",
+      "hint": "strong/mixed nominative/accusative neuter singular of gemeint"
+    },
+    {
+      "word": "GENANNT",
+      "hint": "strong/mixed nominative/accusative neuter singular of genannt"
+    },
+    {
+      "word": "GENERAL",
+      "hint": "general (officer in any general rank); general (officer in a specific general rank, usually the highest)"
+    },
+    {
+      "word": "GEORGE",
+      "hint": ""
+    },
+    {
+      "word": "GEPLANT",
+      "hint": "comparative degree of geplant"
+    },
+    {
+      "word": "GERICHT",
+      "hint": "court (of justice); judgement / judgment"
+    },
+    {
+      "word": "GERÄT",
+      "hint": "device, tool, appliance, machine; equipment, tools"
+    },
+    {
+      "word": "GESAMTE",
+      "hint": "total, whole, entire, overall, big"
+    },
+    {
+      "word": "GESCHEHEN",
+      "hint": "to occur; to happen; to happen [with mit (+ dative) or dative ‘to someone’]"
+    },
+    {
+      "word": "GESCHENK",
+      "hint": "present, gift"
+    },
+    {
+      "word": "GESCHICHTEN",
+      "hint": "history; story"
+    },
+    {
+      "word": "GESCHICKT",
+      "hint": "comparative degree of geschickt"
+    },
+    {
+      "word": "GESCHLAGEN",
+      "hint": "past participle of schlagen"
+    },
+    {
+      "word": "GESCHLOSSEN",
+      "hint": "strong/mixed nominative/accusative neuter singular of geschlossen"
+    },
+    {
+      "word": "GESCHÄFT",
+      "hint": "shop, store (establishment that sells goods or services to the public; originally only a physical location, but now a virtual establishment as well); business"
+    },
+    {
+      "word": "GESETZ",
+      "hint": "law, legal act, bill, statute"
+    },
+    {
+      "word": "GESETZT",
+      "hint": "past participle of setzen"
+    },
+    {
+      "word": "GESPIELT",
+      "hint": "past participle of spielen"
+    },
+    {
+      "word": "GESPROCHEN",
+      "hint": "strong/mixed nominative/accusative neuter singular of gesprochen"
+    },
+    {
+      "word": "GESPRÄCH",
+      "hint": "conversation, chat, talk (conversing between people or parties, either for pleasure or for business)"
+    },
+    {
+      "word": "GESTELLT",
+      "hint": "strong/mixed nominative/accusative neuter singular of gestellt"
+    },
+    {
+      "word": "GESTORBEN",
+      "hint": "strong/mixed nominative/accusative neuter singular of gestorben"
+    },
+    {
+      "word": "GESUCHT",
+      "hint": "past participle of suchen"
     },
     {
       "word": "GESUND",
-      "hint": "healthy"
+      "hint": "healthy (enjoying health); healthy (conducive to health)"
+    },
+    {
+      "word": "GETÖTET",
+      "hint": "strong/mixed nominative/accusative neuter singular of getötet"
+    },
+    {
+      "word": "GEWALT",
+      "hint": "strong or violent force; violence [with gegen (+ accusative) ‘against someone/something’]"
+    },
+    {
+      "word": "GEWINNT",
+      "hint": "to win; to be victorious; to win something; to gain"
+    },
+    {
+      "word": "GEWISSEN",
+      "hint": "conscience (moral sense or faculty)"
+    },
+    {
+      "word": "GEWONNEN",
+      "hint": "strong/mixed nominative/accusative neuter singular of gewonnen"
+    },
+    {
+      "word": "GEWÄHLT",
+      "hint": "comparative degree of gewählt"
+    },
+    {
+      "word": "GEZEIGT",
+      "hint": "past participle of zeigen"
+    },
+    {
+      "word": "GEZOGEN",
+      "hint": "past participle of ziehen"
+    },
+    {
+      "word": "GEÄNDERT",
+      "hint": "past participle of ändern"
+    },
+    {
+      "word": "GIB",
+      "hint": "singular imperative of geben; first-person singular present of geben"
+    },
+    {
+      "word": "GIBTS",
+      "hint": "contraction of gibt +‎ es"
+    },
+    {
+      "word": "GINGEN",
+      "hint": "inflection of gehen"
+    },
+    {
+      "word": "GLAS",
+      "hint": "glass; jar (made of glass)"
+    },
+    {
+      "word": "GLAUBST",
+      "hint": "to believe something (to consider true); to believe in (to think something exists, or have confidence in someone’s ability) [with an (+ accusative) ‘someone/something’]"
+    },
+    {
+      "word": "GLEICHZEITIG",
+      "hint": "simultaneous, concurrent, coincident, concomitant"
+    },
+    {
+      "word": "GOLD",
+      "hint": "gold (chemical element, Au)"
+    },
+    {
+      "word": "GOTTES",
+      "hint": "god"
+    },
+    {
+      "word": "GRAD",
+      "hint": "degree"
+    },
+    {
+      "word": "GRENZE",
+      "hint": "border; limit"
+    },
+    {
+      "word": "GRENZEN",
+      "hint": "to border [with an (+ accusative) ‘on a location/etc.’]; to come close to, to almost be (to be very similar) [with an (+ accusative) ‘something’]"
+    },
+    {
+      "word": "GRIFF",
+      "hint": "first/third-person singular preterite of greifen"
     },
     {
       "word": "GRUEN",
       "hint": "green"
     },
     {
+      "word": "GRÜN",
+      "hint": "green (in colour); unripe"
+    },
+    {
+      "word": "GRÜNDE",
+      "hint": "to found, to establish (a community, settlement, organization, company, etc.); to form (intransitively), to be founded"
+    },
+    {
+      "word": "GRÜNDEN",
+      "hint": "to found, to establish (a community, settlement, organization, company, etc.); to form (intransitively), to be founded"
+    },
+    {
+      "word": "GÄSTE",
+      "hint": "nominative/accusative/genitive plural of Gast"
+    },
+    {
+      "word": "HA",
+      "hint": "Expresses laughter.; Expresses triumph or discovery."
+    },
+    {
+      "word": "HAARE",
+      "hint": "hair (a singular hair, not limited to the head); hair (the totality of hair on someone's head)"
+    },
+    {
+      "word": "HALB",
+      "hint": "half, halfway"
+    },
+    {
+      "word": "HALBE",
+      "hint": "half-litre of beer"
+    },
+    {
+      "word": "HALS",
+      "hint": "neck; throat"
+    },
+    {
+      "word": "HANDELN",
+      "hint": "to act; to take action; to negotiate; to bargain; to haggle"
+    },
+    {
+      "word": "HANDELT",
+      "hint": "to act; to take action; to negotiate; to bargain; to haggle"
+    },
+    {
+      "word": "HANS",
+      "hint": "alternative form of haben"
+    },
+    {
+      "word": "HARRY",
+      "hint": ""
+    },
+    {
+      "word": "HASSE",
+      "hint": "hatred, hate"
+    },
+    {
       "word": "HAT",
-      "hint": "has"
+      "hint": "third-person singular present of haben"
     },
     {
       "word": "HAUS",
-      "hint": "house"
+      "hint": "house, building; home (in various phrases)"
+    },
+    {
+      "word": "HAUT",
+      "hint": "skin, hide of a person, animal or (part of a) plant; a creature, especially a person"
+    },
+    {
+      "word": "HE",
+      "hint": "An exclamation to get attention; hey; Expresses protest or reprimand; hey"
+    },
+    {
+      "word": "HEILIGEN",
+      "hint": "to hallow; to make holy; to regard or respect as holy"
+    },
+    {
+      "word": "HEIM",
+      "hint": "home, to the house; always as a direction, thus never in the sense of at home"
+    },
+    {
+      "word": "HEIMAT",
+      "hint": "home, home town, homeland, native land; home; homeland; place where something originated or where it is deep-rooted"
+    },
+    {
+      "word": "HERRN",
+      "hint": "man, gentleman; sir, lord; address of subservient respect"
+    },
+    {
+      "word": "HERUM",
+      "hint": "about, around."
+    },
+    {
+      "word": "HERZEN",
+      "hint": "to hug, embrace; to caress"
+    },
+    {
+      "word": "HI",
+      "hint": "hi"
+    },
+    {
+      "word": "HIELT",
+      "hint": "first/third-person singular preterite of halten"
+    },
+    {
+      "word": "HIGH",
+      "hint": "high (intoxicated with a drug other than alcohol)"
+    },
+    {
+      "word": "HINAUS",
+      "hint": "out (away from the speaker)"
+    },
+    {
+      "word": "HINTEN",
+      "hint": "behind; in the back; over (there); yonder (unspecified locative for something at some distance)"
+    },
+    {
+      "word": "HM",
+      "hint": "abbreviation of Höhenmeter (“vertical meter”)"
+    },
+    {
+      "word": "HOCHZEIT",
+      "hint": "wedding, marriage (a ceremony in which people are married and/or a celebration thereof); the state of having been dealt both queens of clubs; used in a player’s announcement that"
+    },
+    {
+      "word": "HOF",
+      "hint": "yard, court, courtyard (open area by a house or enclosed by houses); court (residence and entourage of a nobleman)"
+    },
+    {
+      "word": "HOFFEN",
+      "hint": "to hope [with auf (+ accusative) ‘for something’]"
+    },
+    {
+      "word": "HOFFENTLICH",
+      "hint": "hopefully (it is hoped that)"
+    },
+    {
+      "word": "HOFFNUNG",
+      "hint": "hope, the belief or expectation that something wished for can or will really happen.; hope, the actual thing wished for"
+    },
+    {
+      "word": "HOHE",
+      "hint": "strong/mixed nominative/accusative neuter singular of hoch"
+    },
+    {
+      "word": "HOHEN",
+      "hint": "high priest"
+    },
+    {
+      "word": "HOLT",
+      "hint": "inflection of holen"
     },
     {
       "word": "HUND",
-      "hint": "dog"
+      "hint": "dog, hound; scoundrel; dog (mean or morally reprehensible person)"
+    },
+    {
+      "word": "HUNDE",
+      "hint": "dog figwort (Scrophularia canina)"
+    },
+    {
+      "word": "HUNGER",
+      "hint": "hunger"
+    },
+    {
+      "word": "HÄLFTE",
+      "hint": "half; fifty percent of something; half, share; any of two correlating pieces, whatever the size"
+    },
+    {
+      "word": "HÄNDEN",
+      "hint": "dative plural of Hand"
+    },
+    {
+      "word": "HÄNGEN",
+      "hint": "to hang, to be suspended [with an (+ dative) ‘on something’]; to be attached to; to be fond of; to be devoted to; to cling to [with an (+ dative) ‘someone’]"
+    },
+    {
+      "word": "HÄNGT",
+      "hint": "to hang, to be suspended [with an (+ dative) ‘on something’]; to be attached to; to be fond of; to be devoted to; to cling to [with an (+ dative) ‘someone’]"
+    },
+    {
+      "word": "HÄTTEST",
+      "hint": "second-person singular subjunctive II of haben"
+    },
+    {
+      "word": "HÖHE",
+      "hint": "height, altitude"
+    },
+    {
+      "word": "HÖHER",
+      "hint": "comparative degree of hoch"
+    },
+    {
+      "word": "HÖLLE",
+      "hint": "hell"
+    },
+    {
+      "word": "HÖR",
+      "hint": "singular imperative of hören"
+    },
+    {
+      "word": "HÖRE",
+      "hint": "inflection of hören"
+    },
+    {
+      "word": "HÖRTE",
+      "hint": "inflection of hören"
     },
     {
       "word": "ICH",
-      "hint": "I"
+      "hint": "I (first person singular nominative (subject) pronoun)"
+    },
+    {
+      "word": "IDEEN",
+      "hint": "idea"
     },
     {
       "word": "IM",
-      "hint": "in the"
+      "hint": "contraction of in +‎ dem; in the"
+    },
+    {
+      "word": "IMMERHIN",
+      "hint": "after all (explaining another statement); at least, anyway, on the bright side (describing a positive aspect of an otherwise unfortunate situation)"
     },
     {
       "word": "IN",
-      "hint": "inside"
+      "hint": "in, inside, within, at (inside a building); in (pertaining to)"
+    },
+    {
+      "word": "INNERHALB",
+      "hint": "within, inside (of); within, in the space of"
+    },
+    {
+      "word": "INSEL",
+      "hint": "an island, an isle"
+    },
+    {
+      "word": "INTERESSANT",
+      "hint": "interesting"
+    },
+    {
+      "word": "INTERESSE",
+      "hint": "interest (attention and concern)"
+    },
+    {
+      "word": "INTERNET",
+      "hint": "internet"
+    },
+    {
+      "word": "INZWISCHEN",
+      "hint": "since then, by now, in the meantime (contrasting between the current state and a known past state); in the meantime (at the same time as another process, typically in another"
+    },
+    {
+      "word": "IRGENDWELCHE",
+      "hint": "any (no matter which)"
     },
     {
       "word": "IST",
-      "hint": "is"
+      "hint": "contraction of ist +‎ es"
+    },
+    {
+      "word": "IT",
+      "hint": "abbreviation of italienisch"
     },
     {
       "word": "JA",
-      "hint": "yes"
+      "hint": "obviously; certainly; of course; as you know; as is generally known (indicates and emphasises that one is expressing an established fact); under any circumstances, for (absolute)"
+    },
+    {
+      "word": "JACK",
+      "hint": "jacket"
+    },
+    {
+      "word": "JAHRHUNDERT",
+      "hint": "a century (period of 100 years)"
+    },
+    {
+      "word": "JAMES",
+      "hint": ""
+    },
+    {
+      "word": "JEDOCH",
+      "hint": "however, yet, nevertheless"
+    },
+    {
+      "word": "JEMALS",
+      "hint": "ever"
+    },
+    {
+      "word": "JEMANDEM",
+      "hint": "dative of jemand"
+    },
+    {
+      "word": "JESUS",
+      "hint": ""
+    },
+    {
+      "word": "JUNG",
+      "hint": "young"
+    },
+    {
+      "word": "KAISER",
+      "hint": "emperor (ruler of certain monarchies; highest monarch)"
+    },
+    {
+      "word": "KALT",
+      "hint": "cold, chilly; the physical perception of something (objects, weather, body etc.) to have a low temperature; calm, restrained, passionless"
+    },
+    {
+      "word": "KAMERA",
+      "hint": "camera (device for taking photographs or filming)"
+    },
+    {
+      "word": "KANNTE",
+      "hint": "first/third-person singular preterite of kennen"
+    },
+    {
+      "word": "KAPUTT",
+      "hint": "destroyed, broken, out of order; tired, exhausted"
+    },
+    {
+      "word": "KARL",
+      "hint": "a female native or inhabitant of Karl-Marx-Stadt"
+    },
+    {
+      "word": "KARRIERE",
+      "hint": "career (occupational path); quick or steep occupational advancement"
+    },
+    {
+      "word": "KARTE",
+      "hint": "card (flat, normally rectangular piece of stiff paper, plastic etc.); ellipsis of Spielkarte: playing card"
+    },
+    {
+      "word": "KARTEN",
+      "hint": "card (flat, normally rectangular piece of stiff paper, plastic etc.); ellipsis of Spielkarte: playing card"
     },
     {
       "word": "KATZE",
-      "hint": "cat"
+      "hint": "house cat, Felis silvestris catus; female house cat"
+    },
+    {
+      "word": "KAUF",
+      "hint": "purchase"
     },
     {
       "word": "KAUFEN",
-      "hint": "to buy"
+      "hint": "to buy, to purchase; to buy, to purchase for someone"
+    },
+    {
+      "word": "KEINEM",
+      "hint": "masculine/neuter genitive of kein"
+    },
+    {
+      "word": "KELLER",
+      "hint": "cellar; basement"
+    },
+    {
+      "word": "KENNST",
+      "hint": "second-person singular present of kennen"
+    },
+    {
+      "word": "KERL",
+      "hint": "fellow, guy, chap, bloke; freeman"
+    },
+    {
+      "word": "KILOMETER",
+      "hint": "kilometer (unit of measure)"
+    },
+    {
+      "word": "KINO",
+      "hint": "cinema"
+    },
+    {
+      "word": "KM",
+      "hint": "abbreviation of Kaltmiete"
+    },
+    {
+      "word": "KNAPP",
+      "hint": "scarce; lean (having little extra)"
+    },
+    {
+      "word": "KOCHEN",
+      "hint": "to cook, to prepare food (chiefly hot food for lunch or supper); to cook something (in a) liquid (e.g. soup, chili, spaghetti)"
+    },
+    {
+      "word": "KOLLEGEN",
+      "hint": "colleague, coworker, workmate, fellow worker or member; buddy, mate, homie (usually male, sense is rare in the feminine form)"
+    },
+    {
+      "word": "KOMISCH",
+      "hint": "comedic, comic, pertaining to comedy; funny, comical (chiefly dated, but still usual with certain intensifiers as in urkomisch, zu komisch, wahnsinnig komisch)"
+    },
+    {
+      "word": "KOMMST",
+      "hint": "second-person singular present of kommen"
+    },
+    {
+      "word": "KOMPLETT",
+      "hint": "complete, entire (including all possible parts or elements)"
+    },
+    {
+      "word": "KONTAKT",
+      "hint": "contact; junction"
+    },
+    {
+      "word": "KONTROLLE",
+      "hint": "inspection; control"
+    },
+    {
+      "word": "KOSTET",
+      "hint": "to cost [with accusative or (uncommon) dative]"
+    },
+    {
+      "word": "KRANK",
+      "hint": "ill, sick (in bad health); sick, morally or mentally degenerate"
+    },
+    {
+      "word": "KRANKENHAUS",
+      "hint": "hospital"
+    },
+    {
+      "word": "KRANKHEIT",
+      "hint": "sickness, illness; disease"
+    },
+    {
+      "word": "KREIS",
+      "hint": "circle; range, scope"
+    },
+    {
+      "word": "KRIEGE",
+      "hint": "war, warfare"
+    },
+    {
+      "word": "KRIEGEN",
+      "hint": "to get; to catch, to come down with"
+    },
+    {
+      "word": "KRIEGT",
+      "hint": "to get; to catch, to come down with"
+    },
+    {
+      "word": "KUCHEN",
+      "hint": "pie; cake; tart (foodstuff made of baked dough, other than bread)"
+    },
+    {
+      "word": "KUNDEN",
+      "hint": "customer, patron, client; guy, bloke, dude, (most often derogatory) a strange or unpleasant one"
+    },
+    {
+      "word": "KUNST",
+      "hint": "art; artworks, works of art"
+    },
+    {
+      "word": "KURS",
+      "hint": "course (direction); course (learning program), class"
+    },
+    {
+      "word": "KURZE",
+      "hint": "short, quick, brief; short"
+    },
+    {
+      "word": "KÄMPFEN",
+      "hint": "to fight, to struggle"
+    },
+    {
+      "word": "KÖNIGIN",
+      "hint": "queen; queen (chess piece)"
+    },
+    {
+      "word": "KÖNNTEST",
+      "hint": "second-person singular subjunctive II of können"
+    },
+    {
+      "word": "KÜCHE",
+      "hint": "kitchen (room); cuisine (cooking traditions)"
+    },
+    {
+      "word": "KÜMMERN",
+      "hint": "to take care, to look after [with um (+ accusative) ‘of something/someone’]; to grieve, to afflict, to trouble, to concern"
+    },
+    {
+      "word": "KÜNSTLER",
+      "hint": "artist"
+    },
+    {
+      "word": "LACHEN",
+      "hint": "to laugh; to smile [with dative ‘upon someone’]"
+    },
+    {
+      "word": "LAGER",
+      "hint": "place where one sleeps, such as a bed or a spot in a barn, etc.; lair of an animal (but not usually underground, for which Bau)"
+    },
+    {
+      "word": "LANDES",
+      "hint": "country (territory of a nation); state, province (political division of a federation retaining a notable degree of autonomy)"
+    },
+    {
+      "word": "LANGEN",
+      "hint": "to reach, to grab [with nach (+ dative) ‘for something’ or adverbial of direction]; to take, to grab"
+    },
+    {
+      "word": "LANGER",
+      "hint": "inflection of lang"
+    },
+    {
+      "word": "LASSE",
+      "hint": "inflection of lassen"
+    },
+    {
+      "word": "LASST",
+      "hint": "to allow; to permit; to let [with infinitive]; to have someone (do something); to have (something done); to make (something happen); to cause (something to be done) [with"
+    },
+    {
+      "word": "LAUF",
+      "hint": "run, race; leg of certain animals"
+    },
+    {
+      "word": "LAUTET",
+      "hint": "to be, to read (have a certain content or wording); to sound, to ring"
+    },
+    {
+      "word": "LEBE",
+      "hint": "inflection of leben"
+    },
+    {
+      "word": "LEER",
+      "hint": "empty"
+    },
+    {
+      "word": "LEGT",
+      "hint": "inflection of legen"
+    },
+    {
+      "word": "LEHRER",
+      "hint": "agent noun of lehren: one who teaches, teacher, instructor, especially a school teacher"
     },
     {
       "word": "LEICHT",
-      "hint": "easy"
+      "hint": "light (not heavy); easy (not difficult)"
+    },
+    {
+      "word": "LEICHTER",
+      "hint": "comparative degree of leicht"
+    },
+    {
+      "word": "LEIDEN",
+      "hint": "to suffer, to experience pain, sorrow, etc.; to suffer, bear, endure, undergo, experience (some hardship)"
+    },
+    {
+      "word": "LEISE",
+      "hint": "quiet, soft, low; slight, faint, light"
+    },
+    {
+      "word": "LEISTEN",
+      "hint": "to perform (a task, work), to accomplish (a task), to achieve (a goal); to provide (aid, service)"
+    },
+    {
+      "word": "LEITER",
+      "hint": "ladder"
+    },
+    {
+      "word": "LEITUNG",
+      "hint": "cable, line, wire; conduit, pipe"
     },
     {
       "word": "LESEN",
-      "hint": "to read"
+      "hint": "to read (to look at and understand symbols, words, or data); to read (to give off a certain impression while being read; of a text)"
+    },
+    {
+      "word": "LETZTER",
+      "hint": "the last one (male or of unspecified gender)"
+    },
+    {
+      "word": "LETZTES",
+      "hint": "strong/mixed nominative/accusative neuter singular of letzte"
+    },
+    {
+      "word": "LIEB",
+      "hint": "lovable; dear; darling; sweet; good-hearted; kind; good; well-behaved"
+    },
+    {
+      "word": "LIEBT",
+      "hint": "to love, to have a strong affection for (someone or something); to love one another"
+    },
+    {
+      "word": "LIED",
+      "hint": "song (musical composition sung with vocals or vocal lyrics)"
+    },
+    {
+      "word": "LIEF",
+      "hint": "first/third-person singular preterite of laufen"
+    },
+    {
+      "word": "LINIE",
+      "hint": "line; file"
+    },
+    {
+      "word": "LINKEN",
+      "hint": "to deceive"
+    },
+    {
+      "word": "LONDON",
+      "hint": "A Londoner, a person from, or an inhabitant of, London (male or of unspecified gender)."
+    },
+    {
+      "word": "LUST",
+      "hint": "desire; the wish to do or have something [with auf (+ accusative) ‘for something’]; satisfaction of desire; pleasure, joy, fun"
+    },
+    {
+      "word": "LÄCHELN",
+      "hint": "to smile"
+    },
+    {
+      "word": "LÄNGST",
+      "hint": "long ago, long"
+    },
+    {
+      "word": "LÖSEN",
+      "hint": "to loose; to loosen; to detach; to remove; to separate"
+    },
+    {
+      "word": "LÖSUNG",
+      "hint": "solution (answer to a riddle or problem); solution (solvent + solute; action of dissolving)"
+    },
+    {
+      "word": "LÜGEN",
+      "hint": "to tell a lie; to lie (to intentionally give false information); to give false information (unintentionally)"
+    },
+    {
+      "word": "MA",
+      "hint": "pronunciation spelling of mal"
+    },
+    {
+      "word": "MAGST",
+      "hint": "second-person singular present of mögen"
+    },
+    {
+      "word": "MAI",
+      "hint": "May (month)"
+    },
+    {
+      "word": "MANNES",
+      "hint": "man, male human being; husband"
+    },
+    {
+      "word": "MARIA",
+      "hint": ""
+    },
+    {
+      "word": "MARK",
+      "hint": "mark (any of various European monetary units); ellipsis of Deutsche Mark"
+    },
+    {
+      "word": "MARKT",
+      "hint": "market (gathering for sale and purchase); market (trading, economic exchange)"
+    },
+    {
+      "word": "MARTIN",
+      "hint": ""
+    },
+    {
+      "word": "MASCHINE",
+      "hint": "machine; engine"
+    },
+    {
+      "word": "ME",
+      "hint": "abbreviation of Mieteinnahmen"
+    },
+    {
+      "word": "MEER",
+      "hint": "sea; lake"
+    },
+    {
+      "word": "MEHRERE",
+      "hint": "multiple, several; more than one; a number of"
+    },
+    {
+      "word": "MEINT",
+      "hint": "to opine, to think; to believe; to suppose; to say; to utter; not used with nouns; not used in the imperative and rarely in the infinitive"
+    },
+    {
+      "word": "MEINTE",
+      "hint": "to opine, to think; to believe; to suppose; to say; to utter; not used with nouns; not used in the imperative and rarely in the infinitive"
+    },
+    {
+      "word": "MELDEN",
+      "hint": "to report, to inform (about an incident or condition); to report (a person or their behavior to some official authority)"
+    },
+    {
+      "word": "MESSER",
+      "hint": "knife"
+    },
+    {
+      "word": "METER",
+      "hint": "meter (unit of length)"
+    },
+    {
+      "word": "MILCH",
+      "hint": "milk (white liquid produced by female mammals for their young to consume); milk (white or whitish liquid that is exuded by certain plants)"
+    },
+    {
+      "word": "MINDESTENS",
+      "hint": "at least (at a lower limit)"
+    },
+    {
+      "word": "MINUTE",
+      "hint": "minute (unit of time; unit of angle)"
+    },
+    {
+      "word": "MISSION",
+      "hint": "mission (set of tasks); mission (group of people appointed for such a task; their place of work)"
+    },
+    {
+      "word": "MIST",
+      "hint": "manure (domestic animals’ excrement mixed with hay); crap, bullshit"
     },
     {
       "word": "MIT",
-      "hint": "with"
+      "hint": "with (in the company of, alongside); with, by (using as an instrument, by means of)"
+    },
+    {
+      "word": "MITARBEITER",
+      "hint": "employee (person who works, together with others, in a particular business or institution); collaborator (person who works with others towards a common goal)"
+    },
+    {
+      "word": "MITEINANDER",
+      "hint": "together (with); with each other"
+    },
+    {
+      "word": "MITGLIED",
+      "hint": "member"
+    },
+    {
+      "word": "MITTE",
+      "hint": "middle; center"
+    },
+    {
+      "word": "MITTEL",
+      "hint": "middle, in the middle; average, middling"
+    },
+    {
+      "word": "MITTEN",
+      "hint": "In the middle."
     },
     {
       "word": "MOND",
-      "hint": "moon"
+      "hint": "moon (a natural satellite that is orbiting its corresponding planet); a month, especially a lunar month"
+    },
+    {
+      "word": "MONTAG",
+      "hint": "Monday"
+    },
+    {
+      "word": "MORD",
+      "hint": "murder"
     },
     {
       "word": "MORGEN",
-      "hint": "morning"
+      "hint": "tomorrow"
+    },
+    {
+      "word": "MORGENS",
+      "hint": "in the morning, a.m."
+    },
+    {
+      "word": "MR",
+      "hint": ""
+    },
+    {
+      "word": "MUND",
+      "hint": "mouth of a person"
+    },
+    {
+      "word": "MUSSTEN",
+      "hint": "first/third-person plural preterite of müssen"
+    },
+    {
+      "word": "MUT",
+      "hint": "courage; bravery; mood; emotional state"
+    },
+    {
+      "word": "MY",
+      "hint": "mu (Greek letter)"
+    },
+    {
+      "word": "MÄNNERN",
+      "hint": "dative plural of Mann"
+    },
+    {
+      "word": "MÖCHTEST",
+      "hint": "second-person singular subjunctive II of mögen"
+    },
+    {
+      "word": "MÖGEN",
+      "hint": "to like (something or someone); would like; to want (something)"
+    },
+    {
+      "word": "MÖGLICHERWEISE",
+      "hint": "possibly, potentially; perhaps"
+    },
+    {
+      "word": "MÖGLICHKEITEN",
+      "hint": "possibility, likelihood; option, choice"
+    },
+    {
+      "word": "MÜDE",
+      "hint": "tired; tired of it, tired of (infinitive phrase)"
+    },
+    {
+      "word": "MÜHE",
+      "hint": "effort, difficulty"
+    },
+    {
+      "word": "MÜSST",
+      "hint": "first/third-person singular subjunctive II of müssen"
+    },
+    {
+      "word": "MÜSSTEN",
+      "hint": "first/third-person plural subjunctive II of müssen"
+    },
+    {
+      "word": "NACHBARN",
+      "hint": "neighbour"
+    },
+    {
+      "word": "NACHMITTAG",
+      "hint": "Formerly standard spelling of Nachmittag which was deprecated in the spelling reform (Rechtschreibreform) of 1996."
     },
     {
       "word": "NACHT",
-      "hint": "night"
+      "hint": "night; darkness"
+    },
+    {
+      "word": "NACHTS",
+      "hint": "at night, nights"
+    },
+    {
+      "word": "NAH",
+      "hint": "near (in space or time or in an abstract sense), close, nearby"
+    },
+    {
+      "word": "NAHE",
+      "hint": "near"
+    },
+    {
+      "word": "NAJA",
+      "hint": "well; uh-huh, if you say so (expresses disagreement with what was said but an unwillingness to argue about it)"
+    },
+    {
+      "word": "NAMENS",
+      "hint": "by the name of, named"
+    },
+    {
+      "word": "NASE",
+      "hint": "nose; snout"
+    },
+    {
+      "word": "NATUR",
+      "hint": "nature (the natural world); wilderness, the wild, natural scenery"
+    },
+    {
+      "word": "NEM",
+      "hint": "contraction of einem (“a, an”, masculine/neuter dative singular)"
+    },
+    {
+      "word": "NER",
+      "hint": "contraction of einer (“a, an”)"
+    },
+    {
+      "word": "NERVEN",
+      "hint": "to annoy, to irritate [with accusative ‘someone’]"
+    },
+    {
+      "word": "NEUER",
+      "hint": "comparative degree of neu"
+    },
+    {
+      "word": "NEUN",
+      "hint": "nine (numerical value represented by the Arabic numeral 9; or this many dots: •••••••••)"
     },
     {
       "word": "NIE",
-      "hint": "never"
+      "hint": "never, never at all (referring to an indefinite period of time); never, not once (referring to a defined period of time; see usage notes below)"
+    },
+    {
+      "word": "NIEMANDEN",
+      "hint": "accusative of niemand"
+    },
+    {
+      "word": "NIMM",
+      "hint": "singular imperative of nehmen; first-person singular present of nehmen"
+    },
+    {
+      "word": "NIX",
+      "hint": "nix (water demon in human form that lures people into the water and drowns them)"
+    },
+    {
+      "word": "NO",
+      "hint": "no go (something which should not or cannot be done)"
+    },
+    {
+      "word": "NORDEN",
+      "hint": "north (direction); north (region)"
+    },
+    {
+      "word": "NORMAL",
+      "hint": "ordinary, normal"
+    },
+    {
+      "word": "NORMALERWEISE",
+      "hint": "normally"
+    },
+    {
+      "word": "NUTZEN",
+      "hint": "to make use of; to deploy; to exploit; to harness; to take (the opportunity of); to be useful, to be of use, to do good"
+    },
+    {
+      "word": "NÄCHSTES",
+      "hint": "strong/mixed nominative/accusative neuter singular superlative degree of nah"
+    },
+    {
+      "word": "NÄHER",
+      "hint": "comparative degree of nah; further, more precise or detailed"
     },
     {
       "word": "OB",
-      "hint": "whether"
+      "hint": "Introduces an indirect question, a doubt. if, whether.; if, in case"
+    },
+    {
+      "word": "OFFENBAR",
+      "hint": "apparent (evident)"
+    },
+    {
+      "word": "OFFENSICHTLICH",
+      "hint": "obvious; evident, apparent"
+    },
+    {
+      "word": "OFFIZIELL",
+      "hint": "official"
+    },
+    {
+      "word": "OHREN",
+      "hint": "earache"
+    },
+    {
+      "word": "OMA",
+      "hint": "grandma, granny, nan; any elderly woman"
+    },
+    {
+      "word": "ON",
+      "hint": "clipping of online"
+    },
+    {
+      "word": "ONLINE",
+      "hint": "online"
+    },
+    {
+      "word": "OPERATION",
+      "hint": "operation"
+    },
+    {
+      "word": "OSTEN",
+      "hint": "East; The territory of the former GDR."
+    },
+    {
+      "word": "PAPA",
+      "hint": "dad, daddy"
+    },
+    {
+      "word": "PARK",
+      "hint": "park (piece of ground in or near a city or town, enclosed and kept for ornament and recreation); park, grounds (tract of ground kept in its natural state, around a residence, for"
+    },
+    {
+      "word": "PARTNER",
+      "hint": "partner, associate (male or of unspecified gender)"
+    },
+    {
+      "word": "PASS",
+      "hint": "pass, mountain pass; pace (2-beat, lateral gait of an animal)"
+    },
+    {
+      "word": "PASSEN",
+      "hint": "to fit [with dative ‘someone/something’]; to suit, to be suitable for [with dative ‘someone/something’] or [with für (+ accusative) ‘someone/something’]"
+    },
+    {
+      "word": "PATIENTEN",
+      "hint": "patient (male or of unspecified sex or female)"
+    },
+    {
+      "word": "PAUL",
+      "hint": ""
+    },
+    {
+      "word": "PAUSE",
+      "hint": "pause (temporary interruption in speech or an activity)"
+    },
+    {
+      "word": "PER",
+      "hint": "by, by means of, through, via; by (a date)"
+    },
+    {
+      "word": "PERSONEN",
+      "hint": "person, individual; someone (often female) who is not proper company, mostly because they are of lower class or doubtful morals"
+    },
+    {
+      "word": "PERSÖNLICH",
+      "hint": "personal; friendly (atmosphere etc.)"
+    },
+    {
+      "word": "PFERD",
+      "hint": "horse; knight"
+    },
+    {
+      "word": "PFLICHT",
+      "hint": "duty"
+    },
+    {
+      "word": "PLÄNE",
+      "hint": "synonym of Ebene (“level surface, plain, flatland”)"
+    },
+    {
+      "word": "POLITIK",
+      "hint": "politics; policy"
+    },
+    {
+      "word": "POLIZISTEN",
+      "hint": "police officer (male or female); policeman"
+    },
+    {
+      "word": "POSITION",
+      "hint": "position, location"
+    },
+    {
+      "word": "POST",
+      "hint": "mail, post (sent and received letters etc.); mail, post, postal service (method of sending mail; organisation for it)"
+    },
+    {
+      "word": "PRAKTISCH",
+      "hint": "practical; applied"
+    },
+    {
+      "word": "PRESSE",
+      "hint": "press (device used to apply pressure); press (printed media)"
+    },
+    {
+      "word": "PROFESSOR",
+      "hint": "professor"
+    },
+    {
+      "word": "PROGRAMM",
+      "hint": "program (set of structured ideas or activities; a list thereof); schedule; programming (whole of a station’s shows; their chronological order; a list thereof)"
+    },
+    {
+      "word": "PROJEKT",
+      "hint": "project"
+    },
+    {
+      "word": "PROZENT",
+      "hint": "percent"
+    },
+    {
+      "word": "PROZESS",
+      "hint": "lawsuit; process, procedure (but less widely used than in English, chiefly for processes with rules and several steps)"
+    },
+    {
+      "word": "PRÄSIDENTEN",
+      "hint": "president; chairman, chairperson, chair (male or of unspecified gender)"
+    },
+    {
+      "word": "PUNKTE",
+      "hint": "dot (marking an abbreviation); full stop, period (indicating end of sentence)"
+    },
+    {
+      "word": "QUELLE",
+      "hint": "spring; well (oil, gas)"
+    },
+    {
+      "word": "RADIO",
+      "hint": "radio (technology that allows broadcasters to transmit audio programs; such programs); radio (device for receiving such programs)"
+    },
+    {
+      "word": "RAT",
+      "hint": "advice, counsel; council"
+    },
+    {
+      "word": "RECHNUNG",
+      "hint": "bill, restaurant bill; a reckoning, calculation"
+    },
+    {
+      "word": "RECHTE",
+      "hint": "right (right hand or side)"
+    },
+    {
+      "word": "RECHTEN",
+      "hint": "to argue"
+    },
+    {
+      "word": "RED",
+      "hint": "singular imperative of reden; first-person singular present of reden"
+    },
+    {
+      "word": "REDET",
+      "hint": "to talk, to speak, to orate [with mit (+ dative) ‘with someone’ or (less common) zu (+ dative) ‘to someone’, along with über (+ accusative) ‘about something’]; to talk, to reveal"
+    },
+    {
+      "word": "REGEL",
+      "hint": "rule; the usual, the default, the norm"
+    },
+    {
+      "word": "REGEN",
+      "hint": "to move (a small amount or unconsciously); to move (intransitive), to stir"
+    },
+    {
+      "word": "REICHEN",
+      "hint": "to reach (extend a certain distance); to pass, to hand, to serve, to put within reach"
+    },
+    {
+      "word": "REIHE",
+      "hint": "row; rank, succession, series, sequence, range"
     },
     {
       "word": "REISEN",
       "hint": "to travel"
     },
     {
+      "word": "RENNEN",
+      "hint": "to run; to race; to sprint (said of competing sportsmen, animals etc.) [auxiliary sein]; to run over (someone) [auxiliary haben]"
+    },
+    {
+      "word": "RESPEKT",
+      "hint": "respect, regard, reverence"
+    },
+    {
+      "word": "RESTAURANT",
+      "hint": "restaurant"
+    },
+    {
+      "word": "RETTEN",
+      "hint": "to save, to rescue [with accusative ‘someone/something’ and vor (+ dative) ‘from something’]"
+    },
+    {
+      "word": "RICHARD",
+      "hint": ""
+    },
+    {
+      "word": "RICHTER",
+      "hint": "judge"
+    },
+    {
+      "word": "RICHTIGEN",
+      "hint": "correct, accurate, right; right, correct, good"
+    },
+    {
+      "word": "RIEF",
+      "hint": "first/third-person singular preterite of rufen"
+    },
+    {
+      "word": "RING",
+      "hint": "a ring (a circular and hollow object, made of any material.); a ring (small jewelry worn on the finger (usually composed of precious metals))"
+    },
+    {
+      "word": "RISIKO",
+      "hint": "risk"
+    },
+    {
+      "word": "ROBERT",
+      "hint": ""
+    },
+    {
+      "word": "ROM",
+      "hint": "Rom (member of the Roma people), Romani"
+    },
+    {
       "word": "ROT",
-      "hint": "red"
+      "hint": "red (colour); red (pertaining to Marxism in the widest sense: social democratic, socialist, communist)"
+    },
+    {
+      "word": "ROTE",
+      "hint": "female Red (communist or socialist)"
+    },
+    {
+      "word": "ROTEN",
+      "hint": "female Red (communist or socialist)"
+    },
+    {
+      "word": "RUF",
+      "hint": "call, shout, cry; reputation"
+    },
+    {
+      "word": "RUFEN",
+      "hint": "to call out, to shout, to cry (of a person or animal); to call for, to request the presence of [with nach (+ dative) ‘someone/something’]"
+    },
+    {
+      "word": "RUFT",
+      "hint": "inflection of rufen"
+    },
+    {
+      "word": "RUM",
+      "hint": "rum"
+    },
+    {
+      "word": "RUND",
+      "hint": "round, rounded, similar as in English, especially; corpulent, thick"
+    },
+    {
+      "word": "RUNDE",
+      "hint": "round (of drinks); circle, group (constellation of friends or colleagues engaging in a shared activity)"
+    },
+    {
+      "word": "RUNTER",
+      "hint": "down, down here, downstairs (towards the speaker); down, down there, downstairs (away from the speaker)"
+    },
+    {
+      "word": "RÜCKEN",
+      "hint": "to move, to push; to move over"
+    },
+    {
+      "word": "SAGST",
+      "hint": "second-person singular present of sagen"
+    },
+    {
+      "word": "SAHEN",
+      "hint": "first/third-person plural preterite of sehen"
+    },
+    {
+      "word": "SAMSTAG",
+      "hint": "Saturday"
+    },
+    {
+      "word": "SAN",
+      "hint": "of San Marino; San Marinese"
+    },
+    {
+      "word": "SATZ",
+      "hint": "sentence; proposition, theorem"
+    },
+    {
+      "word": "SAUBER",
+      "hint": "clean; neat, tidy"
+    },
+    {
+      "word": "SCHADE",
+      "hint": "a pity, a shame; bummer; unfortunate; disappointing; too good [with für ‘for something’; or with zu (+ infinitive) ‘to do something’]"
+    },
+    {
+      "word": "SCHADEN",
+      "hint": "to hurt, to be harmful; to damage, to harm, to hurt [with dative ‘someone’]"
+    },
+    {
+      "word": "SCHAFFT",
+      "hint": "to create, to call into being; to create, make, form, shape"
+    },
+    {
+      "word": "SCHATZ",
+      "hint": "treasure; darling, sweetheart, honey"
+    },
+    {
+      "word": "SCHAUT",
+      "hint": "to watch, to view (a movie or other performance); to look (at something, at a certain location, in a certain direction, in a certain way)"
+    },
+    {
+      "word": "SCHEINEN",
+      "hint": "to shine; to gleam; to seem; to appear; to look"
+    },
+    {
+      "word": "SCHEISSE",
+      "hint": "Switzerland and Liechtenstein standard spelling of scheiße"
+    },
+    {
+      "word": "SCHICKEN",
+      "hint": "to send, to dispatch (a person, letter, money etc. to a destination or a person); to hurry"
+    },
+    {
+      "word": "SCHICKSAL",
+      "hint": "destiny, fate (irresistible power that predetermines events); someone's destiny, fate"
+    },
+    {
+      "word": "SCHIFF",
+      "hint": "ship; nave [from 16th c.]"
+    },
+    {
+      "word": "SCHLAF",
+      "hint": "sleep (condition of reduced consciousness); sleep (dried mucus in the corner of the eyes)"
+    },
+    {
+      "word": "SCHLAG",
+      "hint": "blow, hit; beat (pulse on the beat level)"
+    },
+    {
+      "word": "SCHLAGEN",
+      "hint": "to beat; to hit; to knock; to strike; to punch; to hammer; to pound; to beat; to win against; to defeat"
+    },
+    {
+      "word": "SCHLECHTE",
+      "hint": "bad, evil, wicked (the opposite of good; immoral); bad (unskilled; of limited ability)"
+    },
+    {
+      "word": "SCHLECHTER",
+      "hint": "worse"
+    },
+    {
+      "word": "SCHLIMM",
+      "hint": "bad, terrible, serious (seriously bad), dire, horrible, awful; hurting, ill, infected"
+    },
+    {
+      "word": "SCHLIMMER",
+      "hint": "worse"
+    },
+    {
+      "word": "SCHLOSS",
+      "hint": "first/third-person singular preterite of schließen"
+    },
+    {
+      "word": "SCHLÄGT",
+      "hint": "to beat; to hit; to knock; to strike; to punch; to hammer; to pound; to beat; to win against; to defeat"
+    },
+    {
+      "word": "SCHLÜSSEL",
+      "hint": "a key; Short for certain compounds, such as Schraubenschlüssel (“screw-wrench”) or Notenschlüssel (“clef”)."
+    },
+    {
+      "word": "SCHMERZEN",
+      "hint": "to hurt, to ache (to cause physical/bodily pain, often of parts of one's own body) [with accusative or (for body parts) dative]; to pain, to hurt (to cause emotional pain)"
+    },
+    {
+      "word": "SCHREIBT",
+      "hint": "to write, to write out (use letters to make words and texts); to spell (use a particular combination of letters to make a word)"
+    },
+    {
+      "word": "SCHRIEB",
+      "hint": "first/third-person singular preterite of schreiben"
+    },
+    {
+      "word": "SCHRITT",
+      "hint": "first/third-person singular preterite of schreiten"
+    },
+    {
+      "word": "SCHUHE",
+      "hint": "shoe"
     },
     {
       "word": "SCHULE",
-      "hint": "school"
+      "hint": "school (an institution dedicated to teaching and learning (especially before university); department/institute at a college or university; art movement; followers of a particular"
+    },
+    {
+      "word": "SCHUTZ",
+      "hint": "protection; protective installation"
+    },
+    {
+      "word": "SCHWANZ",
+      "hint": "tail; cock, dick, penis"
+    },
+    {
+      "word": "SCHWARZ",
+      "hint": "black, reflecting little or no light; illegal"
+    },
+    {
+      "word": "SCHWARZE",
+      "hint": "female equivalent of Schwarzer: black woman"
+    },
+    {
+      "word": "SCHWARZEN",
+      "hint": "gerund of schwärzen"
     },
     {
       "word": "SCHWER",
-      "hint": "difficult"
+      "hint": "heavy, weighty; indigestible"
+    },
+    {
+      "word": "SCHWERE",
+      "hint": "heaviness; severity"
+    },
+    {
+      "word": "SCHWIERIG",
+      "hint": "difficult, hard, challenging, tough; difficult, prickly"
+    },
+    {
+      "word": "SCHWIERIGKEITEN",
+      "hint": "difficulty, problem; trouble, difficulty, hardships, complications (NOTE: when in the plural, this word can retain a singular English abstract meaning)"
+    },
+    {
+      "word": "SCHÄTZE",
+      "hint": "diminutive of Schatz"
+    },
+    {
+      "word": "SCHÖNER",
+      "hint": "comparative degree of schön; inflection of schön"
+    },
+    {
+      "word": "SCHÖNES",
+      "hint": "strong/mixed nominative/accusative neuter singular of schön"
+    },
+    {
+      "word": "SCHÜLER",
+      "hint": "pupil, student, schoolboy (male or of unspecified gender); disciple (male or of unspecified gender)"
+    },
+    {
+      "word": "SCHÜTZEN",
+      "hint": "to defend; to protect; to shelter; to guard; to cover"
+    },
+    {
+      "word": "SEE",
+      "hint": "lake"
+    },
+    {
+      "word": "SEELE",
+      "hint": "soul; mind, spirit"
+    },
+    {
+      "word": "SEH",
+      "hint": "first-person singular present of sehen; singular imperative of sehen"
+    },
+    {
+      "word": "SEHT",
+      "hint": "inflection of sehen"
+    },
+    {
+      "word": "SEITDEM",
+      "hint": "since, ever since; since that"
+    },
+    {
+      "word": "SEITEN",
+      "hint": "by, on behalf of, at the hands of, on the part of (originating from, or concerning the stance of, a specific subgroup or party)"
+    },
+    {
+      "word": "SEKUNDEN",
+      "hint": "the sixth and seventh class of Gymnasium; the second class of Gymnasium"
+    },
+    {
+      "word": "SELBEN",
+      "hint": "self (as in myself, yourself, himself etc.); by oneself, on one's own, alone"
+    },
+    {
+      "word": "SELTEN",
+      "hint": "rare, infrequent, uncommon, scarce; unusual, curious"
+    },
+    {
+      "word": "SENDUNG",
+      "hint": "delivery (by a postal service); programme (performance of a show or other broadcast on radio or television)"
+    },
+    {
+      "word": "SERIE",
+      "hint": "series (a number of things that follow on one after the other)"
+    },
+    {
+      "word": "SHOW",
+      "hint": "show, spectacle"
+    },
+    {
+      "word": "SICHT",
+      "hint": "view; sight"
+    },
+    {
+      "word": "SIEG",
+      "hint": "victory"
+    },
+    {
+      "word": "SIMON",
+      "hint": ""
+    },
+    {
+      "word": "SINGEN",
+      "hint": "to sing"
+    },
+    {
+      "word": "SITZT",
+      "hint": "inflection of sitzen"
     },
     {
       "word": "SO",
-      "hint": "so"
+      "hint": "so, such, that; as (followed by an adjective or adverb plus wie in a statement of equality)"
+    },
+    {
+      "word": "SOLCHEN",
+      "hint": "such"
+    },
+    {
+      "word": "SOLDATEN",
+      "hint": "soldier"
+    },
+    {
+      "word": "SOMMER",
+      "hint": "summer"
+    },
+    {
+      "word": "SONG",
+      "hint": "a song of modern popular music"
     },
     {
       "word": "SONNE",
-      "hint": "sun"
+      "hint": "contraction of so eine (“such a”) (so, ein); Ungrammatical synonym of solch in plural."
+    },
+    {
+      "word": "SONNTAG",
+      "hint": "Sunday (the first day of the week in many religious traditions, and the seventh day of the week in systems using the ISO 8601 standard)"
+    },
+    {
+      "word": "SORGE",
+      "hint": "concern, care, responsibility, aid; concern, worry, apprehension, trouble, distress"
+    },
+    {
+      "word": "SORRY",
+      "hint": "sorry (expressing regret)"
+    },
+    {
+      "word": "SOWAS",
+      "hint": "that sort of thing, something like this"
+    },
+    {
+      "word": "SOWEIT",
+      "hint": "as far as (in the scope in which something holds); if (supposing that; assuming that)"
+    },
+    {
+      "word": "SOWIE",
+      "hint": "as well as; as soon as"
+    },
+    {
+      "word": "SOWIESO",
+      "hint": "anyway, anyhow, in any case"
+    },
+    {
+      "word": "SPIEGEL",
+      "hint": "mirror (smooth surface, usually made of glass with reflective material painted on the underside, that reflects light); level (of a liquid within a delimited space or a substance"
     },
     {
       "word": "SPIELEN",
-      "hint": "to play"
+      "hint": "to play (engage in some activity for fun or entertainment) [with mit (+ dative) ‘with someone/something’]; to play, to engage in (a game, a sport, etc.)"
+    },
+    {
+      "word": "SPIELER",
+      "hint": "agent noun of spielen; player"
+    },
+    {
+      "word": "SPITZE",
+      "hint": "great, awesome"
+    },
+    {
+      "word": "SPORT",
+      "hint": "sport (athletic activity that uses physical skills competitively under a set of rules); athletics, sports, exercise (physical activities (not necessarily with fixed rules)"
+    },
+    {
+      "word": "SPRACH",
+      "hint": "first/third-person singular preterite of sprechen"
+    },
+    {
+      "word": "SPRACHE",
+      "hint": "language (body of words, and set of methods of combining them); speech (style of speaking)"
+    },
+    {
+      "word": "SPRACHEN",
+      "hint": "first/third-person plural preterite of sprechen"
+    },
+    {
+      "word": "SPUR",
+      "hint": "trace (rest of something that indicates its former presence; (by extension) any small amount); trail, track, spoor (path of signs leading somewhere, also e.g. through scent)"
+    },
+    {
+      "word": "STAAT",
+      "hint": "country, state (politically constituted legal person wielding absolute power of a population and territory); state/government, authorities (the entire political and administrative"
+    },
+    {
+      "word": "STAATEN",
+      "hint": "country, state (politically constituted legal person wielding absolute power of a population and territory); state/government, authorities (the entire political and administrative"
+    },
+    {
+      "word": "STAR",
+      "hint": "starling"
+    },
+    {
+      "word": "STARB",
+      "hint": "first/third-person singular preterite of sterben"
+    },
+    {
+      "word": "STARKE",
+      "hint": "inflection of stark"
+    },
+    {
+      "word": "START",
+      "hint": "start (beginning of a project); start (beginning point of a race)"
+    },
+    {
+      "word": "STECKEN",
+      "hint": "causative of stecken when intransitive, to stick; to put; to insert; to pin; to stick; to be stuck"
+    },
+    {
+      "word": "STECKT",
+      "hint": "causative of stecken when intransitive, to stick; to put; to insert; to pin; to stick; to be stuck"
+    },
+    {
+      "word": "STEHE",
+      "hint": "inflection of stehen"
+    },
+    {
+      "word": "STEIGEN",
+      "hint": "to ascend, to climb, to rise; to rise (in value, of commodities etc.)"
+    },
+    {
+      "word": "STEIGT",
+      "hint": "to ascend, to climb, to rise; to rise (in value, of commodities etc.)"
+    },
+    {
+      "word": "STEIN",
+      "hint": "stone, rock; any stone-like material such as brick or concrete"
+    },
+    {
+      "word": "STELL",
+      "hint": "location, spot (specific location in space, relevant in context but typically otherwise unmarked); spot, part, bit (brief section of a book, movie, piece of music, etc., typically"
+    },
+    {
+      "word": "STELLTE",
+      "hint": "causative of stehen: to put, place, position (someone or something) such that it stands upright; to expose oneself to, to succumb to, to come out to face, to confront [with dative"
+    },
+    {
+      "word": "STETS",
+      "hint": "always; constantly; the whole time (very often); every time (whenever some precondition is given)"
+    },
+    {
+      "word": "STILL",
+      "hint": "quiet, silent; without carbonation, flat"
+    },
+    {
+      "word": "STIMMEN",
+      "hint": "to be right, to be correct, to be proper, to be true; to vote [with für (+ accusative) ‘for’]"
+    },
+    {
+      "word": "STIRBT",
+      "hint": "third-person singular present of sterben"
+    },
+    {
+      "word": "STREIT",
+      "hint": "quarrel, dispute, fight, argument; fight, battle"
+    },
+    {
+      "word": "STROM",
+      "hint": "a large river; stream; current"
+    },
+    {
+      "word": "STÄRKER",
+      "hint": "comparative degree of stark"
+    },
+    {
+      "word": "SYSTEM",
+      "hint": "system; period"
+    },
+    {
+      "word": "SZENE",
+      "hint": "scene; tableau; scene (subculture)"
     },
     {
       "word": "TAG",
-      "hint": "day"
+      "hint": "day (a 24-hour period); day (the period from midnight to the following midnight)"
+    },
+    {
+      "word": "TANZEN",
+      "hint": "to dance"
+    },
+    {
+      "word": "TASCHE",
+      "hint": "bag; pocket"
+    },
+    {
+      "word": "TATSACHE",
+      "hint": "fact (a true observation)"
+    },
+    {
+      "word": "TEE",
+      "hint": "tea (drink made by infusing parts of a plant, especially leaves or buds of Camellia sinensis, in water)"
+    },
+    {
+      "word": "TEILE",
+      "hint": "part, piece (of a whole, often in relation to living things or an abstract concept); fraction of a whole"
+    },
+    {
+      "word": "TEILEN",
+      "hint": "to split, to share; to divide"
+    },
+    {
+      "word": "TERMIN",
+      "hint": "date (day on which a certain event takes place); deadline (date on or before which something must be completed)"
+    },
+    {
+      "word": "TEST",
+      "hint": "test"
+    },
+    {
+      "word": "TEUER",
+      "hint": "expensive, dear (high in price); dear (precious, valued)"
+    },
+    {
+      "word": "TEUFEL",
+      "hint": "the Devil, Satan (supreme evil spirit in the Abrahamic religions); a devil, satan (a creature of hell, a demon, a fallen angel)"
+    },
+    {
+      "word": "TEXT",
+      "hint": "text (writing consisting of several sentences and forming a discrete unit); text (passage of a larger opus, often Scripture, examined and interpreted as a unit)"
+    },
+    {
+      "word": "THEATER",
+      "hint": "theater (a place or building consisting of a stage and seats); theater (drama or performance as a profession or artform)"
+    },
+    {
+      "word": "THOMAS",
+      "hint": ""
+    },
+    {
+      "word": "TIEF",
+      "hint": "deep (having a long distance to the bottom; of bodies of water, wells, etc.); deep, profound (intense or significant)"
+    },
+    {
+      "word": "TIER",
+      "hint": "animal (see usage notes below); A person who has a quality thought of as animalistic, such as ferocity, strength, hairiness, etc."
+    },
+    {
+      "word": "TIERE",
+      "hint": "animal (see usage notes below); A person who has a quality thought of as animalistic, such as ferocity, strength, hairiness, etc."
+    },
+    {
+      "word": "TITEL",
+      "hint": "title"
+    },
+    {
+      "word": "TJA",
+      "hint": "well, hmm; Used to express acceptance of one's misfortune; oh well, welp"
+    },
+    {
+      "word": "TOLLE",
+      "hint": "tuft (of hair); quiff"
+    },
+    {
+      "word": "TOM",
+      "hint": ""
+    },
+    {
+      "word": "TOR",
+      "hint": "gate, archway (passageway covered by an arch, particularly one made of masonry); gate, door (large doorway, opening, or passage in a fence or wall)"
+    },
+    {
+      "word": "TOTE",
+      "hint": "female equivalent of Toter: female cadaver; female corpse"
+    },
+    {
+      "word": "TOTEN",
+      "hint": "cadaver; corpse (male or of unspecified gender)"
+    },
+    {
+      "word": "TRAF",
+      "hint": "first/third-person singular preterite of treffen"
+    },
+    {
+      "word": "TRAUM",
+      "hint": "dream"
+    },
+    {
+      "word": "TRAURIG",
+      "hint": "sad"
+    },
+    {
+      "word": "TRETEN",
+      "hint": "to step, to walk (a short distance) [auxiliary sein]; to appear [auxiliary sein]"
+    },
+    {
+      "word": "TRIFFT",
+      "hint": "third-person singular present of treffen"
     },
     {
       "word": "TRINKEN",
-      "hint": "to drink"
+      "hint": "to drink (to drink liquids (in bottles, glasses, etc.) by mouth); to drink, to imbibe (to consume alcoholic beverages)"
+    },
+    {
+      "word": "TRITT",
+      "hint": "step; kick"
+    },
+    {
+      "word": "TROTZ",
+      "hint": "in spite of, despite"
+    },
+    {
+      "word": "TRÄGT",
+      "hint": "third-person singular present of tragen"
+    },
+    {
+      "word": "TU",
+      "hint": "initialism of Technisch Universität, a university of technology."
+    },
+    {
+      "word": "TYPEN",
+      "hint": "a type in typesetting; a type of a typewriter or some kinds of printer"
+    },
+    {
+      "word": "TÄGLICH",
+      "hint": "daily"
+    },
+    {
+      "word": "TÄTER",
+      "hint": "perpetrator, delinquent; doer, one who does"
+    },
+    {
+      "word": "TÖTEN",
+      "hint": "to kill"
     },
     {
       "word": "UM",
-      "hint": "around"
+      "hint": "about; around"
     },
     {
       "word": "UND",
-      "hint": "and"
+      "hint": "and; links two nouns, often a person and an activity, in rhetoric questions to express an opposition between them"
+    },
+    {
+      "word": "UNFALL",
+      "hint": "accident"
+    },
+    {
+      "word": "UNGEFÄHR",
+      "hint": "approximate"
+    },
+    {
+      "word": "UNGLAUBLICH",
+      "hint": "unbelievable, incredible"
+    },
+    {
+      "word": "UNMÖGLICH",
+      "hint": "impossible; ridiculous, improper (not aligned with aesthetic or social norms or expectations)"
+    },
+    {
+      "word": "UNSERES",
+      "hint": "genitive masculine/neuter singular of unser"
+    },
+    {
+      "word": "UNTERSCHIED",
+      "hint": "first/third-person singular preterite of unterscheiden"
+    },
+    {
+      "word": "UNTERSTÜTZEN",
+      "hint": "to support, to assist, to help, to aid; to endorse, to give support, to show support, to back up, to promote, to encourage, to sponsor, to support"
+    },
+    {
+      "word": "UNTERSTÜTZUNG",
+      "hint": "support, assistance, backing, also endorsement; that which supports, particularly"
+    },
+    {
+      "word": "URLAUB",
+      "hint": "holiday, vacation; leave"
+    },
+    {
+      "word": "URTEIL",
+      "hint": "judgment (the preferred spelling in a legal context), verdict, sentence (court decision); judgement, opinion, usually one given after detailed consideration"
+    },
+    {
+      "word": "USA",
+      "hint": "American imperialism"
+    },
+    {
+      "word": "VAN",
+      "hint": "van"
+    },
+    {
+      "word": "VATERS",
+      "hint": "father"
+    },
+    {
+      "word": "VERANTWORTLICH",
+      "hint": "responsible; answerable"
+    },
+    {
+      "word": "VERANTWORTUNG",
+      "hint": "responsibility"
+    },
+    {
+      "word": "VERBOTEN",
+      "hint": "to forbid, prohibit (someone from doing something)"
+    },
+    {
+      "word": "VERBRECHEN",
+      "hint": "to do (something wrong); to be at fault for; to break (a law, the law); to commit a crime"
+    },
+    {
+      "word": "VERBUNDEN",
+      "hint": "to ally"
+    },
+    {
+      "word": "VERDIENEN",
+      "hint": "to make money, to earn [with an (+ dative) ‘on’]; to deserve [with für (+ accusative) ‘for’]"
+    },
+    {
+      "word": "VERFOLGT",
+      "hint": "to pursue, to follow, to hunt [with accusative]; to chase"
+    },
+    {
+      "word": "VERFÜGUNG",
+      "hint": "disposal, disposition (control over something); injunction, decree"
+    },
+    {
+      "word": "VERGANGENHEIT",
+      "hint": "the past (time); past tense"
+    },
+    {
+      "word": "VERGLEICH",
+      "hint": "comparison; settlement (resolution of a dispute)"
+    },
+    {
+      "word": "VERHALTEN",
+      "hint": "to behave; to be contradistinguished, to be characterized in relation to its environment; (reflexive, impersonal) to be"
+    },
+    {
+      "word": "VERHEIRATET",
+      "hint": "to wed; to marry (officially join two people in marriage); to marry off; to find a spouse for"
+    },
+    {
+      "word": "VERHINDERN",
+      "hint": "to prevent, to inhibit, to keep (something) from happening."
+    },
+    {
+      "word": "VERKAUFT",
+      "hint": "to sell (something in exchange for money); to sell (for a certain amount or at a certain rate)"
+    },
+    {
+      "word": "VERLANGEN",
+      "hint": "to ask for, demand"
+    },
+    {
+      "word": "VERLANGT",
+      "hint": "to ask for, demand"
+    },
+    {
+      "word": "VERLIERT",
+      "hint": "to lose (something, or a game); to shed"
+    },
+    {
+      "word": "VERMISST",
+      "hint": "missing (of unknown whereabouts)"
+    },
+    {
+      "word": "VERPASST",
+      "hint": "to miss (be late for; be unable to use or attend); to miss (fail to hit or reach)"
+    },
+    {
+      "word": "VERRÜCKT",
+      "hint": "to shift, to move by pushing"
+    },
+    {
+      "word": "VERSCHIEDENE",
+      "hint": "to die, decease; to separate, leave, pass by"
+    },
+    {
+      "word": "VERSCHIEDENEN",
+      "hint": "inflection of verschieden"
+    },
+    {
+      "word": "VERSCHWINDEN",
+      "hint": "to disappear, to vanish, to move out of view; to leave, to go away"
+    },
+    {
+      "word": "VERSTAND",
+      "hint": "first/third-person singular preterite of verstehen"
+    },
+    {
+      "word": "VERSTEHT",
+      "hint": "to understand; to understand oneself, to understand each other, to be understood"
+    },
+    {
+      "word": "VERSUCHTE",
+      "hint": "to try, to attempt (often with an uncertain result) [with zu (+ infinitive) ‘to do something’]; to try, to taste"
+    },
+    {
+      "word": "VERTRAG",
+      "hint": "contract, agreement; treaty"
+    },
+    {
+      "word": "VERWENDET",
+      "hint": "to use, to employ, to apply; to make expenses applied on a material object"
+    },
+    {
+      "word": "VERÄNDERT",
+      "hint": "to alter, to change; to change"
+    },
+    {
+      "word": "VIDEO",
+      "hint": "video"
+    },
+    {
+      "word": "VIELES",
+      "hint": "much, many things"
+    },
+    {
+      "word": "VOLK",
+      "hint": "people, nation, folk, tribe, race (group united by culture, history, descent, and/or language); people, population, citizens"
+    },
+    {
+      "word": "VOLLKOMMEN",
+      "hint": "perfect (fitting its definition precisely); complete"
     },
     {
       "word": "VON",
-      "hint": "from"
+      "hint": "from; of, belonging to (often replacing genitive; see usage note below)"
+    },
+    {
+      "word": "VORAUS",
+      "hint": "in front, ahead [with dative ‘of someone/something’]"
+    },
+    {
+      "word": "VORBEREITET",
+      "hint": "to prepare; to prepare, to get ready [with auf (+ accusative) ‘for someone/something’]"
+    },
+    {
+      "word": "VORNE",
+      "hint": "at the front; in front"
+    },
+    {
+      "word": "VORSICHT",
+      "hint": "caution, cautiousness; precaution, providence, provision"
+    },
+    {
+      "word": "VORSICHTIG",
+      "hint": "deliberate (not hasty or sudden); careful, cautious, wary, circumspect"
+    },
+    {
+      "word": "VORSTELLUNG",
+      "hint": "idea, image, representation (the transcript, image, or picture of a visible object that is formed by the mind); introduction"
+    },
+    {
+      "word": "WACH",
+      "hint": "awake"
+    },
+    {
+      "word": "WAFFE",
+      "hint": "weapon, arm"
+    },
+    {
+      "word": "WAFFEN",
+      "hint": "weapon, arm"
+    },
+    {
+      "word": "WAHRE",
+      "hint": "true, real; true, truthful"
+    },
+    {
+      "word": "WALD",
+      "hint": "forest; woods; woodland"
+    },
+    {
+      "word": "WALTER",
+      "hint": ""
+    },
+    {
+      "word": "WAND",
+      "hint": "first/third-person singular preterite of winden"
     },
     {
       "word": "WAR",
-      "hint": "was"
+      "hint": "contraction of war +‎ es"
+    },
+    {
+      "word": "WARST",
+      "hint": "second-person singular preterite of sein"
+    },
+    {
+      "word": "WARTE",
+      "hint": "lookout, guarding post; point of view, perspective, side"
+    },
+    {
+      "word": "WARTET",
+      "hint": "to wait (for) [with auf (+ accusative)]; to maintain (chiefly a machine, e.g. a car or heating)"
     },
     {
       "word": "WAS",
-      "hint": "what"
+      "hint": "what; which; referring to the entire preceding clause"
     },
     {
       "word": "WASSER",
-      "hint": "water"
+      "hint": "water (H₂O); water, waters (body of water, especially a river or lake)"
+    },
+    {
+      "word": "WEGE",
+      "hint": "dative singular of Weg; nominative plural of Weg"
+    },
+    {
+      "word": "WEH",
+      "hint": "sore, painful"
+    },
+    {
+      "word": "WEIHNACHTEN",
+      "hint": "to be nearly Christmas; to have a Christmassy atmosphere"
+    },
+    {
+      "word": "WEILE",
+      "hint": "while (uncertain duration of time, period of time)"
+    },
+    {
+      "word": "WEIN",
+      "hint": "wine"
+    },
+    {
+      "word": "WEISST",
+      "hint": "Switzerland and Liechtenstein standard spelling of weißt"
+    },
+    {
+      "word": "WEITEREN",
+      "hint": "wide; large"
+    },
+    {
+      "word": "WEITERHIN",
+      "hint": "still; also, going further"
+    },
+    {
+      "word": "WELCHEM",
+      "hint": "dative masculine/neuter singular of welcher"
+    },
+    {
+      "word": "WELCHEN",
+      "hint": "which; what; which"
+    },
+    {
+      "word": "WEM",
+      "hint": "dative of wer, (to) whom (indirect object)."
+    },
+    {
+      "word": "WENIGE",
+      "hint": "comparative degree of wenig: less, fewer"
+    },
+    {
+      "word": "WERD",
+      "hint": "singular imperative of werden; first-person singular present of werden"
+    },
+    {
+      "word": "WERFEN",
+      "hint": "to throw; to throw (an exception)"
+    },
+    {
+      "word": "WERK",
+      "hint": "work, achievement (the result of working); work, piece (of art, literature, or the like)"
+    },
+    {
+      "word": "WESHALB",
+      "hint": "why; which is why"
+    },
+    {
+      "word": "WESTEN",
+      "hint": "west; The area of Western Germany, i.e. those territories which were never part of the GDR."
     },
     {
       "word": "WETTER",
-      "hint": "weather"
+      "hint": "weather; storm, rainstorm"
     },
     {
       "word": "WICHTIG",
-      "hint": "important"
+      "hint": "important, relevant, significant, weighty [with dative ‘to someone’ or für (+ accusative) ‘for something/to someone’]"
+    },
+    {
+      "word": "WICHTIGE",
+      "hint": "important, relevant, significant, weighty [with dative ‘to someone’ or für (+ accusative) ‘for something/to someone’]"
+    },
+    {
+      "word": "WICHTIGER",
+      "hint": "comparative degree of wichtig"
+    },
+    {
+      "word": "WILLEN",
+      "hint": "only used in um … willen"
+    },
+    {
+      "word": "WIND",
+      "hint": "wind; the movement of air usually caused by convection or differences of air pressure"
+    },
+    {
+      "word": "WINTER",
+      "hint": "winter"
     },
     {
       "word": "WIR",
       "hint": "we"
     },
     {
+      "word": "WIRKEN",
+      "hint": "to function, to be effective, to work; to appear, to seem [with auf (+ accusative) ‘to someone’]"
+    },
+    {
+      "word": "WIRKT",
+      "hint": "to function, to be effective, to work; to appear, to seem [with auf (+ accusative) ‘to someone’]"
+    },
+    {
+      "word": "WISST",
+      "hint": "first/third-person singular subjunctive I of wissen; singular imperative of wissen"
+    },
+    {
+      "word": "WITZ",
+      "hint": "joke; joke (something that is not taken seriously, e.g. due to being very easy, very ineffective, or very arbitrary)"
+    },
+    {
+      "word": "WITZIG",
+      "hint": "funny, humorous, witty; resourceful"
+    },
+    {
+      "word": "WOCHENENDE",
+      "hint": "weekend (break in the working week, usually Saturday and Sunday)"
+    },
+    {
+      "word": "WOFÜR",
+      "hint": "for what, wherefore, why"
+    },
+    {
+      "word": "WOHER",
+      "hint": "where from, whence; how (not the general meaning of \"in which way\", but meaning \"from which source\" or \"from where\" exactly)"
+    },
+    {
+      "word": "WOHIN",
+      "hint": "where to, whither"
+    },
+    {
+      "word": "WOHNEN",
+      "hint": "to live, reside, dwell (to remain or be settled permanently, or for a considerable time); to stay (to remain in a place for a definite or short period of time, though typically"
+    },
+    {
+      "word": "WOHNT",
+      "hint": "to live, reside, dwell (to remain or be settled permanently, or for a considerable time); to stay (to remain in a place for a definite or short period of time, though typically"
+    },
+    {
+      "word": "WOLLT",
+      "hint": "wool; woolen, woollen"
+    },
+    {
+      "word": "WOMIT",
+      "hint": "with what, what…with; with which; by which"
+    },
+    {
+      "word": "WORAUF",
+      "hint": "whereupon; upon which; on which; to which; at which; above which; upon."
+    },
+    {
+      "word": "WOW",
+      "hint": "wow effect"
+    },
+    {
+      "word": "WOZU",
+      "hint": "for what reason, to what purpose, what for, why?; to what, for what, etc."
+    },
+    {
+      "word": "WUNDER",
+      "hint": "miracle; wonder"
+    },
+    {
+      "word": "WUNDERBAR",
+      "hint": "wonderful"
+    },
+    {
+      "word": "WUNSCH",
+      "hint": "wish (an act of wishing); wish (that which one wishes)"
+    },
+    {
+      "word": "WÄHLEN",
+      "hint": "to choose, to select; to dial (a telephone number, etc.)"
+    },
+    {
+      "word": "WÄR",
+      "hint": "contraction of wäre +‎ es"
+    },
+    {
+      "word": "WÜNSCHE",
+      "hint": "inflection of wünschen"
+    },
+    {
+      "word": "WÜNSCHEN",
+      "hint": "to wish for; to make a wish for; to want; to desire; to wish [with dative ‘someone’ and accusative ‘something’]"
+    },
+    {
+      "word": "WÜRDEST",
+      "hint": "second-person singular subjunctive II of werden"
+    },
+    {
+      "word": "ZAHL",
+      "hint": "number, numeral, figure; tails (side of a coin)"
+    },
+    {
+      "word": "ZEICHEN",
+      "hint": "sign, token (object representing something); signal (gesture, command or other indication to announce or alert)"
+    },
+    {
+      "word": "ZEITPUNKT",
+      "hint": "moment (instant of time), point in time, a timepoint"
+    },
+    {
+      "word": "ZEITUNG",
+      "hint": "newspaper; tidings, news"
+    },
+    {
+      "word": "ZERSTÖRT",
+      "hint": "to destroy, demolish, devastate, eliminate; to dispel"
+    },
+    {
+      "word": "ZEUG",
+      "hint": "stuff, gear, equipment; material"
+    },
+    {
+      "word": "ZEUGEN",
+      "hint": "to beget, father, procreate; to testify, bear witness, declare"
+    },
+    {
+      "word": "ZOG",
+      "hint": "first/third-person singular preterite of ziehen"
+    },
+    {
       "word": "ZU",
-      "hint": "to"
+      "hint": "to, towards (indicates directionality); with respect to; regarding"
+    },
+    {
+      "word": "ZUFRIEDEN",
+      "hint": "satisfied, content, happy (with something)"
+    },
+    {
+      "word": "ZUFÄLLIG",
+      "hint": "random, by chance or stochastic; accidental or coincidental"
+    },
+    {
+      "word": "ZUGANG",
+      "hint": "access; admission, intake"
+    },
+    {
+      "word": "ZUHAUSE",
+      "hint": "one’s living premises, home"
+    },
+    {
+      "word": "ZULETZT",
+      "hint": "finally; lastly; in the end; recently; the other day"
+    },
+    {
+      "word": "ZUNÄCHST",
+      "hint": "first, first of all, in the first place, to begin with, initially; for now, for the time being"
+    },
+    {
+      "word": "ZUSTAND",
+      "hint": "first/third-person singular dependent preterite of zustehen"
+    },
+    {
+      "word": "ZUVOR",
+      "hint": "before, previously"
+    },
+    {
+      "word": "ZWEIFEL",
+      "hint": "doubt [with an ‘about’]"
+    },
+    {
+      "word": "ZWEIMAL",
+      "hint": "twice"
+    },
+    {
+      "word": "ZWÖLF",
+      "hint": "twelve"
+    },
+    {
+      "word": "ZÄHLEN",
+      "hint": "to count (to determine the number of objects in a group); to reckon, to consider, to deem (later used in the active voice with a passive meaning)"
+    },
+    {
+      "word": "ZÄHLT",
+      "hint": "to count (to determine the number of objects in a group); to reckon, to consider, to deem (later used in the active voice with a passive meaning)"
+    },
+    {
+      "word": "ÄHNLICH",
+      "hint": "similar, alike, resembling [with dative or wie (+ case of preceding noun) ‘to someone/something’]"
+    },
+    {
+      "word": "ÄRGER",
+      "hint": "comparative degree of arg"
+    },
+    {
+      "word": "ÖFFNEN",
+      "hint": "to open (to make something accessible or allow for passage by moving from a shut position); to open (to make accessible to customers or clients)"
+    },
+    {
+      "word": "ÜBERLEGEN",
+      "hint": "superior (higher in quality)"
+    },
+    {
+      "word": "ÜBERNEHMEN",
+      "hint": "to take over (a task, a position, responsibilities from someone else); to take on more than one can handle/master; to overexert oneself"
+    },
+    {
+      "word": "ÜBERRASCHT",
+      "hint": "to surprise"
+    },
+    {
+      "word": "ÜBERRASCHUNG",
+      "hint": "surprise"
+    },
+    {
+      "word": "ÜBERSETZUNG",
+      "hint": "translation; gear ratio, mechanical advantage"
+    },
+    {
+      "word": "ÜBERZEUGEN",
+      "hint": "to convince [with accusative ‘someone’, along with von (+ dative) or (archaic) genitive ‘of something’]; to convince oneself [with von (+ dative) ‘of something’]"
+    },
+    {
+      "word": "ÜBERZEUGT",
+      "hint": "to convince [with accusative ‘someone’, along with von (+ dative) or (archaic) genitive ‘of something’]; to convince oneself [with von (+ dative) ‘of something’]"
+    },
+    {
+      "word": "ÜBRIG",
+      "hint": "rest of, remaining; left, left over; spare"
     }
   ]
 }

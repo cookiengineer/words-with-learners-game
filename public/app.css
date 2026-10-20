@@ -655,6 +655,22 @@ player-picker {
   --bonus-text: #fff;
 }
 
+.board[data-language="it"] {
+  --bonus-tw: #008c45;
+  --bonus-dw: #cd212a;
+  --bonus-tl: #7fb99a;
+  --bonus-dl: #f1efe8;
+  --bonus-text: #fff;
+}
+
+.board[data-language="ru"] {
+  --bonus-tw: #0039a6;
+  --bonus-dw: #d52b1e;
+  --bonus-tl: #809fd0;
+  --bonus-dl: #f0f0f0;
+  --bonus-text: #fff;
+}
+
 .board .cell[data-bonus="tw"] { background: var(--bonus-tw); }
 .board .cell[data-bonus="dw"] { background: var(--bonus-dw); }
 .board .cell[data-bonus="tl"] { background: var(--bonus-tl); }

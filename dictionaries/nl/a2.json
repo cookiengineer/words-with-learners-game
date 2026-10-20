@@ -4,188 +4,3748 @@
   "level": "A2",
   "words": [
     {
+      "word": "AANBOD",
+      "hint": "offer; supply"
+    },
+    {
+      "word": "AANGEZIEN",
+      "hint": "since, because, seeing as"
+    },
+    {
+      "word": "AANVAL",
+      "hint": "an act of aggression; assault, attack; a sudden convulsion; attack, seizure"
+    },
+    {
+      "word": "AANVALLEN",
+      "hint": "to attack"
+    },
+    {
+      "word": "AANWEZIG",
+      "hint": "present (not absent)"
+    },
+    {
+      "word": "ACH",
+      "hint": "oh (expression of compassion, surprise and dismay)"
+    },
+    {
+      "word": "ADRES",
+      "hint": "address (direction for letters)"
+    },
+    {
+      "word": "ADVIES",
+      "hint": "advice"
+    },
+    {
+      "word": "AFDELING",
+      "hint": "department, branch; section, part"
+    },
+    {
+      "word": "AFGESLOTEN",
+      "hint": "past participle of afsluiten"
+    },
+    {
+      "word": "AFRIKA",
+      "hint": ""
+    },
+    {
+      "word": "AFSCHEID",
+      "hint": "farewell"
+    },
+    {
+      "word": "AFSPRAAK",
+      "hint": "arrangement, agreement, understanding; appointment, date"
+    },
+    {
+      "word": "AFSTAND",
+      "hint": "distance; offset"
+    },
+    {
+      "word": "AGENT",
+      "hint": "a police officer; an undercover agent; intelligence officer, secret agent"
+    },
+    {
+      "word": "AGENTEN",
+      "hint": "plural of agent"
+    },
+    {
+      "word": "AH",
+      "hint": "ah (expressing understanding or surprise)"
+    },
+    {
+      "word": "AKKOORD",
+      "hint": "chord; agreement, accord"
+    },
+    {
+      "word": "ALEX",
+      "hint": ""
+    },
+    {
+      "word": "ALLEBEI",
+      "hint": "both"
+    },
+    {
+      "word": "ALLEN",
+      "hint": "personal plural of alle (“all”)"
+    },
+    {
+      "word": "ALLERLEI",
+      "hint": "all kinds of; various"
+    },
+    {
+      "word": "ALWEER",
+      "hint": "once again, once more; already, already again"
+    },
+    {
+      "word": "ANGST",
+      "hint": "fear, fright, anxiety"
+    },
+    {
+      "word": "ANNA",
+      "hint": ""
+    },
+    {
+      "word": "ANTWOORDEN",
+      "hint": "to answer, reply"
+    },
+    {
+      "word": "APPARTEMENT",
+      "hint": "an apartment"
+    },
+    {
+      "word": "APRIL",
+      "hint": "the month of April"
+    },
+    {
+      "word": "ARM",
+      "hint": "arm; branch (especially of streams and organisations)"
+    },
+    {
+      "word": "ARME",
+      "hint": "inflection of arm"
+    },
+    {
+      "word": "ARMEN",
+      "hint": "plural of arm; plural of arme"
+    },
+    {
+      "word": "ARTIKEL",
+      "hint": "article (report); article (item, wares)"
+    },
+    {
+      "word": "ARTS",
+      "hint": "physician, doctor"
+    },
+    {
+      "word": "AUGUSTUS",
+      "hint": "August (month)"
+    },
+    {
+      "word": "BAD",
+      "hint": "bath (object); the act or process of bathing"
+    },
+    {
       "word": "BAL",
-      "hint": "ball"
+      "hint": "a ball or any object with such a shape; testicle, nut"
+    },
+    {
+      "word": "BAR",
+      "hint": "a bar, counter, drink cabinet; a bar, pub serving alcohol"
+    },
+    {
+      "word": "BEDACHT",
+      "hint": "singular past indicative of bedenken"
+    },
+    {
+      "word": "BEDOELD",
+      "hint": "to intend, to have an aim; to mean, to intend to communicate"
+    },
+    {
+      "word": "BEDOELDE",
+      "hint": "to intend, to have an aim; to mean, to intend to communicate"
+    },
+    {
+      "word": "BEDOELING",
+      "hint": "intention (goal, purpose); eggcorn of bedoening"
+    },
+    {
+      "word": "BEDOELT",
+      "hint": "to intend, to have an aim; to mean, to intend to communicate"
+    },
+    {
+      "word": "BEDRIJVEN",
+      "hint": "to do, to perform, to carry out; to commit, perpetrate"
+    },
+    {
+      "word": "BEELDEN",
+      "hint": "to shape, form; to form an image in the mind, to picture, imagine"
+    },
+    {
+      "word": "BEEN",
+      "hint": "leg, limb of a person, horse (other animals would have poten) and certain objects (again many have poten); side, leg"
+    },
+    {
+      "word": "BEGRAVEN",
+      "hint": "to bury"
+    },
+    {
+      "word": "BEGREPEN",
+      "hint": "to understand (concepts, ideas), to comprehend, to grasp; to encompass, include"
+    },
+    {
+      "word": "BEGRIJPT",
+      "hint": "to understand (concepts, ideas), to comprehend, to grasp; to encompass, include"
+    },
+    {
+      "word": "BEHANDELING",
+      "hint": "medical or therapeutic treatment, therapy; judicial treatment"
+    },
+    {
+      "word": "BEHOORLIJK",
+      "hint": "reasonable, fitting, proper"
+    },
+    {
+      "word": "BEIDEN",
+      "hint": "personal plural of beide (“both”)"
+    },
+    {
+      "word": "BEKENDE",
+      "hint": "an acquaintance, someone known/trusted to the person of reference, yet often less than a friend; The known, what one is familiar with"
+    },
+    {
+      "word": "BEKIJK",
+      "hint": "to look at, to view"
+    },
+    {
+      "word": "BEKIJKEN",
+      "hint": "to look at, to view"
+    },
+    {
+      "word": "BELACHELIJK",
+      "hint": "ridiculous, risible"
+    },
+    {
+      "word": "BELANG",
+      "hint": "interest, concern; importance, significance"
+    },
+    {
+      "word": "BELANGRIJKSTE",
+      "hint": "important"
+    },
+    {
+      "word": "BELOOFD",
+      "hint": "to promise"
+    },
+    {
+      "word": "BENEN",
+      "hint": "made of bone"
+    },
+    {
+      "word": "BEPAALD",
+      "hint": "certain; specific"
+    },
+    {
+      "word": "BEPAALDE",
+      "hint": "certain; specific"
+    },
+    {
+      "word": "BEREID",
+      "hint": "ready, prepared; willing"
+    },
+    {
+      "word": "BEREIKT",
+      "hint": "to arrive at, to reach, to get to; to achieve, to attain"
+    },
+    {
+      "word": "BERG",
+      "hint": "mountain, hill; a large amount, a pile; a stock, reserve; a surplus"
+    },
+    {
+      "word": "BERGEN",
+      "hint": "to store, to stash away; to salvage (a vessel)"
+    },
+    {
+      "word": "BERICHTEN",
+      "hint": "to report, inform"
+    },
+    {
+      "word": "BEROEP",
+      "hint": "profession, vocation; appeal (act of invoking or appealing to something or someone, notably a higher jurisdiction)"
+    },
+    {
+      "word": "BESCHERMING",
+      "hint": "protection (state or quality of being protected); protection, shelter (something that protects)"
+    },
+    {
+      "word": "BESCHIKBAAR",
+      "hint": "available"
+    },
+    {
+      "word": "BESLISSING",
+      "hint": "decision"
+    },
+    {
+      "word": "BESLOOT",
+      "hint": "singular past indicative of besluiten"
+    },
+    {
+      "word": "BESLOTEN",
+      "hint": "private; agreed, decided"
+    },
+    {
+      "word": "BESLUIT",
+      "hint": "decision (e.g. after consideration of alternatives); determination (to do or follow through with something)"
+    },
+    {
+      "word": "BESPREKEN",
+      "hint": "to discuss"
+    },
+    {
+      "word": "BETAALT",
+      "hint": "to pay; to pay for, suffer the consequences of"
+    },
+    {
+      "word": "BETEKENEN",
+      "hint": "to mean, to signify"
+    },
+    {
+      "word": "BETREFT",
+      "hint": "to concern, to affect"
+    },
+    {
+      "word": "BEURT",
+      "hint": "turn (a chance to use (something) shared in sequence with others); maintenance, service"
+    },
+    {
+      "word": "BEVEILIGING",
+      "hint": "protection, security"
+    },
+    {
+      "word": "BEVEL",
+      "hint": "order, command"
+    },
+    {
+      "word": "BEWEGEN",
+      "hint": "to move, to be in motion; to move, to cause to be in motion"
+    },
+    {
+      "word": "BEWEGING",
+      "hint": "movement, motion (act of physically moving); physical activity, exercise"
+    },
+    {
+      "word": "BEWIJZEN",
+      "hint": "to prove; to confer (a favor)"
+    },
+    {
+      "word": "BEWUST",
+      "hint": "conscious, aware; deliberate"
+    },
+    {
+      "word": "BEZIT",
+      "hint": "possession; possession, belonging"
+    },
+    {
+      "word": "BEZOEKEN",
+      "hint": "to visit"
+    },
+    {
+      "word": "BEZORGD",
+      "hint": "concerned, anxious"
+    },
+    {
+      "word": "BIEDEN",
+      "hint": "to offer; to bid"
+    },
+    {
+      "word": "BIEDT",
+      "hint": "to offer; to bid"
+    },
+    {
+      "word": "BIER",
+      "hint": "beer (alcoholic drink brewed from grains or other starch material); a serving of beer"
+    },
+    {
+      "word": "BIG",
+      "hint": "piglet, little pig"
+    },
+    {
+      "word": "BIJVOORBEELD",
+      "hint": "for example"
+    },
+    {
+      "word": "BIJZONDER",
+      "hint": "special; unusual"
+    },
+    {
+      "word": "BILL",
+      "hint": ""
+    },
+    {
+      "word": "BINNENKORT",
+      "hint": "soon"
     },
     {
       "word": "BLAUW",
-      "hint": "blue"
+      "hint": "blue; visibly bruised"
+    },
+    {
+      "word": "BLAUWE",
+      "hint": "blue; visibly bruised"
+    },
+    {
+      "word": "BLEEK",
+      "hint": "pale; bleak"
+    },
+    {
+      "word": "BLIJKT",
+      "hint": "to appear, to become apparent; to appear"
+    },
+    {
+      "word": "BLIK",
+      "hint": "a glance; a manner of looking"
+    },
+    {
+      "word": "BLOEMEN",
+      "hint": "flower, bloom of flowering plant; flour of wheat or corn"
+    },
+    {
+      "word": "BOB",
+      "hint": "alternative form of Bob (“designated driver”)"
+    },
+    {
+      "word": "BOMEN",
+      "hint": "to close/shut with a beam; to pole (push a craft forward with a pole)"
+    },
+    {
+      "word": "BOODSCHAP",
+      "hint": "message; errand"
     },
     {
       "word": "BOOM",
-      "hint": "tree"
+      "hint": "tree; any solid, pole-shaped, usually wooden object"
+    },
+    {
+      "word": "BOORD",
+      "hint": "border, boundary; shore, bank"
+    },
+    {
+      "word": "BOOT",
+      "hint": "boat"
+    },
+    {
+      "word": "BOS",
+      "hint": "wood, forest; jungle, tropical rainforest"
+    },
+    {
+      "word": "BOUWEN",
+      "hint": "to build, to construct; to cultivate, to till"
+    },
+    {
+      "word": "BOVENDIEN",
+      "hint": "moreover, furthermore; besides, in addition"
+    },
+    {
+      "word": "BREKEN",
+      "hint": "to break"
+    },
+    {
+      "word": "BRENG",
+      "hint": "singular present subjunctive of brengen"
+    },
+    {
+      "word": "BRITSE",
+      "hint": "British"
+    },
+    {
+      "word": "BROEK",
+      "hint": "a pair of trousers, pair of pants; a pair of underpants or pants (underwear), bottom part of underwear or swimwear (especially for women)"
+    },
+    {
+      "word": "BROERS",
+      "hint": "brother (male sibling); bro"
+    },
+    {
+      "word": "BRON",
+      "hint": "source; spring (in fountain)"
     },
     {
       "word": "BROOD",
-      "hint": "bread"
+      "hint": "bread; a loaf of bread"
+    },
+    {
+      "word": "BRUG",
+      "hint": "bridge (construction); bridge (dental prosthesis)"
+    },
+    {
+      "word": "BUREAU",
+      "hint": "desk [from 18th c.]; office, office building [from late 18th c.] (especially office buildings for writing and publishing journalism and literature, or the police station as a"
+    },
+    {
+      "word": "BUREN",
+      "hint": "plural of buur"
+    },
+    {
+      "word": "BURGEMEESTER",
+      "hint": "mayor, burgomaster (head of a city or municipality); one of two species of gull"
+    },
+    {
+      "word": "BURGERS",
+      "hint": "citizen, civilian; middle-class or bourgeois person, burgher"
+    },
+    {
+      "word": "BUS",
+      "hint": "bus, omnibus (vehicle); minibus, minivan"
+    },
+    {
+      "word": "CARRIÈRE",
+      "hint": "career, a person's occupation(s)"
+    },
+    {
+      "word": "CEL",
+      "hint": "cell (a compartment)"
+    },
+    {
+      "word": "CENTRUM",
+      "hint": "the centre, middle of focal part (e.g. of activity); centre (UK)"
+    },
+    {
+      "word": "CHARLES",
+      "hint": ""
+    },
+    {
+      "word": "CHARLIE",
+      "hint": ""
+    },
+    {
+      "word": "CHINA",
+      "hint": "pair of trousers made of chino"
+    },
+    {
+      "word": "CHRIS",
+      "hint": ""
+    },
+    {
+      "word": "CHRISTUS",
+      "hint": ""
+    },
+    {
+      "word": "CIJFERS",
+      "hint": "digit, numeral; statistic, figure"
+    },
+    {
+      "word": "CITY",
+      "hint": ""
+    },
+    {
+      "word": "COACH",
+      "hint": "trainer, instructor, tutor, coach; counselor"
+    },
+    {
+      "word": "CODE",
+      "hint": "book or body of laws, code of laws, lawbook; system of rules and principles, e.g. of conduct"
+    },
+    {
+      "word": "COLLEGA",
+      "hint": "colleague"
+    },
+    {
+      "word": "COMPLEET",
+      "hint": "completely, thoroughly"
+    },
+    {
+      "word": "COMPUTER",
+      "hint": "computer"
+    },
+    {
+      "word": "CONTRACT",
+      "hint": "contract"
+    },
+    {
+      "word": "CONTROLEREN",
+      "hint": "to check; to control"
+    },
+    {
+      "word": "COOL",
+      "hint": "cool, fashionable"
+    },
+    {
+      "word": "DA",
+      "hint": "dadaism (anti-art movement)"
+    },
+    {
+      "word": "DAARBIJ",
+      "hint": "pronominal adverb form of bij + dat"
+    },
+    {
+      "word": "DAARDOOR",
+      "hint": "pronominal adverb form of door + dat"
+    },
+    {
+      "word": "DAARIN",
+      "hint": "pronominal adverb form of in + dat"
     },
     {
       "word": "DAG",
-      "hint": "day"
+      "hint": "day (period of 24 hours); daytime (time between sunrise and sunset)"
+    },
+    {
+      "word": "DAK",
+      "hint": "roof"
+    },
+    {
+      "word": "DAME",
+      "hint": "lady; queen"
+    },
+    {
+      "word": "DANSEN",
+      "hint": "to dance"
     },
     {
       "word": "DAT",
-      "hint": "that"
+      "hint": "neuter singular of die (“that”); referring to a thing or a person further away."
+    },
+    {
+      "word": "DATE",
+      "hint": "a date (romantic outing)"
     },
     {
       "word": "DE",
-      "hint": "the"
+      "hint": "the; definite article, masculine and feminine singular, plural"
+    },
+    {
+      "word": "DEAL",
+      "hint": "deal, a transaction or arrangement; a deal, a bargain (a favourable transaction)"
+    },
+    {
+      "word": "DEDEN",
+      "hint": "inflection of doen"
+    },
+    {
+      "word": "DEGENE",
+      "hint": "the one (who)"
+    },
+    {
+      "word": "DES",
+      "hint": "D-flat"
+    },
+    {
+      "word": "DETAILS",
+      "hint": "detail"
+    },
+    {
+      "word": "DEUREN",
+      "hint": "plural of deur"
+    },
+    {
+      "word": "DICHTBIJ",
+      "hint": "close, nearby"
+    },
+    {
+      "word": "DIENEN",
+      "hint": "to serve; to ought to, to be to, be expected to"
+    },
+    {
+      "word": "DIEP",
+      "hint": "deep, down low; profound"
+    },
+    {
+      "word": "DIK",
+      "hint": "thick; fat"
+    },
+    {
+      "word": "DIKKE",
+      "hint": "arrogant, haughty, supercilious person, a braggard"
+    },
+    {
+      "word": "DIRECTEUR",
+      "hint": "director, manager (in a company), general manager, CEO (or at a lower (e.g., branch) level); director (a person in charge of various other institutions)"
     },
     {
       "word": "DIT",
-      "hint": "this"
+      "hint": "neuter singular of deze (“this”); referring to a thing or a person closer by."
+    },
+    {
+      "word": "DODE",
+      "hint": "a deceased person; a casualty, victim of a fatal killing, illness, accident etc."
+    },
+    {
+      "word": "DOKTER",
+      "hint": "doctor (physician, medical doctor)"
+    },
+    {
+      "word": "DOM",
+      "hint": "dumb, brainless; stupid, silly"
+    },
+    {
+      "word": "DONDERDAG",
+      "hint": "Thursday"
+    },
+    {
+      "word": "DONKER",
+      "hint": "dark"
+    },
+    {
+      "word": "DOORGAAN",
+      "hint": "to go through (with), to proceed, continue; to take place, (hence negated) to fall through, be cancelled"
+    },
+    {
+      "word": "DORP",
+      "hint": "village, small settlement"
+    },
+    {
+      "word": "DRAAG",
+      "hint": "inflection of dragen"
+    },
+    {
+      "word": "DRAAGT",
+      "hint": "inflection of dragen"
+    },
+    {
+      "word": "DRAAIEN",
+      "hint": "to turn, to turn round; to play (a record, CD, song, etc.)"
+    },
+    {
+      "word": "DRAAIT",
+      "hint": "to turn, to turn round; to play (a record, CD, song, etc.)"
     },
     {
       "word": "DRINKEN",
-      "hint": "to drink"
+      "hint": "to drink, consume a liquid; to be an alcoholic"
+    },
+    {
+      "word": "DROEG",
+      "hint": "singular past indicative of dragen"
+    },
+    {
+      "word": "DROMEN",
+      "hint": "to dream"
+    },
+    {
+      "word": "DROOM",
+      "hint": "dream"
+    },
+    {
+      "word": "DRUGS",
+      "hint": "recreational drugs"
+    },
+    {
+      "word": "DUITSE",
+      "hint": "German woman"
+    },
+    {
+      "word": "DUITSLAND",
+      "hint": "German woman"
+    },
+    {
+      "word": "DUIZEND",
+      "hint": "thousand"
+    },
+    {
+      "word": "DUIZENDEN",
+      "hint": "thousand"
+    },
+    {
+      "word": "DUREN",
+      "hint": "to take, last (a certain time)"
+    },
+    {
+      "word": "DUUR",
+      "hint": "expensive, dear"
+    },
+    {
+      "word": "DUURT",
+      "hint": "dearth, scarcity; a period in which basic necessities such as food are scarce and therefore overly expensive"
+    },
+    {
+      "word": "ECHTER",
+      "hint": "however"
+    },
+    {
+      "word": "ECHTGENOOT",
+      "hint": "husband (male partner in a marriage); spouse"
     },
     {
       "word": "EEN",
-      "hint": "a or an"
+      "hint": "a, an; indefinite article, placed before a singular noun, indicating a general case of a person or thing"
+    },
+    {
+      "word": "EENHEID",
+      "hint": "unity; unit (measure)"
+    },
+    {
+      "word": "EENMAAL",
+      "hint": "once"
+    },
+    {
+      "word": "EENTJE",
+      "hint": "diminutive of een; diminutive of één"
+    },
+    {
+      "word": "EENVOUDIG",
+      "hint": "simple"
+    },
+    {
+      "word": "EER",
+      "hint": "honour"
+    },
+    {
+      "word": "EET",
+      "hint": "dining hall, refectory"
+    },
+    {
+      "word": "EEUW",
+      "hint": "a century, 100 years; many years, a very long time; far too long, (an) eternity"
+    },
+    {
+      "word": "EIGENAAR",
+      "hint": "owner"
+    },
+    {
+      "word": "EISEN",
+      "hint": "to demand; to claim"
+    },
+    {
+      "word": "EL",
+      "hint": "a unit of length corresponding to about 69 cm: ell, cubit"
     },
     {
       "word": "EN",
-      "hint": "and"
+      "hint": "and; well, so"
+    },
+    {
+      "word": "ENGELAND",
+      "hint": "someone who sailed to England from occupied Europe during the Second World War, chiefly in order to participate in the war effort or resistance activities; especially one who did"
+    },
+    {
+      "word": "ENGELS",
+      "hint": "a unit of mass equal to one twentieth of an ounce, approximately 1.5 grams; a physical weight used for weighing gold or silver"
+    },
+    {
+      "word": "ENIG",
+      "hint": "some; any"
+    },
+    {
+      "word": "ENORM",
+      "hint": "enormous"
+    },
+    {
+      "word": "ENORME",
+      "hint": "enormous"
+    },
+    {
+      "word": "ERGER",
+      "hint": "comparative degree of erg"
+    },
+    {
+      "word": "ERIC",
+      "hint": ""
+    },
+    {
+      "word": "ERNSTIG",
+      "hint": "serious"
+    },
+    {
+      "word": "EROVER",
+      "hint": "pronominal adverb form of over + het"
+    },
+    {
+      "word": "ERVARING",
+      "hint": "experience (act of experiencing, something that is experienced); experience (skill)"
     },
     {
       "word": "ETEN",
       "hint": "to eat"
     },
     {
+      "word": "EURO",
+      "hint": "euro (currency); a euro (a coin of that currency)"
+    },
+    {
+      "word": "EUROPA",
+      "hint": ""
+    },
+    {
+      "word": "EX",
+      "hint": "ex (former partner)"
+    },
+    {
+      "word": "EXCUSES",
+      "hint": "plural of excuus (“apology”)"
+    },
+    {
       "word": "FAMILIE",
-      "hint": "family"
+      "hint": "relatives (extended kin); family (close kin)"
+    },
+    {
+      "word": "FANTASTISCH",
+      "hint": "fantastic, great; fantastic, imaginative"
+    },
+    {
+      "word": "FAVORIETE",
+      "hint": "favourite, preferred; favourite, tipped to win"
+    },
+    {
+      "word": "FEESTJE",
+      "hint": "diminutive of feest"
+    },
+    {
+      "word": "FEITEN",
+      "hint": "plural of feit"
     },
     {
       "word": "FIETS",
-      "hint": "bicycle"
+      "hint": "bicycle; motorbike"
+    },
+    {
+      "word": "FIJNE",
+      "hint": "to finely chop"
+    },
+    {
+      "word": "FILMS",
+      "hint": "a film, thin layer or membrane; especially the physical medium film; a film production, movie"
+    },
+    {
+      "word": "FLINK",
+      "hint": "large, considerable; stalwart, brave, sturdy"
+    },
+    {
+      "word": "FOUTEN",
+      "hint": "plural of fout"
+    },
+    {
+      "word": "FRANKRIJK",
+      "hint": ""
+    },
+    {
+      "word": "FRANS",
+      "hint": "French"
+    },
+    {
+      "word": "FRANSE",
+      "hint": "inflection of Frans"
+    },
+    {
+      "word": "GAST",
+      "hint": "guest; knave, worker, apprentice, delivery boy"
+    },
+    {
+      "word": "GASTEN",
+      "hint": "plural of gast"
+    },
+    {
+      "word": "GAT",
+      "hint": "gap, hole; godforsaken place, hamlet"
+    },
+    {
+      "word": "GATEN",
+      "hint": "plural of gat"
+    },
+    {
+      "word": "GAVEN",
+      "hint": "a gift, donation, present; a gift, talent"
+    },
+    {
+      "word": "GEARRESTEERD",
+      "hint": "past participle of arresteren"
+    },
+    {
+      "word": "GEBASEERD",
+      "hint": "past participle of baseren"
+    },
+    {
+      "word": "GEBELD",
+      "hint": "past participle of bellen"
+    },
+    {
+      "word": "GEBLEVEN",
+      "hint": "past participle of blijven"
+    },
+    {
+      "word": "GEBOUWD",
+      "hint": "past participle of bouwen"
+    },
+    {
+      "word": "GEBROKEN",
+      "hint": "past participle of breken"
+    },
+    {
+      "word": "GEBRUIKTE",
+      "hint": "singular past indicative of gebruiken; singular past subjunctive of gebruiken"
+    },
+    {
+      "word": "GEDACHT",
+      "hint": "opinion"
+    },
+    {
+      "word": "GEDACHTEN",
+      "hint": "opinion"
+    },
+    {
+      "word": "GEDRAG",
+      "hint": "behaviour, conduct"
+    },
+    {
+      "word": "GEDRAGEN",
+      "hint": "to behave, to behave oneself"
+    },
+    {
+      "word": "GEDURENDE",
+      "hint": "during"
+    },
+    {
+      "word": "GEEST",
+      "hint": "ghost, spirit, immaterial being; mind, mental consciousness"
+    },
+    {
+      "word": "GEFELICITEERD",
+      "hint": "congratulations!"
+    },
+    {
+      "word": "GEGETEN",
+      "hint": "past participle of eten"
+    },
+    {
+      "word": "GEGEVENS",
+      "hint": "that which has been given"
+    },
+    {
+      "word": "GEHAALD",
+      "hint": "past participle of halen"
+    },
+    {
+      "word": "GEHEEL",
+      "hint": "whole, entire"
+    },
+    {
+      "word": "GEHEIM",
+      "hint": "secret"
+    },
+    {
+      "word": "GEHEIME",
+      "hint": "secret"
+    },
+    {
+      "word": "GEHOLPEN",
+      "hint": "past participle of helpen"
+    },
+    {
+      "word": "GEKOCHT",
+      "hint": "past participle of kopen"
+    },
+    {
+      "word": "GEKOZEN",
+      "hint": "past participle of kiezen"
+    },
+    {
+      "word": "GELDT",
+      "hint": "to apply, to be applicable, to be in effect; to count (be estimated as valid, useful, or influential)"
+    },
+    {
+      "word": "GELEERD",
+      "hint": "learned; educated"
+    },
+    {
+      "word": "GELEZEN",
+      "hint": "past participle of lezen"
+    },
+    {
+      "word": "GELOOFT",
+      "hint": "obsolete spelling of geloven"
+    },
+    {
+      "word": "GELUID",
+      "hint": "sound"
+    },
+    {
+      "word": "GELUKT",
+      "hint": "past participle of lukken"
+    },
+    {
+      "word": "GEMAKKELIJK",
+      "hint": "easy"
+    },
+    {
+      "word": "GEMIST",
+      "hint": "past participle of missen; past participle of misten"
+    },
+    {
+      "word": "GENAAMD",
+      "hint": "named"
+    },
+    {
+      "word": "GENIET",
+      "hint": "to enjoy oneself, to have a pleasant experience; to enjoy [with van]"
+    },
+    {
+      "word": "GENIETEN",
+      "hint": "to enjoy oneself, to have a pleasant experience; to enjoy [with van]"
+    },
+    {
+      "word": "GENOEMD",
+      "hint": "said, given"
+    },
+    {
+      "word": "GEORGE",
+      "hint": ""
+    },
+    {
+      "word": "GEPLAATST",
+      "hint": "past participle of plaatsen"
+    },
+    {
+      "word": "GEPROBEERD",
+      "hint": "past participle of proberen"
+    },
+    {
+      "word": "GERAAKT",
+      "hint": "to reach, to attain; to end up"
+    },
+    {
+      "word": "GERED",
+      "hint": "to have/get/keep/be ready"
+    },
+    {
+      "word": "GEREGELD",
+      "hint": "regular; controlled"
+    },
+    {
+      "word": "GERICHT",
+      "hint": "targeted, focused"
+    },
+    {
+      "word": "GESLAGEN",
+      "hint": "past participle of slaan"
+    },
+    {
+      "word": "GESLOTEN",
+      "hint": "closed"
+    },
+    {
+      "word": "GESPEELD",
+      "hint": "past participle of spelen"
+    },
+    {
+      "word": "GESTELD",
+      "hint": "state, condition"
+    },
+    {
+      "word": "GESTOLEN",
+      "hint": "past participle of stelen"
+    },
+    {
+      "word": "GESTOPT",
+      "hint": "past participle of stoppen"
+    },
+    {
+      "word": "GESTUURD",
+      "hint": "past participle of sturen"
+    },
+    {
+      "word": "GETROUWD",
+      "hint": "married"
+    },
+    {
+      "word": "GETUIGE",
+      "hint": "a witness, person who observed; a witness who testifies in a case"
+    },
+    {
+      "word": "GETUIGEN",
+      "hint": "to testify, bear witness, give testimony, especially in court; to prove, make apparent"
+    },
+    {
+      "word": "GEVAARLIJK",
+      "hint": "dangerous"
+    },
+    {
+      "word": "GEVANGEN",
+      "hint": "caught, captive"
+    },
+    {
+      "word": "GEVECHT",
+      "hint": "fight, combat, battle, struggle"
+    },
+    {
+      "word": "GEVOELENS",
+      "hint": "to feel"
+    },
+    {
+      "word": "GEVOLGD",
+      "hint": "past participle of volgen"
+    },
+    {
+      "word": "GEVOLGEN",
+      "hint": "consequence, result; entourage"
+    },
+    {
+      "word": "GEWELD",
+      "hint": "violence; strong or violent force; ferocity"
+    },
+    {
+      "word": "GEWERKT",
+      "hint": "past participle of werken"
+    },
+    {
+      "word": "GEWOND",
+      "hint": "past participle of wonden"
+    },
+    {
+      "word": "GEWONE",
+      "hint": "regular, ordinary, usual; normal, common"
+    },
+    {
+      "word": "GEZOCHT",
+      "hint": "searched for, wanted"
+    },
+    {
+      "word": "GEZOND",
+      "hint": "healthy, being in good health; healthy, beneficial for health"
+    },
+    {
+      "word": "GEZONDHEID",
+      "hint": "health"
+    },
+    {
+      "word": "GEÏNTERESSEERD",
+      "hint": "interested"
+    },
+    {
+      "word": "GISTERAVOND",
+      "hint": "last evening"
+    },
+    {
+      "word": "GLAS",
+      "hint": "glass (material); glass (vessel)"
     },
     {
       "word": "GOED",
-      "hint": "good"
+      "hint": "good (not bad); correct, right (factually or morally)"
+    },
+    {
+      "word": "GOEDEMORGEN",
+      "hint": "good morning"
+    },
+    {
+      "word": "GOEIE",
+      "hint": "good afternoon"
+    },
+    {
+      "word": "GOOI",
+      "hint": "to throw"
+    },
+    {
+      "word": "GOOIEN",
+      "hint": "to throw"
+    },
+    {
+      "word": "GOUD",
+      "hint": "gold; or, gold"
+    },
+    {
+      "word": "GOUDEN",
+      "hint": "golden, made of gold; precious (as gold), of great (monetary or other) value"
+    },
+    {
+      "word": "GRADEN",
+      "hint": "plural of graad"
+    },
+    {
+      "word": "GRAP",
+      "hint": "joke; an adverse event or unnecessary item that incurs a considerable cost"
+    },
+    {
+      "word": "GRENS",
+      "hint": "physical, territorial border, frontier; boundary, limit, threshold"
+    },
+    {
+      "word": "GROEIEN",
+      "hint": "to grow physically; to increase"
     },
     {
       "word": "GROEN",
-      "hint": "green"
+      "hint": "green; pertaining to terrestrial nature"
+    },
+    {
+      "word": "GROENE",
+      "hint": "green; pertaining to terrestrial nature"
     },
     {
       "word": "GROOT",
-      "hint": "big"
+      "hint": "big, large, great; great, important, eminent"
+    },
+    {
+      "word": "GROTER",
+      "hint": "comparative degree of groot"
+    },
+    {
+      "word": "GROTERE",
+      "hint": "comparative degree of groot"
+    },
+    {
+      "word": "HAALT",
+      "hint": "inflection of halen"
+    },
+    {
+      "word": "HAAST",
+      "hint": "hurry, haste"
+    },
+    {
+      "word": "HALVE",
+      "hint": "inflection of half"
+    },
+    {
+      "word": "HANDEL",
+      "hint": "trade (activity of trading); business, company (commercial entity)"
+    },
+    {
+      "word": "HANGEN",
+      "hint": "to hang"
+    },
+    {
+      "word": "HANGT",
+      "hint": "to hang"
+    },
+    {
+      "word": "HARDE",
+      "hint": "a hard one, e.g. a hard hit, a tough guy; a stiffy, hard-on, erected phallus"
+    },
+    {
+      "word": "HARRY",
+      "hint": ""
+    },
+    {
+      "word": "HE",
+      "hint": "misspelling of hè; misspelling of hé"
+    },
+    {
+      "word": "HEILIGE",
+      "hint": "holy; sacred"
+    },
+    {
+      "word": "HEL",
+      "hint": "hell, an infernal afterlife; a terrible place or ordeal"
+    },
+    {
+      "word": "HELD",
+      "hint": "hero"
+    },
+    {
+      "word": "HEMEL",
+      "hint": "sky, heavens (visible sky); heaven (divine abode; type of afterlife)"
+    },
+    {
+      "word": "HENRY",
+      "hint": ""
+    },
+    {
+      "word": "HERINNEREN",
+      "hint": "to remind, prompt; to remember, remind oneself, recall"
+    },
+    {
+      "word": "HERINNERINGEN",
+      "hint": "a memory, something that one remembers; the act of remembering"
     },
     {
       "word": "HET",
-      "hint": "the"
+      "hint": "neuter singular of de (“the”), the definite article"
+    },
+    {
+      "word": "HIERMEE",
+      "hint": "pronominal adverb form of met + dit"
+    },
+    {
+      "word": "HIERVAN",
+      "hint": "pronominal adverb form of van + dit"
+    },
+    {
+      "word": "HIERVOOR",
+      "hint": "pronominal adverb form of voor + dit"
+    },
+    {
+      "word": "HIGH",
+      "hint": "high (intoxicated with a drug other than alcohol)"
+    },
+    {
+      "word": "HOEF",
+      "hint": "hoof"
+    },
+    {
+      "word": "HOEK",
+      "hint": "corner; angle"
+    },
+    {
+      "word": "HOEVEN",
+      "hint": "to be necessary; to need to, to have to"
+    },
+    {
+      "word": "HOEZO",
+      "hint": "in what way, in what respect; why"
+    },
+    {
+      "word": "HOGER",
+      "hint": "comparative degree of hoog"
+    },
+    {
+      "word": "HOMO",
+      "hint": "gay, homosexual; Used as a general slur"
     },
     {
       "word": "HOND",
-      "hint": "dog"
+      "hint": "dog (Canis lupus familiaris); A derogatory term for a human; a reprehensible person"
+    },
+    {
+      "word": "HONDEN",
+      "hint": "dog food"
+    },
+    {
+      "word": "HONDERD",
+      "hint": "hundred"
+    },
+    {
+      "word": "HONGER",
+      "hint": "hunger"
+    },
+    {
+      "word": "HOOGSTE",
+      "hint": "superlative degree of hoog"
+    },
+    {
+      "word": "HOPELIJK",
+      "hint": "hopefully"
+    },
+    {
+      "word": "HOPEN",
+      "hint": "to hope for, to wish for [with op ‘on’]"
+    },
+    {
+      "word": "HUID",
+      "hint": "skin; hide"
+    },
+    {
+      "word": "HUIDIGE",
+      "hint": "current, present"
+    },
+    {
+      "word": "HUILEN",
+      "hint": "to cry, to weep; to howl, like a (were)wolf or wind"
     },
     {
       "word": "HUIS",
-      "hint": "house"
+      "hint": "a house, home; residence; an adjoining building with a separate function"
+    },
+    {
+      "word": "HUIZEN",
+      "hint": "to live (have permanent residence)"
+    },
+    {
+      "word": "HÉ",
+      "hint": "hey"
+    },
+    {
+      "word": "IDEEËN",
+      "hint": "plural of idee"
+    },
+    {
+      "word": "IJS",
+      "hint": "ice (frozen liquid, notably water); ice cream"
     },
     {
       "word": "IK",
-      "hint": "I"
+      "hint": "I; first-person singular subjective personal pronoun"
+    },
+    {
+      "word": "INDRUK",
+      "hint": "impression"
+    },
+    {
+      "word": "INEENS",
+      "hint": "suddenly"
+    },
+    {
+      "word": "INTERESSANT",
+      "hint": "interesting, arousing or holding the attention of; fascinating [from 18th c.]; notable, important"
+    },
+    {
+      "word": "INTERESSE",
+      "hint": "interest (e.g. in a subject) [from 1870s]"
+    },
+    {
+      "word": "INTERNET",
+      "hint": "Internet (specific internet consisting of the global network of computers)"
+    },
+    {
+      "word": "INTERVIEW",
+      "hint": "interview (conversation intended for recording statements for publication)"
+    },
+    {
+      "word": "INVLOED",
+      "hint": "influence"
     },
     {
       "word": "IS",
-      "hint": "is"
+      "hint": "third-person singular present indicative of zijn; is, equals"
+    },
+    {
+      "word": "IT",
+      "hint": "initialism of informatietechnologie (“information technology”)"
+    },
+    {
+      "word": "JACK",
+      "hint": "jacket"
+    },
+    {
+      "word": "JAMES",
+      "hint": ""
+    },
+    {
+      "word": "JAS",
+      "hint": "a coat (outer garment); someone who hasn't been born and raised in Volendam"
+    },
+    {
+      "word": "JAWEL",
+      "hint": "an emphatic yes, to indicate strong agreement, or dissent in reply to a negative statement or question; yessir"
+    },
+    {
+      "word": "JEUGD",
+      "hint": "youth"
     },
     {
       "word": "JIJ",
-      "hint": "you"
+      "hint": "you; second-person singular subjective personal pronoun"
+    },
+    {
+      "word": "JOE",
+      "hint": "bye; okay, sure"
+    },
+    {
+      "word": "JULI",
+      "hint": "July"
+    },
+    {
+      "word": "JUNI",
+      "hint": "June (month)"
+    },
+    {
+      "word": "KAARTEN",
+      "hint": "to play card games"
+    },
+    {
+      "word": "KAMP",
+      "hint": "camp; a political or social fraction or group"
+    },
+    {
+      "word": "KAPITEIN",
+      "hint": "captain (person in command of a ship); captain (military officer)"
+    },
+    {
+      "word": "KAPOT",
+      "hint": "broken, defective, kaput; knackered"
     },
     {
       "word": "KAT",
-      "hint": "cat"
+      "hint": "domestic cat, pussy, Felis silvestris catus; feline"
+    },
+    {
+      "word": "KEEK",
+      "hint": "singular past indicative of kijken"
+    },
+    {
+      "word": "KENDE",
+      "hint": "inflection of kennen"
+    },
+    {
+      "word": "KENNIS",
+      "hint": "knowledge"
+    },
+    {
+      "word": "KEREN",
+      "hint": "to turn around, to turn around an axis"
+    },
+    {
+      "word": "KEUKEN",
+      "hint": "kitchen; cuisine"
+    },
+    {
+      "word": "KIES",
+      "hint": "molar; certain resembling objects"
+    },
+    {
+      "word": "KILOMETER",
+      "hint": "kilometre"
+    },
+    {
+      "word": "KLANT",
+      "hint": "customer, client; chap, bloke"
+    },
+    {
+      "word": "KLANTEN",
+      "hint": "customer, client; chap, bloke"
+    },
+    {
+      "word": "KLAS",
+      "hint": "a school class; a classroom"
+    },
+    {
+      "word": "KLEDING",
+      "hint": "clothing"
     },
     {
       "word": "KLEIN",
-      "hint": "small"
+      "hint": "small, little; almost"
+    },
+    {
+      "word": "KLEREN",
+      "hint": "clothes"
+    },
+    {
+      "word": "KLEUR",
+      "hint": "a color, colour; a party obedience, as in politics"
+    },
+    {
+      "word": "KM",
+      "hint": "nonstandard form of abbreviation of kilometer per uur"
+    },
+    {
+      "word": "KNAP",
+      "hint": "attractive, handsome, pretty; impressive, decent, rather good or big"
+    },
+    {
+      "word": "KOKEN",
+      "hint": "to cook, boil; to seethe, boil with anger"
+    },
+    {
+      "word": "KOMENDE",
+      "hint": "inflection of komend"
+    },
+    {
+      "word": "KONINGIN",
+      "hint": "queen"
+    },
+    {
+      "word": "KONT",
+      "hint": "butt, bum, arse; a cunt (an extremely unpleasant or objectionable person)"
+    },
+    {
+      "word": "KOOP",
+      "hint": "a purchase, bought acquisition"
+    },
+    {
+      "word": "KORTE",
+      "hint": "short"
+    },
+    {
+      "word": "KOSTEN",
+      "hint": "to cost; take, require (time, effort, etc.)"
+    },
+    {
+      "word": "KOUD",
+      "hint": "cold (temperature); cold (unfriendly)"
+    },
+    {
+      "word": "KRACHTEN",
+      "hint": "under, according to"
+    },
+    {
+      "word": "KRANT",
+      "hint": "newspaper"
+    },
+    {
+      "word": "KREGEN",
+      "hint": "inflection of krijgen"
+    },
+    {
+      "word": "KUNST",
+      "hint": "art; prowess, ability"
+    },
+    {
+      "word": "KUST",
+      "hint": "the shoreline; the coast, seaside"
+    },
+    {
+      "word": "KWAAD",
+      "hint": "angry, furious; bad, evil, crooked"
+    },
+    {
+      "word": "KWESTIE",
+      "hint": "question, matter (a topic under discussion)"
+    },
+    {
+      "word": "LAAG",
+      "hint": "low"
+    },
+    {
+      "word": "LAATST",
+      "hint": "superlative degree of laat; latest, most recent, newest"
+    },
+    {
+      "word": "LACHEN",
+      "hint": "to laugh"
+    },
+    {
+      "word": "LANDEN",
+      "hint": "to (arrive on) land from the air (for birds, airplanes); to land, bring an aircraft or other vehicle (down) to land"
+    },
+    {
+      "word": "LANGZAAM",
+      "hint": "slow"
+    },
+    {
+      "word": "LAS",
+      "hint": "joint, weld"
+    },
+    {
+      "word": "LAST",
+      "hint": "load, weight; burden"
+    },
+    {
+      "word": "LASTIG",
+      "hint": "tough, difficult; cumbersome, gruelling"
+    },
+    {
+      "word": "LEDEN",
+      "hint": "plural of lid"
+    },
+    {
+      "word": "LEEG",
+      "hint": "empty, hollow; listless, lethargic"
+    },
+    {
+      "word": "LEER",
+      "hint": "leather"
+    },
+    {
+      "word": "LEG",
+      "hint": "The act or process of laying something, particularly eggs."
+    },
+    {
+      "word": "LEIDDE",
+      "hint": "inflection of leiden"
+    },
+    {
+      "word": "LEIDER",
+      "hint": "leader, head, chief"
+    },
+    {
+      "word": "LEIDING",
+      "hint": "lead (act of leading), control; leadership, direction"
+    },
+    {
+      "word": "LEIDT",
+      "hint": "inflection of leiden"
+    },
+    {
+      "word": "LEVENS",
+      "hint": "to live"
     },
     {
       "word": "LEZEN",
-      "hint": "to read"
+      "hint": "to read; to gather (esp. fruits)"
+    },
+    {
+      "word": "LID",
+      "hint": "member (of a group); member, limb (extremity of a body)"
+    },
+    {
+      "word": "LIEF",
+      "hint": "nice, sweet, lovely; beloved, dear"
+    },
+    {
+      "word": "LIEGEN",
+      "hint": "to lie (to tell lies)"
+    },
+    {
+      "word": "LIEVERD",
+      "hint": "a person who is kind or sweet; a sweetheart; dear, darling, honey"
+    },
+    {
+      "word": "LIJDEN",
+      "hint": "to undergo, endure, suffer; to suffer [with aan ‘from (a disease)’]"
+    },
+    {
+      "word": "LIVE",
+      "hint": "live, being broadcast as it happens."
+    },
+    {
+      "word": "LOCATIE",
+      "hint": "location"
+    },
+    {
+      "word": "LOGISCH",
+      "hint": "logical"
+    },
+    {
+      "word": "LOKALE",
+      "hint": "local"
+    },
+    {
+      "word": "LOL",
+      "hint": "fun"
+    },
+    {
+      "word": "LONDEN",
+      "hint": "of, from or pertaining to London"
+    },
+    {
+      "word": "LOT",
+      "hint": "destiny, fate, lot; lottery ticket"
+    },
+    {
+      "word": "LUKT",
+      "hint": "inflection of lukken"
+    },
+    {
+      "word": "LUL",
+      "hint": "cock, prick (slang for penis); disgusting male person, dick, prick"
+    },
+    {
+      "word": "LUNCH",
+      "hint": "a lunch, a meal eaten around noon"
+    },
+    {
+      "word": "MA",
+      "hint": "mother"
+    },
+    {
+      "word": "MAAKTEN",
+      "hint": "inflection of maken"
+    },
+    {
+      "word": "MAAN",
+      "hint": "moon"
+    },
+    {
+      "word": "MAANDAG",
+      "hint": "Monday"
+    },
+    {
+      "word": "MAAT",
+      "hint": "measure, size; measure, bar"
+    },
+    {
+      "word": "MACHINE",
+      "hint": "machine (mechanical or electrical device)"
+    },
+    {
+      "word": "MAKKELIJKER",
+      "hint": "comparative degree of makkelijk"
+    },
+    {
+      "word": "MANAGER",
+      "hint": "a manager, someone in management"
+    },
+    {
+      "word": "MANIEREN",
+      "hint": "plural of manier; manners (proper conduct)"
+    },
+    {
+      "word": "MARIA",
+      "hint": ""
+    },
+    {
+      "word": "MARK",
+      "hint": "a march, a mark (border region)"
+    },
+    {
+      "word": "MARKT",
+      "hint": "a physical market place, usually a public square; The whole of trade, commercial activity"
+    },
+    {
+      "word": "MARTIN",
+      "hint": ""
+    },
+    {
+      "word": "MATERIAAL",
+      "hint": "material (matter)"
+    },
+    {
+      "word": "MAX",
+      "hint": ""
+    },
+    {
+      "word": "MEDIA",
+      "hint": "plural of medium"
+    },
+    {
+      "word": "MEDISCHE",
+      "hint": "medical"
+    },
+    {
+      "word": "MEEGENOMEN",
+      "hint": "past participle of meenemen"
+    },
+    {
+      "word": "MEERDERE",
+      "hint": "more, several, multiple"
+    },
+    {
+      "word": "MEESTER",
+      "hint": "a master, boss, superior; a schoolteacher, notably in primary education"
+    },
+    {
+      "word": "MEI",
+      "hint": "May"
+    },
+    {
+      "word": "MEID",
+      "hint": "girl, lass; maid"
+    },
+    {
+      "word": "MEIDEN",
+      "hint": "girl, lass; maid"
+    },
+    {
+      "word": "MELDEN",
+      "hint": "to report, to communicate; let know; to inform, to let know, to give an update"
     },
     {
       "word": "MELK",
-      "hint": "milk"
+      "hint": "milk (nutritious liquid produced by a lactating mammalian mother); milk (nutritious liquid derived from vegetable sources, sometimes as a deliberate substitute of mammalian milk)"
+    },
+    {
+      "word": "MENING",
+      "hint": "an opinion"
+    },
+    {
+      "word": "MENSELIJKE",
+      "hint": "human; humane"
     },
     {
       "word": "MET",
-      "hint": "with"
+      "hint": "with, along with (another person); with, using (a tool, instrument or other means)"
+    },
+    {
+      "word": "MEVROUW",
+      "hint": "madam, miss"
+    },
+    {
+      "word": "MEXICO",
+      "hint": ""
+    },
+    {
+      "word": "MIDDEL",
+      "hint": "means; medicine, cure"
+    },
+    {
+      "word": "MIJNE",
+      "hint": "non-attributive form of mijn; mine"
+    },
+    {
+      "word": "MIKE",
+      "hint": ""
+    },
+    {
+      "word": "MILITAIRE",
+      "hint": "soldier"
+    },
+    {
+      "word": "MILJOENEN",
+      "hint": "annual budget of the kingdom of the Netherlands, as presented in the miljoenenrede (a formal speech in the Tweede Kamer by the Dutch Minister of Finance)"
+    },
+    {
+      "word": "MIN",
+      "hint": "minus"
+    },
+    {
+      "word": "MINISTER",
+      "hint": "minister (a politician who heads a ministry)"
+    },
+    {
+      "word": "MINUUT",
+      "hint": "minute (unit of time)"
+    },
+    {
+      "word": "MISS",
+      "hint": "a winner of a beauty contest; a beauty"
+    },
+    {
+      "word": "MISSEN",
+      "hint": "to miss (not hit); to miss, to go without"
+    },
+    {
+      "word": "MISSIE",
+      "hint": "mission, task; mission (proselytisation)"
+    },
+    {
+      "word": "MIST",
+      "hint": "fog, mist"
+    },
+    {
+      "word": "MODEL",
+      "hint": "model (type, design); model (someone or something serving as an artistic subject)"
+    },
+    {
+      "word": "MOE",
+      "hint": "tired, weary"
+    },
+    {
+      "word": "MOEDERS",
+      "hint": "mother, female parent; womb"
+    },
+    {
+      "word": "MOGELIJKE",
+      "hint": "possible"
+    },
+    {
+      "word": "MOGELIJKHEID",
+      "hint": "possibility"
+    },
+    {
+      "word": "MOMENTEEL",
+      "hint": "at the moment, currently"
+    },
+    {
+      "word": "MOOISTE",
+      "hint": "beautiful, pretty, handsome; nice, good"
+    },
+    {
+      "word": "MOTOR",
+      "hint": "engine (mechanical device); motorbike"
+    },
+    {
+      "word": "MUSEUM",
+      "hint": "museum"
+    },
+    {
+      "word": "MUUR",
+      "hint": "wall; wall (figuratively, any barrier which limits access)"
+    },
+    {
+      "word": "MY",
+      "hint": "obsolete spelling of mij"
+    },
+    {
+      "word": "NAARTOE",
+      "hint": "to, towards (an end point or destination)"
     },
     {
       "word": "NACHT",
       "hint": "night"
     },
     {
+      "word": "NACHTS",
+      "hint": "night"
+    },
+    {
+      "word": "NADENKEN",
+      "hint": "to ponder, reflect upon or think about something, muse, get lost in thought"
+    },
+    {
+      "word": "NAMELIJK",
+      "hint": "namely; Used to indicate that a statement explains an earlier one."
+    },
+    {
+      "word": "NATIONALE",
+      "hint": "national"
+    },
+    {
+      "word": "NATUUR",
+      "hint": "nature; character"
+    },
+    {
+      "word": "NAUWELIJKS",
+      "hint": "hardly, barely"
+    },
+    {
+      "word": "NEGEN",
+      "hint": "nine"
+    },
+    {
+      "word": "NEK",
+      "hint": "nape of the neck; neck"
+    },
+    {
+      "word": "NEUKEN",
+      "hint": "to fuck, to screw; to fuck, to disrespect; used to express one's displeasure or disrespect for something or someone."
+    },
+    {
+      "word": "NEUS",
+      "hint": "nose; smell, bouquet, nose"
+    },
+    {
       "word": "NIET",
-      "hint": "not"
+      "hint": "not, no, don't: used to express negation."
+    },
+    {
+      "word": "NIVEAU",
+      "hint": "level"
+    },
+    {
+      "word": "NO",
+      "hint": "initialism of noordoost; NE"
+    },
+    {
+      "word": "NOEM",
+      "hint": "singular present subjunctive of noemen"
+    },
+    {
+      "word": "NOEMDE",
+      "hint": "to call, to name; to mention"
+    },
+    {
+      "word": "NOEMT",
+      "hint": "to call, to name; to mention"
+    },
+    {
+      "word": "NOGMAALS",
+      "hint": "once again"
+    },
+    {
+      "word": "NOORDEN",
+      "hint": "north"
+    },
+    {
+      "word": "NORMALE",
+      "hint": "inflection of normaal"
+    },
+    {
+      "word": "OCHTEND",
+      "hint": "morning"
+    },
+    {
+      "word": "OFFICIEEL",
+      "hint": "official"
+    },
+    {
+      "word": "OKE",
+      "hint": "alternative spelling of oké"
+    },
+    {
+      "word": "OKÉ",
+      "hint": "okay, correct, acceptable, satisfactory; good"
+    },
+    {
+      "word": "OLIE",
+      "hint": "any natural or industrial oil; petroleum in particular"
+    },
+    {
+      "word": "OMA",
+      "hint": "grandma, granny, nan; any old woman"
+    },
+    {
+      "word": "OMGEVING",
+      "hint": "surroundings, area, environment, environs; social circle, environment"
+    },
+    {
+      "word": "OMHOOG",
+      "hint": "upwards; on high"
+    },
+    {
+      "word": "OMSTANDIGHEDEN",
+      "hint": "circumstance, condition"
+    },
+    {
+      "word": "ON",
+      "hint": "rarely used as shorthand for oneven (odd), the prefix on- means not (corresponds to English un-)"
+    },
+    {
+      "word": "ONDANKS",
+      "hint": "despite, in spite of"
+    },
+    {
+      "word": "ONDERDEEL",
+      "hint": "component"
+    },
+    {
+      "word": "ONDERTUSSEN",
+      "hint": "meanwhile, in the meantime"
+    },
+    {
+      "word": "ONDERWERP",
+      "hint": "subject, topic; subject (of a sentence)"
+    },
+    {
+      "word": "ONDERZOEKEN",
+      "hint": "to investigate; to (do) research"
+    },
+    {
+      "word": "ONGELOOFLIJK",
+      "hint": "unbelievable"
+    },
+    {
+      "word": "ONLINE",
+      "hint": "online (on, via or connected to the Internet or another network) [from 1960s]"
+    },
+    {
+      "word": "ONMIDDELLIJK",
+      "hint": "immediate, instant"
+    },
+    {
+      "word": "ONMOGELIJK",
+      "hint": "impossible"
+    },
+    {
+      "word": "ONTBIJT",
+      "hint": "a breakfast, first meal of the day, usually in the morning"
+    },
+    {
+      "word": "ONTDEKT",
+      "hint": "to discover"
+    },
+    {
+      "word": "ONTMOET",
+      "hint": "to meet; to encounter, come across"
+    },
+    {
+      "word": "ONTMOETEN",
+      "hint": "to meet; to encounter, come across"
+    },
+    {
+      "word": "ONTSLAG",
+      "hint": "discharge; resignation"
+    },
+    {
+      "word": "ONTSLAGEN",
+      "hint": "to discharge, to let go, to free of one's duties; to fire, to sack (terminate the employment of)"
+    },
+    {
+      "word": "ONTSNAPPEN",
+      "hint": "to escape"
+    },
+    {
+      "word": "ONTSTAAN",
+      "hint": "to arise, to come into being; to elude, remain out of reach"
+    },
+    {
+      "word": "ONTVANGEN",
+      "hint": "to receive"
+    },
+    {
+      "word": "ONTZETTEND",
+      "hint": "offputting, appalling"
+    },
+    {
+      "word": "ONZIN",
+      "hint": "nonsense"
+    },
+    {
+      "word": "OOM",
+      "hint": "uncle"
+    },
+    {
+      "word": "OOSTEN",
+      "hint": "east (cardinal direction)"
     },
     {
       "word": "OP",
-      "hint": "on"
+      "hint": "up; onto, up onto"
+    },
+    {
+      "word": "OPA",
+      "hint": "granddad, grandpa, pops; any old man"
+    },
+    {
+      "word": "OPDRACHT",
+      "hint": "task, assignment, an action that one is required to do; commission, something that has been commissioned"
+    },
+    {
+      "word": "OPEENS",
+      "hint": "suddenly, all of a sudden"
+    },
+    {
+      "word": "OPENBAAR",
+      "hint": "public; non-affiliated (e.g. neither Catholic, Protestant, nor socialist)"
+    },
+    {
+      "word": "OPENEN",
+      "hint": "to open"
+    },
+    {
+      "word": "OPERATIE",
+      "hint": "operation; operation, procedure, surgery"
+    },
+    {
+      "word": "OPGENOMEN",
+      "hint": "past participle of opnemen"
+    },
+    {
+      "word": "OPHALEN",
+      "hint": "to haul up, to raise; to collect"
+    },
+    {
+      "word": "OPLEIDING",
+      "hint": "education, training, instruction"
+    },
+    {
+      "word": "OPLOSSEN",
+      "hint": "to dissolve; to solve"
+    },
+    {
+      "word": "OPLOSSING",
+      "hint": "solution (e.g. to a mathematical problem); solution"
+    },
+    {
+      "word": "OPNEMEN",
+      "hint": "to pick up, to raise; to pick up or answer (the phone or horn)"
+    },
+    {
+      "word": "OPTREDEN",
+      "hint": "to act, perform (for others to view); to appear, to occur"
+    },
+    {
+      "word": "ORGANISATIE",
+      "hint": "an organization (institution); organisation, the way or degree that something is organised"
+    },
+    {
+      "word": "OUDER",
+      "hint": "parent, father or mother; by extension a substitute caregiver"
+    },
+    {
+      "word": "OVERHEID",
+      "hint": "the government, the authorities (the state and its administration; governmental administration in the widest sense)"
+    },
+    {
+      "word": "OVERLEDEN",
+      "hint": "deceased"
+    },
+    {
+      "word": "OVERLEVEN",
+      "hint": "to survive (to remain alive); to survive, outlive (to live longer than)"
+    },
+    {
+      "word": "OVERWINNING",
+      "hint": "victory, triumph; individual win, as in a contest"
+    },
+    {
+      "word": "PA",
+      "hint": "pa, dad"
+    },
+    {
+      "word": "PAARD",
+      "hint": "horse (Equus caballus or Equus ferus); a knight"
+    },
+    {
+      "word": "PAD",
+      "hint": "path (narrow road, usually unpaved)"
+    },
+    {
+      "word": "PAGINA",
+      "hint": "page"
+    },
+    {
+      "word": "PAPA",
+      "hint": "dad (term of address for one’s father, especially used by young children)"
+    },
+    {
+      "word": "PARIJS",
+      "hint": "Parisian"
+    },
+    {
+      "word": "PARTIJ",
+      "hint": "party, quantity; party, group of people"
+    },
+    {
+      "word": "PARTNER",
+      "hint": "partner, love interest, romantic and/or sexual companion; partner, companion (someone whom one engages in business)"
+    },
+    {
+      "word": "PASSEN",
+      "hint": "to fit (have the right size); to try on, to fit, to try for size"
+    },
+    {
+      "word": "PAST",
+      "hint": "obsolete spelling of pasta (“paste”)"
+    },
+    {
+      "word": "PATIËNT",
+      "hint": "patient, someone who receives therapeutic treatment; someone/something getting some help"
+    },
+    {
+      "word": "PATIËNTEN",
+      "hint": "patient, someone who receives therapeutic treatment; someone/something getting some help"
+    },
+    {
+      "word": "PAUL",
+      "hint": ""
+    },
+    {
+      "word": "PERFECTE",
+      "hint": "comparative degree of perfect"
+    },
+    {
+      "word": "PERIODE",
+      "hint": "period (of time); era"
+    },
+    {
+      "word": "PERS",
+      "hint": "a press, mechanical device to exert pression; the press, media"
+    },
+    {
+      "word": "PERSONEEL",
+      "hint": "staff (employees)"
+    },
+    {
+      "word": "PERSONEN",
+      "hint": "plural of persoon"
+    },
+    {
+      "word": "PERSOONLIJKE",
+      "hint": "personal"
+    },
+    {
+      "word": "PLEKKEN",
+      "hint": "plural of plek"
+    },
+    {
+      "word": "POGING",
+      "hint": "attempt"
+    },
+    {
+      "word": "POLITIEK",
+      "hint": "politics"
+    },
+    {
+      "word": "POLITIEKE",
+      "hint": "political and social"
+    },
+    {
+      "word": "POSITIE",
+      "hint": "position, posture; position"
+    },
+    {
+      "word": "POST",
+      "hint": "mail; a mail office, a post office"
+    },
+    {
+      "word": "PRACHTIGE",
+      "hint": "splendid, marvelous"
+    },
+    {
+      "word": "PRINS",
+      "hint": "prince"
+    },
+    {
+      "word": "PROBEERDE",
+      "hint": "obsolete spelling of proberen"
+    },
+    {
+      "word": "PROCENT",
+      "hint": "percent"
+    },
+    {
+      "word": "PROCES",
+      "hint": "a process, sequential proceeding; a trial, court case, lawsuit"
+    },
+    {
+      "word": "PROFESSOR",
+      "hint": "professor"
+    },
+    {
+      "word": "PROJECT",
+      "hint": "project (planned endeavor)"
+    },
+    {
+      "word": "PUBLIEK",
+      "hint": "audience"
+    },
+    {
+      "word": "PUNTEN",
+      "hint": "pointed, pointy, spiky"
+    },
+    {
+      "word": "RAAKT",
+      "hint": "inflection of raken"
+    },
+    {
+      "word": "RAAKTE",
+      "hint": "inflection of raken"
+    },
+    {
+      "word": "RAAM",
+      "hint": "window; frame, framework, context"
+    },
+    {
+      "word": "RAAR",
+      "hint": "strange, odd, weird, unusual"
+    },
+    {
+      "word": "RADIO",
+      "hint": "radio, tuner"
+    },
+    {
+      "word": "RAKEN",
+      "hint": "to touch; to hit (to not miss)"
+    },
+    {
+      "word": "RAPPORT",
+      "hint": "a report; a report card"
+    },
+    {
+      "word": "REACTIE",
+      "hint": "reaction (action in response to an event); reply, response, feedback (verbal or written answer to a communication)"
+    },
+    {
+      "word": "REAGEREN",
+      "hint": "to react, to respond; to react, to undergo a chemical reaction"
+    },
+    {
+      "word": "RECHTBANK",
+      "hint": "court of first instance; any court of law"
+    },
+    {
+      "word": "RECHTEN",
+      "hint": "to seek justice, notably; to straighten"
+    },
+    {
+      "word": "RECHTS",
+      "hint": "on the right; to the right"
+    },
+    {
+      "word": "RED",
+      "hint": "inflection of redden"
+    },
+    {
+      "word": "REDENEN",
+      "hint": "to speak; to discuss"
+    },
+    {
+      "word": "REED",
+      "hint": "singular past indicative of rijden"
+    },
+    {
+      "word": "REGEL",
+      "hint": "line of writing, verse; (pre-printed) straight line to write it on; rule, regulation, custom, prescript; the statute of an order etc."
+    },
+    {
+      "word": "REGELEN",
+      "hint": "to regulate, to control; to arrange"
+    },
+    {
+      "word": "REGEN",
+      "hint": "rain"
+    },
+    {
+      "word": "REIZEN",
+      "hint": "to travel"
+    },
+    {
+      "word": "REKENING",
+      "hint": "a calculation; a mathematically consistent set of data in accounting"
+    },
+    {
+      "word": "RESTAURANT",
+      "hint": "restaurant"
+    },
+    {
+      "word": "RESULTAAT",
+      "hint": "result"
+    },
+    {
+      "word": "RESULTATEN",
+      "hint": "result"
+    },
+    {
+      "word": "RICHARD",
+      "hint": ""
+    },
+    {
+      "word": "RIJDT",
+      "hint": "to ride; to drive"
+    },
+    {
+      "word": "RIJK",
+      "hint": "rich; wealthy"
+    },
+    {
+      "word": "RING",
+      "hint": "ring, hollow circular object; ring"
+    },
+    {
+      "word": "RISICO",
+      "hint": "risk"
+    },
+    {
+      "word": "RIVIER",
+      "hint": "a river"
+    },
+    {
+      "word": "ROBERT",
+      "hint": "herb Robert (Geranium robertianum)"
+    },
+    {
+      "word": "ROEPEN",
+      "hint": "to cry, shout; to call, summon, invite etc."
+    },
+    {
+      "word": "RONDE",
+      "hint": "round, iteration; tour, stage race"
     },
     {
       "word": "ROOD",
-      "hint": "red"
+      "hint": "red; left, socialist, labor"
+    },
+    {
+      "word": "RUIM",
+      "hint": "spacious, roomy; large, wide"
+    },
+    {
+      "word": "RUSLAND",
+      "hint": ""
+    },
+    {
+      "word": "RUSSISCHE",
+      "hint": "Russian, referring to Russia"
+    },
+    {
+      "word": "RUZIE",
+      "hint": "quarrel, row, conflict, dispute"
+    },
+    {
+      "word": "SAM",
+      "hint": ""
+    },
+    {
+      "word": "SAN",
+      "hint": "san (archaic Greek letter)"
+    },
+    {
+      "word": "SARAH",
+      "hint": ""
+    },
+    {
+      "word": "SCHADE",
+      "hint": "damage, detrimental effect"
+    },
+    {
+      "word": "SCHATJE",
+      "hint": "diminutive of schat"
+    },
+    {
+      "word": "SCHIET",
+      "hint": "to shoot, fire; to shoot, to kill (especially game)"
+    },
+    {
+      "word": "SCHIETEN",
+      "hint": "to shoot, fire; to shoot, to kill (especially game)"
+    },
+    {
+      "word": "SCHOENEN",
+      "hint": "shoe (footwear)"
     },
     {
       "word": "SCHOOL",
-      "hint": "school"
+      "hint": "a school, educational institution that provides education, whether combined with research or not; a thematic educational institute within a larger one, such as in a university for"
+    },
+    {
+      "word": "SCHOON",
+      "hint": "beautiful; clean; cleansed"
+    },
+    {
+      "word": "SCHREEF",
+      "hint": "line, stroke of the pen; border (over de schreef: across the border)"
+    },
+    {
+      "word": "SCHRIJF",
+      "hint": "typewriter"
+    },
+    {
+      "word": "SCHRIJFT",
+      "hint": "to write; to write (data)"
     },
     {
       "word": "SCHRIJVEN",
-      "hint": "to write"
+      "hint": "to write; to write (data)"
+    },
+    {
+      "word": "SCHRIJVER",
+      "hint": "writer, author; scribe, clerk"
+    },
+    {
+      "word": "SCHULDIG",
+      "hint": "guilty"
+    },
+    {
+      "word": "SECONDEN",
+      "hint": "for seconds (on end)"
+    },
+    {
+      "word": "SEIZOEN",
+      "hint": "a season, major part of the year; a season, term or period used for a certain activity or when something occurs"
+    },
+    {
+      "word": "SEPTEMBER",
+      "hint": "September (the ninth month of the Gregorian calendar, following August and preceding October, containing the southward equinox)"
+    },
+    {
+      "word": "SERIE",
+      "hint": "series"
+    },
+    {
+      "word": "SEXY",
+      "hint": "sexy"
+    },
+    {
+      "word": "SHIT",
+      "hint": "shit, darn"
+    },
+    {
+      "word": "SHOW",
+      "hint": "a show (entertainment)"
+    },
+    {
+      "word": "SIMPEL",
+      "hint": "simple"
+    },
+    {
+      "word": "SLAAP",
+      "hint": "sleep; sleepiness"
+    },
+    {
+      "word": "SLAAT",
+      "hint": "to hit, to slap; to beat, overcome"
+    },
+    {
+      "word": "SLACHTOFFERS",
+      "hint": "victim [from 18th c.]; sacrificial victim, usually an animal [from 16th c.]"
     },
     {
       "word": "SLAPEN",
       "hint": "to sleep"
     },
     {
+      "word": "SLEUTEL",
+      "hint": "a key; a wrench, a spanner"
+    },
+    {
+      "word": "SLIM",
+      "hint": "intelligent, bright; clever, smart"
+    },
+    {
+      "word": "SLOT",
+      "hint": "lock (something used for fastening); castle"
+    },
+    {
+      "word": "SLUIT",
+      "hint": "to close; to make, to affirm (a pact, friendship etc.)"
+    },
+    {
+      "word": "SLUITEN",
+      "hint": "to close; to make, to affirm (a pact, friendship etc.)"
+    },
+    {
+      "word": "SNELHEID",
+      "hint": "speed, velocity"
+    },
+    {
+      "word": "SNELLER",
+      "hint": "comparative degree of snel"
+    },
+    {
+      "word": "SOCIALE",
+      "hint": "inflection of sociaal"
+    },
+    {
+      "word": "SOLDAAT",
+      "hint": "soldier, private"
+    },
+    {
+      "word": "SOLDATEN",
+      "hint": "soldier, private"
+    },
+    {
+      "word": "SOMMIGEN",
+      "hint": "personal plural of sommige (“some”)"
+    },
+    {
+      "word": "SOORTEN",
+      "hint": "sort, kind"
+    },
+    {
+      "word": "SPECIAAL",
+      "hint": "special; served with mayonnaise (or a similar sauce), curry ketchup and chopped onions"
+    },
+    {
+      "word": "SPEEL",
+      "hint": "casual, relaxed; playful"
+    },
+    {
+      "word": "SPEELDE",
+      "hint": "inflection of spelen"
+    },
+    {
       "word": "SPELEN",
-      "hint": "to play"
+      "hint": "to play; to play (a game)"
+    },
+    {
+      "word": "SPOOR",
+      "hint": "track; railway track"
+    },
+    {
+      "word": "SPOREN",
+      "hint": "to spur"
+    },
+    {
+      "word": "SPORT",
+      "hint": "a sport; (uncountable) sports"
+    },
+    {
+      "word": "SPRAK",
+      "hint": "singular past indicative of spreken"
+    },
+    {
+      "word": "SPRAKE",
+      "hint": "speech (act, manner or faculty of speaking); language"
+    },
+    {
+      "word": "SPREEK",
+      "hint": "to speak"
+    },
+    {
+      "word": "SPREEKT",
+      "hint": "to speak"
+    },
+    {
+      "word": "SPULLEN",
+      "hint": "plural of spul"
+    },
+    {
+      "word": "ST",
+      "hint": "abbreviation of Sint"
+    },
+    {
+      "word": "STAND",
+      "hint": "posture, position, bearing; rank, standing, station; class"
+    },
+    {
+      "word": "STAPPEN",
+      "hint": "to march; to step"
+    },
+    {
+      "word": "START",
+      "hint": "start"
+    },
+    {
+      "word": "STATEN",
+      "hint": "States General"
+    },
+    {
+      "word": "STATION",
+      "hint": "station (place for vehicles to stop); disk drive"
+    },
+    {
+      "word": "STEEK",
+      "hint": "a prick (insect bite), a stab, a thrust; a hitch (knot)"
+    },
+    {
+      "word": "STEEN",
+      "hint": "stone (small rock); stone (hard substance)"
+    },
+    {
+      "word": "STEKEN",
+      "hint": "to prick, sting; to sting, hurt"
+    },
+    {
+      "word": "STELDE",
+      "hint": "inflection of stellen"
+    },
+    {
+      "word": "STELT",
+      "hint": "stilt (either of two poles with footrests that allow someone to stand or walk above the ground)"
+    },
+    {
+      "word": "STEMMEN",
+      "hint": "to vote (to cast a vote); to adopt by vote (Can we verify this sense?)"
+    },
+    {
+      "word": "STER",
+      "hint": "star (celestial body); any luminous astronomical or meteorological phenomenon"
+    },
+    {
+      "word": "STERKE",
+      "hint": "strong, having physical strength; concentrated, strong, powerful in taste"
+    },
+    {
+      "word": "STERKER",
+      "hint": "comparative degree of sterk"
+    },
+    {
+      "word": "STERREN",
+      "hint": "singular present subjunctive of sterren"
+    },
+    {
+      "word": "STERVEN",
+      "hint": "to die"
+    },
+    {
+      "word": "STEUN",
+      "hint": "support; backup"
+    },
+    {
+      "word": "STEVE",
+      "hint": ""
+    },
+    {
+      "word": "STIERF",
+      "hint": "singular past indicative of sterven"
+    },
+    {
+      "word": "STIJL",
+      "hint": "style, fashion; style of a pistil"
+    },
+    {
+      "word": "STOEL",
+      "hint": "a chair, a piece of furniture used for sitting, normally portable and having four legs; any seat, from stool to throne; a dais"
+    },
+    {
+      "word": "STOF",
+      "hint": "dust"
+    },
+    {
+      "word": "STONDEN",
+      "hint": "plural of stond"
+    },
+    {
+      "word": "STOPT",
+      "hint": "to stop, to halt; to plug"
+    },
+    {
+      "word": "STORM",
+      "hint": "storm; a wind scale for very strong wind, stronger than a gale, less than a hurricane; assault, storming"
+    },
+    {
+      "word": "STRAF",
+      "hint": "a punishment, penalty, sanction; a discomfort, misfortune"
+    },
+    {
+      "word": "STRAND",
+      "hint": "beach, strand"
+    },
+    {
+      "word": "STREET",
+      "hint": "streetscape, street life, presence on the street, street scene"
+    },
+    {
+      "word": "STRIJD",
+      "hint": "conflict, strife; battle, active fighting, warfare"
+    },
+    {
+      "word": "STROOM",
+      "hint": "a flow, current or flush, as of moving water or other liquid; a major river, especially one leading to the sea or ocean"
+    },
+    {
+      "word": "STUDENTEN",
+      "hint": "plural of student"
+    },
+    {
+      "word": "STUKJE",
+      "hint": "diminutive of stuk"
+    },
+    {
+      "word": "STUKKEN",
+      "hint": "a piece, part, share (of a whole); a theatrical piece, play, skit"
+    },
+    {
+      "word": "STUURDE",
+      "hint": "inflection of sturen"
+    },
+    {
+      "word": "SUPER",
+      "hint": "very, extremely, super"
+    },
+    {
+      "word": "TAAK",
+      "hint": "task"
+    },
+    {
+      "word": "TAAL",
+      "hint": "language (form of communication consisting of vocabulary and grammar); language (capability to communicate with words)"
+    },
+    {
+      "word": "TAFEL",
+      "hint": "table (item of furniture); meal, spread on (a) table(s)"
+    },
+    {
+      "word": "TANDEN",
+      "hint": "to brush teeth"
+    },
+    {
+      "word": "TANTE",
+      "hint": "aunt (sister or sister-in-law of a parent); a woman, especially an older or assertive one"
+    },
+    {
+      "word": "TAS",
+      "hint": "bag"
     },
     {
       "word": "TE",
-      "hint": "too"
+      "hint": "too (indicating excess)"
+    },
+    {
+      "word": "TEGENOVER",
+      "hint": "opposite; against, versus"
+    },
+    {
+      "word": "TEGENWOORDIG",
+      "hint": "present (in time), current; physically present"
+    },
+    {
+      "word": "TEKEN",
+      "hint": "sign, indication, mark; sign, symbol"
+    },
+    {
+      "word": "TEKENEN",
+      "hint": "to draw (by pencil); to sign (write a signature)"
+    },
+    {
+      "word": "TEKST",
+      "hint": "text; lyrics"
+    },
+    {
+      "word": "TENMINSTE",
+      "hint": "at least"
+    },
+    {
+      "word": "TENZIJ",
+      "hint": "unless"
+    },
+    {
+      "word": "TERECHT",
+      "hint": "just, right, for good reason"
+    },
+    {
+      "word": "TEST",
+      "hint": "test"
+    },
+    {
+      "word": "TESTEN",
+      "hint": "to test, to try out"
+    },
+    {
+      "word": "TEVEEL",
+      "hint": "excess"
+    },
+    {
+      "word": "TEVREDEN",
+      "hint": "content, satisfied"
+    },
+    {
+      "word": "THEE",
+      "hint": "tea"
+    },
+    {
+      "word": "THEORIE",
+      "hint": "theory"
+    },
+    {
+      "word": "THOMAS",
+      "hint": ""
+    },
+    {
+      "word": "TIJDEN",
+      "hint": "during"
+    },
+    {
+      "word": "TIJDJE",
+      "hint": "diminutive of tijd"
+    },
+    {
+      "word": "TITEL",
+      "hint": "title"
+    },
+    {
+      "word": "TO",
+      "hint": "to-do list"
+    },
+    {
+      "word": "TOEGANG",
+      "hint": "access, entrance"
+    },
+    {
+      "word": "TOESTEMMING",
+      "hint": "permission, authorization"
+    },
+    {
+      "word": "TOEVALLIG",
+      "hint": "by chance, accidental, coincidental, fortuitous"
+    },
+    {
+      "word": "TOILET",
+      "hint": "toilet, bathroom (room containing a lavatory); toilet (fixture used for urination and defecation)"
+    },
+    {
+      "word": "TOM",
+      "hint": ""
+    },
+    {
+      "word": "TONEN",
+      "hint": "to show, to demonstrate"
+    },
+    {
+      "word": "TONY",
+      "hint": ""
+    },
+    {
+      "word": "TOON",
+      "hint": "tone"
+    },
+    {
+      "word": "TOTDAT",
+      "hint": "until, till"
+    },
+    {
+      "word": "TRAINING",
+      "hint": "training (imparting or acquisition of skills, esp. in exercise and sports, also in chiefly extracurricular education); a training session"
+    },
+    {
+      "word": "TRAP",
+      "hint": "stairs, staircase; ladder"
+    },
+    {
+      "word": "TREIN",
+      "hint": "train (railway vehicle); train, convoy, retinue, procession"
+    },
+    {
+      "word": "TREK",
+      "hint": "appetite; journey, migration"
+    },
+    {
+      "word": "TREKT",
+      "hint": "to pull, to draw; to manage, to have the strength for"
+    },
+    {
+      "word": "TROEPEN",
+      "hint": "group of people or animals (such as a pride of lions or a herd of cows); troop"
+    },
+    {
+      "word": "TROK",
+      "hint": "current of air, draft"
+    },
+    {
+      "word": "TROUW",
+      "hint": "loyalty, faithfulness; marriage"
+    },
+    {
+      "word": "TROUWEN",
+      "hint": "to marry; to trust"
+    },
+    {
+      "word": "TUIN",
+      "hint": "a garden, yard; an enclosure, fence or hedge"
+    },
+    {
+      "word": "TUURLIJK",
+      "hint": "of course; yeah, right, sure, as if"
+    },
+    {
+      "word": "TWAALF",
+      "hint": "twelve"
+    },
+    {
+      "word": "TWIJFEL",
+      "hint": "doubt, uncertainty"
+    },
+    {
+      "word": "TWINTIG",
+      "hint": "twenty"
+    },
+    {
+      "word": "TYPE",
+      "hint": "type: a class, someone or something from a class. The diminutive is used when made into a caricature"
+    },
+    {
+      "word": "UITERAARD",
+      "hint": "of course"
+    },
+    {
+      "word": "UITLEGGEN",
+      "hint": "to explain; to interpret"
+    },
+    {
+      "word": "UNIVERSITEIT",
+      "hint": "university, (university) college (especially in the United States)"
+    },
+    {
+      "word": "UREN",
+      "hint": "plural of uur"
+    },
+    {
+      "word": "VAKANTIE",
+      "hint": "a holiday, vacation; an easy, careless time"
+    },
+    {
+      "word": "VAKER",
+      "hint": "more often (comparative degree of vaak)"
     },
     {
       "word": "VAN",
-      "hint": "of"
+      "hint": "of (possession, property); of (general association)"
+    },
+    {
+      "word": "VANMORGEN",
+      "hint": "this afternoon, the afternoon of the current day (in the future or past)"
+    },
+    {
+      "word": "VANNACHT",
+      "hint": "tonight, this night, the night at the end of the current day; last night, the night at the end of the previous day"
+    },
+    {
+      "word": "VECHTEN",
+      "hint": "to fight"
+    },
+    {
+      "word": "VEILIGHEID",
+      "hint": "safety, security"
+    },
+    {
+      "word": "VELD",
+      "hint": "field, open country; an agricultural field"
+    },
+    {
+      "word": "VENT",
+      "hint": "chap, fellow"
+    },
+    {
+      "word": "VERANDERING",
+      "hint": "change"
+    },
+    {
+      "word": "VERANDERT",
+      "hint": "to change"
+    },
+    {
+      "word": "VERBAND",
+      "hint": "a bandage; a link or relation"
+    },
+    {
+      "word": "VERBODEN",
+      "hint": "forbidden, prohibited"
+    },
+    {
+      "word": "VERBONDEN",
+      "hint": "solidarity, connectedness"
+    },
+    {
+      "word": "VERDACHTE",
+      "hint": "defendant, suspect"
+    },
+    {
+      "word": "VERDIENEN",
+      "hint": "to earn, get paid, have an income; to deserve"
+    },
+    {
+      "word": "VERDIENT",
+      "hint": "to earn, get paid, have an income; to deserve"
+    },
+    {
+      "word": "VERDWENEN",
+      "hint": "to disappear; to dwindle"
+    },
+    {
+      "word": "VERDWIJNEN",
+      "hint": "to disappear; to dwindle"
+    },
+    {
+      "word": "VERENIGDE",
+      "hint": "united"
+    },
+    {
+      "word": "VERGADERING",
+      "hint": "meeting, gathering"
+    },
+    {
+      "word": "VERHALEN",
+      "hint": "to narrate; to make someone pay the costs for something"
+    },
+    {
+      "word": "VERJAARDAG",
+      "hint": "birthday"
+    },
+    {
+      "word": "VERKEERDE",
+      "hint": "wrong; distorted"
+    },
+    {
+      "word": "VERKLARING",
+      "hint": "declaration, statement; explanation"
+    },
+    {
+      "word": "VERKOCHT",
+      "hint": "singular past indicative of verkopen"
+    },
+    {
+      "word": "VERKOOP",
+      "hint": "sale (exchange of goods)"
+    },
+    {
+      "word": "VERLIEFD",
+      "hint": "in love"
+    },
+    {
+      "word": "VERLIES",
+      "hint": "loss, defeat; losing someone or something"
+    },
+    {
+      "word": "VERLOOR",
+      "hint": "singular past indicative of verliezen"
+    },
+    {
+      "word": "VERMIST",
+      "hint": "missing, lost"
+    },
+    {
+      "word": "VERMOORDEN",
+      "hint": "to murder"
+    },
+    {
+      "word": "VEROORZAAKT",
+      "hint": "to cause"
+    },
+    {
+      "word": "VERRASSING",
+      "hint": "surprise"
+    },
+    {
+      "word": "VERSCHRIKKELIJK",
+      "hint": "awful, terrible"
+    },
+    {
+      "word": "VERSIE",
+      "hint": "version"
+    },
+    {
+      "word": "VERSLAG",
+      "hint": "report"
+    },
+    {
+      "word": "VERTALING",
+      "hint": "translation"
+    },
+    {
+      "word": "VERTEL",
+      "hint": "narrative, tale, story"
+    },
+    {
+      "word": "VERTELD",
+      "hint": "to tell; to miscount"
+    },
+    {
+      "word": "VERTREK",
+      "hint": "departure (the act of departing)"
+    },
+    {
+      "word": "VERTREKKEN",
+      "hint": "to depart, to leave"
+    },
+    {
+      "word": "VERVANGEN",
+      "hint": "to replace, substitute"
+    },
+    {
+      "word": "VERVOLGENS",
+      "hint": "subsequently"
+    },
+    {
+      "word": "VERWACHTEN",
+      "hint": "to expect, await"
+    },
+    {
+      "word": "VERWIJDERD",
+      "hint": "to remove"
+    },
+    {
+      "word": "VERZOEK",
+      "hint": "request (act of requesting), friendly demand, petition"
+    },
+    {
+      "word": "VIERDE",
+      "hint": "fourth"
+    },
+    {
+      "word": "VIEREN",
+      "hint": "to celebrate"
+    },
+    {
+      "word": "VIJAND",
+      "hint": "enemy"
     },
     {
       "word": "VIS",
-      "hint": "fish"
+      "hint": "fish (aquatic organism); fish (quantity of the above seen as catch, product, meat)"
+    },
+    {
+      "word": "VISSEN",
+      "hint": "to fish, to try to catch fish; to fish (trying to get information)"
+    },
+    {
+      "word": "VLAK",
+      "hint": "flat, plane"
+    },
+    {
+      "word": "VLEES",
+      "hint": "meat; flesh"
+    },
+    {
+      "word": "VLIEGEN",
+      "hint": "to fly; to steer an aircraft, to fly"
+    },
+    {
+      "word": "VLIEGTUIG",
+      "hint": "aeroplane, winged aircraft [from early 20th c.]; any aircraft, including aerostats [17th–early 20th c.]"
+    },
+    {
+      "word": "VLUCHT",
+      "hint": "flight (the act of flying, an instance thereof); a flock, a swarm (of flying birds)"
+    },
+    {
+      "word": "VLUCHTEN",
+      "hint": "to flee"
+    },
+    {
+      "word": "VOEDSEL",
+      "hint": "food; nutrient"
+    },
+    {
+      "word": "VOELDE",
+      "hint": "to feel, to have sensation of; to feel, to experience a feeling"
+    },
+    {
+      "word": "VOEREN",
+      "hint": "to guide, lead; to wage (war)"
+    },
+    {
+      "word": "VOET",
+      "hint": "foot (lowest part of the legs); foot, base (lowest part of any standard, support, stand or pillar)"
+    },
+    {
+      "word": "VOETEN",
+      "hint": "foot (lowest part of the legs); foot, base (lowest part of any standard, support, stand or pillar)"
+    },
+    {
+      "word": "VOLDOENDE",
+      "hint": "sufficient"
+    },
+    {
+      "word": "VOLG",
+      "hint": "singular present subjunctive of volgen"
+    },
+    {
+      "word": "VOLGT",
+      "hint": "to follow (go after); to follow (understand, pay attention to)"
+    },
+    {
+      "word": "VOLK",
+      "hint": "people, nation; tribe"
+    },
+    {
+      "word": "VOLLE",
+      "hint": "inflection of vol"
+    },
+    {
+      "word": "VOLLEDIGE",
+      "hint": "complete"
+    },
+    {
+      "word": "VOLWASSEN",
+      "hint": "adult, full-grown"
+    },
+    {
+      "word": "VOORBEELD",
+      "hint": "example; role model"
+    },
+    {
+      "word": "VOORKOMEN",
+      "hint": "to exist, to occur; to happen"
+    },
+    {
+      "word": "VOORSTEL",
+      "hint": "proposal"
+    },
+    {
+      "word": "VOORSTELLEN",
+      "hint": "to present, to put forth, to introduce; to propose, to suggest"
+    },
+    {
+      "word": "VOORUIT",
+      "hint": "ahead, onward"
+    },
+    {
+      "word": "VOORZICHTIG",
+      "hint": "careful"
+    },
+    {
+      "word": "VORIG",
+      "hint": "previous"
+    },
+    {
+      "word": "VORMEN",
+      "hint": "to form, mold; to make up, constitute"
+    },
+    {
+      "word": "VREDE",
+      "hint": "peace; peace treaty"
+    },
+    {
+      "word": "VREEMDE",
+      "hint": "strange, weird, odd; foreign, exotic"
+    },
+    {
+      "word": "VRESELIJK",
+      "hint": "terrible"
     },
     {
       "word": "VRIEND",
-      "hint": "friend"
+      "hint": "friend; boyfriend (romantic partner)"
+    },
+    {
+      "word": "VRIENDELIJK",
+      "hint": "friendly, kind"
+    },
+    {
+      "word": "VRIJDAG",
+      "hint": "Friday"
+    },
+    {
+      "word": "VRIJE",
+      "hint": "free; not imprisoned or enslaved.; free; unconstrained."
+    },
+    {
+      "word": "VRIJHEID",
+      "hint": "freedom"
+    },
+    {
+      "word": "VS",
+      "hint": ""
+    },
+    {
+      "word": "VUUR",
+      "hint": "fire; heater"
+    },
+    {
+      "word": "WAARBIJ",
+      "hint": "pronominal adverb form of bij + wat; whereby"
+    },
+    {
+      "word": "WAARDE",
+      "hint": "value, monetary or figurative worth; moral value, principle"
+    },
+    {
+      "word": "WAARVOOR",
+      "hint": "pronominal adverb form of voor + wat; what for"
+    },
+    {
+      "word": "WAGEN",
+      "hint": "a wagon, carriage; a cart"
+    },
+    {
+      "word": "WAPENS",
+      "hint": "weapon; coat of arms"
+    },
+    {
+      "word": "WAR",
+      "hint": "confusion, disarray; tangle, mess"
+    },
+    {
+      "word": "WARE",
+      "hint": "inflection of waar"
+    },
+    {
+      "word": "WARM",
+      "hint": "warm, hot; 20 °C or more"
+    },
+    {
+      "word": "WASHINGTON",
+      "hint": ""
     },
     {
       "word": "WATER",
-      "hint": "water"
+      "hint": "water (H2O); body of water (such as a lake, ditch or stream)"
+    },
+    {
+      "word": "WEBSITE",
+      "hint": "web site"
+    },
+    {
+      "word": "WEEKEND",
+      "hint": "weekend"
     },
     {
       "word": "WEER",
-      "hint": "weather"
+      "hint": "again, once more; back"
+    },
+    {
+      "word": "WEGENS",
+      "hint": "because of, for"
     },
     {
       "word": "WEL",
-      "hint": "well"
+      "hint": "the opposite of not (used to add positive emphasis to the verb, much like the auxiliaries do or does in affirmative sentences in English); no less than, as much as, as many as"
+    },
+    {
+      "word": "WELLICHT",
+      "hint": "possibly, perhaps; probably, likely"
+    },
+    {
+      "word": "WENS",
+      "hint": "wish"
+    },
+    {
+      "word": "WENSEN",
+      "hint": "to wish"
+    },
+    {
+      "word": "WERKELIJK",
+      "hint": "real, actual"
     },
     {
       "word": "WERKEN",
-      "hint": "to work"
+      "hint": "to work, labour; to function, work, be in working order"
+    },
+    {
+      "word": "WEST",
+      "hint": "west; westwards"
+    },
+    {
+      "word": "WESTEN",
+      "hint": "west"
+    },
+    {
+      "word": "WETENSCHAP",
+      "hint": "knowledge; science, scholarly knowledge, scholarship (collective discipline of learning acquired through any scholarly method; totality of knowledge)"
+    },
+    {
+      "word": "WEZEN",
+      "hint": "diminutive of wezen"
     },
     {
       "word": "WIJ",
-      "hint": "we"
+      "hint": "we; first-person plural subjective personal pronoun"
+    },
+    {
+      "word": "WIJN",
+      "hint": "wine (an alcoholic beverage produced by a certain fermentation procedure; unless otherwise specified or indicated by context, made from grapes)"
+    },
+    {
+      "word": "WIJZE",
+      "hint": "manner, mode, way, method; melody"
+    },
+    {
+      "word": "WIND",
+      "hint": "wind (movement of air); flatulence, fart"
+    },
+    {
+      "word": "WINKEL",
+      "hint": "shop, store (establishment that sells goods to the public); a shop, service point"
+    },
+    {
+      "word": "WINNAAR",
+      "hint": "winner, one who has won or often wins"
+    },
+    {
+      "word": "WINT",
+      "hint": "inflection of winnen"
+    },
+    {
+      "word": "WINTER",
+      "hint": "winter"
+    },
+    {
+      "word": "WISTEN",
+      "hint": "inflection of weten; inflection of wissen"
+    },
+    {
+      "word": "WIT",
+      "hint": "white; legally obtained by having paid the appropriate taxes"
+    },
+    {
+      "word": "WOON",
+      "hint": "domicile, residence, home, abode (place of living); residence, inhabiting (state of residing)"
+    },
+    {
+      "word": "YOU",
+      "hint": ""
+    },
+    {
+      "word": "ZAGEN",
+      "hint": "to saw; to nag, to speak in an annoying tone, to repeat oneself ad nauseam"
+    },
+    {
+      "word": "ZAK",
+      "hint": "sack or sack-like container, such as a bag, sachet, pouch; a pocket"
+    },
+    {
+      "word": "ZAKKEN",
+      "hint": "to fall, to drop, to sink; to come down, to go down"
+    },
+    {
+      "word": "ZATEN",
+      "hint": "inflection of zitten"
+    },
+    {
+      "word": "ZATERDAG",
+      "hint": "Saturday"
+    },
+    {
+      "word": "ZEIDEN",
+      "hint": "inflection of zeggen"
+    },
+    {
+      "word": "ZELFMOORD",
+      "hint": "suicide [from 18th c.]; self-destruction, self-destructive behaviour"
+    },
+    {
+      "word": "ZETTE",
+      "hint": "to set, to put; to typeset"
+    },
+    {
+      "word": "ZIEKTE",
+      "hint": "the state of sickness; an illness, disease"
+    },
+    {
+      "word": "ZIEL",
+      "hint": "soul (animate principle in non-materialist anthropologies); sound post"
     },
     {
       "word": "ZIJ",
-      "hint": "she or they"
+      "hint": "she; third-person singular feminine subjective personal pronoun; they; third-person plural subjective pronoun"
+    },
+    {
+      "word": "ZINGEN",
+      "hint": "to sing; to sing, to blab to the police, to confess under interrogation"
+    },
+    {
+      "word": "ZOLANG",
+      "hint": "as long as, so long as"
+    },
+    {
+      "word": "ZOMER",
+      "hint": "summer"
+    },
+    {
+      "word": "ZONDAG",
+      "hint": "Sunday"
+    },
+    {
+      "word": "ZORGT",
+      "hint": "to make sure, to ensure"
+    },
+    {
+      "word": "ZOWEL",
+      "hint": "both, as well as"
+    },
+    {
+      "word": "ZUIDEN",
+      "hint": "south; southern, from the south"
+    },
+    {
+      "word": "ZULKE",
+      "hint": "such"
+    },
+    {
+      "word": "ZULT",
+      "hint": "sea aster (Tripolium pannonicum)"
+    },
+    {
+      "word": "ZWANGER",
+      "hint": "pregnant; expecting a baby together"
+    },
+    {
+      "word": "ZWARE",
+      "hint": "inflection of zwaar"
+    },
+    {
+      "word": "ZWART",
+      "hint": "black; dark, black"
+    },
+    {
+      "word": "ZWEMMEN",
+      "hint": "to swim"
     }
   ]
 }
