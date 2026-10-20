@@ -731,6 +731,7 @@ player-picker {
 .rack-scroll {
   width: 100%;
   overflow-x: auto;
+  touch-action: pan-x;
 }
 
 .rack {
@@ -742,6 +743,7 @@ player-picker {
   padding-bottom: 0.15rem;
   min-height: 3.1rem;
   align-items: flex-start;
+  touch-action: pan-x;
 }
 
 .rack-tile, .tile {
@@ -763,6 +765,14 @@ player-picker {
   cursor: grab;
   touch-action: none;
   user-select: none;
+}
+
+.rack-tile {
+  touch-action: pan-x;
+}
+
+.rack-tile:disabled {
+  pointer-events: none;
 }
 
 .rack-tile small, .tile small {

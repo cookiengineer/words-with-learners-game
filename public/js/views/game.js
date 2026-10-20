@@ -46,6 +46,7 @@ export class GameView {
     this.viewport = this.container.querySelector("#board-viewport");
     this.board = this.container.querySelector("#board");
     this.rack = this.container.querySelector("#rack");
+    this.rackScroll = this.container.querySelector(".rack-scroll");
     this.preview = this.container.querySelector("#preview");
     this.recall = this.container.querySelector("#recall");
     this.passButton = this.container.querySelector("#pass");
@@ -427,7 +428,12 @@ export class GameView {
         disabled: !this.canPlay(),
       }, [tile.blank ? "?" : tile.letter, tile.value > 0 ? el("small", { text: String(tile.value) }) : null]);
       node.addEventListener("pointerdown", (event) => {
-        if (this.canPlay() && !used.has(tile.id)) {
+        if (!this.canPlay() || used.has(tile.id)) {
+          return;
+        }
+        if (event.pointerType === "touch") {
+          this.armRackTileDrag(tile, event);
+        } else {
           this.startTileDrag(tile, event, null);
         }
       });
@@ -451,9 +457,51 @@ export class GameView {
     return this.pending.some((entry) => entry.x === x && entry.y === y);
   }
 
+  armRackTileDrag(tile, event) {
+    if (this.rackGestureCleanup) {
+      this.rackGestureCleanup();
+    }
+    const startX = event.clientX;
+    const startY = event.clientY;
+    const pointerId = event.pointerId;
+    const cleanup = () => {
+      window.removeEventListener("pointermove", move);
+      window.removeEventListener("pointerup", stop);
+      window.removeEventListener("pointercancel", stop);
+      if (this.rackGestureCleanup === cleanup) {
+        this.rackGestureCleanup = null;
+      }
+    };
+    const stop = () => cleanup();
+    const move = (moveEvent) => {
+      if (moveEvent.pointerId !== pointerId) {
+        return;
+      }
+      const dx = moveEvent.clientX - startX;
+      const dy = moveEvent.clientY - startY;
+      if (Math.abs(dx) < 8 && Math.abs(dy) < 8) {
+        return;
+      }
+      cleanup();
+      if (this.rackScroll &&
+          this.rackScroll.scrollWidth > this.rackScroll.clientWidth &&
+          Math.abs(dx) > Math.abs(dy)) {
+        return;
+      }
+      this.startTileDrag(tile, moveEvent, null);
+    };
+    this.rackGestureCleanup = cleanup;
+    window.addEventListener("pointermove", move);
+    window.addEventListener("pointerup", stop, { once: true });
+    window.addEventListener("pointercancel", stop, { once: true });
+  }
+
   startTileDrag(tile, event, existing) {
     if (!this.canPlay()) {
       return;
+    }
+    if (this.rackGestureCleanup) {
+      this.rackGestureCleanup();
     }
     event.preventDefault();
     event.stopPropagation();
@@ -667,6 +715,9 @@ export class GameView {
     }
     if (this.dragCleanup) {
       this.dragCleanup();
+    }
+    if (this.rackGestureCleanup) {
+      this.rackGestureCleanup();
     }
     if (this.blankDialog.open) {
       this.blankDialog.close();
