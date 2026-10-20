@@ -194,9 +194,10 @@ func TestStaticManifest(t *testing.T) {
 		t.Fatalf("manifest content type = %q", contentType)
 	}
 	var manifest struct {
-		Name    string `json:"name"`
-		Display string `json:"display"`
-		Icons   []struct {
+		Name            string   `json:"name"`
+		Display         string   `json:"display"`
+		DisplayOverride []string `json:"display_override"`
+		Icons           []struct {
 			Src      string `json:"src"`
 			Purpose  string `json:"purpose"`
 			MimeType string `json:"type"`
@@ -207,6 +208,9 @@ func TestStaticManifest(t *testing.T) {
 	}
 	if manifest.Name != "Words with Learners" || manifest.Display != "standalone" {
 		t.Fatalf("unexpected manifest: %#v", manifest)
+	}
+	if len(manifest.DisplayOverride) == 0 || manifest.DisplayOverride[0] != "fullscreen" {
+		t.Fatalf("unexpected display_override: %#v", manifest.DisplayOverride)
 	}
 	if len(manifest.Icons) == 0 {
 		t.Fatal("manifest has no icons")

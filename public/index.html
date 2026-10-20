@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
   <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no, viewport-fit=cover">
   <meta name="theme-color" content="#21645b">
   <meta name="description" content="A self-hosted multiplayer word game for language learners.">
   <meta name="application-name" content="Words with Learners">
@@ -157,6 +157,11 @@
           <span id="game-level" class="muted"></span>
         </div>
         <ol id="scoreboard" class="scoreboard"></ol>
+        <button type="button" id="toggle-fullscreen" class="fullscreen-button" aria-label="Enter fullscreen" title="Fullscreen" aria-pressed="false">
+          <svg viewBox="0 0 24 24" aria-hidden="true" focusable="false">
+            <path d="M4 9V4h5M15 4h5v5M20 15v5h-5M9 20H4v-5" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+          </svg>
+        </button>
         <button type="button" id="leave-game">Games</button>
       </header>
       <div class="board-wrap">

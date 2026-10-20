@@ -1,5 +1,6 @@
 import { socket } from "../socket.js";
 import { Camera } from "../game/camera.js";
+import { fullscreenSupported, isFullscreen, onFullscreenChange, requestFullscreen, toggleFullscreen } from "../fullscreen.js";
 import { clear, clearToasts, el, flagFor, languageNames, template, toast, uniqueID } from "../ui.js";
 
 const BONUS_LABELS = {
@@ -28,6 +29,10 @@ export class GameView {
     this.blankResolver = null;
     this.resizeObserver = null;
     this.lastViewportWidth = null;
+    this.tap = null;
+    this.lastTap = null;
+    this.offFullscreen = null;
+    this.autoFullscreenHandler = null;
   }
 
   mount() {
@@ -46,6 +51,7 @@ export class GameView {
     this.passButton = this.container.querySelector("#pass");
     this.submitButton = this.container.querySelector("#submit");
     this.hintButton = this.container.querySelector("#hint");
+    this.fullscreenButton = this.container.querySelector("#toggle-fullscreen");
     this.hintDialog = document.getElementById("hint-dialog");
     this.hintText = document.getElementById("hint-text");
     this.hintMeta = document.getElementById("hint-meta");
@@ -64,6 +70,10 @@ export class GameView {
       this.requestState();
     });
     this.resizeObserver = new ResizeObserver(() => {
+      if (window.visualViewport && window.visualViewport.scale > 1.01) {
+        this.camera.resize();
+        return;
+      }
       const { width } = this.camera.viewportSize();
       const roundedWidth = Math.round(width);
       if (roundedWidth !== this.lastViewportWidth) {
@@ -74,6 +84,7 @@ export class GameView {
       }
     });
     this.resizeObserver.observe(this.viewport);
+    this.armFullscreenPrompt();
     requestAnimationFrame(() => this.camera.fit(true));
     this.requestState();
     return () => this.destroy();
@@ -97,15 +108,19 @@ export class GameView {
     this.container.querySelector("#zoom-in").addEventListener("click", () => this.camera.zoomIn());
     this.container.querySelector("#zoom-out").addEventListener("click", () => this.camera.zoomOut());
     this.container.querySelector("#zoom-fit").addEventListener("click", () => this.camera.fit());
+    if (this.fullscreenButton) {
+      this.fullscreenButton.hidden = !fullscreenSupported() || this.isStandalone();
+      this.fullscreenButton.addEventListener("click", () => {
+        toggleFullscreen(document.documentElement).catch(() => {});
+      });
+      this.offFullscreen = onFullscreenChange(() => this.updateFullscreenButton());
+      this.updateFullscreenButton();
+    }
     this.viewport.addEventListener("pointerdown", (event) => this.onViewportPointerDown(event));
-    this.viewport.addEventListener("pointermove", (event) => {
-      if (this.camera.panning) {
-        this.camera.movePan(event.clientX, event.clientY);
-      }
-    });
-    const endPan = () => this.camera.endPan();
-    this.viewport.addEventListener("pointerup", endPan);
-    this.viewport.addEventListener("pointercancel", endPan);
+    this.viewport.addEventListener("pointermove", (event) => this.onViewportPointerMove(event));
+    this.viewport.addEventListener("pointerup", (event) => this.onViewportPointerUp(event));
+    this.viewport.addEventListener("pointercancel", () => this.onViewportPointerCancel());
+    this.viewport.addEventListener("dblclick", (event) => event.preventDefault());
     this.viewport.addEventListener("wheel", (event) => {
       event.preventDefault();
       if (event.deltaY < 0) {
@@ -145,6 +160,7 @@ export class GameView {
     }
     const pendingNode = event.target.closest(".placed[data-pending='true']");
     if (pendingNode) {
+      this.tap = null;
       event.preventDefault();
       event.stopPropagation();
       const entry = this.pending.find((item) => item.tile.id === pendingNode.dataset.tileId);
@@ -153,6 +169,7 @@ export class GameView {
       }
       return;
     }
+    this.tap = { x: event.clientX, y: event.clientY, time: event.timeStamp, moved: false };
     if (!this.state || this.state.status === "finished") {
       return;
     }
@@ -162,6 +179,92 @@ export class GameView {
     } catch {
       return;
     }
+  }
+
+  onViewportPointerMove(event) {
+    if (this.tap) {
+      const dx = event.clientX - this.tap.x;
+      const dy = event.clientY - this.tap.y;
+      if (Math.hypot(dx, dy) > 8) {
+        this.tap.moved = true;
+      }
+    }
+    if (this.camera.panning) {
+      this.camera.movePan(event.clientX, event.clientY);
+    }
+  }
+
+  onViewportPointerUp(event) {
+    const tap = this.tap;
+    this.tap = null;
+    this.camera.endPan();
+    if (!tap || tap.moved) {
+      this.lastTap = null;
+      return;
+    }
+    const previous = this.lastTap;
+    if (previous && event.timeStamp - previous.time < 320 &&
+        Math.hypot(event.clientX - previous.x, event.clientY - previous.y) < 30) {
+      this.lastTap = null;
+      this.camera.toggleZoomAt(event.clientX, event.clientY);
+      return;
+    }
+    this.lastTap = { x: event.clientX, y: event.clientY, time: event.timeStamp };
+  }
+
+  onViewportPointerCancel() {
+    this.tap = null;
+    this.lastTap = null;
+    this.camera.endPan();
+  }
+
+  isStandalone() {
+    if (typeof window.matchMedia === "function" &&
+        (window.matchMedia("(display-mode: standalone)").matches ||
+         window.matchMedia("(display-mode: fullscreen)").matches)) {
+      return true;
+    }
+    return window.navigator.standalone === true;
+  }
+
+  armFullscreenPrompt() {
+    if (!this.fullscreenButton || this.fullscreenButton.hidden || this.isStandalone()) {
+      return;
+    }
+    try {
+      if (sessionStorage.getItem("wwl:fullscreen-prompted") === "1") {
+        return;
+      }
+    } catch {
+      // ignore storage access failures
+    }
+    const activate = (event) => {
+      this.container.removeEventListener("pointerdown", activate, true);
+      this.container.removeEventListener("keydown", activate, true);
+      this.autoFullscreenHandler = null;
+      if (event.type === "pointerdown" && event.target.closest?.("#toggle-fullscreen")) {
+        return;
+      }
+      try {
+        sessionStorage.setItem("wwl:fullscreen-prompted", "1");
+      } catch {
+        // ignore storage access failures
+      }
+      requestFullscreen(document.documentElement).catch(() => {});
+    };
+    this.autoFullscreenHandler = activate;
+    this.container.addEventListener("pointerdown", activate, true);
+    this.container.addEventListener("keydown", activate, true);
+  }
+
+  updateFullscreenButton() {
+    if (!this.fullscreenButton || this.fullscreenButton.hidden) {
+      return;
+    }
+    const active = isFullscreen();
+    this.fullscreenButton.setAttribute("aria-label", active ? "Exit fullscreen" : "Enter fullscreen");
+    this.fullscreenButton.title = active ? "Exit fullscreen" : "Fullscreen";
+    this.fullscreenButton.setAttribute("aria-pressed", String(active));
   }
 
   async requestState() {
@@ -553,6 +656,14 @@ export class GameView {
     }
     if (this.resizeObserver) {
       this.resizeObserver.disconnect();
+    }
+    if (this.offFullscreen) {
+      this.offFullscreen();
+    }
+    if (this.autoFullscreenHandler) {
+      this.container.removeEventListener("pointerdown", this.autoFullscreenHandler, true);
+      this.container.removeEventListener("keydown", this.autoFullscreenHandler, true);
+      this.autoFullscreenHandler = null;
     }
     if (this.dragCleanup) {
       this.dragCleanup();

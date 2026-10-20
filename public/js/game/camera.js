@@ -9,6 +9,7 @@ export class Camera {
     this.board = board;
     this.tileSize = tileSize;
     this.zoom = 1;
+    this.zoomDirection = 1;
     this.x = 0;
     this.y = 0;
     this.panning = false;
@@ -76,6 +77,25 @@ export class Camera {
     const index = [...ZOOM_LEVELS].reverse().findIndex((level) => level < this.zoom - 0.001);
     const levels = [...ZOOM_LEVELS].reverse();
     this.setZoom(levels[index < 0 ? levels.length - 1 : index], clientX, clientY);
+  }
+
+  toggleZoomAt(clientX, clientY) {
+    if (this.zoom >= MAX_ZOOM - 0.001) {
+      this.zoomDirection = -1;
+    } else if (this.zoom <= MIN_ZOOM + 0.001) {
+      this.zoomDirection = 1;
+    }
+    if (this.zoomDirection > 0) {
+      this.zoomIn(clientX, clientY);
+    } else {
+      this.zoomOut(clientX, clientY);
+    }
+    this.zoomDirection = this.zoomDirection > 0 ? -1 : 1;
+    if (this.zoom >= MAX_ZOOM - 0.001) {
+      this.zoomDirection = -1;
+    } else if (this.zoom <= MIN_ZOOM + 0.001) {
+      this.zoomDirection = 1;
+    }
   }
 
   startPan(clientX, clientY) {
