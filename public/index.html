@@ -98,18 +98,6 @@
     </form>
   </dialog>
 
-  <dialog id="exchange-dialog" class="dialog">
-    <header>
-      <h2>Exchange tiles</h2>
-      <button type="button" class="icon" data-close-exchange aria-label="Close">×</button>
-    </header>
-    <p class="muted">Select the tiles you want to exchange. You lose this turn.</p>
-    <div id="exchange-rack" class="rack"></div>
-    <footer>
-      <button type="button" data-close-exchange>Cancel</button>
-      <button type="button" class="primary" id="exchange-confirm" disabled>Exchange</button>
-    </footer>
-  </dialog>
 
   <template id="auth-template">
     <section class="auth">
@@ -184,14 +172,14 @@
       </div>
       <footer class="game-bottom">
         <div class="rack-panel">
-          <p id="turn-state" class="turn-state"></p>
-          <div id="rack" class="rack"></div>
+          <div class="rack-scroll">
+            <div id="rack" class="rack"></div>
+          </div>
         </div>
         <div class="game-actions">
           <span id="preview" class="preview"></span>
           <button type="button" id="recall" disabled>Recall</button>
           <button type="button" id="pass" disabled>Pass</button>
-          <button type="button" id="exchange" disabled>Exchange</button>
           <button type="button" id="submit" class="primary" disabled>Submit</button>
           <button type="button" id="hint" class="hint-button" aria-label="Show hint" disabled>?</button>
         </div>

@@ -11,7 +11,8 @@ The game uses a Words With Friends style 15×15 board, a server-authoritative ti
 - 2–4 players per game.
 - Configurable maximum word length and rack size (5–15).
 - Server-side move validation, scoring, hints, bag/rack management, and replay checks.
-- Pass, exchange, blanks, bingo bonuses, and end-game scoring.
+- Automatic rack reshuffling when the current player has no playable word and the bag has tiles.
+- Pass, blanks, bingo bonuses, and end-game scoring.
 - Searchable player directory reused by the invite dialog.
 - Pannable, zoomable, grid-aligned board up to 2×.
 - Local SVG flags and flag-inspired bonus-square themes.
@@ -56,7 +57,8 @@ go run ./cmd/server -dev -addr :8080
 - `?` shows an English hint for a playable word.
 - `Recall` returns tentative board tiles to your rack.
 - `Submit` sends the move to the server. The server recalculates and validates everything.
-- `Pass` skips your turn. `Exchange` swaps selected rack tiles.
+- `Pass` skips your turn. There is no manual tile exchange; stuck racks are reshuffled automatically.
+- If your rack has no legal word when your turn starts, the server automatically reshuffles it with bag tiles and notifies you.
 - The game ends when a rack is emptied with an empty bag, or after three scoreless turns.
 
 ## Dictionaries
@@ -103,7 +105,7 @@ go run ./cmd/dictimport \
 - Sessions use HttpOnly, SameSite=Lax cookies. Only hashed tokens are stored in `data/sessions.json`, so logins survive server restarts.
 - Tiles, bag order, scores, and dictionary checks are server-side. Clients only send tile IDs and coordinates.
 - Move IDs are idempotent and `revision` values reject stale moves.
-- Game files include an alphabet snapshot so `-verify-games` can replay and verify stored games.
+- Game files include an alphabet snapshot so `-verify-games` can replay and verify stored games, including recorded automatic reshuffles.
 
 ## Tests
 

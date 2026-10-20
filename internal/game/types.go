@@ -202,22 +202,24 @@ type Player struct {
 }
 
 type Game struct {
-	SchemaVersion int          `json:"schemaVersion"`
-	ID            GameID       `json:"id"`
-	Config        Config       `json:"config"`
-	Specs         []TileSpec   `json:"tileSpecs"`
-	Status        Status       `json:"status"`
-	Players       []Player     `json:"players"`
-	Current       int          `json:"current"`
-	Board         []PlacedTile `json:"board"`
-	Bag           []Tile       `json:"bag"`
-	Revision      uint64       `json:"revision"`
-	MoveCount     int          `json:"moveCount"`
-	Scoreless     int          `json:"scoreless"`
-	Winner        *PlayerID    `json:"winner,omitempty"`
-	Moves         []MoveRecord `json:"moves"`
-	CreatedAt     time.Time    `json:"createdAt"`
-	UpdatedAt     time.Time    `json:"updatedAt"`
+	SchemaVersion int             `json:"schemaVersion"`
+	ID            GameID          `json:"id"`
+	Config        Config          `json:"config"`
+	Specs         []TileSpec      `json:"tileSpecs"`
+	Status        Status          `json:"status"`
+	Players       []Player        `json:"players"`
+	Current       int             `json:"current"`
+	Board         []PlacedTile    `json:"board"`
+	Bag           []Tile          `json:"bag"`
+	Revision      uint64          `json:"revision"`
+	MoveCount     int             `json:"moveCount"`
+	Scoreless     int             `json:"scoreless"`
+	Winner        *PlayerID       `json:"winner,omitempty"`
+	Moves         []MoveRecord    `json:"moves"`
+	Reshuffles    []AutoReshuffle `json:"reshuffles,omitempty"`
+	LastReshuffle *AutoReshuffle  `json:"lastReshuffle,omitempty"`
+	CreatedAt     time.Time       `json:"createdAt"`
+	UpdatedAt     time.Time       `json:"updatedAt"`
 }
 
 func (game *Game) CurrentPlayer() *Player {
@@ -326,20 +328,32 @@ type FormedWord struct {
 	Primary   bool      `json:"primary"`
 }
 
+type AutoReshuffle struct {
+	PlayerID    PlayerID `json:"playerId"`
+	Returned    []TileID `json:"returned,omitempty"`
+	Drawn       []TileID `json:"drawn,omitempty"`
+	Targeted    []TileID `json:"targeted,omitempty"`
+	Attempts    int      `json:"attempts"`
+	RandomSwaps int      `json:"randomSwaps"`
+	MoveCount   int      `json:"moveCount"`
+	Revision    uint64   `json:"revision"`
+}
+
 type MoveRecord struct {
-	MoveID      string              `json:"moveId"`
-	Seq         int                 `json:"seq"`
-	PlayerID    PlayerID            `json:"playerId"`
-	Kind        MoveKind            `json:"kind"`
-	Placements  []ResolvedPlacement `json:"placements,omitempty"`
-	Exchange    []TileID            `json:"exchange,omitempty"`
-	Words       []FormedWord        `json:"words,omitempty"`
-	Score       int                 `json:"score"`
-	ScoresAfter []int               `json:"scoresAfter"`
-	Drawn       []TileID            `json:"drawn,omitempty"`
-	BagCount    int                 `json:"bagCount"`
-	BoardHash   string              `json:"boardHash"`
-	At          time.Time           `json:"at"`
+	MoveID        string              `json:"moveId"`
+	Seq           int                 `json:"seq"`
+	PlayerID      PlayerID            `json:"playerId"`
+	Kind          MoveKind            `json:"kind"`
+	Placements    []ResolvedPlacement `json:"placements,omitempty"`
+	Exchange      []TileID            `json:"exchange,omitempty"`
+	Words         []FormedWord        `json:"words,omitempty"`
+	Score         int                 `json:"score"`
+	ScoresAfter   []int               `json:"scoresAfter"`
+	Drawn         []TileID            `json:"drawn,omitempty"`
+	BagCount      int                 `json:"bagCount"`
+	BoardHash     string              `json:"boardHash"`
+	AutoReshuffle *AutoReshuffle      `json:"autoReshuffle,omitempty"`
+	At            time.Time           `json:"at"`
 }
 
 type RuleError struct {

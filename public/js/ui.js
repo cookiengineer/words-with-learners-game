@@ -65,13 +65,28 @@ export function el(tag, attributes = {}, children = []) {
   return element;
 }
 
+const toastQueue = [];
+let toastActive = false;
 let toastTimer = null;
+let toastCooldown = null;
+let activeToastKey = "";
 
-export function toast(message) {
+function showNextToast() {
   const target = document.getElementById("toast");
   if (!target) {
+    toastQueue.length = 0;
+    toastActive = false;
+    activeToastKey = "";
     return;
   }
+  if (toastQueue.length === 0) {
+    toastActive = false;
+    activeToastKey = "";
+    return;
+  }
+  toastActive = true;
+  const entry = toastQueue.shift();
+  activeToastKey = entry.key;
   const bottomBar = document.querySelector(".game-bottom");
   if (bottomBar) {
     target.style.setProperty("--toast-lift", `${Math.ceil(bottomBar.getBoundingClientRect().height) + 12}px`);
@@ -80,10 +95,45 @@ export function toast(message) {
     target.classList.remove("game-toast");
     target.style.removeProperty("--toast-lift");
   }
-  target.textContent = message;
+  target.textContent = entry.message;
   target.classList.add("visible");
   clearTimeout(toastTimer);
-  toastTimer = setTimeout(() => target.classList.remove("visible"), 3200);
+  toastTimer = setTimeout(() => {
+    target.classList.remove("visible");
+    clearTimeout(toastCooldown);
+    toastCooldown = setTimeout(showNextToast, 280);
+  }, 3000);
+}
+
+export function toast(message, key = "") {
+  if (!message) {
+    return;
+  }
+  const target = document.getElementById("toast");
+  if (key && toastActive && activeToastKey === key && target?.classList.contains("visible")) {
+    target.textContent = message;
+    clearTimeout(toastTimer);
+    toastTimer = setTimeout(() => {
+      target.classList.remove("visible");
+      clearTimeout(toastCooldown);
+      toastCooldown = setTimeout(showNextToast, 280);
+    }, 3000);
+    return;
+  }
+  if (key) {
+    const queued = toastQueue.find((entry) => entry.key === key);
+    if (queued) {
+      queued.message = message;
+      return;
+    }
+  }
+  if (toastQueue.length >= 5) {
+    toastQueue.shift();
+  }
+  toastQueue.push({ message, key });
+  if (!toastActive) {
+    showNextToast();
+  }
 }
 
 export function clear(node) {
@@ -112,4 +162,17 @@ export function statusLabel(status) {
 
 export function cloneProfile(profile) {
   return { id: profile.id, username: profile.username, displayName: profile.displayName };
+}
+
+export function clearToasts() {
+  toastQueue.length = 0;
+  clearTimeout(toastTimer);
+  clearTimeout(toastCooldown);
+  toastActive = false;
+  activeToastKey = "";
+  const target = document.getElementById("toast");
+  if (target) {
+    target.classList.remove("visible", "game-toast");
+    target.style.removeProperty("--toast-lift");
+  }
 }

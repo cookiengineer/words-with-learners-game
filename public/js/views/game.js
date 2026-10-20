@@ -1,6 +1,6 @@
 import { socket } from "../socket.js";
 import { Camera } from "../game/camera.js";
-import { clear, el, flagFor, languageNames, template, toast, uniqueID } from "../ui.js";
+import { clear, clearToasts, el, flagFor, languageNames, template, toast, uniqueID } from "../ui.js";
 
 const BONUS_LABELS = {
   tw: "3W",
@@ -21,15 +21,17 @@ export class GameView {
     this.previewTimer = null;
     this.previewSequence = 0;
     this.lastPreviewError = "";
+    this.lastReshuffleNotice = "";
+    this.lastTurnKey = "";
     this.destroyed = false;
     this.dragCleanup = null;
-    this.exchangeSelection = new Set();
     this.blankResolver = null;
     this.resizeObserver = null;
   }
 
   mount() {
     clear(this.container);
+    clearToasts();
     this.container.append(template("game-template"));
     this.flag = this.container.querySelector("#game-flag");
     this.language = this.container.querySelector("#game-language");
@@ -38,17 +40,12 @@ export class GameView {
     this.viewport = this.container.querySelector("#board-viewport");
     this.board = this.container.querySelector("#board");
     this.turnBanner = this.container.querySelector("#turn-banner");
-    this.turnState = this.container.querySelector("#turn-state");
     this.rack = this.container.querySelector("#rack");
     this.preview = this.container.querySelector("#preview");
     this.recall = this.container.querySelector("#recall");
     this.passButton = this.container.querySelector("#pass");
-    this.exchangeButton = this.container.querySelector("#exchange");
     this.submitButton = this.container.querySelector("#submit");
     this.hintButton = this.container.querySelector("#hint");
-    this.exchangeDialog = document.getElementById("exchange-dialog");
-    this.exchangeRack = document.getElementById("exchange-rack");
-    this.exchangeConfirm = document.getElementById("exchange-confirm");
     this.hintDialog = document.getElementById("hint-dialog");
     this.hintText = document.getElementById("hint-text");
     this.hintMeta = document.getElementById("hint-meta");
@@ -114,12 +111,7 @@ export class GameView {
     });
     this.submitButton.addEventListener("click", () => this.submit());
     this.passButton.addEventListener("click", () => this.pass());
-    this.exchangeButton.addEventListener("click", () => this.openExchange());
     this.hintButton.addEventListener("click", () => this.showHint());
-    this.exchangeConfirm.onclick = () => this.confirmExchange();
-    for (const button of this.exchangeDialog.querySelectorAll("[data-close-exchange]")) {
-      button.onclick = () => this.exchangeDialog.close();
-    }
     for (const button of this.hintDialog.querySelectorAll("[data-close-hint]")) {
       button.onclick = () => this.hintDialog.close();
     }
@@ -207,6 +199,44 @@ export class GameView {
     this.board.dataset.language = state.config.language;
     this.renderScoreboard();
     this.render();
+    this.notifyTurn();
+    this.notifyReshuffle();
+  }
+
+  notifyTurn() {
+    const key = `${this.state.status}:${this.state.currentPlayerId}`;
+    if (key === this.lastTurnKey) {
+      return;
+    }
+    this.lastTurnKey = key;
+    if (this.state.status === "finished") {
+      const winner = this.state.players.find((player) => player.id === this.state.winner);
+      toast(winner ? `${winner.name} wins!` : "The game ended in a tie.", "turn");
+      return;
+    }
+    const current = this.state.players.find((player) => player.id === this.state.currentPlayerId);
+    if (this.state.isYourTurn) {
+      toast("Your turn. Drag tiles onto the board, then submit.", "turn");
+    } else {
+      toast(`Waiting for ${current?.name || "another player"}.`, "turn");
+    }
+  }
+
+  notifyReshuffle() {
+    const reshuffle = this.state.autoReshuffle;
+    if (!reshuffle || !this.state.isYourTurn) {
+      return;
+    }
+    const you = this.state.players.find((player) => player.isYou);
+    if (!you || reshuffle.playerId !== you.id || reshuffle.revision !== this.state.revision) {
+      return;
+    }
+    const key = `${this.gameId}:${reshuffle.revision}:${reshuffle.playerId}`;
+    if (this.lastReshuffleNotice === key) {
+      return;
+    }
+    this.lastReshuffleNotice = key;
+    toast("No playable word was available, so your tiles were reshuffled.", "reshuffle");
   }
 
   renderScoreboard() {
@@ -299,18 +329,14 @@ export class GameView {
     const current = this.state.players.find((player) => player.id === this.state.currentPlayerId);
     if (this.state.status === "finished") {
       const winner = this.state.players.find((player) => player.id === this.state.winner);
-      const message = winner ? `${winner.name} wins!` : "The game ended in a tie.";
-      this.turnBanner.textContent = message;
-      this.turnState.textContent = message;
+      this.turnBanner.textContent = winner ? `${winner.name} wins!` : "The game ended in a tie.";
       return;
     }
     if (this.state.isYourTurn) {
       this.turnBanner.textContent = "Your turn";
-      this.turnState.textContent = "Your turn. Drag tiles onto the board, then submit.";
     } else {
       const name = current?.name || "another player";
       this.turnBanner.textContent = `${name}'s turn`;
-      this.turnState.textContent = `Waiting for ${name}.`;
     }
   }
 
@@ -319,7 +345,6 @@ export class GameView {
     this.recall.disabled = !canPlay || this.pending.length === 0;
     this.submitButton.disabled = !canPlay || this.pending.length === 0;
     this.passButton.disabled = !canPlay;
-    this.exchangeButton.disabled = !canPlay;
     this.hintButton.disabled = !canPlay;
   }
 
@@ -459,7 +484,7 @@ export class GameView {
           this.preview.textContent = "Not valid";
           if (error.code !== this.lastPreviewError) {
             this.lastPreviewError = error.code;
-            toast(error.message);
+            toast(error.message, "preview");
           }
         }
       }
@@ -504,60 +529,6 @@ export class GameView {
     }
   }
 
-  openExchange() {
-    if (!this.canPlay()) {
-      return;
-    }
-    this.exchangeSelection.clear();
-    this.renderExchangeRack();
-    this.exchangeDialog.showModal();
-  }
-
-  renderExchangeRack() {
-    const nodes = this.state.rack.map((tile) => el("button", {
-      type: "button",
-      class: "rack-tile",
-      dataset: {
-        selected: String(this.exchangeSelection.has(tile.id)),
-        blank: String(tile.blank),
-      },
-      onclick: () => {
-        if (this.exchangeSelection.has(tile.id)) {
-          this.exchangeSelection.delete(tile.id);
-        } else {
-          this.exchangeSelection.add(tile.id);
-        }
-        this.renderExchangeRack();
-      },
-    }, [tile.blank ? "?" : tile.letter, tile.value > 0 ? el("small", { text: String(tile.value) }) : null]));
-    this.exchangeRack.replaceChildren(...nodes);
-    this.exchangeConfirm.disabled = this.exchangeSelection.size === 0;
-  }
-
-  async confirmExchange() {
-    if (this.exchangeSelection.size === 0) {
-      return;
-    }
-    if (this.state.bagCount < this.exchangeSelection.size) {
-      toast("The bag does not have enough tiles left.");
-      return;
-    }
-    this.exchangeConfirm.disabled = true;
-    try {
-      await socket.request("move.submit", {
-        gameId: this.gameId,
-        move: this.movePayload("exchange", { exchange: [...this.exchangeSelection] }),
-      });
-      this.exchangeDialog.close();
-      this.pending = [];
-      this.render();
-      this.requestState();
-    } catch (error) {
-      toast(error.message);
-      this.exchangeConfirm.disabled = false;
-    }
-  }
-
   async showHint() {
     if (!this.canPlay()) {
       return;
@@ -579,6 +550,7 @@ export class GameView {
 
   destroy() {
     this.destroyed = true;
+    clearToasts();
     clearTimeout(this.previewTimer);
     if (this.offState) {
       this.offState();
@@ -594,9 +566,6 @@ export class GameView {
     }
     if (this.blankDialog.open) {
       this.blankDialog.close();
-    }
-    if (this.exchangeDialog.open) {
-      this.exchangeDialog.close();
     }
     if (this.hintDialog.open) {
       this.hintDialog.close();

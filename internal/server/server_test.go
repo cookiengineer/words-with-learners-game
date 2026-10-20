@@ -176,6 +176,16 @@ func TestWebSocketGameFlow(t *testing.T) {
 		{ID: "x1", Letter: "X", Value: 8},
 		{ID: "z1", Letter: "Z", Value: 10},
 	}
+	opponentPlayer := &session.value.Players[1]
+	opponentPlayer.Rack = []game.Tile{
+		{ID: "o1", Letter: "X", Value: 8},
+		{ID: "o2", Letter: "X", Value: 8},
+		{ID: "o3", Letter: "X", Value: 8},
+		{ID: "o4", Letter: "X", Value: 8},
+		{ID: "o5", Letter: "X", Value: 8},
+		{ID: "o6", Letter: "X", Value: 8},
+		{ID: "o7", Letter: "X", Value: 8},
+	}
 	session.mutex.Unlock()
 
 	placements := []game.Placement{
@@ -211,6 +221,28 @@ func TestWebSocketGameFlow(t *testing.T) {
 	if opponentState.Players[0].ID != host.ID {
 		t.Fatal("host seat missing")
 	}
+	if opponentState.AutoReshuffle == nil || opponentState.AutoReshuffle.PlayerID != opponent.ID {
+		t.Fatalf("opponent was not auto-reshuffled: %#v", opponentState.AutoReshuffle)
+	}
+	if opponentState.AutoReshuffle.Revision != opponentState.Revision {
+		t.Fatalf("reshuffle revision = %d, state revision = %d", opponentState.AutoReshuffle.Revision, opponentState.Revision)
+	}
+	dict, err := server.app.dictionaries.Get(created.Config.Language, created.Config.Level)
+	if err != nil {
+		t.Fatal(err)
+	}
+	session.mutex.Lock()
+	playable := findHintFor(session.value, dict, session.value.Current, true).Found
+	session.mutex.Unlock()
+	if !playable {
+		t.Fatal("reshuffled opponent still has no playable word")
+	}
+	wsExpectError(t, opponentConn, TypeMoveSubmit, SubmitRequest{GameID: created.ID, Move: game.MoveRequest{
+		MoveID:           "move-exchange",
+		ExpectedRevision: 2,
+		Kind:             game.MoveExchange,
+		Exchange:         []game.TileID{"o1"},
+	}}, "exchange_removed")
 
 	wsExpectError(t, hostConn, TypeMoveSubmit, SubmitRequest{GameID: created.ID, Move: game.MoveRequest{
 		MoveID:           "move-stale",

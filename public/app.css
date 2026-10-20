@@ -689,30 +689,30 @@ player-picker {
   position: relative;
   z-index: 40;
   display: flex;
-  align-items: center;
-  justify-content: space-between;
-  gap: 1rem;
+  flex-direction: column;
+  align-items: stretch;
+  gap: 0.5rem;
   padding: 0.65rem 0.8rem calc(0.65rem + env(safe-area-inset-bottom));
   background: var(--surface);
   border-top: 1px solid var(--line);
-  min-height: 5.4rem;
 }
 
 .rack-panel {
   min-width: 0;
-  flex: 1;
+  width: 100%;
 }
 
-.turn-state {
-  margin-bottom: 0.35rem;
-  font-size: 0.82rem;
-  color: var(--ink-muted);
+.rack-scroll {
+  width: 100%;
+  overflow-x: auto;
 }
 
 .rack {
   display: flex;
+  justify-content: center;
   gap: 0.35rem;
-  overflow-x: auto;
+  width: max-content;
+  min-width: 100%;
   padding-bottom: 0.15rem;
   min-height: 3.1rem;
   align-items: flex-start;
@@ -757,11 +757,6 @@ player-picker {
   pointer-events: none;
 }
 
-.rack-tile[data-selected="true"] {
-  outline: 3px solid var(--accent);
-  outline-offset: 1px;
-}
-
 .tile.ghost {
   position: fixed;
   z-index: 1000;
@@ -776,13 +771,15 @@ player-picker {
   gap: 0.4rem;
   flex-wrap: wrap;
   justify-content: flex-end;
+  width: 100%;
 }
 
 .preview {
+  margin-right: auto;
   font-weight: 700;
   color: var(--accent-dark);
   min-width: 4rem;
-  text-align: right;
+  text-align: left;
 }
 
 .hint-button {
@@ -793,28 +790,9 @@ player-picker {
   font-weight: 800;
 }
 
-/* Exchange dialog */
-
-#exchange-rack {
-  flex-wrap: wrap;
-  overflow: visible;
-  padding: 0.5rem 0;
-}
-
 @media (max-width: 720px) {
-  .game-bottom {
-    align-items: stretch;
-    flex-direction: column;
-    gap: 0.4rem;
-  }
-
   .game-actions {
-    justify-content: space-between;
-  }
-
-  .game-actions .preview {
-    flex: 1;
-    text-align: left;
+    justify-content: flex-end;
   }
 
   .game-top {

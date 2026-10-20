@@ -57,22 +57,23 @@ type Player struct {
 }
 
 type Game struct {
-	ID            game.GameID      `json:"id"`
-	Config        Config           `json:"config"`
-	Status        game.Status      `json:"status"`
-	Board         []PlacedTile     `json:"board"`
-	Bonuses       [][]game.Bonus   `json:"bonuses"`
-	Players       []Player         `json:"players"`
-	CurrentPlayer game.PlayerID    `json:"currentPlayerId"`
-	Revision      uint64           `json:"revision"`
-	MoveCount     int              `json:"moveCount"`
-	BagCount      int              `json:"bagCount"`
-	Rack          []Tile           `json:"rack"`
-	IsYourTurn    bool             `json:"isYourTurn"`
-	LastMove      *game.MoveRecord `json:"lastMove,omitempty"`
-	Winner        *game.PlayerID   `json:"winner,omitempty"`
-	CreatedAt     time.Time        `json:"createdAt"`
-	UpdatedAt     time.Time        `json:"updatedAt"`
+	ID            game.GameID         `json:"id"`
+	Config        Config              `json:"config"`
+	Status        game.Status         `json:"status"`
+	Board         []PlacedTile        `json:"board"`
+	Bonuses       [][]game.Bonus      `json:"bonuses"`
+	Players       []Player            `json:"players"`
+	CurrentPlayer game.PlayerID       `json:"currentPlayerId"`
+	Revision      uint64              `json:"revision"`
+	MoveCount     int                 `json:"moveCount"`
+	BagCount      int                 `json:"bagCount"`
+	Rack          []Tile              `json:"rack"`
+	IsYourTurn    bool                `json:"isYourTurn"`
+	LastMove      *game.MoveRecord    `json:"lastMove,omitempty"`
+	AutoReshuffle *game.AutoReshuffle `json:"autoReshuffle,omitempty"`
+	Winner        *game.PlayerID      `json:"winner,omitempty"`
+	CreatedAt     time.Time           `json:"createdAt"`
+	UpdatedAt     time.Time           `json:"updatedAt"`
 }
 
 type CardPlayer struct {
@@ -153,6 +154,13 @@ func Build(value *game.Game, viewer game.PlayerID, online map[game.PlayerID]bool
 		copyWinner := *value.Winner
 		winner = &copyWinner
 	}
+	var reshuffle *game.AutoReshuffle
+	if value.LastReshuffle != nil {
+		copyReshuffle := *value.LastReshuffle
+		copyReshuffle.Returned = append([]game.TileID(nil), value.LastReshuffle.Returned...)
+		copyReshuffle.Drawn = append([]game.TileID(nil), value.LastReshuffle.Drawn...)
+		reshuffle = &copyReshuffle
+	}
 	return Game{
 		ID:            value.ID,
 		Config:        ConfigFrom(value.Config),
@@ -167,6 +175,7 @@ func Build(value *game.Game, viewer game.PlayerID, online map[game.PlayerID]bool
 		Rack:          rack,
 		IsYourTurn:    viewerIndex >= 0 && viewerIndex == value.Current && value.Status == game.StatusPlaying,
 		LastMove:      lastMove,
+		AutoReshuffle: reshuffle,
 		Winner:        winner,
 		CreatedAt:     value.CreatedAt,
 		UpdatedAt:     value.UpdatedAt,

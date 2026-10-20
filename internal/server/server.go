@@ -103,14 +103,25 @@ func New(cfg config.Config) (*Server, error) {
 		return nil, err
 	}
 	for _, loadedGame := range loaded {
+		dict, dictErr := library.Get(loadedGame.Config.Language, loadedGame.Config.Level)
+		if dictErr != nil {
+			return nil, fmt.Errorf("load game %s: %w", loadedGame.ID, dictErr)
+		}
 		if cfg.VerifyGame {
-			dict, dictErr := library.Get(loadedGame.Config.Language, loadedGame.Config.Level)
-			if dictErr != nil {
-				return nil, fmt.Errorf("verify game %s: %w", loadedGame.ID, dictErr)
-			}
 			if replayErr := game.Replay(loadedGame, dict); replayErr != nil {
 				return nil, fmt.Errorf("verify game %s: %w", loadedGame.ID, replayErr)
 			}
+		}
+		if reshuffle := ensurePlayable(loadedGame, dict); reshuffle != nil {
+			loadedGame.Revision++
+			loadedGame.UpdatedAt = time.Now().UTC()
+			reshuffle.Revision = loadedGame.Revision
+			loadedGame.LastReshuffle = reshuffle
+			loadedGame.Reshuffles = append(loadedGame.Reshuffles, *reshuffle)
+			if saveErr := profiles.SaveGame(loadedGame); saveErr != nil {
+				return nil, fmt.Errorf("save reshuffled game %s: %w", loadedGame.ID, saveErr)
+			}
+			server.logger.Printf("auto-reshuffled stuck rack in game %s for %s", loadedGame.ID, reshuffle.PlayerID)
 		}
 		server.games[loadedGame.ID] = &gameSession{value: loadedGame}
 	}

@@ -145,6 +145,11 @@ func (server *Server) handleGameCreate(conn *client, envelope Envelope) {
 		conn.send(TypeError, envelope.RequestID, ErrorPayload{Code: "invalid_game", Message: err.Error()})
 		return
 	}
+	if reshuffle := ensurePlayable(value, dict); reshuffle != nil {
+		reshuffle.Revision = value.Revision
+		value.LastReshuffle = reshuffle
+		value.Reshuffles = append(value.Reshuffles, *reshuffle)
+	}
 	if err := server.store.SaveGame(value); err != nil {
 		conn.send(TypeError, envelope.RequestID, ErrorPayload{Code: "internal_error", Message: "could not save the game"})
 		return
@@ -238,6 +243,10 @@ func (server *Server) handleMoveSubmit(conn *client, envelope Envelope) {
 		conn.send(TypeError, envelope.RequestID, ErrorPayload{Code: "invalid_payload", Message: err.Error()})
 		return
 	}
+	if request.Move.Kind == game.MoveExchange {
+		conn.send(TypeError, envelope.RequestID, ErrorPayload{Code: "exchange_removed", Message: "Exchanging tiles is no longer available; stuck racks are reshuffled automatically."})
+		return
+	}
 	session, ok := server.session(request.GameID)
 	if !ok {
 		conn.send(TypeError, envelope.RequestID, ErrorPayload{Code: "not_found", Message: "game not found"})
@@ -268,6 +277,15 @@ func (server *Server) handleMoveSubmit(conn *client, envelope Envelope) {
 		session.mutex.Unlock()
 		server.sendRuleError(conn, envelope.RequestID, err)
 		return
+	}
+	if reshuffle := ensurePlayable(value, dict); reshuffle != nil {
+		reshuffle.Revision = value.Revision
+		value.LastReshuffle = reshuffle
+		value.Reshuffles = append(value.Reshuffles, *reshuffle)
+		record.AutoReshuffle = reshuffle
+		if len(value.Moves) > 0 {
+			value.Moves[len(value.Moves)-1].AutoReshuffle = reshuffle
+		}
 	}
 	if err := server.store.SaveGame(value); err != nil {
 		session.value = backup
@@ -319,16 +337,41 @@ func (server *Server) handleHintGet(conn *client, envelope Envelope) {
 		return
 	}
 	var hint view.Hint
+	var broadcast *game.Game
 	if session.hintValid && session.hintRevision == value.Revision && session.hintPlayer == conn.profile.ID {
 		hint = session.hintValue
 	} else {
 		hint = findHint(value, dict)
+		if !hint.Found {
+			backup, cloneErr := cloneGame(value)
+			if cloneErr == nil {
+				if reshuffle := ensurePlayable(value, dict); reshuffle != nil {
+					value.Revision++
+					value.UpdatedAt = time.Now().UTC()
+					reshuffle.Revision = value.Revision
+					value.LastReshuffle = reshuffle
+					value.Reshuffles = append(value.Reshuffles, *reshuffle)
+					if saveErr := server.store.SaveGame(value); saveErr != nil {
+						session.value = backup
+						session.mutex.Unlock()
+						conn.send(TypeError, envelope.RequestID, ErrorPayload{Code: "internal_error", Message: "could not save the reshuffled game"})
+						return
+					}
+					hint = findHint(value, dict)
+					broadcast, _ = cloneGame(value)
+				}
+			}
+		}
 		session.hintRevision = value.Revision
 		session.hintPlayer = conn.profile.ID
 		session.hintValue = hint
 		session.hintValid = true
 	}
 	session.mutex.Unlock()
+	if broadcast != nil {
+		server.broadcastGame(broadcast)
+		server.broadcastGamesChanged()
+	}
 	conn.send(TypeHint, envelope.RequestID, hint)
 }
 
