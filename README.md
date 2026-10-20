@@ -4,6 +4,8 @@ A self-hosted, turn-based word game for language learners. The interface is in E
 
 The game uses a Words With Friends style 15×15 board, a server-authoritative tile bag, and configurable rack sizes. Everything is served by one Go binary with an embedded static frontend.
 
+![Screenshot](screenshot.png)
+
 ## Features
 
 - Languages: Dutch, English, German, Spanish, French, Italian, Russian.
