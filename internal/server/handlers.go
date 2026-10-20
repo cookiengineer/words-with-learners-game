@@ -66,9 +66,8 @@ func (server *Server) handlePlayersSearch(conn *client, envelope Envelope) {
 	players := make([]PlayerResult, len(profiles))
 	for index := range profiles {
 		players[index] = PlayerResult{
-			ID:          profiles[index].ID,
-			Username:    profiles[index].Username,
-			DisplayName: profiles[index].DisplayName,
+			ID:       profiles[index].ID,
+			Username: profiles[index].Username,
 		}
 	}
 	next := request.Offset + len(players)
@@ -130,9 +129,9 @@ func (server *Server) handleGameCreate(conn *client, envelope Envelope) {
 		BingoBonus:    request.MaxWordLength * 5,
 		Seed:          seed,
 	}
-	seeds := []game.PlayerSeed{{ID: conn.profile.ID, Name: conn.profile.DisplayName}}
+	seeds := []game.PlayerSeed{{ID: conn.profile.ID, Name: conn.profile.Username}}
 	for _, opponent := range opponents {
-		seeds = append(seeds, game.PlayerSeed{ID: opponent.ID, Name: opponent.DisplayName})
+		seeds = append(seeds, game.PlayerSeed{ID: opponent.ID, Name: opponent.Username})
 	}
 	id, err := store.NewID()
 	if err != nil {

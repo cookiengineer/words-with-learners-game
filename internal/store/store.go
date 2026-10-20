@@ -20,7 +20,6 @@ type Profile struct {
 	SchemaVersion int           `json:"schemaVersion"`
 	ID            game.PlayerID `json:"id"`
 	Username      string        `json:"username"`
-	DisplayName   string        `json:"displayName"`
 	PasswordHash  []byte        `json:"passwordHash"`
 	CreatedAt     time.Time     `json:"createdAt"`
 	UpdatedAt     time.Time     `json:"updatedAt"`
@@ -90,7 +89,7 @@ func (store *Store) loadProfiles() error {
 		store.playerIDs = append(store.playerIDs, profile.ID)
 	}
 	sort.Slice(store.playerIDs, func(i, j int) bool {
-		return strings.ToLower(store.byID[store.playerIDs[i]].DisplayName) < strings.ToLower(store.byID[store.playerIDs[j]].DisplayName)
+		return strings.ToLower(store.byID[store.playerIDs[i]].Username) < strings.ToLower(store.byID[store.playerIDs[j]].Username)
 	})
 	return nil
 }
@@ -103,12 +102,8 @@ func NewID() (string, error) {
 	return hex.EncodeToString(buffer[:]), nil
 }
 
-func (store *Store) CreateProfile(username string, displayName string, passwordHash []byte, now time.Time) (*Profile, error) {
+func (store *Store) CreateProfile(username string, passwordHash []byte, now time.Time) (*Profile, error) {
 	username = strings.TrimSpace(username)
-	displayName = strings.TrimSpace(displayName)
-	if displayName == "" {
-		displayName = username
-	}
 	key := strings.ToLower(username)
 	store.mutex.Lock()
 	defer store.mutex.Unlock()
@@ -123,7 +118,6 @@ func (store *Store) CreateProfile(username string, displayName string, passwordH
 		SchemaVersion: 1,
 		ID:            game.PlayerID(id),
 		Username:      username,
-		DisplayName:   displayName,
 		PasswordHash:  append([]byte(nil), passwordHash...),
 		CreatedAt:     now.UTC(),
 		UpdatedAt:     now.UTC(),
@@ -135,7 +129,7 @@ func (store *Store) CreateProfile(username string, displayName string, passwordH
 	store.byName[key] = profile
 	store.playerIDs = append(store.playerIDs, profile.ID)
 	sort.Slice(store.playerIDs, func(i, j int) bool {
-		return strings.ToLower(store.byID[store.playerIDs[i]].DisplayName) < strings.ToLower(store.byID[store.playerIDs[j]].DisplayName)
+		return strings.ToLower(store.byID[store.playerIDs[i]].Username) < strings.ToLower(store.byID[store.playerIDs[j]].Username)
 	})
 	copyProfile := *profile
 	return &copyProfile, nil
@@ -194,7 +188,7 @@ func (store *Store) SearchProfiles(query string, offset int, limit int, exclude 
 			continue
 		}
 		if query != "" {
-			haystack := strings.ToLower(profile.DisplayName + " " + profile.Username)
+			haystack := strings.ToLower(profile.Username)
 			if !strings.Contains(haystack, query) {
 				continue
 			}

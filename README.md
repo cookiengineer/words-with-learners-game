@@ -29,7 +29,7 @@ The game uses a Words With Friends style 15×15 board, a server-authoritative ti
 go run ./cmd/server
 ```
 
-Open <http://localhost:8080>. Register an account, create a game, and invite another registered player.
+Open <http://localhost:8080>. Enter a username and password; a new account is created automatically if the username is new. Then create a game and invite another player.
 
 Useful flags:
 
@@ -101,7 +101,7 @@ go run ./cmd/dictimport \
 
 - Data is stored as JSON files under `data/profiles` and `data/games`.
 - Writes are atomic (temporary file, sync, rename).
-- Passwords use bcrypt hashes.
+- Passwords use bcrypt hashes. Logging in with a new username creates its account automatically; existing usernames require the matching password.
 - Sessions use HttpOnly, SameSite=Lax cookies. Only hashed tokens are stored in `data/sessions.json`, so logins survive server restarts.
 - Tiles, bag order, scores, and dictionary checks are server-side. Clients only send tile IDs and coordinates.
 - Move IDs are idempotent and `revision` values reject stale moves.

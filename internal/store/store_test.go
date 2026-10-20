@@ -13,14 +13,14 @@ func TestProfilesPersistAndSearch(t *testing.T) {
 	if err != nil {
 		t.Fatal(err)
 	}
-	profile, err := profiles.CreateProfile("alice", "Alice", []byte("hash"), time.Now())
+	profile, err := profiles.CreateProfile("alice", []byte("hash"), time.Now())
 	if err != nil {
 		t.Fatal(err)
 	}
-	if _, err := profiles.CreateProfile("ALICE", "Duplicate", []byte("hash"), time.Now()); err != ErrUsernameTaken {
+	if _, err := profiles.CreateProfile("ALICE", []byte("hash"), time.Now()); err != ErrUsernameTaken {
 		t.Fatalf("duplicate error = %v", err)
 	}
-	if _, err := profiles.CreateProfile("bob", "Bob", []byte("hash"), time.Now()); err != nil {
+	if _, err := profiles.CreateProfile("bob", []byte("hash"), time.Now()); err != nil {
 		t.Fatal(err)
 	}
 	results, total := profiles.SearchProfiles("bo", 0, 10, "")

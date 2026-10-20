@@ -47,14 +47,14 @@ func newTestServer(t *testing.T) *testServer {
 
 func (server *testServer) register(t *testing.T, username string) (ProfileResponse, string) {
 	t.Helper()
-	body := fmt.Sprintf(`{"username":%q,"displayName":%q,"password":"password123"}`, username, strings.ToUpper(username[:1])+username[1:])
-	response, err := http.Post(server.http.URL+"/api/auth/register", "application/json", bytes.NewBufferString(body))
+	body := fmt.Sprintf(`{"username":%q,"password":"password123"}`, username)
+	response, err := http.Post(server.http.URL+"/api/auth/login", "application/json", bytes.NewBufferString(body))
 	if err != nil {
 		t.Fatal(err)
 	}
 	defer response.Body.Close()
-	if response.StatusCode != http.StatusCreated {
-		t.Fatalf("register status = %d", response.StatusCode)
+	if response.StatusCode != http.StatusOK {
+		t.Fatalf("login status = %d", response.StatusCode)
 	}
 	var profile ProfileResponse
 	if err := json.NewDecoder(response.Body).Decode(&profile); err != nil {
@@ -136,6 +136,45 @@ func wsExpectError(t *testing.T, conn *websocket.Conn, messageType string, paylo
 			t.Fatalf("error code = %s, want %s", failure.Code, code)
 		}
 		return
+	}
+}
+
+func TestLoginOrRegister(t *testing.T) {
+	server := newTestServer(t)
+	defer server.http.Close()
+
+	login := func(username string, password string) (*http.Response, ProfileResponse) {
+		t.Helper()
+		body := fmt.Sprintf(`{"username":%q,"password":%q}`, username, password)
+		response, err := http.Post(server.http.URL+"/api/auth/login", "application/json", bytes.NewBufferString(body))
+		if err != nil {
+			t.Fatal(err)
+		}
+		var profile ProfileResponse
+		if response.StatusCode == http.StatusOK {
+			if err := json.NewDecoder(response.Body).Decode(&profile); err != nil {
+				t.Fatal(err)
+			}
+		}
+		return response, profile
+	}
+
+	created, createdProfile := login("alice", "password123")
+	created.Body.Close()
+	if created.StatusCode != http.StatusOK {
+		t.Fatalf("create status = %d", created.StatusCode)
+	}
+
+	loggedIn, loggedInProfile := login("alice", "password123")
+	loggedIn.Body.Close()
+	if loggedIn.StatusCode != http.StatusOK || loggedInProfile.ID != createdProfile.ID {
+		t.Fatalf("login status = %d, profile = %#v", loggedIn.StatusCode, loggedInProfile)
+	}
+
+	wrong, _ := login("alice", "wrong-password")
+	wrong.Body.Close()
+	if wrong.StatusCode != http.StatusUnauthorized {
+		t.Fatalf("wrong password status = %d", wrong.StatusCode)
 	}
 }
 

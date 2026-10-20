@@ -131,7 +131,6 @@ func New(cfg config.Config) (*Server, error) {
 func (server *Server) Handler() http.Handler {
 	mux := http.NewServeMux()
 	mux.HandleFunc("/ws", server.handleWebSocket)
-	mux.HandleFunc("/api/auth/register", server.handleRegister)
 	mux.HandleFunc("/api/auth/login", server.handleLogin)
 	mux.HandleFunc("/api/auth/logout", server.handleLogout)
 	mux.HandleFunc("/api/auth/me", server.handleMe)
@@ -148,51 +147,18 @@ func securityHeaders(next http.Handler) http.Handler {
 	})
 }
 
-type RegisterRequest struct {
-	Username    string `json:"username"`
-	DisplayName string `json:"displayName"`
-	Password    string `json:"password"`
-}
-
 type LoginRequest struct {
 	Username string `json:"username"`
 	Password string `json:"password"`
 }
 
 type ProfileResponse struct {
-	ID          game.PlayerID `json:"id"`
-	Username    string        `json:"username"`
-	DisplayName string        `json:"displayName"`
+	ID       game.PlayerID `json:"id"`
+	Username string        `json:"username"`
 }
 
 func profileResponse(profile *store.Profile) ProfileResponse {
-	return ProfileResponse{ID: profile.ID, Username: profile.Username, DisplayName: profile.DisplayName}
-}
-
-func (server *Server) handleRegister(response http.ResponseWriter, request *http.Request) {
-	if request.Method != http.MethodPost {
-		writeError(response, http.StatusMethodNotAllowed, "method_not_allowed", "use POST")
-		return
-	}
-	var payload RegisterRequest
-	if err := decodeJSON(request, &payload); err != nil {
-		writeError(response, http.StatusBadRequest, "invalid_json", err.Error())
-		return
-	}
-	profile, token, err := server.auth.Register(payload.Username, payload.DisplayName, payload.Password, time.Now())
-	if err != nil {
-		switch {
-		case errors.Is(err, store.ErrUsernameTaken):
-			writeError(response, http.StatusConflict, "username_taken", err.Error())
-		case errors.Is(err, auth.ErrInvalidUsername), errors.Is(err, auth.ErrInvalidPassword), errors.Is(err, auth.ErrInvalidDisplayName):
-			writeError(response, http.StatusBadRequest, "invalid_input", err.Error())
-		default:
-			writeError(response, http.StatusInternalServerError, "internal_error", "registration failed")
-		}
-		return
-	}
-	server.auth.SetCookie(response, request, token)
-	writeJSON(response, http.StatusCreated, profileResponse(profile))
+	return ProfileResponse{ID: profile.ID, Username: profile.Username}
 }
 
 func (server *Server) handleLogin(response http.ResponseWriter, request *http.Request) {
@@ -205,11 +171,14 @@ func (server *Server) handleLogin(response http.ResponseWriter, request *http.Re
 		writeError(response, http.StatusBadRequest, "invalid_json", err.Error())
 		return
 	}
-	profile, token, err := server.auth.Login(payload.Username, payload.Password, time.Now())
+	profile, token, err := server.auth.LoginOrRegister(payload.Username, payload.Password, time.Now())
 	if err != nil {
-		if errors.Is(err, auth.ErrInvalidCredentials) {
+		switch {
+		case errors.Is(err, auth.ErrInvalidCredentials):
 			writeError(response, http.StatusUnauthorized, "invalid_credentials", "invalid username or password")
-		} else {
+		case errors.Is(err, auth.ErrInvalidUsername), errors.Is(err, auth.ErrInvalidPassword):
+			writeError(response, http.StatusBadRequest, "invalid_input", err.Error())
+		default:
 			writeError(response, http.StatusInternalServerError, "internal_error", "login failed")
 		}
 		return

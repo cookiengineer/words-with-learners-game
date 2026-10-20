@@ -160,6 +160,7 @@ output {
   min-height: 100vh;
   display: grid;
   place-content: center;
+  justify-items: center;
   gap: 2rem;
   padding: 2rem;
 }
@@ -186,23 +187,6 @@ output {
 .auth-card form {
   display: grid;
   gap: 0.9rem;
-}
-
-.tabs {
-  display: grid;
-  grid-template-columns: 1fr 1fr;
-  gap: 0.4rem;
-  margin-bottom: 1.2rem;
-}
-
-.tabs button {
-  background: var(--surface-2);
-}
-
-.tabs button.active {
-  background: var(--accent);
-  border-color: var(--accent);
-  color: white;
 }
 
 /* Overview */

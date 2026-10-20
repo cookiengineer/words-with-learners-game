@@ -106,20 +106,10 @@
         <p>A multiplayer word game for language learners.</p>
       </header>
       <div class="auth-card">
-        <div class="tabs" role="tablist">
-          <button type="button" data-auth-tab="login" class="active">Log in</button>
-          <button type="button" data-auth-tab="register">Register</button>
-        </div>
-        <form id="login-form">
+        <form id="auth-form">
           <label>Username <input name="username" autocomplete="username" required></label>
           <label>Password <input name="password" type="password" autocomplete="current-password" required></label>
-          <button type="submit" class="primary">Log in</button>
-        </form>
-        <form id="register-form" hidden>
-          <label>Username <input name="username" autocomplete="username" required></label>
-          <label>Display name <input name="displayName" autocomplete="nickname"></label>
-          <label>Password <input name="password" type="password" autocomplete="new-password" minlength="8" required></label>
-          <button type="submit" class="primary">Create account</button>
+          <button type="submit" class="primary">Login</button>
         </form>
         <p id="auth-error" class="error" role="alert"></p>
       </div>

@@ -29,13 +29,6 @@ export async function api(path, options = {}) {
   return payload;
 }
 
-export function register(username, displayName, password) {
-  return api("/api/auth/register", {
-    method: "POST",
-    body: JSON.stringify({ username, displayName, password }),
-  });
-}
-
 export function login(username, password) {
   return api("/api/auth/login", {
     method: "POST",

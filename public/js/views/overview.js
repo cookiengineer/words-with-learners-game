@@ -14,7 +14,7 @@ export class OverviewView {
     clear(this.container);
     this.container.append(template("overview-template"));
     this.mounted = true;
-    this.container.querySelector("#overview-user").textContent = `${this.context.profile.displayName} (@${this.context.profile.username})`;
+    this.container.querySelector("#overview-user").textContent = this.context.profile.username;
     this.container.querySelector("#open-invite").addEventListener("click", () => this.context.openInvite());
     this.container.querySelector("#open-players").addEventListener("click", () => this.context.openPlayers());
     this.container.querySelector("#logout").addEventListener("click", () => this.context.onLogout());

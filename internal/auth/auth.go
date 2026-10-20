@@ -27,7 +27,6 @@ var (
 	ErrInvalidCredentials = errors.New("invalid username or password")
 	ErrInvalidUsername    = errors.New("username must be 3-32 characters using letters, numbers, _ or -")
 	ErrInvalidPassword    = errors.New("password must be at least 8 characters")
-	ErrInvalidDisplayName = errors.New("display name must be 1-48 characters")
 	usernamePattern       = regexp.MustCompile(`^[A-Za-z0-9_-]{3,32}$`)
 )
 
@@ -134,17 +133,20 @@ func sessionKey(token string) string {
 	return hex.EncodeToString(sum[:])
 }
 
-func (manager *Manager) Register(username string, displayName string, password string, now time.Time) (*store.Profile, string, error) {
+func (manager *Manager) LoginOrRegister(username string, password string, now time.Time) (*store.Profile, string, error) {
 	username = strings.TrimSpace(username)
-	displayName = strings.TrimSpace(displayName)
+	profile, token, err := manager.Login(username, password, now)
+	if err == nil {
+		return profile, token, nil
+	}
+	if !errors.Is(err, ErrInvalidCredentials) {
+		return nil, "", err
+	}
+	if _, ok := manager.store.ProfileByUsername(username); ok {
+		return nil, "", ErrInvalidCredentials
+	}
 	if !usernamePattern.MatchString(username) {
 		return nil, "", ErrInvalidUsername
-	}
-	if displayName == "" {
-		displayName = username
-	}
-	if len([]rune(displayName)) > 48 {
-		return nil, "", ErrInvalidDisplayName
 	}
 	if len(password) < 8 || len(password) > 128 {
 		return nil, "", ErrInvalidPassword
@@ -153,14 +155,18 @@ func (manager *Manager) Register(username string, displayName string, password s
 	if err != nil {
 		return nil, "", err
 	}
-	profile, err := manager.store.CreateProfile(username, displayName, hash, now)
+	profile, err = manager.store.CreateProfile(username, hash, now)
+	if err != nil {
+		if errors.Is(err, store.ErrUsernameTaken) {
+			return manager.Login(username, password, now)
+		}
+		return nil, "", err
+	}
+	token, err = manager.createSession(profile.ID, now)
 	if err != nil {
 		return nil, "", err
 	}
-	token, err := manager.createSession(profile.ID, now)
-	if err != nil {
-		return nil, "", err
-	}
+	profile.PasswordHash = nil
 	return profile, token, nil
 }
 

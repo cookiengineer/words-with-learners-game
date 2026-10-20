@@ -56,10 +56,10 @@ export class InviteDialog {
     this.picker.setMax(needed);
     const selected = this.picker.selected || [];
     this.selectedNode.replaceChildren(...selected.map((profile) => el("span", { class: "chip" }, [
-      profile.displayName,
+      profile.username,
       el("button", {
         type: "button",
-        "aria-label": `Remove ${profile.displayName}`,
+        "aria-label": `Remove ${profile.username}`,
         text: "×",
         onclick: () => this.picker.remove(profile.id),
       }),

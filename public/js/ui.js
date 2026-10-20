@@ -161,7 +161,7 @@ export function statusLabel(status) {
 }
 
 export function cloneProfile(profile) {
-  return { id: profile.id, username: profile.username, displayName: profile.displayName };
+  return { id: profile.id, username: profile.username };
 }
 
 export function clearToasts() {

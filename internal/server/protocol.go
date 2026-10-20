@@ -46,9 +46,8 @@ type SearchPlayersResponse struct {
 }
 
 type PlayerResult struct {
-	ID          game.PlayerID `json:"id"`
-	Username    string        `json:"username"`
-	DisplayName string        `json:"displayName"`
+	ID       game.PlayerID `json:"id"`
+	Username string        `json:"username"`
 }
 
 type GamesListRequest struct{}

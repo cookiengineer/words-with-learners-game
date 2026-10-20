@@ -57,7 +57,6 @@ class PlayerPicker extends HTMLElement {
       this.selected.push({
         id: profile.id,
         username: profile.username,
-        displayName: profile.displayName,
       });
     }
     this.updateRows();
@@ -130,9 +129,7 @@ class PlayerPicker extends HTMLElement {
         onclick: () => this.toggle(profile),
       }, [
         el("span", {}, [
-          el("strong", { text: profile.displayName }),
-          el("br"),
-          el("small", { text: `@${profile.username}` }),
+          el("strong", { text: profile.username }),
         ]),
         el("span", { text: isSelected ? "Selected" : "Select" }),
       ]));
