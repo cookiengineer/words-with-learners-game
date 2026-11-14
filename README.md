@@ -172,3 +172,10 @@ dictionaries        alphabets and CEFR word lists (embedded)
 ## Current scope
 
 No chat, timers, spectators, matchmaking, or full commercial dictionaries. The static frontend avoids a build step so it can later be packaged into a WebView.
+
+## License
+
+This project is licensed under the GNU Affero General Public License v3.0 (`AGPL-3.0-only`).
+See the [LICENSE.txt](LICENSE.txt) for the full text.
+
+The bundled word lists and hints retain the upstream licenses described in [Dictionaries](#dictionaries).
