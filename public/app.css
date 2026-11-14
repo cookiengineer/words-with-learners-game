@@ -1,4 +1,6 @@
-:root {
+:root,
+:root[data-theme="bright"] {
+  color-scheme: light;
   --bg: #f4f1ea;
   --surface: #fffdf8;
   --surface-2: #ebe4d8;
@@ -6,16 +8,121 @@
   --ink-muted: #716a60;
   --line: #d7cec0;
   --accent: #21645b;
-  --accent-dark: #16443e;
+  --accent-strong: #16443e;
+  --accent-ink: #16443e;
   --danger: #a33a32;
+  --danger-border: #d9b8b3;
+  --danger-strong: #9b2c2c;
+  --danger-soft: #fdf3f2;
   --tile-bg: #fff4cf;
   --tile-ink: #3c3022;
   --tile-edge: #d9c58d;
+  --tile-shadow: #c9b77d;
+  --blank-bg: #efe9db;
+  --field-bg: #ffffff;
+  --on-accent: #ffffff;
+  --toast-bg: var(--ink);
+  --toast-ink: var(--bg);
+  --online: #63b36b;
+  --offline: #bcb5aa;
+  --board-bg: #cfc7ba;
+  --board-edge: #b7ad9d;
+  --board-glow: rgba(255, 255, 255, 0.7);
+  --cell-bg: #ded8ce;
+  --cell-line: rgba(255, 255, 255, 0.45);
+  --cell-ink: rgba(40, 35, 28, 0.55);
+  --cell-none-bg: #d8d1c6;
+  --start-bg: #2f2a24;
+  --start-ink: #fff4cf;
+  --bonus-contrast-ink: #3d372f;
+  --flag-outline: rgba(0, 0, 0, 0.12);
+  --body-glow: rgba(33, 100, 91, 0.08);
+  --auth-shadow: rgba(50, 40, 20, 0.08);
+  --dialog-shadow: rgba(0, 0, 0, 0.25);
+  --overlay: rgba(30, 26, 20, 0.45);
+  --ghost-shadow: rgba(0, 0, 0, 0.25);
+  --tile-inset-shadow: rgba(0, 0, 0, 0.08);
   --tile-size: 44px;
   --radius: 10px;
   font-family: ui-sans-serif, system-ui, -apple-system, "Segoe UI", sans-serif;
   color: var(--ink);
   background: var(--bg);
+}
+
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="bright"]) {
+    color-scheme: dark;
+    --bg: #14120f;
+    --surface: #1e1b16;
+    --surface-2: #26221c;
+    --ink: #ece5d8;
+    --ink-muted: #a79d8e;
+    --line: #3a342b;
+    --accent: #5cc9b6;
+    --accent-strong: #47a896;
+    --accent-ink: #8ee0d0;
+    --danger: #f08c82;
+    --danger-border: #6b3a37;
+    --danger-strong: #f08c82;
+    --danger-soft: #3a2321;
+    --field-bg: #1e1b16;
+    --on-accent: #0f1a18;
+    --online: #7acb82;
+    --offline: #6b6358;
+    --board-bg: #24201a;
+    --board-edge: #3a342b;
+    --board-glow: rgba(255, 255, 255, 0.04);
+    --cell-bg: #2e2923;
+    --cell-line: rgba(255, 255, 255, 0.08);
+    --cell-ink: rgba(236, 229, 216, 0.45);
+    --cell-none-bg: #332e27;
+    --start-bg: #3c3427;
+    --start-ink: #f4e7c4;
+    --flag-outline: rgba(255, 255, 255, 0.15);
+    --body-glow: rgba(92, 201, 182, 0.08);
+    --auth-shadow: rgba(0, 0, 0, 0.4);
+    --dialog-shadow: rgba(0, 0, 0, 0.55);
+    --overlay: rgba(0, 0, 0, 0.65);
+    --ghost-shadow: rgba(0, 0, 0, 0.5);
+    --tile-inset-shadow: rgba(0, 0, 0, 0.18);
+  }
+}
+
+:root[data-theme="dark"] {
+  color-scheme: dark;
+  --bg: #14120f;
+  --surface: #1e1b16;
+  --surface-2: #26221c;
+  --ink: #ece5d8;
+  --ink-muted: #a79d8e;
+  --line: #3a342b;
+  --accent: #5cc9b6;
+  --accent-strong: #47a896;
+  --accent-ink: #8ee0d0;
+  --danger: #f08c82;
+  --danger-border: #6b3a37;
+  --danger-strong: #f08c82;
+  --danger-soft: #3a2321;
+  --field-bg: #1e1b16;
+  --on-accent: #0f1a18;
+  --online: #7acb82;
+  --offline: #6b6358;
+  --board-bg: #24201a;
+  --board-edge: #3a342b;
+  --board-glow: rgba(255, 255, 255, 0.04);
+  --cell-bg: #2e2923;
+  --cell-line: rgba(255, 255, 255, 0.08);
+  --cell-ink: rgba(236, 229, 216, 0.45);
+  --cell-none-bg: #332e27;
+  --start-bg: #3c3427;
+  --start-ink: #f4e7c4;
+  --flag-outline: rgba(255, 255, 255, 0.15);
+  --body-glow: rgba(92, 201, 182, 0.08);
+  --auth-shadow: rgba(0, 0, 0, 0.4);
+  --dialog-shadow: rgba(0, 0, 0, 0.55);
+  --overlay: rgba(0, 0, 0, 0.65);
+  --ghost-shadow: rgba(0, 0, 0, 0.5);
+  --tile-inset-shadow: rgba(0, 0, 0, 0.18);
 }
 
 * {
@@ -42,7 +149,7 @@ body {
   margin: 0;
   min-height: 100vh;
   background:
-    radial-gradient(circle at top left, rgba(33, 100, 91, 0.08), transparent 35rem),
+    radial-gradient(circle at top left, var(--body-glow), transparent 35rem),
     var(--bg);
   -webkit-tap-highlight-color: transparent;
 }
@@ -76,11 +183,11 @@ button:disabled {
 button.primary {
   background: var(--accent);
   border-color: var(--accent);
-  color: white;
+  color: var(--on-accent);
 }
 
 button.primary:hover:not(:disabled) {
-  background: var(--accent-dark);
+  background: var(--accent-strong);
 }
 
 button.icon {
@@ -95,7 +202,7 @@ input, select {
   width: 100%;
   border: 1px solid var(--line);
   border-radius: 8px;
-  background: white;
+  background: var(--field-bg);
   padding: 0.55rem 0.7rem;
   color: var(--ink);
 }
@@ -114,7 +221,7 @@ input[type="range"] {
 
 output {
   font-variant-numeric: tabular-nums;
-  color: var(--accent-dark);
+  color: var(--accent-ink);
 }
 
 .muted {
@@ -144,8 +251,8 @@ output {
   left: 50%;
   bottom: 1.2rem;
   transform: translateX(-50%) translateY(2rem);
-  background: var(--ink);
-  color: white;
+  background: var(--toast-bg);
+  color: var(--toast-ink);
   padding: 0.7rem 1rem;
   border-radius: 999px;
   opacity: 0;
@@ -198,7 +305,7 @@ output {
   border: 1px solid var(--line);
   border-radius: 18px;
   padding: 1.4rem;
-  box-shadow: 0 20px 50px rgba(50, 40, 20, 0.08);
+  box-shadow: 0 20px 50px var(--auth-shadow);
   margin: 0 auto;
 }
 
@@ -281,13 +388,13 @@ output {
 
 .game-card .stop {
   width: 100%;
-  border-color: #d9b8b3;
-  color: #9b2c2c;
+  border-color: var(--danger-border);
+  color: var(--danger-strong);
 }
 
 .game-card .stop:hover:not(:disabled) {
-  border-color: #9b2c2c;
-  background: #fdf3f2;
+  border-color: var(--danger-strong);
+  background: var(--danger-soft);
 }
 
 .game-card header {
@@ -316,7 +423,7 @@ output {
   justify-self: start;
   border-radius: 999px;
   background: var(--accent);
-  color: white;
+  color: var(--on-accent);
   padding: 0.2rem 0.65rem;
   font-size: 0.78rem;
   font-weight: 700;
@@ -324,7 +431,7 @@ output {
 
 .flag {
   border-radius: 3px;
-  box-shadow: 0 0 0 1px rgba(0, 0, 0, 0.12);
+  box-shadow: 0 0 0 1px var(--flag-outline);
 }
 
 /* Dialogs */
@@ -337,11 +444,11 @@ output {
   padding: 1.25rem;
   background: var(--surface);
   color: var(--ink);
-  box-shadow: 0 25px 80px rgba(0, 0, 0, 0.25);
+  box-shadow: 0 25px 80px var(--dialog-shadow);
 }
 
 .dialog::backdrop {
-  background: rgba(30, 26, 20, 0.45);
+  background: var(--overlay);
 }
 
 .dialog header {
@@ -435,7 +542,7 @@ player-picker {
   overflow: auto;
   border: 1px solid var(--line);
   border-radius: var(--radius);
-  background: white;
+  background: var(--field-bg);
 }
 
 .player-result {
@@ -457,7 +564,7 @@ player-picker {
 }
 
 .player-result[data-selected="true"] {
-  background: color-mix(in srgb, var(--accent) 12%, white);
+  background: color-mix(in srgb, var(--accent) 12%, var(--surface));
 }
 
 .player-result small {
@@ -557,7 +664,7 @@ player-picker {
 
 .scoreboard li[data-active="true"] {
   background: var(--accent);
-  color: white;
+  color: var(--on-accent);
 }
 
 .scoreboard li[data-you="true"] {
@@ -569,14 +676,14 @@ player-picker {
   width: 0.5rem;
   height: 0.5rem;
   border-radius: 50%;
-  background: #63b36b;
+  background: var(--online);
 }
 
 .scoreboard .offline {
   width: 0.5rem;
   height: 0.5rem;
   border-radius: 50%;
-  background: #bcb5aa;
+  background: var(--offline);
 }
 
 .board-wrap {
@@ -586,7 +693,7 @@ player-picker {
   min-width: 0;
   overflow: hidden;
   background:
-    radial-gradient(circle at center, rgba(255, 255, 255, 0.7), transparent 70%),
+    radial-gradient(circle at center, var(--board-glow), transparent 70%),
     var(--surface-2);
 }
 
@@ -613,8 +720,8 @@ player-picker {
   width: calc(var(--tile-size) * 15);
   height: calc(var(--tile-size) * 15);
   transform-origin: 0 0;
-  background: #cfc7ba;
-  box-shadow: 0 0 0 3px #b7ad9d;
+  background: var(--board-bg);
+  box-shadow: 0 0 0 3px var(--board-edge);
   user-select: none;
   transition: transform 180ms cubic-bezier(0.22, 1, 0.36, 1);
   will-change: transform;
@@ -633,14 +740,14 @@ player-picker {
 
 .cell {
   position: relative;
-  border: 1px solid rgba(255, 255, 255, 0.45);
-  background: #ded8ce;
+  border: 1px solid var(--cell-line);
+  background: var(--cell-bg);
   display: flex;
   align-items: center;
   justify-content: center;
   font-size: calc(var(--tile-size) * 0.18);
   font-weight: 800;
-  color: rgba(40, 35, 28, 0.55);
+  color: var(--cell-ink);
   overflow: hidden;
 }
 
@@ -667,12 +774,12 @@ player-picker {
 }
 
 .board .cell[data-bonus="none"] {
-  background: #d8d1c6;
+  background: var(--cell-none-bg);
 }
 
 .board .cell[data-bonus="start"] {
-  background: #2f2a24;
-  color: #fff4cf;
+  background: var(--start-bg);
+  color: var(--start-ink);
   font-size: calc(var(--tile-size) * 0.3);
 }
 
@@ -735,10 +842,10 @@ player-picker {
 .board .cell[data-bonus="tw"] { background: var(--bonus-tw); }
 .board .cell[data-bonus="dw"] { background: var(--bonus-dw); }
 .board .cell[data-bonus="tl"] { background: var(--bonus-tl); }
-.board .cell[data-bonus="dl"] { background: var(--bonus-dl); color: #3d372f; }
-.board .cell[data-bonus="dl"] { --bonus-text: #3d372f; }
-.board[data-language="de"] .cell[data-bonus="tl"] { color: #3d372f; }
-.board[data-language="es"] .cell[data-bonus="dw"] { color: #3d372f; }
+.board .cell[data-bonus="dl"] { background: var(--bonus-dl); color: var(--bonus-contrast-ink); }
+.board .cell[data-bonus="dl"] { --bonus-text: var(--bonus-contrast-ink); }
+.board[data-language="de"] .cell[data-bonus="tl"] { color: var(--bonus-contrast-ink); }
+.board[data-language="es"] .cell[data-bonus="dw"] { color: var(--bonus-contrast-ink); }
 
 .cell .placed {
   position: absolute;
@@ -752,7 +859,7 @@ player-picker {
   justify-content: center;
   font-size: calc(var(--tile-size) * 0.45);
   font-weight: 800;
-  box-shadow: inset 0 -2px 0 rgba(0, 0, 0, 0.08);
+  box-shadow: inset 0 -2px 0 var(--tile-inset-shadow);
 }
 
 .cell .placed small {
@@ -833,7 +940,7 @@ player-picker {
   background: var(--tile-bg);
   color: var(--tile-ink);
   border: 1px solid var(--tile-edge);
-  box-shadow: 0 2px 0 #c9b77d;
+  box-shadow: 0 2px 0 var(--tile-shadow);
   display: flex;
   align-items: center;
   justify-content: center;
@@ -861,7 +968,7 @@ player-picker {
 }
 
 .rack-tile[data-blank="true"] {
-  background: #efe9db;
+  background: var(--blank-bg);
   color: var(--ink-muted);
 }
 
@@ -875,7 +982,7 @@ player-picker {
   z-index: 1000;
   pointer-events: none;
   transform: translate(-50%, -50%);
-  box-shadow: 0 8px 18px rgba(0, 0, 0, 0.25);
+  box-shadow: 0 8px 18px var(--ghost-shadow);
 }
 
 .game-actions {
@@ -892,7 +999,7 @@ player-picker {
 
 .preview {
   font-weight: 700;
-  color: var(--accent-dark);
+  color: var(--accent-ink);
   min-width: 4rem;
   text-align: left;
 }
