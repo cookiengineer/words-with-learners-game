@@ -150,6 +150,43 @@ func TestSupplementWordsProvideHints(t *testing.T) {
 	}
 }
 
+func TestAlphabetLettersAreUsed(t *testing.T) {
+	root, err := fs.Sub(app.Files, "dictionaries")
+	if err != nil {
+		t.Fatal(err)
+	}
+	library, err := LoadLibrary(root)
+	if err != nil {
+		t.Fatal(err)
+	}
+	for _, language := range game.Languages {
+		a1, err := library.Get(language, game.LevelA1)
+		if err != nil {
+			t.Fatal(err)
+		}
+		used := make(map[string]bool)
+		for _, level := range game.Levels {
+			dict, err := library.Get(language, level)
+			if err != nil {
+				t.Fatal(err)
+			}
+			for _, entry := range dict.Entries() {
+				for _, letter := range entry.Word {
+					used[string(letter)] = true
+				}
+			}
+		}
+		for _, spec := range a1.Specs() {
+			if spec.Blank {
+				continue
+			}
+			if !used[spec.Letter] {
+				t.Errorf("%s alphabet declares unused letter %q", language, spec.Letter)
+			}
+		}
+	}
+}
+
 func TestLoadSupplementsRejectsDuplicates(t *testing.T) {
 	files := fstest.MapFS{
 		"nl/cities.json": &fstest.MapFile{Data: []byte(`{
