@@ -474,10 +474,27 @@ output {
   gap: 0.8rem;
 }
 
-.invite-message {
-  white-space: pre-wrap;
-  line-height: 1.55;
-  margin: 0.75rem 0 0;
+.invite-qr {
+  display: block;
+  width: 16rem;
+  max-width: 100%;
+  height: auto;
+  margin: 0.75rem auto;
+  border-radius: 8px;
+  background: #ffffff;
+  image-rendering: pixelated;
+}
+
+.invite-qr[hidden] {
+  display: none;
+}
+
+.invite-url {
+  margin: 0 0 0.75rem;
+  text-align: center;
+  font-family: ui-monospace, "SFMono-Regular", Consolas, "Liberation Mono", monospace;
+  overflow-wrap: anywhere;
+  user-select: all;
 }
 
 .copy-button {

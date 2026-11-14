@@ -144,6 +144,44 @@ function isLoopbackHost(host) {
     value.startsWith("127.");
 }
 
+const qrMargin = 4;
+const qrCellSize = 8;
+
+function renderQrPng(text) {
+  if (typeof globalThis.qrcode !== "function") {
+    throw new Error("QR code generator unavailable");
+  }
+  const qr = globalThis.qrcode(0, "M");
+  qr.addData(text);
+  qr.make();
+  const count = qr.getModuleCount();
+  const size = (count + qrMargin * 2) * qrCellSize;
+  const canvas = document.createElement("canvas");
+  canvas.width = size;
+  canvas.height = size;
+  const context = canvas.getContext("2d");
+  if (!context) {
+    throw new Error("Could not create QR code canvas");
+  }
+  context.fillStyle = "#ffffff";
+  context.fillRect(0, 0, size, size);
+  context.fillStyle = "#000000";
+  for (let row = 0; row < count; row += 1) {
+    for (let col = 0; col < count; col += 1) {
+      if (!qr.isDark(row, col)) {
+        continue;
+      }
+      context.fillRect(
+        (col + qrMargin) * qrCellSize,
+        (row + qrMargin) * qrCellSize,
+        qrCellSize,
+        qrCellSize,
+      );
+    }
+  }
+  return canvas.toDataURL("image/png");
+}
+
 async function copyText(text) {
   const bridge = globalThis.WWLAndroid;
   if (bridge && typeof bridge.copyText === "function") {
@@ -178,7 +216,8 @@ export class ShareInviteDialog {
   constructor({ getProfile }) {
     this.getProfile = getProfile;
     this.dialog = document.getElementById("share-invite-dialog");
-    this.messageNode = document.getElementById("share-invite-message");
+    this.qrNode = document.getElementById("share-invite-qr");
+    this.urlNode = document.getElementById("share-invite-url");
     this.note = document.getElementById("share-invite-note");
     this.copyButton = document.getElementById("share-invite-copy");
     this.message = "";
@@ -195,8 +234,18 @@ export class ShareInviteDialog {
   open() {
     const username = this.getProfile()?.username || "a player";
     const host = inviteHost();
-    this.message = `You've been invited by ${username} to play Words with Learners together.\n\nGo to http://${host} in your Web Browser to join!`;
-    this.messageNode.textContent = this.message;
+    const url = `http://${host}`;
+    this.message = `You've been invited by ${username} to play Words with Learners together.\n\nGo to ${url} in your Web Browser to join!`;
+    this.urlNode.textContent = url;
+    try {
+      this.qrNode.src = renderQrPng(url);
+      this.qrNode.alt = `QR code to join at ${url}`;
+      this.qrNode.hidden = false;
+    } catch (error) {
+      this.qrNode.removeAttribute("src");
+      this.qrNode.hidden = true;
+      toast(error.message || "Could not generate QR code");
+    }
     this.note.hidden = !isLoopbackHost(host);
     this.note.textContent = "No LAN address detected. Connect to Wi-Fi or Ethernet, or open this server through its network address, to invite friends.";
     if (!this.dialog.open) {

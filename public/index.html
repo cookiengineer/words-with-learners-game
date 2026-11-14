@@ -76,7 +76,8 @@
       <h2>Invite friends</h2>
       <button type="button" class="icon" data-close-share-invite aria-label="Close">×</button>
     </header>
-    <p id="share-invite-message" class="invite-message"></p>
+    <img id="share-invite-qr" class="invite-qr" alt="" width="296" height="296">
+    <p id="share-invite-url" class="invite-url"></p>
     <p id="share-invite-note" class="muted" hidden></p>
     <footer>
       <button type="button" id="share-invite-copy" class="icon copy-button" aria-label="Copy to clipboard" title="Copy to clipboard">
@@ -213,6 +214,7 @@
     </section>
   </template>
 
+  <script src="/js/vendor/qrcode.js"></script>
   <script type="module" src="/js/app.js"></script>
 </body>
 </html>
