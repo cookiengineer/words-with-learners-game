@@ -124,6 +124,96 @@ export class InviteDialog {
   }
 }
 
+function inviteHost() {
+  const advertised = globalThis.WWL_ADVERTISE;
+  if (typeof advertised === "string") {
+    const value = advertised.trim().replace(/^https?:\/\//i, "").replace(/\/+$/, "");
+    if (value) {
+      return value;
+    }
+  }
+  return location.host;
+}
+
+function isLoopbackHost(host) {
+  const value = host.toLowerCase();
+  return value === "localhost" ||
+    value.startsWith("localhost:") ||
+    value === "[::1]" ||
+    value.startsWith("[::1]:") ||
+    value.startsWith("127.");
+}
+
+async function copyText(text) {
+  const bridge = globalThis.WWLAndroid;
+  if (bridge && typeof bridge.copyText === "function") {
+    bridge.copyText(text);
+    return;
+  }
+  if (navigator.clipboard?.writeText) {
+    try {
+      await navigator.clipboard.writeText(text);
+      return;
+    } catch {
+      console.debug("Clipboard API unavailable");
+    }
+  }
+  const area = document.createElement("textarea");
+  area.value = text;
+  area.setAttribute("readonly", "");
+  area.style.position = "fixed";
+  area.style.top = "-1000px";
+  area.style.opacity = "0";
+  document.body.append(area);
+  area.select();
+  area.setSelectionRange(0, text.length);
+  const copied = document.execCommand("copy");
+  area.remove();
+  if (!copied) {
+    throw new Error("Could not copy invite message");
+  }
+}
+
+export class ShareInviteDialog {
+  constructor({ getProfile }) {
+    this.getProfile = getProfile;
+    this.dialog = document.getElementById("share-invite-dialog");
+    this.messageNode = document.getElementById("share-invite-message");
+    this.note = document.getElementById("share-invite-note");
+    this.copyButton = document.getElementById("share-invite-copy");
+    this.message = "";
+    this.bind();
+  }
+
+  bind() {
+    for (const button of this.dialog.querySelectorAll("[data-close-share-invite]")) {
+      button.addEventListener("click", () => this.dialog.close());
+    }
+    this.copyButton.addEventListener("click", () => this.copy());
+  }
+
+  open() {
+    const username = this.getProfile()?.username || "a player";
+    const host = inviteHost();
+    this.message = `You've been invited by ${username} to play Words with Learners together.\n\nGo to http://${host} in your Web Browser to join!`;
+    this.messageNode.textContent = this.message;
+    this.note.hidden = !isLoopbackHost(host);
+    this.note.textContent = "No LAN address detected. Connect to Wi-Fi or Ethernet, or open this server through its network address, to invite friends.";
+    if (!this.dialog.open) {
+      this.dialog.showModal();
+    }
+  }
+
+  async copy() {
+    try {
+      await copyText(this.message);
+      toast("Invite message copied");
+    } catch (error) {
+      toast(error.message || "Could not copy invite message");
+    }
+  }
+}
+
 export class PlayersDialog {
   constructor({ onInvite }) {
     this.onInvite = onInvite;

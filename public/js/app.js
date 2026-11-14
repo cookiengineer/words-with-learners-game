@@ -4,7 +4,7 @@ import { clear, toast } from "./ui.js";
 import { AuthView } from "./views/auth.js";
 import { OverviewView } from "./views/overview.js";
 import { GameView } from "./views/game.js";
-import { InviteDialog, PlayersDialog } from "./views/dialogs.js";
+import { InviteDialog, PlayersDialog, ShareInviteDialog } from "./views/dialogs.js";
 import "./components/player-picker.js";
 
 const app = document.getElementById("app");
@@ -23,6 +23,9 @@ const context = {
   },
   openPlayers() {
     playersDialog.open();
+  },
+  openShareInvite() {
+    shareInviteDialog.open();
   },
   openGame(gameId) {
     location.hash = `#/game/${gameId}`;
@@ -45,6 +48,12 @@ const playersDialog = new PlayersDialog({
   },
 });
 
+const shareInviteDialog = new ShareInviteDialog({
+  getProfile() {
+    return state.profile;
+  },
+});
+
 async function onLogout() {
   try {
     await api.logout();
@@ -55,6 +64,7 @@ async function onLogout() {
   state.profile = null;
   inviteDialog.dialog.close();
   playersDialog.dialog.close();
+  shareInviteDialog.dialog.close();
   location.hash = "#/auth";
   route();
 }

@@ -367,6 +367,22 @@ output {
   gap: 0.8rem;
 }
 
+.invite-message {
+  white-space: pre-wrap;
+  line-height: 1.55;
+  margin: 0.75rem 0 0;
+}
+
+.copy-button {
+  margin-right: auto;
+}
+
+.copy-button svg {
+  width: 1.25rem;
+  height: 1.25rem;
+  display: block;
+}
+
 .settings {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(12rem, 1fr));

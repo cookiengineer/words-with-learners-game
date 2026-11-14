@@ -71,6 +71,24 @@
     </form>
   </dialog>
 
+  <dialog id="share-invite-dialog" class="dialog">
+    <header>
+      <h2>Invite friends</h2>
+      <button type="button" class="icon" data-close-share-invite aria-label="Close">×</button>
+    </header>
+    <p id="share-invite-message" class="invite-message"></p>
+    <p id="share-invite-note" class="muted" hidden></p>
+    <footer>
+      <button type="button" id="share-invite-copy" class="icon copy-button" aria-label="Copy to clipboard" title="Copy to clipboard">
+        <svg viewBox="0 0 24 24" aria-hidden="true" focusable="false">
+          <rect x="9" y="9" width="11" height="11" rx="2" fill="none" stroke="currentColor" stroke-width="2"/>
+          <path d="M5 15V6a2 2 0 0 1 2-2h8" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"/>
+        </svg>
+      </button>
+      <button type="button" data-close-share-invite>Close</button>
+    </footer>
+  </dialog>
+
   <dialog id="players-dialog" class="dialog">
     <header>
       <h2>Players</h2>
@@ -138,6 +156,7 @@
         </div>
         <div class="overview-actions">
           <button type="button" id="open-players">Players</button>
+          <button type="button" id="open-share-invite">Invite</button>
           <button type="button" class="primary" id="open-invite">Create game</button>
           <button type="button" id="logout">Log out</button>
         </div>
