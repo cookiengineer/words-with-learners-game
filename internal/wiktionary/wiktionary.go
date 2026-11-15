@@ -299,7 +299,7 @@ func extractList(list *html.Node) string {
 	if len(definitions) == 0 {
 		return ""
 	}
-	return truncate(strings.Join(definitions, "; "), maxHintLength)
+	return NormalizeHint(truncate(strings.Join(definitions, "; "), maxHintLength))
 }
 
 func textContent(node *html.Node) string {
@@ -375,7 +375,7 @@ func cleanDefinition(text string) string {
 	}
 	text = strings.TrimSpace(text)
 	text = strings.Trim(text, " :;,-–—")
-	return text
+	return stripClarifications(text)
 }
 
 func usefulDefinition(text string) bool {
@@ -386,6 +386,7 @@ func usefulDefinition(text string) bool {
 	for _, prefix := range []string{
 		"alternative forms", "see also", "synonyms", "antonyms", "references",
 		"further reading", "anagrams", "quotations", "descendants",
+		"this term needs", "please help out and add", "then remove the text",
 	} {
 		if strings.HasPrefix(lower, prefix) {
 			return false

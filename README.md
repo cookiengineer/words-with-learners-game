@@ -131,6 +131,15 @@ go run ./cmd/dictimport \
   -dictionaries dictionaries
 ```
 
+Existing hints can be cleaned without re-running the importer:
+
+```sh
+go run ./cmd/dictclean -dry-run
+go run ./cmd/dictclean
+```
+
+The cleanup trims definitions that were cut off, removes Wiktionary maintenance notes and clarification markers, and reports entries that still need a hand-written hint.
+
 CSV input accepts both `word,hint` rows and the Lingvoberry `rank,word,cefr` format. JSON input with a `words` array is also accepted. Words with unknown letters, punctuation, or a length outside 2–15 are skipped and listed in the report. Words without a Wiktionary definition remain playable and use the game's generic length hint.
 
 The word lists are from [Lingvoberry](https://lingvoberry.com/) and are licensed under CC BY-SA 4.0. Hints are derived from English Wiktionary content, licensed under CC BY-SA.

@@ -77,7 +77,7 @@
     },
     {
       "word": "АДРЕСА",
-      "hint": "address (a description of the location of a property, usually with at least a street name and number, name of a town, and now also a postal code; such a description as"
+      "hint": "address"
     },
     {
       "word": "АДРЕСУ",
@@ -1573,7 +1573,7 @@
     },
     {
       "word": "ВЫСТРЕЛ",
-      "hint": "shot, gunshot (launching or firing of a projectile; the sound of the firing; the distance that a projectile would fly) (verbal noun of вы́стрелить (výstrelitʹ) (nomen"
+      "hint": "shot, gunshot (launching or firing of a projectile; the sound of the firing; the distance that a projectile would fly)"
     },
     {
       "word": "ВЫСТРЕЛИЛ",
@@ -3473,7 +3473,7 @@
     },
     {
       "word": "ИЗБЕГАТЬ",
-      "hint": "to avoid, to refrain from [with genitive ‘something’ or infinitive ‘doing something’]; to keep off, to steer clear of, to shun, to evade, to elude [with genitive"
+      "hint": "to avoid, to refrain from [with genitive ‘something’ or infinitive ‘doing something’]; to keep off, to steer clear of, to shun, to evade"
     },
     {
       "word": "ИЗВЕСТЕН",
@@ -4797,11 +4797,11 @@
     },
     {
       "word": "МАТЕРИАЛА",
-      "hint": "material (matter from which physical things are made or which is otherwise used to create such things); material (something, as data or an idea, that may be reworked into a new"
+      "hint": "material (matter from which physical things are made or which is otherwise used to create such things); material"
     },
     {
       "word": "МАТЕРИАЛОВ",
-      "hint": "material (matter from which physical things are made or which is otherwise used to create such things); material (something, as data or an idea, that may be reworked into a new"
+      "hint": "material (matter from which physical things are made or which is otherwise used to create such things); material"
     },
     {
       "word": "МАТЧА",
@@ -6905,7 +6905,7 @@
     },
     {
       "word": "ПЕРЕВЕСТИ",
-      "hint": "to lead, to convey, to transfer, to move, to shift, to transmit, to switch; to translate, to interpret [with с (s, + genitive) ‘from a language’ and на (na, + accusative) ‘into a"
+      "hint": "to lead, to convey, to transfer, to move, to shift, to transmit, to switch; to translate"
     },
     {
       "word": "ПЕРЕВОДА",
@@ -6953,7 +6953,7 @@
     },
     {
       "word": "ПЕРЕМЕНЫ",
-      "hint": "a qualitative change, shift, alternation, changeover (brought about either from within or from without); a recess (a break, intermission between lessons for rest or play,"
+      "hint": "a qualitative change, shift, alternation, changeover (brought about either from within or from without); a recess"
     },
     {
       "word": "ПЕРЕНЕСТИ",
@@ -7421,11 +7421,11 @@
     },
     {
       "word": "ПОДРАЗДЕЛЕНИЕ",
-      "hint": "subdivision, sub-unit (refers to subordinate units such as the battalions, companies or platoons of a rifle regiment, or the battalions or batteries of an artillery regiment,"
+      "hint": "subdivision"
     },
     {
       "word": "ПОДРАЗДЕЛЕНИЯ",
-      "hint": "subdivision, sub-unit (refers to subordinate units such as the battalions, companies or platoons of a rifle regiment, or the battalions or batteries of an artillery regiment,"
+      "hint": "subdivision"
     },
     {
       "word": "ПОДРОСТКОВ",
@@ -10097,7 +10097,7 @@
     },
     {
       "word": "СЛЕДОВАТЬ",
-      "hint": "to follow (move continually behind someone or something) [with за (za, + instrumental) ‘behind whom/what’]; to follow (in sequence), to be next [with за (za, + instrumental)"
+      "hint": "to follow (move continually behind someone or something) [with за (za, + instrumental) ‘behind whom/what’]; to follow (in sequence)"
     },
     {
       "word": "СЛЕДСТВИЕ",
@@ -10657,7 +10657,7 @@
     },
     {
       "word": "СПИСКА",
-      "hint": "list, register, roll (register or roll of paper consisting of an enumeration or compilation of a set of possible items); handwritten or handpainted copy (especially of a"
+      "hint": "list, register, roll (register or roll of paper consisting of an enumeration or compilation of a set of possible items); handwritten or handpainted copy"
     },
     {
       "word": "СПИШЬ",
@@ -10721,7 +10721,7 @@
     },
     {
       "word": "СПРАШИВАТЬ",
-      "hint": "to ask (to ask a question of) [with accusative or у (u, + genitive) ‘someone’, along with о (o, + prepositional) ‘about something’ or indirect question]; to ask for, to request,"
+      "hint": "to ask (to ask a question of) [with accusative or у (u, + genitive) ‘someone’, along with о (o, + prepositional) ‘about something’ or indirect question]; to ask for, to request"
     },
     {
       "word": "СПРАШИВАЮ",
@@ -10741,7 +10741,7 @@
     },
     {
       "word": "СПРОСИТЕ",
-      "hint": "to ask (to ask a question of) [with accusative or у (u, + genitive) ‘someone’, along with о (o, + prepositional) ‘about something’ or indirect question]; to ask for, to request,"
+      "hint": "to ask (to ask a question of) [with accusative or у (u, + genitive) ‘someone’, along with о (o, + prepositional) ‘about something’ or indirect question]; to ask for, to request"
     },
     {
       "word": "СПУТНИК",
@@ -11149,11 +11149,11 @@
     },
     {
       "word": "СХЕМА",
-      "hint": "scheme, schema, arrangement, layout, outline, framework (combination of components and the relationships between them, or a visual or verbal explanation of this); diagram, chart,"
+      "hint": "scheme, schema, arrangement, layout, outline, framework (combination of components and the relationships between them, or a visual or verbal explanation of this); diagram, chart"
     },
     {
       "word": "СХЕМЫ",
-      "hint": "scheme, schema, arrangement, layout, outline, framework (combination of components and the relationships between them, or a visual or verbal explanation of this); diagram, chart,"
+      "hint": "scheme, schema, arrangement, layout, outline, framework (combination of components and the relationships between them, or a visual or verbal explanation of this); diagram, chart"
     },
     {
       "word": "СХОЖУ",
@@ -11253,7 +11253,7 @@
     },
     {
       "word": "ТАКОВ",
-      "hint": "like that, like this (sometimes translated as simply \"that\"/\"those\"\" or \"this\"/\"these\"); ) such (in such a way that the following clause is true)"
+      "hint": "like that, like this (sometimes translated as simply \"that\"/\"those\"\" or \"this\"/\"these\");) such (in such a way that the following clause is true)"
     },
     {
       "word": "ТАКОВА",
@@ -12129,7 +12129,7 @@
     },
     {
       "word": "УЧИТЬ",
-      "hint": "to teach, to instruct (often not in an academic setting) [with accusative ‘someone’, along with dative ‘a skill, principle, etc.’ or infinitive ‘to do something’; or intransitive"
+      "hint": "to teach, to instruct (often not in an academic setting)"
     },
     {
       "word": "УШЛО",

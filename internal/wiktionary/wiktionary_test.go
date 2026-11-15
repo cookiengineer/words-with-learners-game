@@ -38,6 +38,19 @@ func TestExtractHintReturnsEmptyWithoutLanguage(t *testing.T) {
 	}
 }
 
+func TestExtractHintSkipsMaintenanceDefinitions(t *testing.T) {
+	raw := []byte(`<html><body>
+<div><h2 id="English">English</h2><ol>
+<li>sheriff (clarification of this definition is needed)</li>
+<li>This term needs a definition. Please help out and add a definition, then remove the text {{rfdef}}.</li>
+</ol></div>
+</body></html>`)
+	hint := ExtractHint(raw, "English")
+	if hint != "sheriff" {
+		t.Fatalf("unexpected hint: %q", hint)
+	}
+}
+
 func TestTitleVariants(t *testing.T) {
 	variants := titleVariants("haus")
 	expected := map[string]bool{"haus": true, "Haus": true, "HAUS": true}
